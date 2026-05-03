@@ -813,12 +813,18 @@ async function loadPlaces() {
   listView.classList.add('hidden');
   mapView.classList.add('hidden');
 
-  // 1. Show seed data immediately (with distances from currentLoc)
-  places = SEED_PLACES.map(p => ({
+  // 1. Show seed + swept data immediately (with distances from currentLoc)
+  const allBase = typeof SWEPT_PLACES !== 'undefined'
+    ? [...SEED_PLACES, ...SWEPT_PLACES.filter(s =>
+        !SEED_PLACES.some(seed => seed.name.toLowerCase() === s.name.toLowerCase())
+      )]
+    : SEED_PLACES;
+  places = allBase.map(p => ({
     ...p,
     dist: Math.round(
       distanceMiles(currentLoc.lat, currentLoc.lng, p.lat, p.lng) * 10
-    ) / 10
+    ) / 10,
+    score: tasteScore(p.tags)
   }));
   loading.classList.add('hidden');
   listView.classList.remove('hidden');
