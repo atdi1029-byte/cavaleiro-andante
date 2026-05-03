@@ -5337,5 +5337,11722 @@ const SWEPT_PLACES = [
     "osmType": "relation",
     "osmId": 20581417,
     "score": 0
+  },
+  {
+    "id": "sw:chestnuthill",
+    "name": "Chestnut Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.29544,
+    "lng": -76.79643,
+    "dist": 19.3,
+    "description": "Elevation: 169m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241495,
+    "score": 0
+  },
+  {
+    "id": "sw:lawyershill",
+    "name": "Lawyers Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.21538,
+    "lng": -76.72775,
+    "dist": 12.9,
+    "description": "Elevation: 81m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241555,
+    "score": 0
+  },
+  {
+    "id": "sw:federalhill",
+    "name": "Federal Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.27986,
+    "lng": -76.60873,
+    "dist": 12.8,
+    "description": "Elevation: 13m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248352,
+    "score": 0
+  },
+  {
+    "id": "sw:valleyoverlook",
+    "name": "Valley Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.2937,
+    "lng": -76.78516,
+    "dist": 18.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 920738093,
+    "score": 0
+  },
+  {
+    "id": "sw:luskinshill",
+    "name": "Luskins Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.40033,
+    "lng": -76.56726,
+    "dist": 20.6,
+    "description": "Elevation: 144m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 986709269,
+    "score": 0
+  },
+  {
+    "id": "sw:puttyhill",
+    "name": "Putty Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.3775,
+    "lng": -76.51178,
+    "dist": 19.0,
+    "description": "Elevation: 98m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 986759305,
+    "score": 0
+  },
+  {
+    "id": "sw:germanhill",
+    "name": "German Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.27922,
+    "lng": -76.51658,
+    "dist": 12.2,
+    "description": "Elevation: 45m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1055491850,
+    "score": 0
+  },
+  {
+    "id": "sw:mapatrestle",
+    "name": "Ma & Pa Trestle",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.43078,
+    "lng": -76.52154,
+    "dist": 22.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1120079334,
+    "score": 0
+  },
+  {
+    "id": "sw:cascadefalls",
+    "name": "Cascade Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.23958,
+    "lng": -76.75178,
+    "dist": 15.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1352874124,
+    "score": 0
+  },
+  {
+    "id": "sw:ilchesterrocks",
+    "name": "Ilchester Rocks",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25059,
+    "lng": -76.76271,
+    "dist": 15.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1766745166,
+    "score": 0
+  },
+  {
+    "id": "sw:bloedesdamviewpoint",
+    "name": "Bloedes Dam Viewpoint",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.24759,
+    "lng": -76.75471,
+    "dist": 15.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1766807018,
+    "score": 0
+  },
+  {
+    "id": "sw:avalondam",
+    "name": "Avalon Dam",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.22899,
+    "lng": -76.72902,
+    "dist": 13.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1778441191,
+    "score": 0
+  },
+  {
+    "id": "sw:ninemilehill",
+    "name": "Nine Mile Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.35402,
+    "lng": -76.45795,
+    "dist": 17.8,
+    "description": "Elevation: 36m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2020270035,
+    "score": 0
+  },
+  {
+    "id": "sw:roundfalls",
+    "name": "Round Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.32095,
+    "lng": -76.63004,
+    "dist": 15.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3889709493,
+    "score": 0
+  },
+  {
+    "id": "sw:bigrocks",
+    "name": "Big Rocks",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.39456,
+    "lng": -76.44649,
+    "dist": 20.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4188172277,
+    "score": 0
+  },
+  {
+    "id": "sw:tankhill",
+    "name": "Tank Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.26466,
+    "lng": -76.53381,
+    "dist": 11.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4346075691,
+    "score": 0
+  },
+  {
+    "id": "sw:scenicoverlook",
+    "name": "Scenic Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.42707,
+    "lng": -76.55438,
+    "dist": 22.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4542199747,
+    "score": 0
+  },
+  {
+    "id": "sw:lochravendam",
+    "name": "Loch Raven Dam",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.4303,
+    "lng": -76.54225,
+    "dist": 22.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4769866616,
+    "score": 0
+  },
+  {
+    "id": "sw:tomshill",
+    "name": "Tom's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45014,
+    "lng": -76.54015,
+    "dist": 23.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4769900721,
+    "score": 0
+  },
+  {
+    "id": "sw:hughshill",
+    "name": "Hugh's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.44833,
+    "lng": -76.53844,
+    "dist": 23.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4769900722,
+    "score": 0
+  },
+  {
+    "id": "sw:prospecthill",
+    "name": "Prospect Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.3298,
+    "lng": -76.6455,
+    "dist": 16.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5928354905,
+    "score": 0
+  },
+  {
+    "id": "sw:quarryoverlook",
+    "name": "Quarry Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.38667,
+    "lng": -76.65837,
+    "dist": 20.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7147566493,
+    "score": 0
+  },
+  {
+    "id": "sw:abandonedquarry",
+    "name": "Abandoned Quarry",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.38688,
+    "lng": -76.65863,
+    "dist": 20.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7147566683,
+    "score": 0
+  },
+  {
+    "id": "sw:rockburnbend",
+    "name": "Rockburn Bend",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.21887,
+    "lng": -76.74751,
+    "dist": 13.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7246583117,
+    "score": 0
+  },
+  {
+    "id": "sw:bendhill",
+    "name": "Bend Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.33941,
+    "lng": -76.64913,
+    "dist": 17.4,
+    "description": "Elevation: 65m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7601363021,
+    "score": 0
+  },
+  {
+    "id": "sw:doublerockwaterfall",
+    "name": "Double Rock Waterfall",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.37032,
+    "lng": -76.52679,
+    "dist": 18.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7830273961,
+    "score": 0
+  },
+  {
+    "id": "sw:patapscoriverbridge3",
+    "name": "Patapsco River Bridge #3109",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.29459,
+    "lng": -76.77871,
+    "dist": 18.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8413560605,
+    "score": 0
+  },
+  {
+    "id": "sw:formeraltar",
+    "name": "Former Altar",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25086,
+    "lng": -76.76743,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8550946117,
+    "score": 0
+  },
+  {
+    "id": "sw:frictionwalloverlook",
+    "name": "Friction Wall Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.26408,
+    "lng": -76.79188,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8550946184,
+    "score": 0
+  },
+  {
+    "id": "sw:ilchestertunnel",
+    "name": "Ilchester Tunnel",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.24878,
+    "lng": -76.75897,
+    "dist": 15.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8994332455,
+    "score": 0
+  },
+  {
+    "id": "sw:gnomevillage",
+    "name": "Gnome Village",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.26082,
+    "lng": -76.76399,
+    "dist": 16.4,
+    "description": "A statue featuring gnomish figurines",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8994332546,
+    "score": 0
+  },
+  {
+    "id": "sw:abandonedcars",
+    "name": "Abandoned Cars",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.33968,
+    "lng": -76.76598,
+    "dist": 20.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9392281584,
+    "score": 0
+  },
+  {
+    "id": "sw:ivyhill",
+    "name": "Ivy Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45915,
+    "lng": -76.67393,
+    "dist": 25.7,
+    "description": "Elevation: 200m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9809648266,
+    "score": 0
+  },
+  {
+    "id": "sw:elephantoverlook",
+    "name": "Elephant Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.32374,
+    "lng": -76.64116,
+    "dist": 16.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9988520613,
+    "score": 0
+  },
+  {
+    "id": "sw:midridge",
+    "name": "Midridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45025,
+    "lng": -76.61866,
+    "dist": 24.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10205757927,
+    "score": 0
+  },
+  {
+    "id": "sw:westridge",
+    "name": "Westridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45017,
+    "lng": -76.62426,
+    "dist": 24.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10205757928,
+    "score": 0
+  },
+  {
+    "id": "sw:rappesoverlook",
+    "name": "Rappe's Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.19129,
+    "lng": -76.69542,
+    "dist": 10.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10589176873,
+    "score": 0
+  },
+  {
+    "id": "sw:oldtransmissiontower",
+    "name": "Old Transmission Tower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.39522,
+    "lng": -76.66521,
+    "dist": 21.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10830393291,
+    "score": 0
+  },
+  {
+    "id": "sw:lochmoorcommon",
+    "name": "Lochmoor Common",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.41948,
+    "lng": -76.65726,
+    "dist": 22.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10873094053,
+    "score": 0
+  },
+  {
+    "id": "sw:shrineoverlook",
+    "name": "Shrine Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25149,
+    "lng": -76.76857,
+    "dist": 16.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11929083058,
+    "score": 0
+  },
+  {
+    "id": "sw:stmarysoverlook",
+    "name": "St. Mary's Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25111,
+    "lng": -76.76615,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12015881879,
+    "score": 0
+  },
+  {
+    "id": "sw:grottooverlook",
+    "name": "Grotto Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25055,
+    "lng": -76.76817,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12015891537,
+    "score": 0
+  },
+  {
+    "id": "sw:satyrhill",
+    "name": "Satyr Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.40486,
+    "lng": -76.5436,
+    "dist": 20.8,
+    "description": "Elevation: 151m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12097399926,
+    "score": 0
+  },
+  {
+    "id": "sw:chapelhill",
+    "name": "Chapel Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.40251,
+    "lng": -76.43651,
+    "dist": 21.3,
+    "description": "Elevation: 78m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12097569301,
+    "score": 0
+  },
+  {
+    "id": "sw:abellridge",
+    "name": "Abell Ridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.41171,
+    "lng": -76.63269,
+    "dist": 21.9,
+    "description": "Elevation: 155m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12097591202,
+    "score": 0
+  },
+  {
+    "id": "sw:cubhill",
+    "name": "Cub Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.41269,
+    "lng": -76.52109,
+    "dist": 21.4,
+    "description": "Elevation: 147m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12097596315,
+    "score": 0
+  },
+  {
+    "id": "sw:doublerockpark",
+    "name": "Double Rock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3698,
+    "lng": -76.52301,
+    "dist": 18.4,
+    "description": "Elevation: 61m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31119359,
+    "score": 0
+  },
+  {
+    "id": "sw:holtpark",
+    "name": "Holt Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35218,
+    "lng": -76.51565,
+    "dist": 17.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31119420,
+    "score": 0
+  },
+  {
+    "id": "sw:linoverpark",
+    "name": "Linover Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36014,
+    "lng": -76.50795,
+    "dist": 17.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31119479,
+    "score": 0
+  },
+  {
+    "id": "sw:puttyhillpark",
+    "name": "Putty Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38985,
+    "lng": -76.54902,
+    "dist": 19.8,
+    "description": "Elevation: 109m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31217212,
+    "score": 0
+  },
+  {
+    "id": "sw:harfordpark",
+    "name": "Harford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37435,
+    "lng": -76.5562,
+    "dist": 18.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31535499,
+    "score": 0
+  },
+  {
+    "id": "sw:keyesfield",
+    "name": "Keyes Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36752,
+    "lng": -76.53828,
+    "dist": 18.2,
+    "description": "Elevation: 97m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32426907,
+    "score": 0
+  },
+  {
+    "id": "sw:odonnellsquarepark",
+    "name": "O'Donnell Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28022,
+    "lng": -76.57471,
+    "dist": 12.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45091349,
+    "score": 0
+  },
+  {
+    "id": "sw:lafayettesquare",
+    "name": "Lafayette Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29852,
+    "lng": -76.63654,
+    "dist": 14.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49320694,
+    "score": 0
+  },
+  {
+    "id": "sw:harlempark",
+    "name": "Harlem Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29608,
+    "lng": -76.64138,
+    "dist": 14.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49320695,
+    "score": 0
+  },
+  {
+    "id": "sw:uptonpark",
+    "name": "Upton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30609,
+    "lng": -76.63802,
+    "dist": 15.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49320697,
+    "score": 0
+  },
+  {
+    "id": "sw:wilsonpointpark",
+    "name": "Wilson Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32246,
+    "lng": -76.42478,
+    "dist": 16.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49715752,
+    "score": 0
+  },
+  {
+    "id": "sw:burdickpark",
+    "name": "Burdick Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35507,
+    "lng": -76.54318,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 51529143,
+    "score": 0
+  },
+  {
+    "id": "sw:renaissancepark",
+    "name": "Renaissance Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31888,
+    "lng": -76.45135,
+    "dist": 15.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 52513854,
+    "score": 0
+  },
+  {
+    "id": "sw:easternwaterfrontpar",
+    "name": "Eastern Waterfront Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32611,
+    "lng": -76.44407,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 52514206,
+    "score": 0
+  },
+  {
+    "id": "sw:martindalepark",
+    "name": "Martindale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30574,
+    "lng": -76.45469,
+    "dist": 14.6,
+    "description": "Elevation: 3m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 52514834,
+    "score": 0
+  },
+  {
+    "id": "sw:perryhallpark",
+    "name": "Perry Hall Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41279,
+    "lng": -76.45081,
+    "dist": 21.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 55045774,
+    "score": 0
+  },
+  {
+    "id": "sw:northmountvernonplac",
+    "name": "North Mount Vernon Place",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29818,
+    "lng": -76.6157,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 55349640,
+    "score": 0
+  },
+  {
+    "id": "sw:southmountvernonplac",
+    "name": "South Mount Vernon Place",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29683,
+    "lng": -76.61562,
+    "dist": 14.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 55349643,
+    "score": 0
+  },
+  {
+    "id": "sw:eastmountvernonplace",
+    "name": "East Mount Vernon Place",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29757,
+    "lng": -76.61472,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 55349645,
+    "score": 0
+  },
+  {
+    "id": "sw:westmountvernonplace",
+    "name": "West Mount Vernon Place",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2975,
+    "lng": -76.61649,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 55441431,
+    "score": 0
+  },
+  {
+    "id": "sw:veteranspark",
+    "name": "Veteran's Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25676,
+    "lng": -76.52293,
+    "dist": 10.6,
+    "description": "Elevation: 13m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 59525445,
+    "score": 0
+  },
+  {
+    "id": "sw:dundalkheritagepark",
+    "name": "Dundalk Heritage Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2583,
+    "lng": -76.5206,
+    "dist": 10.7,
+    "description": "Elevation: 12m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 59525447,
+    "score": 0
+  },
+  {
+    "id": "sw:cancersurvivorspark",
+    "name": "Cancer Survivors Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40347,
+    "lng": -76.59614,
+    "dist": 21.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 60180012,
+    "score": 0
+  },
+  {
+    "id": "sw:mckeldinsquare",
+    "name": "McKeldin Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28556,
+    "lng": -76.61284,
+    "dist": 13.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68624603,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeypointpark",
+    "name": "Turkey Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29744,
+    "lng": -76.40452,
+    "dist": 15.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 69200544,
+    "score": 0
+  },
+  {
+    "id": "sw:johnstonsquare",
+    "name": "Johnston Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30332,
+    "lng": -76.60574,
+    "dist": 14.3,
+    "description": "Elevation: 32m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 69489464,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonmonument",
+    "name": "Washington Monument",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29753,
+    "lng": -76.61566,
+    "dist": 14.1,
+    "description": "Elevation: 25m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 71694392,
+    "score": 0
+  },
+  {
+    "id": "sw:collingtonsquare",
+    "name": "Collington Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30619,
+    "lng": -76.58695,
+    "dist": 14.3,
+    "description": "Elevation: 38m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 71698840,
+    "score": 0
+  },
+  {
+    "id": "sw:thelakes",
+    "name": "The Lakes",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35808,
+    "lng": -76.61737,
+    "dist": 18.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 72505999,
+    "score": 0
+  },
+  {
+    "id": "sw:parkavenuemedianpark",
+    "name": "Park Avenue Median Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30924,
+    "lng": -76.62693,
+    "dist": 15.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 72838180,
+    "score": 0
+  },
+  {
+    "id": "sw:harborviewpark",
+    "name": "Harbor View Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28587,
+    "lng": -76.52296,
+    "dist": 12.6,
+    "description": "Elevation: 37m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 75091908,
+    "score": 0
+  },
+  {
+    "id": "sw:mosherfranklintownro",
+    "name": "Mosher, Franklintown & Rosedale",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29889,
+    "lng": -76.66789,
+    "dist": 15.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 75608958,
+    "score": 0
+  },
+  {
+    "id": "sw:deweespark",
+    "name": "Dewees Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35682,
+    "lng": -76.60355,
+    "dist": 17.9,
+    "description": "Elevation: 111m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 79235072,
+    "score": 0
+  },
+  {
+    "id": "sw:chinquapinrunpark",
+    "name": "Chinquapin Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35151,
+    "lng": -76.59003,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 79587176,
+    "score": 0
+  },
+  {
+    "id": "sw:madisonsquare",
+    "name": "Madison Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30238,
+    "lng": -76.59864,
+    "dist": 14.2,
+    "description": "Elevation: 27m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 80318086,
+    "score": 0
+  },
+  {
+    "id": "sw:battleacrepark",
+    "name": "Battle Acre Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.27742,
+    "lng": -76.48476,
+    "dist": 12.3,
+    "description": "Battle Acre Park is a one-acre site dedicated in 1839 to commemorate those who fought in the Battle of North Point on September 12, 1814. · Historic: battlefield",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 82222784,
+    "score": 0
+  },
+  {
+    "id": "sw:northpointstatebattl",
+    "name": "North Point State Battlefield Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27935,
+    "lng": -76.48673,
+    "dist": 12.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 82223840,
+    "score": 0
+  },
+  {
+    "id": "sw:saintcasimirspark",
+    "name": "Saint Casimir's Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27944,
+    "lng": -76.57779,
+    "dist": 12.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 82422915,
+    "score": 0
+  },
+  {
+    "id": "sw:easternregionalpark",
+    "name": "Eastern Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3436,
+    "lng": -76.38851,
+    "dist": 18.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83058172,
+    "score": 0
+  },
+  {
+    "id": "sw:coxspointpark",
+    "name": "Cox's Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29519,
+    "lng": -76.46542,
+    "dist": 13.7,
+    "description": "Elevation: 0m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83133856,
+    "score": 0
+  },
+  {
+    "id": "sw:colgaterecreationala",
+    "name": "Colgate Recreational Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29758,
+    "lng": -76.52054,
+    "dist": 13.4,
+    "description": "Elevation: 26m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83530860,
+    "score": 0
+  },
+  {
+    "id": "sw:federalhillpark",
+    "name": "Federal Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27943,
+    "lng": -76.60845,
+    "dist": 12.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83580878,
+    "score": 0
+  },
+  {
+    "id": "sw:stansburypark",
+    "name": "Stansbury Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26005,
+    "lng": -76.50182,
+    "dist": 10.9,
+    "description": "Elevation: 6m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83585893,
+    "score": 0
+  },
+  {
+    "id": "sw:chesterwoodpark",
+    "name": "Chesterwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25163,
+    "lng": -76.50029,
+    "dist": 10.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83585900,
+    "score": 0
+  },
+  {
+    "id": "sw:bannekercommunitycen",
+    "name": "Banneker Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28215,
+    "lng": -76.73947,
+    "dist": 16.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83755394,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgeleighpark",
+    "name": "Ridgeleigh Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3958,
+    "lng": -76.55707,
+    "dist": 20.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 84972505,
+    "score": 0
+  },
+  {
+    "id": "sw:unionsquare",
+    "name": "Union Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28691,
+    "lng": -76.6416,
+    "dist": 13.9,
+    "description": "Elevation: 30m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 85585339,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinsquare",
+    "name": "Franklin Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29029,
+    "lng": -76.63894,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 85585348,
+    "score": 0
+  },
+  {
+    "id": "sw:josepheleepark",
+    "name": "Joseph E. Lee Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29246,
+    "lng": -76.54227,
+    "dist": 13.1,
+    "description": "Elevation: 24m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 85609472,
+    "score": 0
+  },
+  {
+    "id": "sw:cantonsoccerpark",
+    "name": "Canton Soccer Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27774,
+    "lng": -76.57017,
+    "dist": 12.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 89710022,
+    "score": 0
+  },
+  {
+    "id": "sw:bluestonepark",
+    "name": "Bluestone Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38262,
+    "lng": -76.68717,
+    "dist": 20.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 92519088,
+    "score": 0
+  },
+  {
+    "id": "sw:queensburypark",
+    "name": "Queensbury Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34906,
+    "lng": -76.67224,
+    "dist": 18.5,
+    "description": "Elevation: 134m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 94669393,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesmontpark",
+    "name": "Charlesmont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27408,
+    "lng": -76.48251,
+    "dist": 12.1,
+    "description": "Elevation: 3m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 96169464,
+    "score": 0
+  },
+  {
+    "id": "sw:bearcreekpark",
+    "name": "Bear Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27113,
+    "lng": -76.48795,
+    "dist": 11.8,
+    "description": "Elevation: 4m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 96169466,
+    "score": 0
+  },
+  {
+    "id": "sw:belmarpark",
+    "name": "Belmar Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35123,
+    "lng": -76.52644,
+    "dist": 17.1,
+    "description": "Elevation: 40m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 97873685,
+    "score": 0
+  },
+  {
+    "id": "sw:thefieldsatcowentonr",
+    "name": "The Fields at Cowenton Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.39256,
+    "lng": -76.43938,
+    "dist": 20.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 98548413,
+    "score": 0
+  },
+  {
+    "id": "sw:frankcbocekpark",
+    "name": "Frank C. Bocek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30138,
+    "lng": -76.57483,
+    "dist": 13.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 100893180,
+    "score": 0
+  },
+  {
+    "id": "sw:violetvillepark",
+    "name": "Violetville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26716,
+    "lng": -76.68052,
+    "dist": 13.8,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 102713089,
+    "score": 0
+  },
+  {
+    "id": "sw:swannpark",
+    "name": "Swann Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26582,
+    "lng": -76.61909,
+    "dist": 12.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 103285189,
+    "score": 0
+  },
+  {
+    "id": "sw:riversidepark",
+    "name": "Riverside Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26976,
+    "lng": -76.6079,
+    "dist": 12.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 103285201,
+    "score": 0
+  },
+  {
+    "id": "sw:bauernschmidtmanorpa",
+    "name": "Bauernschmidt Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29593,
+    "lng": -76.41428,
+    "dist": 14.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 103379617,
+    "score": 0
+  },
+  {
+    "id": "sw:southbaltimorelittle",
+    "name": "South Baltimore Little League",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26967,
+    "lng": -76.59857,
+    "dist": 12.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 103695706,
+    "score": 0
+  },
+  {
+    "id": "sw:kingstonpark",
+    "name": "Kingston Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31757,
+    "lng": -76.43098,
+    "dist": 15.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 104408460,
+    "score": 0
+  },
+  {
+    "id": "sw:kingstonpointpark",
+    "name": "Kingston Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32297,
+    "lng": -76.43164,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 104408465,
+    "score": 0
+  },
+  {
+    "id": "sw:scottshillpark",
+    "name": "Scotts Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36131,
+    "lng": -76.74506,
+    "dist": 21.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106375108,
+    "score": 0
+  },
+  {
+    "id": "sw:gwynnvalepark",
+    "name": "Gwynnvale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37111,
+    "lng": -76.73831,
+    "dist": 21.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106375110,
+    "score": 0
+  },
+  {
+    "id": "sw:universitysquarepark",
+    "name": "University Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28887,
+    "lng": -76.62298,
+    "dist": 13.7,
+    "description": "Elevation: 22m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106906035,
+    "score": 0
+  },
+  {
+    "id": "sw:sudbrookpark",
+    "name": "Sudbrook Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36716,
+    "lng": -76.73756,
+    "dist": 21.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 107257814,
+    "score": 0
+  },
+  {
+    "id": "sw:silvercreekpark",
+    "name": "Silver Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36383,
+    "lng": -76.74109,
+    "dist": 21.1,
+    "description": "Elevation: 119m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 107257822,
+    "score": 0
+  },
+  {
+    "id": "sw:holocaustmemorial",
+    "name": "Holocaust Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28827,
+    "lng": -76.60832,
+    "dist": 13.4,
+    "description": "Elevation: 4m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 109485081,
+    "score": 0
+  },
+  {
+    "id": "sw:cantonsquare",
+    "name": "Canton Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2792,
+    "lng": -76.5757,
+    "dist": 12.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 109491653,
+    "score": 0
+  },
+  {
+    "id": "sw:thetrailsatcowentonr",
+    "name": "The Trails at Cowenton Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.39118,
+    "lng": -76.4381,
+    "dist": 20.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 111754408,
+    "score": 0
+  },
+  {
+    "id": "sw:olympianpark",
+    "name": "Olympian Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40204,
+    "lng": -76.6031,
+    "dist": 20.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 111762700,
+    "score": 0
+  },
+  {
+    "id": "sw:campushillspark",
+    "name": "Campus Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4092,
+    "lng": -76.58094,
+    "dist": 21.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 111768731,
+    "score": 0
+  },
+  {
+    "id": "sw:rooseveltpark",
+    "name": "Roosevelt Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32915,
+    "lng": -76.63582,
+    "dist": 16.5,
+    "description": "Elevation: 69m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 112910184,
+    "score": 0
+  },
+  {
+    "id": "sw:overlookpark",
+    "name": "Overlook Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21585,
+    "lng": -76.65377,
+    "dist": 10.1,
+    "description": "Elevation: 39m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 113614230,
+    "score": 0
+  },
+  {
+    "id": "sw:hiltonpark",
+    "name": "Hilton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28938,
+    "lng": -76.66974,
+    "dist": 14.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114570160,
+    "score": 0
+  },
+  {
+    "id": "sw:classenparkheightspa",
+    "name": "Classen & Park Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33768,
+    "lng": -76.66597,
+    "dist": 17.6,
+    "description": "Hours: dawn-dusk",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693975,
+    "score": 0
+  },
+  {
+    "id": "sw:candystripepark",
+    "name": "Candy Stripe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33169,
+    "lng": -76.65949,
+    "dist": 17.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693976,
+    "score": 0
+  },
+  {
+    "id": "sw:hydepark",
+    "name": "Hyde Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34072,
+    "lng": -76.66915,
+    "dist": 17.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693981,
+    "score": 0
+  },
+  {
+    "id": "sw:ccjacksonpark",
+    "name": "C.C. Jackson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3458,
+    "lng": -76.67413,
+    "dist": 18.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693982,
+    "score": 0
+  },
+  {
+    "id": "sw:hanlonpark",
+    "name": "Hanlon Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31931,
+    "lng": -76.66876,
+    "dist": 16.6,
+    "description": "Elevation: 94m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693984,
+    "score": 0
+  },
+  {
+    "id": "sw:towandapark",
+    "name": "Towanda Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33343,
+    "lng": -76.6661,
+    "dist": 17.4,
+    "description": "Elevation: 111m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693988,
+    "score": 0
+  },
+  {
+    "id": "sw:northwestpark",
+    "name": "Northwest Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3576,
+    "lng": -76.65934,
+    "dist": 18.8,
+    "description": "Once a private school campus until the middle of the 20th century, this land was bought by University of Baltimore for expansion. The expansion was blocked by neighbors and the land became a park and athletic facilities for the university (later merged wi",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693989,
+    "score": 0
+  },
+  {
+    "id": "sw:greenspringavenuepar",
+    "name": "Greenspring Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33009,
+    "lng": -76.65633,
+    "dist": 17.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693991,
+    "score": 0
+  },
+  {
+    "id": "sw:keyworthavenuepark",
+    "name": "Keyworth Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33428,
+    "lng": -76.66146,
+    "dist": 17.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693992,
+    "score": 0
+  },
+  {
+    "id": "sw:westernrunpark",
+    "name": "Western Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36532,
+    "lng": -76.67777,
+    "dist": 19.7,
+    "description": "Elevation: 102m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693993,
+    "score": 0
+  },
+  {
+    "id": "sw:lucillepark",
+    "name": "Lucille Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3406,
+    "lng": -76.67485,
+    "dist": 18.0,
+    "description": "Elevation: 127m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693995,
+    "score": 0
+  },
+  {
+    "id": "sw:pallmallshirleypark",
+    "name": "Pall Mall & Shirley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33499,
+    "lng": -76.66,
+    "dist": 17.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114693996,
+    "score": 0
+  },
+  {
+    "id": "sw:edgecombepark",
+    "name": "Edgecombe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34247,
+    "lng": -76.65971,
+    "dist": 17.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114694000,
+    "score": 0
+  },
+  {
+    "id": "sw:shirleyavenuestreetp",
+    "name": "Shirley Avenue Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33416,
+    "lng": -76.66341,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 114694001,
+    "score": 0
+  },
+  {
+    "id": "sw:thamesstreetpark",
+    "name": "Thames Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28235,
+    "lng": -76.59016,
+    "dist": 12.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115211504,
+    "score": 0
+  },
+  {
+    "id": "sw:turnerstationpark",
+    "name": "Turner Station Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24113,
+    "lng": -76.50676,
+    "dist": 9.6,
+    "description": "Elevation: 3m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115933158,
+    "score": 0
+  },
+  {
+    "id": "sw:flemingpark",
+    "name": "Fleming Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23573,
+    "lng": -76.50312,
+    "dist": 9.3,
+    "description": "Elevation: 2m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115933542,
+    "score": 0
+  },
+  {
+    "id": "sw:sollerspointmultipur",
+    "name": "Soller's Point Multi Purpose Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24315,
+    "lng": -76.50817,
+    "dist": 9.7,
+    "description": "Hours: 24/7 · Fee: no",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115933545,
+    "score": 0
+  },
+  {
+    "id": "sw:merrittpointpark",
+    "name": "Merritt Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25309,
+    "lng": -76.50632,
+    "dist": 10.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 116055319,
+    "score": 0
+  },
+  {
+    "id": "sw:gardenvillagepark",
+    "name": "Garden Village Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32638,
+    "lng": -76.52827,
+    "dist": 15.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117904773,
+    "score": 0
+  },
+  {
+    "id": "sw:totlot",
+    "name": "Tot Lot",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37628,
+    "lng": -76.61815,
+    "dist": 19.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119407283,
+    "score": 0
+  },
+  {
+    "id": "sw:jessuppark",
+    "name": "Jessup Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.1519,
+    "lng": -76.75494,
+    "dist": 12.3,
+    "description": "Elevation: 74m · Hours: sunrise-sunset",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119508549,
+    "score": 0
+  },
+  {
+    "id": "sw:jessupdorseypark",
+    "name": "Jessup Dorsey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16409,
+    "lng": -76.74376,
+    "dist": 12.0,
+    "description": "Elevation: 54m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119508550,
+    "score": 0
+  },
+  {
+    "id": "sw:saintcharlespark",
+    "name": "Saint Charles Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27311,
+    "lng": -76.69621,
+    "dist": 14.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119881364,
+    "score": 0
+  },
+  {
+    "id": "sw:duaneavenuepark",
+    "name": "Duane Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22587,
+    "lng": -76.60146,
+    "dist": 9.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119883096,
+    "score": 0
+  },
+  {
+    "id": "sw:farringbaybrookpark",
+    "name": "Farring Baybrook Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22348,
+    "lng": -76.5988,
+    "dist": 9.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 119883097,
+    "score": 0
+  },
+  {
+    "id": "sw:easterwoodpark",
+    "name": "Easterwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30522,
+    "lng": -76.65476,
+    "dist": 15.4,
+    "description": "Elevation: 72m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 120453739,
+    "score": 0
+  },
+  {
+    "id": "sw:wilburhwaterspark",
+    "name": "Wilbur H. Waters Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30667,
+    "lng": -76.66384,
+    "dist": 15.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 120453745,
+    "score": 0
+  },
+  {
+    "id": "sw:belmontpark",
+    "name": "Belmont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.39032,
+    "lng": -76.50308,
+    "dist": 19.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 121500067,
+    "score": 0
+  },
+  {
+    "id": "sw:rosedalepark",
+    "name": "Rosedale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33029,
+    "lng": -76.49652,
+    "dist": 15.8,
+    "description": "Elevation: 27m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 122950935,
+    "score": 0
+  },
+  {
+    "id": "sw:fairwaykeywaypark",
+    "name": "Fairway-Keyway Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26595,
+    "lng": -76.52201,
+    "dist": 11.2,
+    "description": "Elevation: 11m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 125105610,
+    "score": 0
+  },
+  {
+    "id": "sw:sainthelenapark",
+    "name": "Saint Helena Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25567,
+    "lng": -76.5281,
+    "dist": 10.5,
+    "description": "Elevation: 6m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 125108097,
+    "score": 0
+  },
+  {
+    "id": "sw:conwaystreetpark",
+    "name": "Conway Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28199,
+    "lng": -76.6241,
+    "dist": 13.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 126145341,
+    "score": 0
+  },
+  {
+    "id": "sw:traciatkinspark",
+    "name": "Traci Atkins Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28281,
+    "lng": -76.64002,
+    "dist": 13.6,
+    "description": "Elevation: 24m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 127010721,
+    "score": 0
+  },
+  {
+    "id": "sw:florencecumminspark",
+    "name": "Florence Cummins Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26251,
+    "lng": -76.63899,
+    "dist": 12.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 127011775,
+    "score": 0
+  },
+  {
+    "id": "sw:valleyfieldsnorth",
+    "name": "Valley Fields North",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43663,
+    "lng": -76.64608,
+    "dist": 23.8,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 128754192,
+    "score": 0
+  },
+  {
+    "id": "sw:fullertonpark",
+    "name": "Fullerton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36187,
+    "lng": -76.51997,
+    "dist": 17.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 131880796,
+    "score": 0
+  },
+  {
+    "id": "sw:tiberpark",
+    "name": "Tiber Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26745,
+    "lng": -76.79556,
+    "dist": 18.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 133507248,
+    "score": 0
+  },
+  {
+    "id": "sw:barbaraparkwoodpark",
+    "name": "Barbara & Parkwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33078,
+    "lng": -76.54901,
+    "dist": 15.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 138383768,
+    "score": 0
+  },
+  {
+    "id": "sw:elmleyavenuepark",
+    "name": "Elmley Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3179,
+    "lng": -76.57134,
+    "dist": 14.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 138384283,
+    "score": 0
+  },
+  {
+    "id": "sw:bonviewpark",
+    "name": "Bonview Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31442,
+    "lng": -76.56286,
+    "dist": 14.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 138384287,
+    "score": 0
+  },
+  {
+    "id": "sw:seminarypark",
+    "name": "Seminary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4217,
+    "lng": -76.63676,
+    "dist": 22.7,
+    "description": "Elevation: 98m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 144146485,
+    "score": 0
+  },
+  {
+    "id": "sw:communitypark",
+    "name": "Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19948,
+    "lng": -76.77955,
+    "dist": 14.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 148513873,
+    "score": 0
+  },
+  {
+    "id": "sw:waterloopark",
+    "name": "Waterloo Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18288,
+    "lng": -76.78449,
+    "dist": 14.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 148584490,
+    "score": 0
+  },
+  {
+    "id": "sw:patriotplaza",
+    "name": "Patriot Plaza",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40043,
+    "lng": -76.60733,
+    "dist": 20.9,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 160791491,
+    "score": 0
+  },
+  {
+    "id": "sw:towsonmanorpark",
+    "name": "Towson Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.39818,
+    "lng": -76.60046,
+    "dist": 20.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 163591565,
+    "score": 0
+  },
+  {
+    "id": "sw:forgepark",
+    "name": "Forge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37369,
+    "lng": -76.61299,
+    "dist": 19.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 163710488,
+    "score": 0
+  },
+  {
+    "id": "sw:vincentstreetpark",
+    "name": "Vincent Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29013,
+    "lng": -76.64318,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 165342610,
+    "score": 0
+  },
+  {
+    "id": "sw:perkinsspringsquarep",
+    "name": "Perkins Spring Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29594,
+    "lng": -76.62909,
+    "dist": 14.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 165342612,
+    "score": 0
+  },
+  {
+    "id": "sw:sarahannpark",
+    "name": "Sarah Ann Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29271,
+    "lng": -76.63641,
+    "dist": 14.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 165342615,
+    "score": 0
+  },
+  {
+    "id": "sw:cantonwaterfrontpark",
+    "name": "Canton Waterfront Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27716,
+    "lng": -76.57254,
+    "dist": 12.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 170231853,
+    "score": 0
+  },
+  {
+    "id": "sw:worthingtonpark",
+    "name": "Worthington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24703,
+    "lng": -76.79657,
+    "dist": 17.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 170977014,
+    "score": 0
+  },
+  {
+    "id": "sw:glenarboretum",
+    "name": "Glen Arboretum",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest"
+    ],
+    "lat": 39.39264,
+    "lng": -76.60881,
+    "dist": 20.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 171271610,
+    "score": 0
+  },
+  {
+    "id": "sw:cubhillforestrytower",
+    "name": "Cub Hill Forestry Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41297,
+    "lng": -76.52138,
+    "dist": 21.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 171286178,
+    "score": 0
+  },
+  {
+    "id": "sw:loyolaarboretum",
+    "name": "Loyola Arboretum",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34629,
+    "lng": -76.62023,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 171524643,
+    "score": 0
+  },
+  {
+    "id": "sw:calvertstreetpark",
+    "name": "Calvert Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31489,
+    "lng": -76.61366,
+    "dist": 15.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 176792219,
+    "score": 0
+  },
+  {
+    "id": "sw:dypskipark",
+    "name": "Dypski Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27858,
+    "lng": -76.57208,
+    "dist": 12.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 177721664,
+    "score": 0
+  },
+  {
+    "id": "sw:tworiverspark",
+    "name": "Two Rivers Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28192,
+    "lng": -76.57448,
+    "dist": 12.5,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 178019887,
+    "score": 0
+  },
+  {
+    "id": "sw:911fallenmemorial",
+    "name": "9/11 Fallen Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28627,
+    "lng": -76.60906,
+    "dist": 13.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 185099840,
+    "score": 0
+  },
+  {
+    "id": "sw:baybuddiesgardenpark",
+    "name": "Bay Buddies Garden Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28382,
+    "lng": -76.6057,
+    "dist": 13.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 185459436,
+    "score": 0
+  },
+  {
+    "id": "sw:hillcrestpark",
+    "name": "Hillcrest Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24495,
+    "lng": -76.65335,
+    "dist": 11.7,
+    "description": "Elevation: 41m",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 187062804,
+    "score": 0
+  },
+  {
+    "id": "sw:sandyhillspark",
+    "name": "Sandy Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2352,
+    "lng": -76.65101,
+    "dist": 11.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 187062805,
+    "score": 0
+  },
+  {
+    "id": "sw:arbourmanorpark",
+    "name": "Arbour Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24043,
+    "lng": -76.70088,
+    "dist": 13.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 187676441,
+    "score": 0
+  },
+  {
+    "id": "sw:aquilarandallmonumen",
+    "name": "Aquila Randall Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27326,
+    "lng": -76.46963,
+    "dist": 12.2,
+    "description": "Elevation: 4m · Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358242057,
+    "score": 0
+  },
+  {
+    "id": "sw:barrecirclehistoricd",
+    "name": "Barre Circle Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28483,
+    "lng": -76.62747,
+    "dist": 13.5,
+    "description": "Elevation: 13m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248599,
+    "score": 0
+  },
+  {
+    "id": "sw:butchershillhistoric",
+    "name": "Butchers Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29177,
+    "lng": -76.58747,
+    "dist": 13.3,
+    "description": "Elevation: 37m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248611,
+    "score": 0
+  },
+  {
+    "id": "sw:cathedralhillhistori",
+    "name": "Cathedral Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.294,
+    "lng": -76.61552,
+    "dist": 13.9,
+    "description": "Elevation: 31m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248618,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesvillageabellh",
+    "name": "Charles Village-Abell Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32344,
+    "lng": -76.61469,
+    "dist": 15.8,
+    "description": "Elevation: 65m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248619,
+    "score": 0
+  },
+  {
+    "id": "sw:dickeyvillehistoricd",
+    "name": "Dickeyville Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3154,
+    "lng": -76.70387,
+    "dist": 17.2,
+    "description": "Elevation: 77m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248634,
+    "score": 0
+  },
+  {
+    "id": "sw:eutawmadisonapartmen",
+    "name": "Eutaw-Madison Apartment House Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.314,
+    "lng": -76.63719,
+    "dist": 15.5,
+    "description": "Elevation: 73m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248640,
+    "score": 0
+  },
+  {
+    "id": "sw:federalhillhistoricd",
+    "name": "Federal Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27929,
+    "lng": -76.60913,
+    "dist": 12.8,
+    "description": "Elevation: 14m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248644,
+    "score": 0
+  },
+  {
+    "id": "sw:fellspointhistoricdi",
+    "name": "Fells Point Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28258,
+    "lng": -76.59329,
+    "dist": 12.8,
+    "description": "Elevation: 2m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248646,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinsquarehistor",
+    "name": "Franklin Square Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28993,
+    "lng": -76.63937,
+    "dist": 14.1,
+    "description": "Elevation: 33m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248659,
+    "score": 0
+  },
+  {
+    "id": "sw:littlemontgomerystre",
+    "name": "Little Montgomery Street Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28011,
+    "lng": -76.61636,
+    "dist": 13.0,
+    "description": "Elevation: 6m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248711,
+    "score": 0
+  },
+  {
+    "id": "sw:unionsquarehollinsma",
+    "name": "Union Square-Hollins Market Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28761,
+    "lng": -76.63858,
+    "dist": 13.9,
+    "description": "Elevation: 25m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248791,
+    "score": 0
+  },
+  {
+    "id": "sw:ellicottcityhistoric",
+    "name": "Ellicott City Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26776,
+    "lng": -76.79649,
+    "dist": 18.1,
+    "description": "Elevation: 61m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248948,
+    "score": 0
+  },
+  {
+    "id": "sw:oldgouchercollegebui",
+    "name": "Old Goucher College Buildings",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31598,
+    "lng": -76.61632,
+    "dist": 15.3,
+    "description": "Elevation: 43m · Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249955,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgelysdelighthisto",
+    "name": "Ridgelys Delight Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28483,
+    "lng": -76.62497,
+    "dist": 13.4,
+    "description": "Elevation: 12m · Historic: district",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249970,
+    "score": 0
+  },
+  {
+    "id": "sw:armisteadmonument",
+    "name": "Armistead Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28024,
+    "lng": -76.60812,
+    "dist": 12.8,
+    "description": "Elevation: 13m · Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358254185,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandlinemonument",
+    "name": "Maryland Line Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30565,
+    "lng": -76.61882,
+    "dist": 14.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 369907237,
+    "score": 0
+  },
+  {
+    "id": "sw:craighillchannellowe",
+    "name": "Craighill Channel Lower Range Rear Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22903,
+    "lng": -76.3944,
+    "dist": 11.4,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 968360686,
+    "score": 0
+  },
+  {
+    "id": "sw:koreanwarmemorial",
+    "name": "Korean War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2775,
+    "lng": -76.57353,
+    "dist": 12.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1039630720,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofnorthpoint",
+    "name": "Battle of North Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27903,
+    "lng": -76.48684,
+    "dist": 12.4,
+    "description": "Historic: battlefield",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1114578455,
+    "score": 0
+  },
+  {
+    "id": "sw:toddsinheritance",
+    "name": "Todd's Inheritance",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.21395,
+    "lng": -76.43802,
+    "dist": 9.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1193111362,
+    "score": 0
+  },
+  {
+    "id": "sw:oldbaltimorecitynwco",
+    "name": "Old Baltimore City NW Cornerstone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34028,
+    "lng": -76.68912,
+    "dist": 18.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1228325863,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 3",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28127,
+    "lng": -76.67367,
+    "dist": 14.4,
+    "description": "Historic: milestone",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1228782012,
+    "score": 0
+  },
+  {
+    "id": "sw:edmundswell",
+    "name": "Edmunds Well",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3221,
+    "lng": -76.64921,
+    "dist": 16.3,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1232705670,
+    "score": 0
+  },
+  {
+    "id": "sw:garrettbridge",
+    "name": "Garrett Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32567,
+    "lng": -76.65082,
+    "dist": 16.6,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1233509810,
+    "score": 0
+  },
+  {
+    "id": "sw:morrisfountain",
+    "name": "Morris Fountain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32543,
+    "lng": -76.65049,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1233509830,
+    "score": 0
+  },
+  {
+    "id": "sw:silverspringsite",
+    "name": "Silver Spring (Site)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32612,
+    "lng": -76.64671,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1235945454,
+    "score": 0
+  },
+  {
+    "id": "sw:martinluthermonument",
+    "name": "Martin Luther Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32762,
+    "lng": -76.58887,
+    "dist": 15.7,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1270758186,
+    "score": 0
+  },
+  {
+    "id": "sw:policememorial",
+    "name": "Police Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40012,
+    "lng": -76.60738,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1272176771,
+    "score": 0
+  },
+  {
+    "id": "sw:firememorial",
+    "name": "Fire Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40083,
+    "lng": -76.60727,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1272176961,
+    "score": 0
+  },
+  {
+    "id": "sw:spanishamericanwarme",
+    "name": "Spanish-American War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29459,
+    "lng": -76.57939,
+    "dist": 13.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1291303422,
+    "score": 0
+  },
+  {
+    "id": "sw:fallswayfountain",
+    "name": "Fallsway Fountain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30333,
+    "lng": -76.61178,
+    "dist": 14.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1292299524,
+    "score": 0
+  },
+  {
+    "id": "sw:methodistmeetinghous",
+    "name": "Methodist Meeting House Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2819,
+    "lng": -76.4929,
+    "dist": 12.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1305527550,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimorecityfratern",
+    "name": "Baltimore City Fraternal Order of Police Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29041,
+    "lng": -76.60585,
+    "dist": 13.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1313503951,
+    "score": 0
+  },
+  {
+    "id": "sw:watsonmonument",
+    "name": "Watson Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31104,
+    "lng": -76.6257,
+    "dist": 15.1,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1313588076,
+    "score": 0
+  },
+  {
+    "id": "sw:simnbolvar",
+    "name": "Simón Bolívar",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34353,
+    "lng": -76.62163,
+    "dist": 17.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1346384804,
+    "score": 0
+  },
+  {
+    "id": "sw:goldstarmothersmemor",
+    "name": "Gold Star Mothers Memorial Flagstaff",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.287,
+    "lng": -76.57704,
+    "dist": 12.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1471599817,
+    "score": 0
+  },
+  {
+    "id": "sw:samuelsmithmonument",
+    "name": "Samuel Smith Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2802,
+    "lng": -76.60838,
+    "dist": 12.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1696272869,
+    "score": 0
+  },
+  {
+    "id": "sw:vietnamveteransmemor",
+    "name": "Vietnam Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4007,
+    "lng": -76.60623,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1728229061,
+    "score": 0
+  },
+  {
+    "id": "sw:furnace",
+    "name": "Furnace",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45069,
+    "lng": -76.58631,
+    "dist": 24.1,
+    "description": "Historic: ruins",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1762326515,
+    "score": 0
+  },
+  {
+    "id": "sw:stmaryscollegeformer",
+    "name": "St. Mary's College, former",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25059,
+    "lng": -76.76602,
+    "dist": 16.1,
+    "description": "Historic: ruins",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1766784622,
+    "score": 0
+  },
+  {
+    "id": "sw:camdenyardsmemorialw",
+    "name": "Camden Yards Memorial Wall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28203,
+    "lng": -76.6206,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1966866733,
+    "score": 0
+  },
+  {
+    "id": "sw:chapinaharrisbust",
+    "name": "Chapin A. Harris Bust",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32483,
+    "lng": -76.6211,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048055,
+    "score": 0
+  },
+  {
+    "id": "sw:remingtonwymanservic",
+    "name": "Remington-Wyman Servicemen Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32669,
+    "lng": -76.62367,
+    "dist": 16.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048155,
+    "score": 0
+  },
+  {
+    "id": "sw:sidneylaniermonument",
+    "name": "Sidney Lanier Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33123,
+    "lng": -76.61816,
+    "dist": 16.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048564,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 10",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26794,
+    "lng": -76.79492,
+    "dist": 18.0,
+    "description": "Historic: milestone",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2108934845,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 6",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27313,
+    "lng": -76.72697,
+    "dist": 15.6,
+    "description": "Historic: milestone",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2108934846,
+    "score": 0
+  },
+  {
+    "id": "sw:williamwallacemonume",
+    "name": "William Wallace Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31736,
+    "lng": -76.64134,
+    "dist": 15.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2198902596,
+    "score": 0
+  },
+  {
+    "id": "sw:richardwagnermemoria",
+    "name": "Richard Wagner Memorial Bust",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32133,
+    "lng": -76.64576,
+    "dist": 16.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2198902932,
+    "score": 0
+  },
+  {
+    "id": "sw:pulaskimonument",
+    "name": "Pulaski Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28717,
+    "lng": -76.57706,
+    "dist": 12.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898433,
+    "score": 0
+  },
+  {
+    "id": "sw:starspangledbannerce",
+    "name": "Star Spangled Banner Centennial Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28994,
+    "lng": -76.58356,
+    "dist": 13.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898434,
+    "score": 0
+  },
+  {
+    "id": "sw:taurusstatueremnant",
+    "name": "Taurus Statue Remnant",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29057,
+    "lng": -76.58304,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898435,
+    "score": 0
+  },
+  {
+    "id": "sw:wheelmonument",
+    "name": "Wheel Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28147,
+    "lng": -76.61583,
+    "dist": 13.0,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2356341498,
+    "score": 0
+  },
+  {
+    "id": "sw:towsontigerstatue",
+    "name": "Towson Tiger Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39241,
+    "lng": -76.60554,
+    "dist": 20.3,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2436043852,
+    "score": 0
+  },
+  {
+    "id": "sw:williamdonaldshaefer",
+    "name": "William Donald Shaefer Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28435,
+    "lng": -76.61224,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2502382373,
+    "score": 0
+  },
+  {
+    "id": "sw:giantpineapple",
+    "name": "Giant Pineapple",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27208,
+    "lng": -76.65701,
+    "dist": 13.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2719645095,
+    "score": 0
+  },
+  {
+    "id": "sw:columbusobelisk",
+    "name": "Columbus Obelisk",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33634,
+    "lng": -76.57452,
+    "dist": 16.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2776518545,
+    "score": 0
+  },
+  {
+    "id": "sw:thepassage",
+    "name": "The Passage",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40037,
+    "lng": -76.60585,
+    "dist": 20.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2806889204,
+    "score": 0
+  },
+  {
+    "id": "sw:harryjeanetteweinber",
+    "name": "Harry & Jeanette Weinberg",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29301,
+    "lng": -76.56737,
+    "dist": 13.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2961992939,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalkatymemorial",
+    "name": "National Katyń Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28318,
+    "lng": -76.60161,
+    "dist": 12.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3432393558,
+    "score": 0
+  },
+  {
+    "id": "sw:billieholidaymonumen",
+    "name": "Billie Holiday Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30118,
+    "lng": -76.63203,
+    "dist": 14.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3492315593,
+    "score": 0
+  },
+  {
+    "id": "sw:homelessofbaltimorec",
+    "name": "Homeless of Baltimore County",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.401,
+    "lng": -76.60642,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3630158001,
+    "score": 0
+  },
+  {
+    "id": "sw:northamptonfurnace",
+    "name": "Northampton Furnace",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.43658,
+    "lng": -76.58821,
+    "dist": 23.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4430858130,
+    "score": 0
+  },
+  {
+    "id": "sw:blacksoldiersstatue",
+    "name": "Black Soldiers Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29091,
+    "lng": -76.61009,
+    "dist": 13.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4503373520,
+    "score": 0
+  },
+  {
+    "id": "sw:severnteacklewallism",
+    "name": "Severn Teackle Wallis Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29759,
+    "lng": -76.61426,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244509,
+    "score": 0
+  },
+  {
+    "id": "sw:georgepeabodymonumen",
+    "name": "George Peabody Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29756,
+    "lng": -76.61504,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244510,
+    "score": 0
+  },
+  {
+    "id": "sw:marquisdelafayettemo",
+    "name": "Marquis de Lafayette Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29721,
+    "lng": -76.61564,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244511,
+    "score": 0
+  },
+  {
+    "id": "sw:johneagerhowardmonum",
+    "name": "John Eager Howard Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2984,
+    "lng": -76.61572,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244512,
+    "score": 0
+  },
+  {
+    "id": "sw:georgewashingtonbice",
+    "name": "George Washington Bicentennial Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29422,
+    "lng": -76.61558,
+    "dist": 13.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590260242,
+    "score": 0
+  },
+  {
+    "id": "sw:hammanncostinwwimeda",
+    "name": "Hammann-Costin WWI Medal of Honor Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3046,
+    "lng": -76.62104,
+    "dist": 14.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4725167483,
+    "score": 0
+  },
+  {
+    "id": "sw:columbusmonument",
+    "name": "Columbus Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31942,
+    "lng": -76.64189,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4753852913,
+    "score": 0
+  },
+  {
+    "id": "sw:devotion",
+    "name": "Devotion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.283,
+    "lng": -76.64811,
+    "dist": 13.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4868729510,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandspacegrantob",
+    "name": "Maryland Space Grant Observatory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33179,
+    "lng": -76.62327,
+    "dist": 16.5,
+    "description": "Historic: observatory",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4960141081,
+    "score": 0
+  },
+  {
+    "id": "sw:orlinskygrovemarker",
+    "name": "Orlinsky Grove Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32639,
+    "lng": -76.5701,
+    "dist": 15.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4962943325,
+    "score": 0
+  },
+  {
+    "id": "sw:dumbartonfarmpillar",
+    "name": "Dumbarton Farm Pillar",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.37578,
+    "lng": -76.61923,
+    "dist": 19.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5183873923,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainatcharlespla",
+    "name": "Fountain at Charles Plaza",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29064,
+    "lng": -76.61602,
+    "dist": 13.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5258545703,
+    "score": 0
+  },
+  {
+    "id": "sw:johnmifflinhoodmonum",
+    "name": "John Mifflin Hood Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29267,
+    "lng": -76.61372,
+    "dist": 13.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5515718332,
+    "score": 0
+  },
+  {
+    "id": "sw:josmartmonument",
+    "name": "José Martí Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29411,
+    "lng": -76.59401,
+    "dist": 13.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5579499294,
+    "score": 0
+  },
+  {
+    "id": "sw:oldstreetcarbridgeab",
+    "name": "Old Streetcar Bridge Abutment",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.31642,
+    "lng": -76.69631,
+    "dist": 17.1,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5608320333,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainatcharlescen",
+    "name": "Fountain at Charles Center",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29063,
+    "lng": -76.61561,
+    "dist": 13.6,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5744155022,
+    "score": 0
+  },
+  {
+    "id": "sw:shieldofbaltimorecit",
+    "name": "Shield of Baltimore City",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29097,
+    "lng": -76.6162,
+    "dist": 13.7,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5744173168,
+    "score": 0
+  },
+  {
+    "id": "sw:mountainpassspring",
+    "name": "Mountain Pass Spring",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32639,
+    "lng": -76.64392,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5928349753,
+    "score": 0
+  },
+  {
+    "id": "sw:jameslridgelymonumen",
+    "name": "James L. Ridgely Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29604,
+    "lng": -76.6422,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5931490190,
+    "score": 0
+  },
+  {
+    "id": "sw:koreavietnamwarmemor",
+    "name": "Korea-Vietnam War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30886,
+    "lng": -76.47522,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6020047197,
+    "score": 0
+  },
+  {
+    "id": "sw:lestweforget",
+    "name": "Lest We Forget",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30885,
+    "lng": -76.47415,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6020047198,
+    "score": 0
+  },
+  {
+    "id": "sw:operationenduringfre",
+    "name": "Operation Enduring Freedom Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4007,
+    "lng": -76.60632,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6206224051,
+    "score": 0
+  },
+  {
+    "id": "sw:mainstreetballroom",
+    "name": "Main Street Ballroom",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.26752,
+    "lng": -76.79996,
+    "dist": 18.2,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6501070388,
+    "score": 0
+  },
+  {
+    "id": "sw:thegoodshepherd",
+    "name": "The Good Shepherd",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32801,
+    "lng": -76.60145,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6515689972,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimorecityfirefig",
+    "name": "Baltimore City Fire Fighters Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29146,
+    "lng": -76.60923,
+    "dist": 13.6,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6515787063,
+    "score": 0
+  },
+  {
+    "id": "sw:fortholabirdmemorial",
+    "name": "Fort Holabird Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26497,
+    "lng": -76.51334,
+    "dist": 11.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6540324043,
+    "score": 0
+  },
+  {
+    "id": "sw:veteransmemorial",
+    "name": "Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25823,
+    "lng": -76.52337,
+    "dist": 10.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6577102979,
+    "score": 0
+  },
+  {
+    "id": "sw:mccollumpoint",
+    "name": "McCollum Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2899,
+    "lng": -76.39779,
+    "dist": 14.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6721109594,
+    "score": 0
+  },
+  {
+    "id": "sw:warof1812bombrack",
+    "name": "War of 1812 Bomb & Rack",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28887,
+    "lng": -76.61194,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6762955376,
+    "score": 0
+  },
+  {
+    "id": "sw:latrobemonument",
+    "name": "Latrobe Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29172,
+    "lng": -76.59386,
+    "dist": 13.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6849017868,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaswildeymonument",
+    "name": "Thomas Wildey Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29328,
+    "lng": -76.59396,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6849064322,
+    "score": 0
+  },
+  {
+    "id": "sw:boyslatinathletichal",
+    "name": "Boys' Latin Athletic Hall of Fame Plaque",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37288,
+    "lng": -76.63551,
+    "dist": 19.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981571414,
+    "score": 0
+  },
+  {
+    "id": "sw:lebrunscoachesfieldp",
+    "name": "Lebrun's Coaches Field Plaque",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37194,
+    "lng": -76.63598,
+    "dist": 19.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981589480,
+    "score": 0
+  },
+  {
+    "id": "sw:boyslatinlacrossenat",
+    "name": "Boys' Latin lacrosse national championship years",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37255,
+    "lng": -76.63526,
+    "dist": 19.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981589522,
+    "score": 0
+  },
+  {
+    "id": "sw:historyplaquesofwinn",
+    "name": "History Plaques of Winners",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28418,
+    "lng": -76.49437,
+    "dist": 12.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7131844176,
+    "score": 0
+  },
+  {
+    "id": "sw:foundation",
+    "name": "Foundation",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.24937,
+    "lng": -76.77497,
+    "dist": 16.4,
+    "description": "Historic: ruins",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7248082593,
+    "score": 0
+  },
+  {
+    "id": "sw:caldwellfield",
+    "name": "Caldwell Field",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28327,
+    "lng": -76.51548,
+    "dist": 12.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7450040965,
+    "score": 0
+  },
+  {
+    "id": "sw:theunitywall",
+    "name": "The Unity Wall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31231,
+    "lng": -76.61168,
+    "dist": 15.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7472578438,
+    "score": 0
+  },
+  {
+    "id": "sw:haeminleeburialsite",
+    "name": "Hae Min Lee Burial Site",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.30179,
+    "lng": -76.69936,
+    "dist": 16.3,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7515423328,
+    "score": 0
+  },
+  {
+    "id": "sw:waterwheel",
+    "name": "Water Wheel",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.30288,
+    "lng": -76.69464,
+    "dist": 16.2,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7515423329,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandsonsmonument",
+    "name": "Maryland Sons Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2807,
+    "lng": -76.67509,
+    "dist": 14.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7663191350,
+    "score": 0
+  },
+  {
+    "id": "sw:sparrowspoint",
+    "name": "Sparrows Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.24306,
+    "lng": -76.45576,
+    "dist": 10.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7722427898,
+    "score": 0
+  },
+  {
+    "id": "sw:calripkensenior",
+    "name": "Cal Ripken Senior",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32944,
+    "lng": -76.60146,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7806724895,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialfieldatthey",
+    "name": "Memorial Field at the Y",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32946,
+    "lng": -76.60149,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7806724896,
+    "score": 0
+  },
+  {
+    "id": "sw:conradinkreutzermonu",
+    "name": "Conradin Kreutzer Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28828,
+    "lng": -76.58385,
+    "dist": 13.0,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7833984131,
+    "score": 0
+  },
+  {
+    "id": "sw:rogersbastioncannon",
+    "name": "Rogers Bastion Cannon",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28986,
+    "lng": -76.58372,
+    "dist": 13.1,
+    "description": "Historic: cannon",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7840961095,
+    "score": 0
+  },
+  {
+    "id": "sw:dunlogginmanor",
+    "name": "Dunloggin Manor",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25833,
+    "lng": -76.83643,
+    "dist": 19.4,
+    "description": "Historic: manor",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7850665528,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimoreharrisburge",
+    "name": "Baltimore-Harrisburg Expressway",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42423,
+    "lng": -76.63788,
+    "dist": 22.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7975206477,
+    "score": 0
+  },
+  {
+    "id": "sw:thirdandlastcountyal",
+    "name": "Third and Last County Almshouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46015,
+    "lng": -76.62796,
+    "dist": 25.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8095295335,
+    "score": 0
+  },
+  {
+    "id": "sw:defenderstrailsign",
+    "name": "Defender's Trail Sign",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28341,
+    "lng": -76.49065,
+    "dist": 12.6,
+    "description": "Historic: wayside shrine",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8191533699,
+    "score": 0
+  },
+  {
+    "id": "sw:captainjohnsmithmark",
+    "name": "Captain John Smith Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22779,
+    "lng": -76.72962,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8539633813,
+    "score": 0
+  },
+  {
+    "id": "sw:mapaoverpass",
+    "name": "Ma & Pa Overpass",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39848,
+    "lng": -76.60309,
+    "dist": 20.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8731261473,
+    "score": 0
+  },
+  {
+    "id": "sw:fellspoint",
+    "name": "Fells Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28199,
+    "lng": -76.59296,
+    "dist": 12.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8739519331,
+    "score": 0
+  },
+  {
+    "id": "sw:americanpsychoanalyt",
+    "name": "American Psychoanalytic Association",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2983,
+    "lng": -76.61597,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8914830130,
+    "score": 0
+  },
+  {
+    "id": "sw:wiseavenuebridge",
+    "name": "Wise Avenue Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26095,
+    "lng": -76.47669,
+    "dist": 11.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929221947,
+    "score": 0
+  },
+  {
+    "id": "sw:kellyavebridge",
+    "name": "Kelly Ave Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36718,
+    "lng": -76.64891,
+    "dist": 19.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929236142,
+    "score": 0
+  },
+  {
+    "id": "sw:fortgarrison",
+    "name": "Fort Garrison",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.399,
+    "lng": -76.70769,
+    "dist": 22.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929368565,
+    "score": 0
+  },
+  {
+    "id": "sw:rodgersbastion",
+    "name": "Rodgers Bastion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28986,
+    "lng": -76.58372,
+    "dist": 13.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929646251,
+    "score": 0
+  },
+  {
+    "id": "sw:guthmemorialgateway",
+    "name": "Guth Memorial Gateway",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40907,
+    "lng": -76.60008,
+    "dist": 21.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8947215754,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 11",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26978,
+    "lng": -76.81223,
+    "dist": 18.8,
+    "description": "Historic: milestone",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161672,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 12",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27271,
+    "lng": -76.83006,
+    "dist": 19.7,
+    "description": "Historic: milestone",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161675,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaspalermo",
+    "name": "Thomas Palermo",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36691,
+    "lng": -76.63435,
+    "dist": 19.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8985808489,
+    "score": 0
+  },
+  {
+    "id": "sw:chrisstrail",
+    "name": "Chris's Trail",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.467,
+    "lng": -76.59129,
+    "dist": 25.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8988190520,
+    "score": 0
+  },
+  {
+    "id": "sw:established1926",
+    "name": "Established 1926",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39692,
+    "lng": -76.57926,
+    "dist": 20.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9062858322,
+    "score": 0
+  },
+  {
+    "id": "sw:harveyjburnsjrmemori",
+    "name": "Harvey J. Burns, Jr. Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31997,
+    "lng": -76.63461,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9142686897,
+    "score": 0
+  },
+  {
+    "id": "sw:homewood",
+    "name": "Homewood",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32949,
+    "lng": -76.61801,
+    "dist": 16.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9159403603,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaspumphreyhouse",
+    "name": "Thomas Pumphrey House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19491,
+    "lng": -76.62691,
+    "dist": 8.0,
+    "description": "Historic: yes",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9160963312,
+    "score": 0
+  },
+  {
+    "id": "sw:rowlandcirclespectro",
+    "name": "Rowland Circle Spectrograph",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33153,
+    "lng": -76.62288,
+    "dist": 16.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9169562427,
+    "score": 0
+  },
+  {
+    "id": "sw:cloverhill",
+    "name": "Clover Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3334,
+    "lng": -76.61788,
+    "dist": 16.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9191915208,
+    "score": 0
+  },
+  {
+    "id": "sw:courttowers",
+    "name": "Court Towers",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40112,
+    "lng": -76.60748,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9216918851,
+    "score": 0
+  },
+  {
+    "id": "sw:reflectionsworldwari",
+    "name": "Reflections World War II Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30406,
+    "lng": -76.62174,
+    "dist": 14.6,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9239126302,
+    "score": 0
+  },
+  {
+    "id": "sw:theflame",
+    "name": "The Flame",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28806,
+    "lng": -76.60834,
+    "dist": 13.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9239283761,
+    "score": 0
+  },
+  {
+    "id": "sw:slomanmonument",
+    "name": "Sloman Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30998,
+    "lng": -76.70734,
+    "dist": 17.0,
+    "description": "Historic: monument",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9253792773,
+    "score": 0
+  },
+  {
+    "id": "sw:pearsonfloristwhereb",
+    "name": "Pearson florist (where Bodie buys flowers)",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.31094,
+    "lng": -76.61666,
+    "dist": 15.0,
+    "description": "",
+    "zone": "Baltimore City",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9450767417,
+    "score": 0
+  },
+  {
+    "id": "sw:clarksvilleenvironme",
+    "name": "Clarksville Environmental Area",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.224,
+    "lng": -76.91775,
+    "dist": 22.2,
+    "description": "Elevation: 117m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249234,
+    "score": 0
+  },
+  {
+    "id": "sw:sharpepoint",
+    "name": "Sharpe Point",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.13808,
+    "lng": -76.83271,
+    "dist": 16.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 674489230,
+    "score": 0
+  },
+  {
+    "id": "sw:mckeldinfalls",
+    "name": "McKeldin Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.35097,
+    "lng": -76.88709,
+    "dist": 25.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1001602347,
+    "score": 0
+  },
+  {
+    "id": "sw:riveroverlook",
+    "name": "River Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.14462,
+    "lng": -76.83868,
+    "dist": 16.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5324779702,
+    "score": 0
+  },
+  {
+    "id": "sw:putneysbridge",
+    "name": "Putney's Bridge",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.32656,
+    "lng": -76.85845,
+    "dist": 23.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6215329556,
+    "score": 0
+  },
+  {
+    "id": "sw:oldquarryfilledwitht",
+    "name": "Old quarry filled with trash",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.32832,
+    "lng": -76.85774,
+    "dist": 23.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6215329709,
+    "score": 0
+  },
+  {
+    "id": "sw:abandoned1958chevero",
+    "name": "Abandoned 1958 Cheverolet Bel Air",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.35071,
+    "lng": -76.86782,
+    "dist": 24.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6225482128,
+    "score": 0
+  },
+  {
+    "id": "sw:cliffoverlookingquar",
+    "name": "Cliff overlooking Quarry Lake",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.34568,
+    "lng": -76.86352,
+    "dist": 24.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6225482338,
+    "score": 0
+  },
+  {
+    "id": "sw:libertydamoverlook",
+    "name": "Liberty Dam Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.3632,
+    "lng": -76.88428,
+    "dist": 25.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6507515940,
+    "score": 0
+  },
+  {
+    "id": "sw:libertydam",
+    "name": "Liberty Dam",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.37609,
+    "lng": -76.89016,
+    "dist": 26.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6754720987,
+    "score": 0
+  },
+  {
+    "id": "sw:olneyfamilyneighborh",
+    "name": "Olney Family Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17216,
+    "lng": -77.07255,
+    "dist": 29.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45153919,
+    "score": 0
+  },
+  {
+    "id": "sw:greenwoodpark",
+    "name": "Greenwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16237,
+    "lng": -77.06467,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45194255,
+    "score": 0
+  },
+  {
+    "id": "sw:longwoodpark",
+    "name": "Longwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17416,
+    "lng": -77.06111,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45211509,
+    "score": 0
+  },
+  {
+    "id": "sw:southeastolneypark",
+    "name": "Southeast Olney Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14386,
+    "lng": -77.06364,
+    "dist": 28.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47318201,
+    "score": 0
+  },
+  {
+    "id": "sw:hopewellpark",
+    "name": "Hopewell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18018,
+    "lng": -76.83401,
+    "dist": 16.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49207946,
+    "score": 0
+  },
+  {
+    "id": "sw:goodhopepark",
+    "name": "Good Hope Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09612,
+    "lng": -76.98545,
+    "dist": 24.2,
+    "description": "Elevation: 146m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 51061040,
+    "score": 0
+  },
+  {
+    "id": "sw:midtownpark",
+    "name": "Midtown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15899,
+    "lng": -76.90492,
+    "dist": 20.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 51465715,
+    "score": 0
+  },
+  {
+    "id": "sw:centennialpark",
+    "name": "Centennial Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24367,
+    "lng": -76.85837,
+    "dist": 19.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 112890679,
+    "score": 0
+  },
+  {
+    "id": "sw:bacontownrecreationa",
+    "name": "Bacontown Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10815,
+    "lng": -76.81681,
+    "dist": 15.2,
+    "description": "Elevation: 67m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 116174942,
+    "score": 0
+  },
+  {
+    "id": "sw:holidayhillspark",
+    "name": "Holiday Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18088,
+    "lng": -76.87877,
+    "dist": 19.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 145290381,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarlanepark",
+    "name": "Cedar Lane Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23107,
+    "lng": -76.88576,
+    "dist": 20.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 146660981,
+    "score": 0
+  },
+  {
+    "id": "sw:hawthornpark",
+    "name": "Hawthorn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20645,
+    "lng": -76.8827,
+    "dist": 20.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 147160401,
+    "score": 0
+  },
+  {
+    "id": "sw:martinroadpark",
+    "name": "Martin Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18731,
+    "lng": -76.87229,
+    "dist": 19.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 147205520,
+    "score": 0
+  },
+  {
+    "id": "sw:atholtonpark",
+    "name": "Atholton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18618,
+    "lng": -76.86664,
+    "dist": 18.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 147302049,
+    "score": 0
+  },
+  {
+    "id": "sw:dickinsonpark",
+    "name": "Dickinson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16619,
+    "lng": -76.86985,
+    "dist": 18.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 149763437,
+    "score": 0
+  },
+  {
+    "id": "sw:huntingtonpark",
+    "name": "Huntington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16136,
+    "lng": -76.84734,
+    "dist": 17.3,
+    "description": "Previous name was: Kings Contrivance Park",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 149781032,
+    "score": 0
+  },
+  {
+    "id": "sw:savagepark",
+    "name": "Savage Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13981,
+    "lng": -76.82948,
+    "dist": 16.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 149801052,
+    "score": 0
+  },
+  {
+    "id": "sw:guilfordpark",
+    "name": "Guilford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15549,
+    "lng": -76.82159,
+    "dist": 15.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 149896968,
+    "score": 0
+  },
+  {
+    "id": "sw:hammondpark",
+    "name": "Hammond Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14572,
+    "lng": -76.88242,
+    "dist": 18.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 150397838,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarvillaheightspar",
+    "name": "Cedar Villa Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17193,
+    "lng": -76.79389,
+    "dist": 14.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 150553289,
+    "score": 0
+  },
+  {
+    "id": "sw:fonthillwetlandspark",
+    "name": "Font Hill Wetlands Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27273,
+    "lng": -76.86042,
+    "dist": 21.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 150681781,
+    "score": 0
+  },
+  {
+    "id": "sw:howardcountyfairgrou",
+    "name": "Howard County Fairgrounds",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31174,
+    "lng": -76.96764,
+    "dist": 27.3,
+    "description": "Elevation: 165m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 156841991,
+    "score": 0
+  },
+  {
+    "id": "sw:columbiapark",
+    "name": "Columbia Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10237,
+    "lng": -76.94354,
+    "dist": 22.0,
+    "description": "Columbia Local Park’s recreational features include a playground, several ball fields, and tennis courts.",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 171586427,
+    "score": 0
+  },
+  {
+    "id": "sw:cypressmedepark",
+    "name": "Cypressmede Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2853,
+    "lng": -76.85344,
+    "dist": 21.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 173992853,
+    "score": 0
+  },
+  {
+    "id": "sw:highridgepark",
+    "name": "High Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11334,
+    "lng": -76.86653,
+    "dist": 17.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 175090198,
+    "score": 0
+  },
+  {
+    "id": "sw:kiwaniswallaspark",
+    "name": "Kiwanis-Wallas Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28031,
+    "lng": -76.8758,
+    "dist": 22.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 176068450,
+    "score": 0
+  },
+  {
+    "id": "sw:oldmainlinepark",
+    "name": "Old Main Line Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3648,
+    "lng": -76.96958,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 180318598,
+    "score": 0
+  },
+  {
+    "id": "sw:westernregionalpark",
+    "name": "Western Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30632,
+    "lng": -77.02903,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 182200458,
+    "score": 0
+  },
+  {
+    "id": "sw:warfieldpondpark",
+    "name": "Warfield Pond Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27536,
+    "lng": -77.02023,
+    "dist": 28.6,
+    "description": "Elevation: 167m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 182891413,
+    "score": 0
+  },
+  {
+    "id": "sw:catonsvillepark",
+    "name": "Catonsville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2791,
+    "lng": -76.75079,
+    "dist": 16.8,
+    "description": "County Parkland · Elevation: 155m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 187726332,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimorehighlandsan",
+    "name": "Baltimore Highlands Annex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24149,
+    "lng": -76.64165,
+    "dist": 11.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 208425543,
+    "score": 0
+  },
+  {
+    "id": "sw:rockdalepark",
+    "name": "Rockdale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35049,
+    "lng": -76.76856,
+    "dist": 21.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 220286739,
+    "score": 0
+  },
+  {
+    "id": "sw:brightondampark",
+    "name": "Brighton Dam Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19111,
+    "lng": -77.00507,
+    "dist": 26.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 226152228,
+    "score": 0
+  },
+  {
+    "id": "sw:gwynnoakpark",
+    "name": "Gwynn Oak Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32659,
+    "lng": -76.71835,
+    "dist": 18.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 232196613,
+    "score": 0
+  },
+  {
+    "id": "sw:vansvillepark",
+    "name": "Vansville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.04744,
+    "lng": -76.88997,
+    "dist": 19.5,
+    "description": "Elevation: 44m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 235985703,
+    "score": 0
+  },
+  {
+    "id": "sw:carriagehillspark",
+    "name": "Carriage Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36705,
+    "lng": -76.81317,
+    "dist": 23.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 236237144,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalvigilancepar",
+    "name": "National Vigilance Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11232,
+    "lng": -76.77484,
+    "dist": 12.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 244111744,
+    "score": 0
+  },
+  {
+    "id": "sw:kevinwoodridgepark",
+    "name": "Kevin & Woodridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29702,
+    "lng": -76.68695,
+    "dist": 15.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 251244538,
+    "score": 0
+  },
+  {
+    "id": "sw:edmondsonheightspark",
+    "name": "Edmondson Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29628,
+    "lng": -76.71805,
+    "dist": 16.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 251941551,
+    "score": 0
+  },
+  {
+    "id": "sw:westernhillscommunit",
+    "name": "Western Hills Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29948,
+    "lng": -76.75166,
+    "dist": 17.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 252993918,
+    "score": 0
+  },
+  {
+    "id": "sw:westviewrecreationar",
+    "name": "Westview Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29167,
+    "lng": -76.74696,
+    "dist": 17.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 253069215,
+    "score": 0
+  },
+  {
+    "id": "sw:alexanderodumpark",
+    "name": "Alexander Odum Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30391,
+    "lng": -76.66985,
+    "dist": 15.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 254025444,
+    "score": 0
+  },
+  {
+    "id": "sw:helenmackallpark",
+    "name": "Helen Mackall Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29553,
+    "lng": -76.65993,
+    "dist": 14.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 255161536,
+    "score": 0
+  },
+  {
+    "id": "sw:josephbeuyssculpture",
+    "name": "Joseph Beuys Sculpture Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25227,
+    "lng": -76.71009,
+    "dist": 13.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 259151486,
+    "score": 0
+  },
+  {
+    "id": "sw:irvingtonpark",
+    "name": "Irvington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27949,
+    "lng": -76.6917,
+    "dist": 14.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 262944613,
+    "score": 0
+  },
+  {
+    "id": "sw:yaleheightspark",
+    "name": "Yale Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27581,
+    "lng": -76.68908,
+    "dist": 14.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 262944616,
+    "score": 0
+  },
+  {
+    "id": "sw:northglenpark",
+    "name": "North Glen Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18234,
+    "lng": -76.62623,
+    "dist": 7.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 263914498,
+    "score": 0
+  },
+  {
+    "id": "sw:bedfordneighborhoodp",
+    "name": "Bedford Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.05402,
+    "lng": -76.85366,
+    "dist": 17.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 264777273,
+    "score": 0
+  },
+  {
+    "id": "sw:maidenchoicepark",
+    "name": "Maiden Choice Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2575,
+    "lng": -76.70347,
+    "dist": 14.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 277707532,
+    "score": 0
+  },
+  {
+    "id": "sw:desotopark",
+    "name": "Desoto Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26606,
+    "lng": -76.65831,
+    "dist": 13.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278446236,
+    "score": 0
+  },
+  {
+    "id": "sw:morrellpark",
+    "name": "Morrell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26395,
+    "lng": -76.64909,
+    "dist": 12.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 279621659,
+    "score": 0
+  },
+  {
+    "id": "sw:willowgrovepark",
+    "name": "Willow Grove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24575,
+    "lng": -76.66712,
+    "dist": 12.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 279670803,
+    "score": 0
+  },
+  {
+    "id": "sw:halethorpecommunityc",
+    "name": "Halethorpe Community Center & Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23869,
+    "lng": -76.68119,
+    "dist": 12.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 281221503,
+    "score": 0
+  },
+  {
+    "id": "sw:lakelandpark",
+    "name": "Lakeland Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25492,
+    "lng": -76.64112,
+    "dist": 11.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 283033503,
+    "score": 0
+  },
+  {
+    "id": "sw:pacastreetpark",
+    "name": "Paca Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26287,
+    "lng": -76.64597,
+    "dist": 12.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 283538339,
+    "score": 0
+  },
+  {
+    "id": "sw:hickoryhillspark",
+    "name": "Hickory Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23444,
+    "lng": -76.64605,
+    "dist": 10.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 283647549,
+    "score": 0
+  },
+  {
+    "id": "sw:northeasthighlandspa",
+    "name": "Northeast Highlands Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24328,
+    "lng": -76.63788,
+    "dist": 11.1,
+    "description": "Hours: Mo-Fr 10:00-15:00",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 283647574,
+    "score": 0
+  },
+  {
+    "id": "sw:hammondspark",
+    "name": "Hammonds Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21373,
+    "lng": -76.62304,
+    "dist": 9.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986521,
+    "score": 0
+  },
+  {
+    "id": "sw:pumphreypark",
+    "name": "Pumphrey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21836,
+    "lng": -76.63562,
+    "dist": 9.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986645,
+    "score": 0
+  },
+  {
+    "id": "sw:jcharleslinthicumpar",
+    "name": "J. Charles Linthicum Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20439,
+    "lng": -76.65426,
+    "dist": 9.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986716,
+    "score": 0
+  },
+  {
+    "id": "sw:linthicumpark",
+    "name": "Linthicum Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20192,
+    "lng": -76.65012,
+    "dist": 9.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986745,
+    "score": 0
+  },
+  {
+    "id": "sw:cabinbranchpark",
+    "name": "Cabin Branch Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19702,
+    "lng": -76.64818,
+    "dist": 8.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986819,
+    "score": 0
+  },
+  {
+    "id": "sw:pleasantvillepark",
+    "name": "Pleasantville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19086,
+    "lng": -76.63052,
+    "dist": 7.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286986959,
+    "score": 0
+  },
+  {
+    "id": "sw:brooklynpark1",
+    "name": "Brooklyn Park #1",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22678,
+    "lng": -76.61889,
+    "dist": 9.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286987030,
+    "score": 0
+  },
+  {
+    "id": "sw:oldriversideplayarea",
+    "name": "Old Riverside Play Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23251,
+    "lng": -76.62058,
+    "dist": 10.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286987032,
+    "score": 0
+  },
+  {
+    "id": "sw:matthewstownharmansc",
+    "name": "Matthewstown-Harmans Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15348,
+    "lng": -76.71384,
+    "dist": 10.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286994314,
+    "score": 0
+  },
+  {
+    "id": "sw:harmanspark",
+    "name": "Harmans Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15489,
+    "lng": -76.71089,
+    "dist": 10.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319357339,
+    "score": 0
+  },
+  {
+    "id": "sw:gelstonpark",
+    "name": "Gelston Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29515,
+    "lng": -76.68635,
+    "dist": 15.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 321874164,
+    "score": 0
+  },
+  {
+    "id": "sw:fayettestreetcommuni",
+    "name": "Fayette Street Community Outreach Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28806,
+    "lng": -76.65344,
+    "dist": 14.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336482359,
+    "score": 0
+  },
+  {
+    "id": "sw:stonegatepark",
+    "name": "Stonegate Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10268,
+    "lng": -77.01797,
+    "dist": 26.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 342809908,
+    "score": 0
+  },
+  {
+    "id": "sw:columbiasportsparkan",
+    "name": "Columbia SportsPark and SkatePark",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22539,
+    "lng": -76.89004,
+    "dist": 20.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 353807655,
+    "score": 0
+  },
+  {
+    "id": "sw:hatlerpark",
+    "name": "Hatler Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12194,
+    "lng": -76.7603,
+    "dist": 12.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 360967213,
+    "score": 0
+  },
+  {
+    "id": "sw:burtonsvillelocalpar",
+    "name": "Burtonsville Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11592,
+    "lng": -76.95498,
+    "dist": 22.6,
+    "description": "Elevation: 143m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791232,
+    "score": 0
+  },
+  {
+    "id": "sw:calvertongalwaylocal",
+    "name": "Calverton-Galway Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.06409,
+    "lng": -76.94894,
+    "dist": 22.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791239,
+    "score": 0
+  },
+  {
+    "id": "sw:cloverlypark",
+    "name": "Cloverly Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10766,
+    "lng": -76.99212,
+    "dist": 24.6,
+    "description": "Elevation: 153m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791255,
+    "score": 0
+  },
+  {
+    "id": "sw:colesvillelocalpark",
+    "name": "Colesville Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08555,
+    "lng": -76.99742,
+    "dist": 24.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791257,
+    "score": 0
+  },
+  {
+    "id": "sw:colesvillemanorneigh",
+    "name": "Colesville Manor Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08215,
+    "lng": -77.00559,
+    "dist": 25.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791258,
+    "score": 0
+  },
+  {
+    "id": "sw:crosscreekclublocalp",
+    "name": "Cross Creek Club Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest"
+    ],
+    "lat": 39.0705,
+    "lng": -76.93727,
+    "dist": 21.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791265,
+    "score": 0
+  },
+  {
+    "id": "sw:edgewoodneighborhood",
+    "name": "Edgewood Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08445,
+    "lng": -76.93789,
+    "dist": 21.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791292,
+    "score": 0
+  },
+  {
+    "id": "sw:ednorlocalpark",
+    "name": "Ednor Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13528,
+    "lng": -76.98633,
+    "dist": 24.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791293,
+    "score": 0
+  },
+  {
+    "id": "sw:mcknewlocalpark",
+    "name": "McKnew Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10174,
+    "lng": -76.91736,
+    "dist": 20.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791481,
+    "score": 0
+  },
+  {
+    "id": "sw:paintbranchneighborh",
+    "name": "Paint Branch Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.07675,
+    "lng": -76.97652,
+    "dist": 23.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791539,
+    "score": 0
+  },
+  {
+    "id": "sw:peachwoodneighborhoo",
+    "name": "Peachwood Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09733,
+    "lng": -76.99686,
+    "dist": 24.8,
+    "description": "Peachwood Neighborhood Park features a playground, multiuse field, and two tennis courts. The picnic area includes an open shelter. · Elevation: 137m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791545,
+    "score": 0
+  },
+  {
+    "id": "sw:santiniroadlocalpark",
+    "name": "Santini Road Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10983,
+    "lng": -76.93891,
+    "dist": 21.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791619,
+    "score": 0
+  },
+  {
+    "id": "sw:tamarackneighborhood",
+    "name": "Tamarack Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.0737,
+    "lng": -76.97673,
+    "dist": 23.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791656,
+    "score": 0
+  },
+  {
+    "id": "sw:tanglewoodneighborho",
+    "name": "Tanglewood Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.07139,
+    "lng": -76.94326,
+    "dist": 22.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791657,
+    "score": 0
+  },
+  {
+    "id": "sw:valleymillspecialpar",
+    "name": "Valley Mill Special Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.0677,
+    "lng": -76.97912,
+    "dist": 24.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791676,
+    "score": 0
+  },
+  {
+    "id": "sw:wembroughneighborhoo",
+    "name": "Wembrough Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10828,
+    "lng": -76.98364,
+    "dist": 24.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791700,
+    "score": 0
+  },
+  {
+    "id": "sw:westfairlandlocalpar",
+    "name": "West Fairland Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.07571,
+    "lng": -76.96574,
+    "dist": 23.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791701,
+    "score": 0
+  },
+  {
+    "id": "sw:pilgrimhillslocalpar",
+    "name": "Pilgrim Hills Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.06376,
+    "lng": -76.97975,
+    "dist": 24.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374905183,
+    "score": 0
+  },
+  {
+    "id": "sw:beltsvillenorthneigh",
+    "name": "Beltsville North Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.05256,
+    "lng": -76.91308,
+    "dist": 20.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 385653340,
+    "score": 0
+  },
+  {
+    "id": "sw:muirkirksouthcommuni",
+    "name": "Muirkirk South Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.05856,
+    "lng": -76.88076,
+    "dist": 18.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 385660928,
+    "score": 0
+  },
+  {
+    "id": "sw:montpeliercommunitya",
+    "name": "Montpelier Community Association",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.05935,
+    "lng": -76.85167,
+    "dist": 17.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 385662312,
+    "score": 0
+  },
+  {
+    "id": "sw:snowdenoakscommunity",
+    "name": "Snowden Oaks Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.06082,
+    "lng": -76.86095,
+    "dist": 17.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 385662316,
+    "score": 0
+  },
+  {
+    "id": "sw:southlaurelneighborh",
+    "name": "South Laurel Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.04726,
+    "lng": -76.83571,
+    "dist": 16.7,
+    "description": "Elevation: 46m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 385940780,
+    "score": 0
+  },
+  {
+    "id": "sw:symphonywoods",
+    "name": "Symphony Woods",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20925,
+    "lng": -76.86323,
+    "dist": 19.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 391037969,
+    "score": 0
+  },
+  {
+    "id": "sw:sterlingparkatemerso",
+    "name": "Sterling Park at Emerson",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14241,
+    "lng": -76.8603,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 430616499,
+    "score": 0
+  },
+  {
+    "id": "sw:baldwincommon",
+    "name": "Baldwin Common",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13707,
+    "lng": -76.82503,
+    "dist": 15.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 431235174,
+    "score": 0
+  },
+  {
+    "id": "sw:riverfrontpark",
+    "name": "Riverfront Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10807,
+    "lng": -76.85171,
+    "dist": 17.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 461238526,
+    "score": 0
+  },
+  {
+    "id": "sw:westlaurel2neighborh",
+    "name": "West Laurel #2 Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10469,
+    "lng": -76.89212,
+    "dist": 19.2,
+    "description": "Hours: dawn-dusk",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468197835,
+    "score": 0
+  },
+  {
+    "id": "sw:thowardduckettcommun",
+    "name": "T. Howard Duckett Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11717,
+    "lng": -76.88776,
+    "dist": 19.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468198038,
+    "score": 0
+  },
+  {
+    "id": "sw:southbranchpark",
+    "name": "South Branch Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36266,
+    "lng": -76.96903,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468486445,
+    "score": 0
+  },
+  {
+    "id": "sw:leoewilsoncommunityp",
+    "name": "Leo E. Wilson Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09862,
+    "lng": -76.87249,
+    "dist": 18.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468588982,
+    "score": 0
+  },
+  {
+    "id": "sw:discoverypark",
+    "name": "Discovery Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09827,
+    "lng": -76.86317,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468589214,
+    "score": 0
+  },
+  {
+    "id": "sw:alicebmcculloughfiel",
+    "name": "Alice B. McCullough Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10603,
+    "lng": -76.85785,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468589659,
+    "score": 0
+  },
+  {
+    "id": "sw:hollypark",
+    "name": "Holly Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08275,
+    "lng": -76.85786,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469077490,
+    "score": 0
+  },
+  {
+    "id": "sw:sweethourspark",
+    "name": "Sweet Hours Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16288,
+    "lng": -76.86448,
+    "dist": 18.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 476861484,
+    "score": 0
+  },
+  {
+    "id": "sw:granvillegudeparklak",
+    "name": "Granville Gude Park & Lakehouse",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09014,
+    "lng": -76.8625,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 479371105,
+    "score": 0
+  },
+  {
+    "id": "sw:hillsidepark",
+    "name": "Hillside Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15424,
+    "lng": -76.89803,
+    "dist": 19.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 492680491,
+    "score": 0
+  },
+  {
+    "id": "sw:maiselstreetpark",
+    "name": "Maisel Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26968,
+    "lng": -76.6466,
+    "dist": 13.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 524637577,
+    "score": 0
+  },
+  {
+    "id": "sw:cypresspark",
+    "name": "Cypress Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08348,
+    "lng": -76.86751,
+    "dist": 17.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 543917104,
+    "score": 0
+  },
+  {
+    "id": "sw:lakeelkhornpark",
+    "name": "Lake Elkhorn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.182,
+    "lng": -76.84148,
+    "dist": 17.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544448978,
+    "score": 0
+  },
+  {
+    "id": "sw:conteeroadpark",
+    "name": "Contee Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.0747,
+    "lng": -76.86142,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544598108,
+    "score": 0
+  },
+  {
+    "id": "sw:dinosaurpark",
+    "name": "Dinosaur Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.07049,
+    "lng": -76.86911,
+    "dist": 18.1,
+    "description": "Park at the approximate site of the discovery of Astrodon dinosaur fossils, encompassing the Muirkirk Deposit which was once an iron mine and continues to be utilized for fossil excavation. Open to visitors and includes a dinosaur-themed play area.",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544646072,
+    "score": 0
+  },
+  {
+    "id": "sw:littlesykesrailwaypa",
+    "name": "Little Sykes Railway Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3663,
+    "lng": -76.96683,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546335027,
+    "score": 0
+  },
+  {
+    "id": "sw:rolandbsweitzercommu",
+    "name": "Roland B. Sweitzer Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10446,
+    "lng": -76.87566,
+    "dist": 18.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 549563995,
+    "score": 0
+  },
+  {
+    "id": "sw:shadowpark",
+    "name": "Shadow Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10498,
+    "lng": -76.79838,
+    "dist": 14.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 549591708,
+    "score": 0
+  },
+  {
+    "id": "sw:northlaurelpark",
+    "name": "North Laurel Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11758,
+    "lng": -76.83864,
+    "dist": 16.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 550463558,
+    "score": 0
+  },
+  {
+    "id": "sw:emancipationcommunit",
+    "name": "Emancipation Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10426,
+    "lng": -76.85681,
+    "dist": 17.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 550486487,
+    "score": 0
+  },
+  {
+    "id": "sw:montpelierpark",
+    "name": "Montpelier Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.06692,
+    "lng": -76.83909,
+    "dist": 16.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 552403655,
+    "score": 0
+  },
+  {
+    "id": "sw:muirkirkwestneighbor",
+    "name": "Muirkirk West Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.0595,
+    "lng": -76.87561,
+    "dist": 18.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 552914601,
+    "score": 0
+  },
+  {
+    "id": "sw:oldsavagedamgates",
+    "name": "Old Savage Dam Gates",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.13655,
+    "lng": -76.83289,
+    "dist": 16.2,
+    "description": "Elevation: 53m · Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249312,
+    "score": 0
+  },
+  {
+    "id": "sw:savagemillhistoricdi",
+    "name": "Savage Mill Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.13642,
+    "lng": -76.82488,
+    "dist": 15.8,
+    "description": "Elevation: 56m · Historic: district",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249437,
+    "score": 0
+  },
+  {
+    "id": "sw:oldquarryworks",
+    "name": "Old Quarry Works",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.14079,
+    "lng": -76.83304,
+    "dist": 16.2,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2156957223,
+    "score": 0
+  },
+  {
+    "id": "sw:millrace",
+    "name": "Mill Race",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19027,
+    "lng": -76.89665,
+    "dist": 20.3,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3687326804,
+    "score": 0
+  },
+  {
+    "id": "sw:august261814",
+    "name": "August 26, 1814",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18038,
+    "lng": -77.0586,
+    "dist": 28.6,
+    "description": "Historic: marker",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328522592,
+    "score": 0
+  },
+  {
+    "id": "sw:elton",
+    "name": "Elton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22263,
+    "lng": -77.05963,
+    "dist": 29.3,
+    "description": "Historic: marker",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328537091,
+    "score": 0
+  },
+  {
+    "id": "sw:coreywalter",
+    "name": "Corey Walter",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11864,
+    "lng": -76.73764,
+    "dist": 11.0,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7487884638,
+    "score": 0
+  },
+  {
+    "id": "sw:granitenationalhisto",
+    "name": "Granite National Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34357,
+    "lng": -76.84799,
+    "dist": 23.6,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8768483235,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 15",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28396,
+    "lng": -76.88323,
+    "dist": 22.5,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161673,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 14",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27964,
+    "lng": -76.86545,
+    "dist": 21.5,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161674,
+    "score": 0
+  },
+  {
+    "id": "sw:scottscoveatrockygor",
+    "name": "Scott’s Cove at Rocky Gorge Reservoir",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.1346,
+    "lng": -76.89177,
+    "dist": 19.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9000025017,
+    "score": 0
+  },
+  {
+    "id": "sw:mentzelpapermill",
+    "name": "Mentzel Paper Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27269,
+    "lng": -76.79154,
+    "dist": 18.1,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9579608099,
+    "score": 0
+  },
+  {
+    "id": "sw:edgardanieldraper",
+    "name": "Edgar Daniel Draper",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31627,
+    "lng": -76.67272,
+    "dist": 16.5,
+    "description": "Ghost bike in memory of Edgar Daniel Draper, 63, who on  was hit and killed on November 19th 2021 by the driver of a Baltimore City Department of General Services Ford F-150 pickup truck near his home in the Hanlon-Longwood neighborhood. · Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9650620463,
+    "score": 0
+  },
+  {
+    "id": "sw:dogwoodwall",
+    "name": "Dogwood Wall",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.3153,
+    "lng": -76.79365,
+    "dist": 20.2,
+    "description": "Locally famous hill climb, popular with cyclists and runners",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9715947161,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 17",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29382,
+    "lng": -76.91814,
+    "dist": 24.4,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779226418,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 20",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30798,
+    "lng": -76.97116,
+    "dist": 27.3,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779308666,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 22",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31698,
+    "lng": -77.00634,
+    "dist": 29.3,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779325019,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 18",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29851,
+    "lng": -76.93585,
+    "dist": 25.4,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779783342,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 13",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27503,
+    "lng": -76.84789,
+    "dist": 20.6,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779802184,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 16",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28803,
+    "lng": -76.901,
+    "dist": 23.4,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779808839,
+    "score": 0
+  },
+  {
+    "id": "sw:catonsvillenine",
+    "name": "Catonsville Nine",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27032,
+    "lng": -76.73971,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779838625,
+    "score": 0
+  },
+  {
+    "id": "sw:castlethunder",
+    "name": "Castle Thunder",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27036,
+    "lng": -76.73949,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779838626,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 7",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2704,
+    "lng": -76.73949,
+    "dist": 15.9,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779838627,
+    "score": 0
+  },
+  {
+    "id": "sw:thenationalroad",
+    "name": "The National Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26871,
+    "lng": -76.80095,
+    "dist": 18.3,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9779838755,
+    "score": 0
+  },
+  {
+    "id": "sw:cooksville",
+    "name": "Cooksville",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32102,
+    "lng": -77.01913,
+    "dist": 30.0,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780757987,
+    "score": 0
+  },
+  {
+    "id": "sw:policeofficerwilliam",
+    "name": "Police Officer William Torbit Way",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29383,
+    "lng": -76.68411,
+    "dist": 15.4,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9802887933,
+    "score": 0
+  },
+  {
+    "id": "sw:grotto",
+    "name": "Grotto",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2506,
+    "lng": -76.76822,
+    "dist": 16.1,
+    "description": "Historic: wayside shrine",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11479248410,
+    "score": 0
+  },
+  {
+    "id": "sw:shrine",
+    "name": "Shrine",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25489,
+    "lng": -76.76706,
+    "dist": 16.3,
+    "description": "Historic: wayside shrine",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11479254899,
+    "score": 0
+  },
+  {
+    "id": "sw:fairytalebridge",
+    "name": "Fairytale Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2525,
+    "lng": -76.77773,
+    "dist": 16.6,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11496005641,
+    "score": 0
+  },
+  {
+    "id": "sw:railroadcrossinglook",
+    "name": "Railroad Crossing Lookout for the Locomotive",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2715,
+    "lng": -76.73335,
+    "dist": 15.8,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11986056397,
+    "score": 0
+  },
+  {
+    "id": "sw:walnuthill",
+    "name": "Walnut Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.17709,
+    "lng": -77.02464,
+    "dist": 26.8,
+    "description": "Historic: manor",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12263488643,
+    "score": 0
+  },
+  {
+    "id": "sw:ellicottsuppermills",
+    "name": "Ellicotts Upper Mills",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31035,
+    "lng": -76.79383,
+    "dist": 19.9,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12335644901,
+    "score": 0
+  },
+  {
+    "id": "sw:harmans",
+    "name": "Harmans",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.16175,
+    "lng": -76.71711,
+    "dist": 10.6,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12806480665,
+    "score": 0
+  },
+  {
+    "id": "sw:ellicottsmills",
+    "name": "Ellicott's Mills",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26797,
+    "lng": -76.79363,
+    "dist": 18.0,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12983975971,
+    "score": 0
+  },
+  {
+    "id": "sw:formercanalgates",
+    "name": "Former Canal Gates",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.13644,
+    "lng": -76.83228,
+    "dist": 16.2,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12994606064,
+    "score": 0
+  },
+  {
+    "id": "sw:stmarysmainsteps",
+    "name": "St. Mary's Main Steps",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25063,
+    "lng": -76.76461,
+    "dist": 16.0,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13065439298,
+    "score": 0
+  },
+  {
+    "id": "sw:capitalsubdivision",
+    "name": "Capital Subdivision",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22147,
+    "lng": -76.71321,
+    "dist": 12.6,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 24513960,
+    "score": 0
+  },
+  {
+    "id": "sw:brookevilleacademy",
+    "name": "Brookeville Academy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18032,
+    "lng": -77.05838,
+    "dist": 28.6,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45208075,
+    "score": 0
+  },
+  {
+    "id": "sw:oakleycabin",
+    "name": "Oakley Cabin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18049,
+    "lng": -77.07204,
+    "dist": 29.3,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45213645,
+    "score": 0
+  },
+  {
+    "id": "sw:mountclarebranch",
+    "name": "Mount Clare Branch",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27506,
+    "lng": -76.65515,
+    "dist": 13.5,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 70649049,
+    "score": 0
+  },
+  {
+    "id": "sw:outwardbound",
+    "name": "Outward Bound",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3049,
+    "lng": -76.70045,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105766826,
+    "score": 0
+  },
+  {
+    "id": "sw:thechapel",
+    "name": "The Chapel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30728,
+    "lng": -76.70022,
+    "dist": 16.7,
+    "description": "Former chapel for the Crimea estate. · Historic: church",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105766835,
+    "score": 0
+  },
+  {
+    "id": "sw:crimeamansion",
+    "name": "Crimea Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30513,
+    "lng": -76.69894,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105766842,
+    "score": 0
+  },
+  {
+    "id": "sw:trailhouse",
+    "name": "Trail House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30712,
+    "lng": -76.70074,
+    "dist": 16.7,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105766894,
+    "score": 0
+  },
+  {
+    "id": "sw:gwynnsfallsstreamval",
+    "name": "Gwynns Falls Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.36706,
+    "lng": -76.7371,
+    "dist": 21.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106375109,
+    "score": 0
+  },
+  {
+    "id": "sw:patapscofemaleinstit",
+    "name": "Patapsco Female Institute",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27085,
+    "lng": -76.7971,
+    "dist": 18.2,
+    "description": "Historic: school",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 113580228,
+    "score": 0
+  },
+  {
+    "id": "sw:albertonroadthrutrai",
+    "name": "Alberton Road/Thru Trail (white)",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.31669,
+    "lng": -76.80518,
+    "dist": 20.7,
+    "description": "Historic: road",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 122296973,
+    "score": 0
+  },
+  {
+    "id": "sw:doughoreganmanor",
+    "name": "Doughoregan Manor",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27662,
+    "lng": -76.89301,
+    "dist": 22.6,
+    "description": "Historic: manor",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 176589691,
+    "score": 0
+  },
+  {
+    "id": "sw:westarlingtonwaterto",
+    "name": "West Arlington Water Tower",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33615,
+    "lng": -76.68653,
+    "dist": 18.0,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 203683645,
+    "score": 0
+  },
+  {
+    "id": "sw:howardcountyconserva",
+    "name": "Howard County Conservancy at Belmont",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22658,
+    "lng": -76.74409,
+    "dist": 14.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 215416140,
+    "score": 0
+  },
+  {
+    "id": "sw:bluepondspark",
+    "name": "Blue Ponds Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.05944,
+    "lng": -76.86871,
+    "dist": 18.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 224819039,
+    "score": 0
+  },
+  {
+    "id": "sw:ba79integratedfireco",
+    "name": "BA-79 Integrated Fire Control Area",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34621,
+    "lng": -76.85687,
+    "dist": 24.1,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 230065937,
+    "score": 0
+  },
+  {
+    "id": "sw:americanicecompany",
+    "name": "American Ice Company",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29383,
+    "lng": -76.65177,
+    "dist": 14.6,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 255250413,
+    "score": 0
+  },
+  {
+    "id": "sw:thepinesfortheinehou",
+    "name": "The Pines, Fort-Heine House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27048,
+    "lng": -76.80041,
+    "dist": 18.3,
+    "description": "Listed both on the National Register of Historic Places, and Maryland Historical Trust · Historic: house",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 288579699,
+    "score": 0
+  },
+  {
+    "id": "sw:emmartpierpontsafeho",
+    "name": "Emmart Pierpont Safe House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.35503,
+    "lng": -76.76641,
+    "dist": 21.4,
+    "description": "Historic: building",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 299183436,
+    "score": 0
+  },
+  {
+    "id": "sw:thomasviaductmarker",
+    "name": "Thomas Viaduct Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22252,
+    "lng": -76.71292,
+    "dist": 12.6,
+    "description": "Historic: monument",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 299369208,
+    "score": 0
+  },
+  {
+    "id": "sw:sceniceasement",
+    "name": "Scenic Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.24912,
+    "lng": -76.7408,
+    "dist": 15.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948841,
+    "score": 0
+  },
+  {
+    "id": "sw:buenavista",
+    "name": "Buena Vista",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30749,
+    "lng": -76.66707,
+    "dist": 15.8,
+    "description": "Historic: manor",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336516921,
+    "score": 0
+  },
+  {
+    "id": "sw:themount",
+    "name": "The Mount",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3088,
+    "lng": -76.68088,
+    "dist": 16.2,
+    "description": "Historic: manor",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336554061,
+    "score": 0
+  },
+  {
+    "id": "sw:springhouse",
+    "name": "Spring House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30441,
+    "lng": -76.69666,
+    "dist": 16.4,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336581851,
+    "score": 0
+  },
+  {
+    "id": "sw:stableruin",
+    "name": "Stable ruin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30808,
+    "lng": -76.70484,
+    "dist": 16.8,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336588837,
+    "score": 0
+  },
+  {
+    "id": "sw:robinsonnaturecenter",
+    "name": "Robinson Nature Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.19031,
+    "lng": -76.89469,
+    "dist": 20.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 364680501,
+    "score": 0
+  },
+  {
+    "id": "sw:simpsonmill",
+    "name": "Simpson Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.1884,
+    "lng": -76.89367,
+    "dist": 20.2,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 364685384,
+    "score": 0
+  },
+  {
+    "id": "sw:bonifantneighborhood",
+    "name": "Bonifant Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.09691,
+    "lng": -77.01458,
+    "dist": 25.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791213,
+    "score": 0
+  },
+  {
+    "id": "sw:calvertonneighborhoo",
+    "name": "Calverton Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.06507,
+    "lng": -76.95982,
+    "dist": 23.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791238,
+    "score": 0
+  },
+  {
+    "id": "sw:duvallroadneighborho",
+    "name": "Duvall Road Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.09106,
+    "lng": -76.95188,
+    "dist": 22.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791289,
+    "score": 0
+  },
+  {
+    "id": "sw:fairdaleroadneighbor",
+    "name": "Fairdale Road Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.08884,
+    "lng": -76.95695,
+    "dist": 22.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791300,
+    "score": 0
+  },
+  {
+    "id": "sw:hopefieldneighborhoo",
+    "name": "Hopefield Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.10682,
+    "lng": -76.97639,
+    "dist": 23.7,
+    "description": "The focal point of Hopefield Neighborhood Park is its inviting playground.",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791372,
+    "score": 0
+  },
+  {
+    "id": "sw:maydaleconservationp",
+    "name": "Maydale Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.10332,
+    "lng": -76.97288,
+    "dist": 23.5,
+    "description": "Maydale Conservation Park, a parcel of land dedicated to environmental preservation, is home to the Maydale Nature Classroom, two ponds, and one of the best quality streams in Montgomery County.",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791478,
+    "score": 0
+  },
+  {
+    "id": "sw:milesroadneighborhoo",
+    "name": "Miles Road Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.09604,
+    "lng": -76.95355,
+    "dist": 22.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791487,
+    "score": 0
+  },
+  {
+    "id": "sw:norwoodvillageneighb",
+    "name": "Norwood Village Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.11625,
+    "lng": -77.04029,
+    "dist": 27.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791520,
+    "score": 0
+  },
+  {
+    "id": "sw:spencervillelocalpar",
+    "name": "Spencerville Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.11171,
+    "lng": -76.97661,
+    "dist": 23.7,
+    "description": "Elevation: 141m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791644,
+    "score": 0
+  },
+  {
+    "id": "sw:twinpondsneighborhoo",
+    "name": "Twinponds Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.10918,
+    "lng": -76.97598,
+    "dist": 23.7,
+    "description": "Twinponds Neighborhood Conservation Area is dedicated to environmental preservation and remains undeveloped for active recreation.",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791668,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgewoodmobilehomep",
+    "name": "Ridgewood Mobile Home Park",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.16515,
+    "lng": -76.71271,
+    "dist": 10.5,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 392537872,
+    "score": 0
+  },
+  {
+    "id": "sw:bridgeabutment",
+    "name": "Bridge Abutment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27572,
+    "lng": -76.65741,
+    "dist": 13.6,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666764631,
+    "score": 0
+  },
+  {
+    "id": "sw:oldemillestateslocal",
+    "name": "Olde Mill Estates Local Open Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38425,
+    "lng": -76.76607,
+    "dist": 23.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666823961,
+    "score": 0
+  },
+  {
+    "id": "sw:owingsoverlookfloodp",
+    "name": "Owings Overlook Flood Plain",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38033,
+    "lng": -76.77122,
+    "dist": 23.0,
+    "description": "Drainage and Utility reservation area owned by Baltimore County Government",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666823962,
+    "score": 0
+  },
+  {
+    "id": "sw:willowglennorth",
+    "name": "Willow Glen North",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.37797,
+    "lng": -76.75612,
+    "dist": 22.4,
+    "description": "Drainage and Utility reservation area owned by Baltimore County Government",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666823966,
+    "score": 0
+  },
+  {
+    "id": "sw:willowglennorthlocal",
+    "name": "Willow Glen North Local Open Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.37733,
+    "lng": -76.7621,
+    "dist": 22.5,
+    "description": "Drainage and Utility reservation area owned by Baltimore County Government",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666823967,
+    "score": 0
+  },
+  {
+    "id": "sw:marriottsvilleroadex",
+    "name": "Marriottsville Road Extension",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.36631,
+    "lng": -76.81363,
+    "dist": 23.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 693130971,
+    "score": 0
+  },
+  {
+    "id": "sw:owingsmillsboulevard",
+    "name": "Owings Mills Boulevard Extension",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.37055,
+    "lng": -76.81549,
+    "dist": 23.8,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 693130972,
+    "score": 0
+  },
+  {
+    "id": "sw:mardellaridgeforestb",
+    "name": "Mardella Ridge Forest Buffer Forest Conservation Reservation",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.36684,
+    "lng": -76.81395,
+    "dist": 23.6,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 693130973,
+    "score": 0
+  },
+  {
+    "id": "sw:rosemontpark",
+    "name": "Rosemont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.29633,
+    "lng": -76.66637,
+    "dist": 15.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 803377606,
+    "score": 0
+  },
+  {
+    "id": "sw:collinsproperty",
+    "name": "Collins Property",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.15023,
+    "lng": -76.8329,
+    "dist": 16.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 896708287,
+    "score": 0
+  },
+  {
+    "id": "sw:uniondamraceembankme",
+    "name": "Union Dam Race Embankment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2939,
+    "lng": -76.78055,
+    "dist": 18.6,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 906010729,
+    "score": 0
+  },
+  {
+    "id": "sw:uniondam",
+    "name": "Union Dam",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29418,
+    "lng": -76.77981,
+    "dist": 18.6,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 906010730,
+    "score": 0
+  },
+  {
+    "id": "sw:shelterruins",
+    "name": "Shelter (ruins)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.23258,
+    "lng": -76.7432,
+    "dist": 14.3,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 919604087,
+    "score": 0
+  },
+  {
+    "id": "sw:menslatrineruins",
+    "name": "Men's Latrine (ruins)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2335,
+    "lng": -76.74336,
+    "dist": 14.4,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 919604088,
+    "score": 0
+  },
+  {
+    "id": "sw:womenslatrineruins",
+    "name": "Women's Latrine (ruins)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2333,
+    "lng": -76.74322,
+    "dist": 14.4,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 919604089,
+    "score": 0
+  },
+  {
+    "id": "sw:houseruins",
+    "name": "House (ruins)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22753,
+    "lng": -76.74078,
+    "dist": 14.0,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 919604090,
+    "score": 0
+  },
+  {
+    "id": "sw:autumnoverlook",
+    "name": "Autumn Overlook",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.25443,
+    "lng": -76.78382,
+    "dist": 17.0,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 920982496,
+    "score": 0
+  },
+  {
+    "id": "sw:woodstockpark",
+    "name": "Woodstock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.31698,
+    "lng": -76.87985,
+    "dist": 23.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 923506533,
+    "score": 0
+  },
+  {
+    "id": "sw:rootcellar",
+    "name": "Root Cellar",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30438,
+    "lng": -76.69624,
+    "dist": 16.4,
+    "description": "Historic: building",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 924396017,
+    "score": 0
+  },
+  {
+    "id": "sw:henrytonbridge",
+    "name": "Henryton Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.35065,
+    "lng": -76.91381,
+    "dist": 26.5,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 925003876,
+    "score": 0
+  },
+  {
+    "id": "sw:farmfieldremnants",
+    "name": "Farm Field Remnants",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25691,
+    "lng": -76.75925,
+    "dist": 16.1,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 971786598,
+    "score": 0
+  },
+  {
+    "id": "sw:lakemarionpark",
+    "name": "Lake Marion Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.13365,
+    "lng": -76.72208,
+    "dist": 10.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 972679409,
+    "score": 0
+  },
+  {
+    "id": "sw:willowcreek",
+    "name": "Willow Creek",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.33135,
+    "lng": -76.80451,
+    "dist": 21.4,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1057254217,
+    "score": 0
+  },
+  {
+    "id": "sw:davidforcecommunityp",
+    "name": "David Force Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.29525,
+    "lng": -76.85996,
+    "dist": 21.9,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1097399686,
+    "score": 0
+  },
+  {
+    "id": "sw:stmarysovalgardenfor",
+    "name": "St. Mary's Oval Garden (former)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25045,
+    "lng": -76.76523,
+    "dist": 16.0,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1237676731,
+    "score": 0
+  },
+  {
+    "id": "sw:latrinepitformer",
+    "name": "Latrine Pit (former)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25082,
+    "lng": -76.77075,
+    "dist": 16.3,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1298147776,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneytrainstation",
+    "name": "Stoney Train Station",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18968,
+    "lng": -76.69801,
+    "dist": 10.6,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1435992908,
+    "score": 0
+  },
+  {
+    "id": "sw:generatorshedformer",
+    "name": "Generator Shed (former)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2418,
+    "lng": -76.74544,
+    "dist": 14.8,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1462177482,
+    "score": 0
+  },
+  {
+    "id": "sw:libertyreservoircoop",
+    "name": "Liberty Reservoir Cooperative Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.4403,
+    "lng": -76.90808,
+    "dist": 30.7,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3618796,
+    "score": 0
+  },
+  {
+    "id": "sw:patuxentriverstatepa",
+    "name": "Patuxent River State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.25138,
+    "lng": -77.09142,
+    "dist": 31.6,
+    "description": "Elevation: 124m",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4209214,
+    "score": 0
+  },
+  {
+    "id": "sw:huggthomaswildlifema",
+    "name": "Hugg-Thomas Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.35766,
+    "lng": -76.97629,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4213584,
+    "score": 0
+  },
+  {
+    "id": "sw:brownscornerneighbor",
+    "name": "Browns Corner Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.11938,
+    "lng": -76.99117,
+    "dist": 24.5,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575323,
+    "score": 0
+  },
+  {
+    "id": "sw:seahorsebeach",
+    "name": "Seahorse Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.33485,
+    "lng": -76.41023,
+    "dist": 53.5,
+    "description": "Elevation: 1m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 158361017,
+    "score": 0
+  },
+  {
+    "id": "sw:covepointbeach",
+    "name": "Cove Point Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.38123,
+    "lng": -76.38717,
+    "dist": 50.5,
+    "description": "Elevation: 1m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246650,
+    "score": 0
+  },
+  {
+    "id": "sw:forthill",
+    "name": "Fort Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.43568,
+    "lng": -76.47801,
+    "dist": 46.3,
+    "description": "Elevation: 35m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246656,
+    "score": 0
+  },
+  {
+    "id": "sw:overlook",
+    "name": "Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.40778,
+    "lng": -76.41305,
+    "dist": 48.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8719895556,
+    "score": 0
+  },
+  {
+    "id": "sw:longbeach",
+    "name": "Long Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.46531,
+    "lng": -76.47121,
+    "dist": 44.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9409203604,
+    "score": 0
+  },
+  {
+    "id": "sw:wildewoodcommunitypa",
+    "name": "Wildewood Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.29822,
+    "lng": -76.54549,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48211884,
+    "score": 0
+  },
+  {
+    "id": "sw:wildewoodpark2",
+    "name": "Wildewood Park #2",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.3067,
+    "lng": -76.54282,
+    "dist": 55.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48211886,
+    "score": 0
+  },
+  {
+    "id": "sw:oakridgepark",
+    "name": "Oak Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.50267,
+    "lng": -76.8275,
+    "dist": 44.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 101464697,
+    "score": 0
+  },
+  {
+    "id": "sw:brandywinearearecrea",
+    "name": "Brandywine Area Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70262,
+    "lng": -76.8602,
+    "dist": 32.8,
+    "description": "Elevation: 69m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 131921613,
+    "score": 0
+  },
+  {
+    "id": "sw:leonardsgrantrecreat",
+    "name": "Leonard's Grant Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.31444,
+    "lng": -76.64386,
+    "dist": 54.9,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 134846399,
+    "score": 0
+  },
+  {
+    "id": "sw:patuxentriverparkcan",
+    "name": "Patuxent River Park Canoe Camp",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.75742,
+    "lng": -76.70146,
+    "dist": 25.6,
+    "description": "Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 216274034,
+    "score": 0
+  },
+  {
+    "id": "sw:pinefieldcommunitypa",
+    "name": "Pinefield Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.65051,
+    "lng": -76.86627,
+    "dist": 36.1,
+    "description": "Elevation: 62m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 240733450,
+    "score": 0
+  },
+  {
+    "id": "sw:whiteplainsregionalp",
+    "name": "White Plains Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57796,
+    "lng": -76.91813,
+    "dist": 41.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 246748881,
+    "score": 0
+  },
+  {
+    "id": "sw:laurelspringspark",
+    "name": "Laurel Springs Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.55223,
+    "lng": -76.94559,
+    "dist": 44.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 246814345,
+    "score": 0
+  },
+  {
+    "id": "sw:wexfordvillagepark",
+    "name": "Wexford Village Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.64491,
+    "lng": -76.91559,
+    "dist": 37.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 256664979,
+    "score": 0
+  },
+  {
+    "id": "sw:northbeachsunrisegar",
+    "name": "North Beach Sunrise Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70522,
+    "lng": -76.53224,
+    "dist": 27.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276832016,
+    "score": 0
+  },
+  {
+    "id": "sw:marleyrunrecreationa",
+    "name": "Marley Run Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.60177,
+    "lng": -76.58108,
+    "dist": 34.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286347441,
+    "score": 0
+  },
+  {
+    "id": "sw:friendshippondpark",
+    "name": "Friendship Pond Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7381,
+    "lng": -76.58906,
+    "dist": 25.4,
+    "description": "Elevation: 34m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286651230,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbaykrauseproperty",
+    "name": "Jug Bay- Krause Property",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77511,
+    "lng": -76.68494,
+    "dist": 24.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286652777,
+    "score": 0
+  },
+  {
+    "id": "sw:browniesbeach",
+    "name": "Brownie's Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.67937,
+    "lng": -76.53252,
+    "dist": 29.3,
+    "description": "Hours: 06:00-21:00",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 290089144,
+    "score": 0
+  },
+  {
+    "id": "sw:hallowingpointdistri",
+    "name": "Hallowing Point District Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.5115,
+    "lng": -76.63186,
+    "dist": 41.3,
+    "description": "Hours: Mar-Nov 08:30-23:00; Dec-Feb 08:30-20:00",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 291613965,
+    "score": 0
+  },
+  {
+    "id": "sw:route260recreationar",
+    "name": "Route 260 Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.75512,
+    "lng": -76.64567,
+    "dist": 24.8,
+    "description": "Elevation: 31m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 291627990,
+    "score": 0
+  },
+  {
+    "id": "sw:jeffersonpattersonpa",
+    "name": "Jefferson Patterson Park and Museum",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.40061,
+    "lng": -76.51075,
+    "dist": 48.6,
+    "description": "Hours: 7:30-sunset, Nov 25 off, Dec 25 off, Jan 1 off",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 294442497,
+    "score": 0
+  },
+  {
+    "id": "sw:bryantownsportscompl",
+    "name": "Bryantown Sports Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.55804,
+    "lng": -76.84548,
+    "dist": 41.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 298693401,
+    "score": 0
+  },
+  {
+    "id": "sw:tilghmanpark",
+    "name": "Tilghman Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54568,
+    "lng": -76.94182,
+    "dist": 44.4,
+    "description": "Elevation: 54m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 299036362,
+    "score": 0
+  },
+  {
+    "id": "sw:robertstethemmemoria",
+    "name": "Robert Stethem Memorial Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.58972,
+    "lng": -76.88634,
+    "dist": 40.3,
+    "description": "Elevation: 55m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 299135962,
+    "score": 0
+  },
+  {
+    "id": "sw:lynwoodtkellammemori",
+    "name": "Lynwood T Kellam Memorial Recreational Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.69338,
+    "lng": -76.53659,
+    "dist": 28.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 330457696,
+    "score": 0
+  },
+  {
+    "id": "sw:covepointpark",
+    "name": "Cove Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.38635,
+    "lng": -76.42174,
+    "dist": 49.9,
+    "description": "Hours: Mar 15-Nov 15: 08:30-23:00; Nov 15-Mar 14: 08:30-15:30",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 332399996,
+    "score": 0
+  },
+  {
+    "id": "sw:boardwalkpark",
+    "name": "Boardwalk Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.68324,
+    "lng": -76.53256,
+    "dist": 29.1,
+    "description": "Hours: 06:00-21:00",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 334355873,
+    "score": 0
+  },
+  {
+    "id": "sw:bayfrontpark",
+    "name": "Bayfront Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.67829,
+    "lng": -76.53392,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336138216,
+    "score": 0
+  },
+  {
+    "id": "sw:drumpointbeach",
+    "name": "Drum Point Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.32022,
+    "lng": -76.42214,
+    "dist": 54.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 397638625,
+    "score": 0
+  },
+  {
+    "id": "sw:hamletspark",
+    "name": "Hamlets Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57752,
+    "lng": -76.90645,
+    "dist": 41.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 414037803,
+    "score": 0
+  },
+  {
+    "id": "sw:cheltenhamrecreation",
+    "name": "Cheltenham Recreational Facility",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7418,
+    "lng": -76.82275,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 452124459,
+    "score": 0
+  },
+  {
+    "id": "sw:cheltenhamtenniscour",
+    "name": "Cheltenham Tennis Courts",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.74213,
+    "lng": -76.82302,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 452124460,
+    "score": 0
+  },
+  {
+    "id": "sw:cheltenhambasketball",
+    "name": "Cheltenham Basketball Courts",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7422,
+    "lng": -76.82263,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 452124461,
+    "score": 0
+  },
+  {
+    "id": "sw:familyseatingareas",
+    "name": "Family Seating Areas",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7419,
+    "lng": -76.82263,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 452124471,
+    "score": 0
+  },
+  {
+    "id": "sw:patuxentriverparkiii",
+    "name": "Patuxent River Park III",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.76741,
+    "lng": -76.73059,
+    "dist": 25.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 464031015,
+    "score": 0
+  },
+  {
+    "id": "sw:longpoint",
+    "name": "Long Point",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.48943,
+    "lng": -76.67426,
+    "dist": 43.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 468769780,
+    "score": 0
+  },
+  {
+    "id": "sw:miedzinskipark",
+    "name": "Miedzinski Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.30399,
+    "lng": -76.63148,
+    "dist": 55.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 473092622,
+    "score": 0
+  },
+  {
+    "id": "sw:chapticopark",
+    "name": "Chaptico Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.37808,
+    "lng": -76.80626,
+    "dist": 52.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 473168040,
+    "score": 0
+  },
+  {
+    "id": "sw:myrtlepointpark",
+    "name": "Myrtle Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.33352,
+    "lng": -76.49692,
+    "dist": 53.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 475084464,
+    "score": 0
+  },
+  {
+    "id": "sw:pimlicopark",
+    "name": "Pimlico Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.53232,
+    "lng": -76.59039,
+    "dist": 39.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544153146,
+    "score": 0
+  },
+  {
+    "id": "sw:calverthistoricalsoc",
+    "name": "Calvert Historical Society Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.53995,
+    "lng": -76.58696,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544156053,
+    "score": 0
+  },
+  {
+    "id": "sw:standrewsestatepark",
+    "name": "St Andrew's Estate Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.29035,
+    "lng": -76.55119,
+    "dist": 56.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544590897,
+    "score": 0
+  },
+  {
+    "id": "sw:billingleyroadpark",
+    "name": "Billingley Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57375,
+    "lng": -76.90597,
+    "dist": 41.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544752149,
+    "score": 0
+  },
+  {
+    "id": "sw:nickspark",
+    "name": "Nicks Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.61353,
+    "lng": -76.88204,
+    "dist": 38.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544761505,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainpark",
+    "name": "Fountain Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.61944,
+    "lng": -76.93137,
+    "dist": 39.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544764084,
+    "score": 0
+  },
+  {
+    "id": "sw:saintlinuspark",
+    "name": "Saint Linus Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.55952,
+    "lng": -76.90867,
+    "dist": 42.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544780306,
+    "score": 0
+  },
+  {
+    "id": "sw:leonardsgrantcommona",
+    "name": "Leonard's Grant Common Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.31527,
+    "lng": -76.64234,
+    "dist": 54.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544792085,
+    "score": 0
+  },
+  {
+    "id": "sw:leonardsgrantcommuni",
+    "name": "Leonard's Grant Community Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.31574,
+    "lng": -76.64169,
+    "dist": 54.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544792925,
+    "score": 0
+  },
+  {
+    "id": "sw:countrylakescommunit",
+    "name": "Country Lakes Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.40545,
+    "lng": -76.77867,
+    "dist": 50.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 545059054,
+    "score": 0
+  },
+  {
+    "id": "sw:kingslandingpark",
+    "name": "Kings Landing Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.62612,
+    "lng": -76.67034,
+    "dist": 33.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 545901476,
+    "score": 0
+  },
+  {
+    "id": "sw:sycamorehollowpark",
+    "name": "Sycamore Hollow Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.29943,
+    "lng": -76.55006,
+    "dist": 55.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546941349,
+    "score": 0
+  },
+  {
+    "id": "sw:laurelridgepark",
+    "name": "Laurel Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.48756,
+    "lng": -76.7487,
+    "dist": 44.1,
+    "description": "6.5 Acre Park with 60' Ball Diamond, Geocaching, Port-A-John, and Picnic Tables. First dedicated in 1993.",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555261978,
+    "score": 0
+  },
+  {
+    "id": "sw:fifthdistrictpark",
+    "name": "Fifth District Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.47752,
+    "lng": -76.76838,
+    "dist": 45.1,
+    "description": "78 Acre Park dedicated in 1979. 60' Ball Diamond, 90' Ball Diamond, Basketball Court, Football Field, Geocaching, Hiking Trails, Horseshoe Pit, Picnic Pavilion, Picnic Tables, Restrooms, Tennis Courts, and Soccer Fields.",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555263831,
+    "score": 0
+  },
+  {
+    "id": "sw:towncreekpark",
+    "name": "Town Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.30261,
+    "lng": -76.49224,
+    "dist": 55.4,
+    "description": "2.5 acre park dedicated in 1971. Picnic Tables, Playground, and Lighted Tennis Courts.",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555273282,
+    "score": 0
+  },
+  {
+    "id": "sw:hughesvillepondpark",
+    "name": "Hughesville Pond Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54844,
+    "lng": -76.80329,
+    "dist": 41.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 575568186,
+    "score": 0
+  },
+  {
+    "id": "sw:hoffmanpark",
+    "name": "Hoffman Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57253,
+    "lng": -76.78302,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 575579446,
+    "score": 0
+  },
+  {
+    "id": "sw:stmatthewspark",
+    "name": "St. Matthews Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57565,
+    "lng": -76.90896,
+    "dist": 41.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 583238405,
+    "score": 0
+  },
+  {
+    "id": "sw:palmdesertpark",
+    "name": "Palm Desert Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57485,
+    "lng": -76.90836,
+    "dist": 41.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 583238432,
+    "score": 0
+  },
+  {
+    "id": "sw:bgefield",
+    "name": "BGE Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.40946,
+    "lng": -76.44657,
+    "dist": 48.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 587460217,
+    "score": 0
+  },
+  {
+    "id": "sw:broadcreekcommunityp",
+    "name": "Broad Creek Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.33667,
+    "lng": -76.56798,
+    "dist": 53.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 588171802,
+    "score": 0
+  },
+  {
+    "id": "sw:gilbertrunpark",
+    "name": "Gilbert Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.49022,
+    "lng": -76.8562,
+    "dist": 45.8,
+    "description": "Hours: Mar Sa-Su 08:00-18:00; Apr-Aug Mo-Fr 08:00-20:00, Sa-Su 07:00-20:00; Sep 08:00-19:00; Oct 08:00-18:00; Nov Sa-Su 08:00-17:00; off",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 637645148,
+    "score": 0
+  },
+  {
+    "id": "sw:willowcreekgardens",
+    "name": "Willow Creek Gardens",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.30715,
+    "lng": -76.55569,
+    "dist": 55.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 695841568,
+    "score": 0
+  },
+  {
+    "id": "sw:hollywoodsoccercompl",
+    "name": "Hollywood Soccer Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.33941,
+    "lng": -76.54031,
+    "dist": 52.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 742649562,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbaynaturalareacam",
+    "name": "Jug Bay Natural Area Camping",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.75732,
+    "lng": -76.70619,
+    "dist": 25.7,
+    "description": "Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 755022867,
+    "score": 0
+  },
+  {
+    "id": "sw:hollawayestatespark",
+    "name": "Hollaway Estates Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.75836,
+    "lng": -76.81968,
+    "dist": 28.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 757990482,
+    "score": 0
+  },
+  {
+    "id": "sw:ottawapark",
+    "name": "Ottawa Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57965,
+    "lng": -76.90966,
+    "dist": 41.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 800479859,
+    "score": 0
+  },
+  {
+    "id": "sw:johnbaggettparkatlau",
+    "name": "John Baggett Park at Laurel Grove",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.40664,
+    "lng": -76.67165,
+    "dist": 48.7,
+    "description": "Elevation: 41m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 871524755,
+    "score": 0
+  },
+  {
+    "id": "sw:breezypointbeach",
+    "name": "Breezy Point Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.62071,
+    "lng": -76.51375,
+    "dist": 33.4,
+    "description": "Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 954029583,
+    "score": 0
+  },
+  {
+    "id": "sw:matoakabeach",
+    "name": "Matoaka Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.47069,
+    "lng": -76.47971,
+    "dist": 43.8,
+    "description": "Hours: Mo-Su 07:00-19:00 · Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 954029593,
+    "score": 0
+  },
+  {
+    "id": "sw:lyonscreekoverlookne",
+    "name": "Lyons Creek Overlook Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.74756,
+    "lng": -76.66675,
+    "dist": 25.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1318207029,
+    "score": 0
+  },
+  {
+    "id": "sw:dealecommunitypark",
+    "name": "Deale Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78521,
+    "lng": -76.55296,
+    "dist": 22.0,
+    "description": "Hours: closed",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1379142050,
+    "score": 0
+  },
+  {
+    "id": "sw:hurryfamilyparkette",
+    "name": "Hurry Family Parkette",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.29085,
+    "lng": -76.63544,
+    "dist": 56.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1431872727,
+    "score": 0
+  },
+  {
+    "id": "sw:crosspointhomeowners",
+    "name": "Cross Point Homeowners recreation area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71672,
+    "lng": -76.6108,
+    "dist": 27.1,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1469968413,
+    "score": 0
+  },
+  {
+    "id": "sw:shepherdproperty",
+    "name": "Shepherd Property",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.80083,
+    "lng": -76.67437,
+    "dist": 22.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4436551,
+    "score": 0
+  },
+  {
+    "id": "sw:pepperidgepark",
+    "name": "Pepperidge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.29797,
+    "lng": -76.55437,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6975232,
+    "score": 0
+  },
+  {
+    "id": "sw:biscoegrayfarm",
+    "name": "Biscoe Gray Farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.48253,
+    "lng": -76.58855,
+    "dist": 43.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 7637123,
+    "score": 0
+  },
+  {
+    "id": "sw:kronsbergpark",
+    "name": "Kronsberg Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71525,
+    "lng": -76.33603,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13021166,
+    "score": 0
+  },
+  {
+    "id": "sw:wardfarmrecreationan",
+    "name": "Ward Farm Recreation and Nature Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71893,
+    "lng": -76.6438,
+    "dist": 27.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13113983,
+    "score": 0
+  },
+  {
+    "id": "sw:flagpondsnaturepark",
+    "name": "Flag Ponds Nature Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.45105,
+    "lng": -76.46314,
+    "dist": 45.3,
+    "description": "Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13180038,
+    "score": 0
+  },
+  {
+    "id": "sw:csapark",
+    "name": "CSA Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54795,
+    "lng": -76.57385,
+    "dist": 38.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14681156,
+    "score": 0
+  },
+  {
+    "id": "sw:wetlandsoverlookpark",
+    "name": "Wetlands Overlook park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71257,
+    "lng": -76.53319,
+    "dist": 27.0,
+    "description": "Wetlands Overlook Park, located at 4030 11th Street, is a small nature park that serves as an attraction for those interested in observing the wildlife inhabitants of the wetlands and the migratory fowl which rest there during the flights up and down the",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 15048474,
+    "score": 0
+  },
+  {
+    "id": "sw:aquascofarmpark",
+    "name": "Aquasco Farm Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.61012,
+    "lng": -76.69767,
+    "dist": 35.2,
+    "description": "Hours: dawn-dusk",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 16650587,
+    "score": 0
+  },
+  {
+    "id": "sw:dunkirkdistrictpark",
+    "name": "Dunkirk District Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7236,
+    "lng": -76.66369,
+    "dist": 27.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 18000819,
+    "score": 0
   }
 ];

@@ -659,7 +659,12 @@ ${extras.length
     onclick="toggleBad('${id}','${tagsJson}')">
     ✗ Not For Me
   </button>
-</div>`;
+</div>
+<a class="modal-maps-btn"
+  href="https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}&travelmode=driving"
+  target="_blank" rel="noopener">
+  🗺 Get Directions
+</a>`;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
 }

@@ -780,6 +780,23 @@ body {
 
 .modal-actions { display: flex; gap: 10px; }
 
+.modal-maps-btn {
+  display: block;
+  margin-top: 12px;
+  padding: 13px;
+  background: #1a3a4a;
+  color: #52b8e8;
+  border: 1px solid rgba(82,184,232,0.3);
+  border-radius: var(--r);
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.2px;
+  transition: background 0.15s;
+}
+.modal-maps-btn:hover { background: #1f4a5e; }
+
 .modal-action-btn {
   flex: 1;
   padding: 13px 10px;
