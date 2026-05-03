@@ -324,7 +324,12 @@ function matchesFilter(p) {
     || p.tags.includes('gems')
     || p.tags.includes('historic');
   if (activeFilter === 'sunset') return p.type === 'sunset'
-    || p.tags.includes('sunset');
+    || p.type === 'viewpoint'
+    || p.tags.includes('sunset')
+    || p.tags.includes('viewpoint')
+    || (p.type === 'water' && p.tags.includes('scenic'))
+    || (p.type === 'hike' && p.tags.includes('scenic'))
+    || (p.type === 'waterfall' && p.tags.includes('scenic'));
   return true;
 }
 
