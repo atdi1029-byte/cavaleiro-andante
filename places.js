@@ -42728,5 +42728,2256 @@ const SWEPT_PLACES = [
     "osmType": "node",
     "osmId": 1341412835,
     "score": 0
+  },
+  {
+    "id": "sw:thebunker",
+    "name": "The Bunker",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45565,
+    "lng": -76.88799,
+    "dist": 30.8,
+    "description": "Elevation: 157m",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241641,
+    "score": 0
+  },
+  {
+    "id": "sw:theoverlook",
+    "name": "The Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.41429,
+    "lng": -76.83587,
+    "dist": 26.9,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2107818991,
+    "score": 0
+  },
+  {
+    "id": "sw:oregonridge",
+    "name": "Oregon Ridge",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.48758,
+    "lng": -76.68396,
+    "dist": 27.7,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4263408301,
+    "score": 0
+  },
+  {
+    "id": "sw:pineypoint",
+    "name": "Piney Point",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.61953,
+    "lng": -76.7196,
+    "dist": 37.0,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4266633005,
+    "score": 0
+  },
+  {
+    "id": "sw:overshotpoint",
+    "name": "Overshot Point",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.48673,
+    "lng": -76.58249,
+    "dist": 26.6,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4420919470,
+    "score": 0
+  },
+  {
+    "id": "sw:phoenixoverlook",
+    "name": "Phoenix Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.50864,
+    "lng": -76.62771,
+    "dist": 28.4,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4633694978,
+    "score": 0
+  },
+  {
+    "id": "sw:twobridges",
+    "name": "Two Bridges",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.50084,
+    "lng": -76.62338,
+    "dist": 27.9,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4660988895,
+    "score": 0
+  },
+  {
+    "id": "sw:doverhill",
+    "name": "Dover Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.53769,
+    "lng": -76.7869,
+    "dist": 32.9,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7623185745,
+    "score": 0
+  },
+  {
+    "id": "sw:gaslinecut",
+    "name": "Gasline Cut",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.48922,
+    "lng": -76.69222,
+    "dist": 28.0,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11215762782,
+    "score": 0
+  },
+  {
+    "id": "sw:mountvista",
+    "name": "Mount Vista",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.46073,
+    "lng": -76.45542,
+    "dist": 25.0,
+    "description": "Elevation: 131m",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12097592547,
+    "score": 0
+  },
+  {
+    "id": "sw:sandymountpark",
+    "name": "Sandymount Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52033,
+    "lng": -76.91628,
+    "dist": 35.3,
+    "description": "Elevation: 216m",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49664304,
+    "score": 0
+  },
+  {
+    "id": "sw:hydesroadpark",
+    "name": "Hydes Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.48179,
+    "lng": -76.48645,
+    "dist": 26.2,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105752127,
+    "score": 0
+  },
+  {
+    "id": "sw:leisterpark",
+    "name": "Leister Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60796,
+    "lng": -76.8421,
+    "dist": 38.5,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106185666,
+    "score": 0
+  },
+  {
+    "id": "sw:barrecirclehistoricd",
+    "name": "Barre Circle Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28483,
+    "lng": -76.62747,
+    "dist": 13.5,
+    "description": "Elevation: 13m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248599,
+    "score": 0
+  },
+  {
+    "id": "sw:butchershillhistoric",
+    "name": "Butchers Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29177,
+    "lng": -76.58747,
+    "dist": 13.3,
+    "description": "Elevation: 37m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248611,
+    "score": 0
+  },
+  {
+    "id": "sw:cathedralhillhistori",
+    "name": "Cathedral Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.294,
+    "lng": -76.61552,
+    "dist": 13.9,
+    "description": "Elevation: 31m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248618,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesvillageabellh",
+    "name": "Charles Village-Abell Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32344,
+    "lng": -76.61469,
+    "dist": 15.8,
+    "description": "Elevation: 65m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248619,
+    "score": 0
+  },
+  {
+    "id": "sw:eutawmadisonapartmen",
+    "name": "Eutaw-Madison Apartment House Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.314,
+    "lng": -76.63719,
+    "dist": 15.5,
+    "description": "Elevation: 73m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248640,
+    "score": 0
+  },
+  {
+    "id": "sw:federalhillhistoricd",
+    "name": "Federal Hill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27929,
+    "lng": -76.60913,
+    "dist": 12.8,
+    "description": "Elevation: 14m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248644,
+    "score": 0
+  },
+  {
+    "id": "sw:fellspointhistoricdi",
+    "name": "Fells Point Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28258,
+    "lng": -76.59329,
+    "dist": 12.8,
+    "description": "Elevation: 2m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248646,
+    "score": 0
+  },
+  {
+    "id": "sw:littlemontgomerystre",
+    "name": "Little Montgomery Street Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28011,
+    "lng": -76.61636,
+    "dist": 13.0,
+    "description": "Elevation: 6m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248711,
+    "score": 0
+  },
+  {
+    "id": "sw:oldgouchercollegebui",
+    "name": "Old Goucher College Buildings",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31598,
+    "lng": -76.61632,
+    "dist": 15.3,
+    "description": "Elevation: 43m · Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249955,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgelysdelighthisto",
+    "name": "Ridgelys Delight Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28483,
+    "lng": -76.62497,
+    "dist": 13.4,
+    "description": "Elevation: 12m · Historic: district",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358249970,
+    "score": 0
+  },
+  {
+    "id": "sw:armisteadmonument",
+    "name": "Armistead Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28024,
+    "lng": -76.60812,
+    "dist": 12.8,
+    "description": "Elevation: 13m · Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358254185,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandlinemonument",
+    "name": "Maryland Line Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30565,
+    "lng": -76.61882,
+    "dist": 14.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 369907237,
+    "score": 0
+  },
+  {
+    "id": "sw:meadowsroadbridge",
+    "name": "Meadows Road Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40067,
+    "lng": -76.7971,
+    "dist": 24.9,
+    "description": "Historic: ruins",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 767894524,
+    "score": 0
+  },
+  {
+    "id": "sw:koreanwarmemorial",
+    "name": "Korean War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2775,
+    "lng": -76.57353,
+    "dist": 12.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1039630720,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofnorthpoint",
+    "name": "Battle of North Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27903,
+    "lng": -76.48684,
+    "dist": 12.4,
+    "description": "Historic: battlefield",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1114578455,
+    "score": 0
+  },
+  {
+    "id": "sw:edmundswell",
+    "name": "Edmunds Well",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3221,
+    "lng": -76.64921,
+    "dist": 16.3,
+    "description": "Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1232705670,
+    "score": 0
+  },
+  {
+    "id": "sw:garrettbridge",
+    "name": "Garrett Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32567,
+    "lng": -76.65082,
+    "dist": 16.6,
+    "description": "Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1233509810,
+    "score": 0
+  },
+  {
+    "id": "sw:morrisfountain",
+    "name": "Morris Fountain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32543,
+    "lng": -76.65049,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1233509830,
+    "score": 0
+  },
+  {
+    "id": "sw:silverspringsite",
+    "name": "Silver Spring (Site)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32612,
+    "lng": -76.64671,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1235945454,
+    "score": 0
+  },
+  {
+    "id": "sw:martinluthermonument",
+    "name": "Martin Luther Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32762,
+    "lng": -76.58887,
+    "dist": 15.7,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1270758186,
+    "score": 0
+  },
+  {
+    "id": "sw:policememorial",
+    "name": "Police Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40012,
+    "lng": -76.60738,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1272176771,
+    "score": 0
+  },
+  {
+    "id": "sw:firememorial",
+    "name": "Fire Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40083,
+    "lng": -76.60727,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1272176961,
+    "score": 0
+  },
+  {
+    "id": "sw:spanishamericanwarme",
+    "name": "Spanish-American War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29459,
+    "lng": -76.57939,
+    "dist": 13.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1291303422,
+    "score": 0
+  },
+  {
+    "id": "sw:fallswayfountain",
+    "name": "Fallsway Fountain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30333,
+    "lng": -76.61178,
+    "dist": 14.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1292299524,
+    "score": 0
+  },
+  {
+    "id": "sw:methodistmeetinghous",
+    "name": "Methodist Meeting House Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2819,
+    "lng": -76.4929,
+    "dist": 12.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1305527550,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimorecityfratern",
+    "name": "Baltimore City Fraternal Order of Police Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29041,
+    "lng": -76.60585,
+    "dist": 13.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1313503951,
+    "score": 0
+  },
+  {
+    "id": "sw:watsonmonument",
+    "name": "Watson Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31104,
+    "lng": -76.6257,
+    "dist": 15.1,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1313588076,
+    "score": 0
+  },
+  {
+    "id": "sw:simnbolvar",
+    "name": "Simón Bolívar",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34353,
+    "lng": -76.62163,
+    "dist": 17.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1346384804,
+    "score": 0
+  },
+  {
+    "id": "sw:goldstarmothersmemor",
+    "name": "Gold Star Mothers Memorial Flagstaff",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.287,
+    "lng": -76.57704,
+    "dist": 12.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1471599817,
+    "score": 0
+  },
+  {
+    "id": "sw:samuelsmithmonument",
+    "name": "Samuel Smith Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2802,
+    "lng": -76.60838,
+    "dist": 12.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1696272869,
+    "score": 0
+  },
+  {
+    "id": "sw:vietnamveteransmemor",
+    "name": "Vietnam Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4007,
+    "lng": -76.60623,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1728229061,
+    "score": 0
+  },
+  {
+    "id": "sw:furnace",
+    "name": "Furnace",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45069,
+    "lng": -76.58631,
+    "dist": 24.1,
+    "description": "Historic: ruins",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1762326515,
+    "score": 0
+  },
+  {
+    "id": "sw:camdenyardsmemorialw",
+    "name": "Camden Yards Memorial Wall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28203,
+    "lng": -76.6206,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1966866733,
+    "score": 0
+  },
+  {
+    "id": "sw:chapinaharrisbust",
+    "name": "Chapin A. Harris Bust",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32483,
+    "lng": -76.6211,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048055,
+    "score": 0
+  },
+  {
+    "id": "sw:remingtonwymanservic",
+    "name": "Remington-Wyman Servicemen Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32669,
+    "lng": -76.62367,
+    "dist": 16.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048155,
+    "score": 0
+  },
+  {
+    "id": "sw:sidneylaniermonument",
+    "name": "Sidney Lanier Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33123,
+    "lng": -76.61816,
+    "dist": 16.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2044048564,
+    "score": 0
+  },
+  {
+    "id": "sw:williamwallacemonume",
+    "name": "William Wallace Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31736,
+    "lng": -76.64134,
+    "dist": 15.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2198902596,
+    "score": 0
+  },
+  {
+    "id": "sw:richardwagnermemoria",
+    "name": "Richard Wagner Memorial Bust",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32133,
+    "lng": -76.64576,
+    "dist": 16.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2198902932,
+    "score": 0
+  },
+  {
+    "id": "sw:pulaskimonument",
+    "name": "Pulaski Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28717,
+    "lng": -76.57706,
+    "dist": 12.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898433,
+    "score": 0
+  },
+  {
+    "id": "sw:starspangledbannerce",
+    "name": "Star Spangled Banner Centennial Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28994,
+    "lng": -76.58356,
+    "dist": 13.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898434,
+    "score": 0
+  },
+  {
+    "id": "sw:taurusstatueremnant",
+    "name": "Taurus Statue Remnant",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29057,
+    "lng": -76.58304,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2289898435,
+    "score": 0
+  },
+  {
+    "id": "sw:wheelmonument",
+    "name": "Wheel Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28147,
+    "lng": -76.61583,
+    "dist": 13.0,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2356341498,
+    "score": 0
+  },
+  {
+    "id": "sw:towsontigerstatue",
+    "name": "Towson Tiger Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39241,
+    "lng": -76.60554,
+    "dist": 20.3,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2436043852,
+    "score": 0
+  },
+  {
+    "id": "sw:williamdonaldshaefer",
+    "name": "William Donald Shaefer Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28435,
+    "lng": -76.61224,
+    "dist": 13.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2502382373,
+    "score": 0
+  },
+  {
+    "id": "sw:columbusobelisk",
+    "name": "Columbus Obelisk",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33634,
+    "lng": -76.57452,
+    "dist": 16.2,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2776518545,
+    "score": 0
+  },
+  {
+    "id": "sw:thepassage",
+    "name": "The Passage",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40037,
+    "lng": -76.60585,
+    "dist": 20.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2806889204,
+    "score": 0
+  },
+  {
+    "id": "sw:harryjeanetteweinber",
+    "name": "Harry & Jeanette Weinberg",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29301,
+    "lng": -76.56737,
+    "dist": 13.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2961992939,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalkatymemorial",
+    "name": "National Katyń Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28318,
+    "lng": -76.60161,
+    "dist": 12.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3432393558,
+    "score": 0
+  },
+  {
+    "id": "sw:billieholidaymonumen",
+    "name": "Billie Holiday Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30118,
+    "lng": -76.63203,
+    "dist": 14.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3492315593,
+    "score": 0
+  },
+  {
+    "id": "sw:homelessofbaltimorec",
+    "name": "Homeless of Baltimore County",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.401,
+    "lng": -76.60642,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3630158001,
+    "score": 0
+  },
+  {
+    "id": "sw:cornerstone",
+    "name": "Cornerstone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.49505,
+    "lng": -76.62211,
+    "dist": 27.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4020242835,
+    "score": 0
+  },
+  {
+    "id": "sw:northamptonfurnace",
+    "name": "Northampton Furnace",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.43658,
+    "lng": -76.58821,
+    "dist": 23.2,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4430858130,
+    "score": 0
+  },
+  {
+    "id": "sw:blacksoldiersstatue",
+    "name": "Black Soldiers Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29091,
+    "lng": -76.61009,
+    "dist": 13.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4503373520,
+    "score": 0
+  },
+  {
+    "id": "sw:severnteacklewallism",
+    "name": "Severn Teackle Wallis Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29759,
+    "lng": -76.61426,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244509,
+    "score": 0
+  },
+  {
+    "id": "sw:georgepeabodymonumen",
+    "name": "George Peabody Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29756,
+    "lng": -76.61504,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244510,
+    "score": 0
+  },
+  {
+    "id": "sw:marquisdelafayettemo",
+    "name": "Marquis de Lafayette Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29721,
+    "lng": -76.61564,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244511,
+    "score": 0
+  },
+  {
+    "id": "sw:johneagerhowardmonum",
+    "name": "John Eager Howard Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2984,
+    "lng": -76.61572,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590244512,
+    "score": 0
+  },
+  {
+    "id": "sw:georgewashingtonbice",
+    "name": "George Washington Bicentennial Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29422,
+    "lng": -76.61558,
+    "dist": 13.9,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4590260242,
+    "score": 0
+  },
+  {
+    "id": "sw:limekiln",
+    "name": "Lime Kiln",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50707,
+    "lng": -76.6285,
+    "dist": 28.3,
+    "description": "Historic: archaeological site",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4689164115,
+    "score": 0
+  },
+  {
+    "id": "sw:hammanncostinwwimeda",
+    "name": "Hammann-Costin WWI Medal of Honor Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3046,
+    "lng": -76.62104,
+    "dist": 14.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4725167483,
+    "score": 0
+  },
+  {
+    "id": "sw:columbusmonument",
+    "name": "Columbus Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31942,
+    "lng": -76.64189,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4753852913,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandspacegrantob",
+    "name": "Maryland Space Grant Observatory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33179,
+    "lng": -76.62327,
+    "dist": 16.5,
+    "description": "Historic: observatory",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4960141081,
+    "score": 0
+  },
+  {
+    "id": "sw:orlinskygrovemarker",
+    "name": "Orlinsky Grove Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32639,
+    "lng": -76.5701,
+    "dist": 15.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4962943325,
+    "score": 0
+  },
+  {
+    "id": "sw:dumbartonfarmpillar",
+    "name": "Dumbarton Farm Pillar",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.37578,
+    "lng": -76.61923,
+    "dist": 19.3,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5183873923,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainatcharlespla",
+    "name": "Fountain at Charles Plaza",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29064,
+    "lng": -76.61602,
+    "dist": 13.6,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5258545703,
+    "score": 0
+  },
+  {
+    "id": "sw:johnmifflinhoodmonum",
+    "name": "John Mifflin Hood Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29267,
+    "lng": -76.61372,
+    "dist": 13.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5515718332,
+    "score": 0
+  },
+  {
+    "id": "sw:josmartmonument",
+    "name": "José Martí Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29411,
+    "lng": -76.59401,
+    "dist": 13.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5579499294,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainatcharlescen",
+    "name": "Fountain at Charles Center",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29063,
+    "lng": -76.61561,
+    "dist": 13.6,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5744155022,
+    "score": 0
+  },
+  {
+    "id": "sw:shieldofbaltimorecit",
+    "name": "Shield of Baltimore City",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.29097,
+    "lng": -76.6162,
+    "dist": 13.7,
+    "description": "",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5744173168,
+    "score": 0
+  },
+  {
+    "id": "sw:mountainpassspring",
+    "name": "Mountain Pass Spring",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32639,
+    "lng": -76.64392,
+    "dist": 16.5,
+    "description": "Historic: yes",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5928349753,
+    "score": 0
+  },
+  {
+    "id": "sw:jameslridgelymonumen",
+    "name": "James L. Ridgely Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29604,
+    "lng": -76.6422,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5931490190,
+    "score": 0
+  },
+  {
+    "id": "sw:koreavietnamwarmemor",
+    "name": "Korea-Vietnam War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30886,
+    "lng": -76.47522,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6020047197,
+    "score": 0
+  },
+  {
+    "id": "sw:lestweforget",
+    "name": "Lest We Forget",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30885,
+    "lng": -76.47415,
+    "dist": 14.5,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6020047198,
+    "score": 0
+  },
+  {
+    "id": "sw:operationenduringfre",
+    "name": "Operation Enduring Freedom Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4007,
+    "lng": -76.60632,
+    "dist": 20.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6206224051,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneno4",
+    "name": "Stone No. 4",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60196,
+    "lng": -76.83057,
+    "dist": 37.9,
+    "description": "Boundary stone of Baltimore and Carroll County as surveyed by surveyor Amon Richards in an 1841 survey per a Maryland General Assembly law (Ch.10 Acts of 1840). · Historic: boundary stone",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6244941949,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneno2",
+    "name": "Stone No. 2",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.54538,
+    "lng": -76.8511,
+    "dist": 34.9,
+    "description": "Boundary stone of Baltimore and Carroll County as surveyed by surveyor Amon Richards in an 1841 survey per a Maryland General Assembly law (Ch.10 Acts of 1840). · Historic: boundary stone",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6244941951,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneno3",
+    "name": "Stone No. 3",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57421,
+    "lng": -76.84102,
+    "dist": 36.4,
+    "description": "Boundary stone of Baltimore and Carroll County as surveyed by surveyor Amon Richards in an 1841 survey per a Maryland General Assembly law (Ch.10 Acts of 1840). · Historic: boundary stone",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6244941952,
+    "score": 0
+  },
+  {
+    "id": "sw:southwestcornerofthe",
+    "name": "Southwest corner of the main arch of the Westminster Turnpike Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48953,
+    "lng": -76.86971,
+    "dist": 32.1,
+    "description": "Boundary stone of Baltimore and Carroll County as surveyed by surveyor Amon Richards in an 1841 survey per a Maryland General Assembly law (Ch.10 Acts of 1840). · Historic: boundary stone",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6244941953,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneno1",
+    "name": "Stone No. 1",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51744,
+    "lng": -76.86033,
+    "dist": 33.5,
+    "description": "Boundary stone of Baltimore and Carroll County as surveyed by surveyor Amon Richards in an 1841 survey per a Maryland General Assembly law (Ch.10 Acts of 1840). · Historic: boundary stone",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6244941954,
+    "score": 0
+  },
+  {
+    "id": "sw:thegoodshepherd",
+    "name": "The Good Shepherd",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32801,
+    "lng": -76.60145,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6515689972,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimorecityfirefig",
+    "name": "Baltimore City Fire Fighters Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29146,
+    "lng": -76.60923,
+    "dist": 13.6,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6515787063,
+    "score": 0
+  },
+  {
+    "id": "sw:fortholabirdmemorial",
+    "name": "Fort Holabird Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26497,
+    "lng": -76.51334,
+    "dist": 11.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6540324043,
+    "score": 0
+  },
+  {
+    "id": "sw:warof1812bombrack",
+    "name": "War of 1812 Bomb & Rack",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28887,
+    "lng": -76.61194,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6762955376,
+    "score": 0
+  },
+  {
+    "id": "sw:latrobemonument",
+    "name": "Latrobe Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29172,
+    "lng": -76.59386,
+    "dist": 13.4,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6849017868,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaswildeymonument",
+    "name": "Thomas Wildey Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.29328,
+    "lng": -76.59396,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6849064322,
+    "score": 0
+  },
+  {
+    "id": "sw:boyslatinathletichal",
+    "name": "Boys' Latin Athletic Hall of Fame Plaque",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37288,
+    "lng": -76.63551,
+    "dist": 19.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981571414,
+    "score": 0
+  },
+  {
+    "id": "sw:lebrunscoachesfieldp",
+    "name": "Lebrun's Coaches Field Plaque",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37194,
+    "lng": -76.63598,
+    "dist": 19.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981589480,
+    "score": 0
+  },
+  {
+    "id": "sw:boyslatinlacrossenat",
+    "name": "Boys' Latin lacrosse national championship years",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37255,
+    "lng": -76.63526,
+    "dist": 19.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981589522,
+    "score": 0
+  },
+  {
+    "id": "sw:historyplaquesofwinn",
+    "name": "History Plaques of Winners",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28418,
+    "lng": -76.49437,
+    "dist": 12.6,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7131844176,
+    "score": 0
+  },
+  {
+    "id": "sw:caldwellfield",
+    "name": "Caldwell Field",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28327,
+    "lng": -76.51548,
+    "dist": 12.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7450040965,
+    "score": 0
+  },
+  {
+    "id": "sw:theunitywall",
+    "name": "The Unity Wall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31231,
+    "lng": -76.61168,
+    "dist": 15.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7472578438,
+    "score": 0
+  },
+  {
+    "id": "sw:calripkensenior",
+    "name": "Cal Ripken Senior",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32944,
+    "lng": -76.60146,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7806724895,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialfieldatthey",
+    "name": "Memorial Field at the Y",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32946,
+    "lng": -76.60149,
+    "dist": 16.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7806724896,
+    "score": 0
+  },
+  {
+    "id": "sw:conradinkreutzermonu",
+    "name": "Conradin Kreutzer Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28828,
+    "lng": -76.58385,
+    "dist": 13.0,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7833984131,
+    "score": 0
+  },
+  {
+    "id": "sw:rogersbastioncannon",
+    "name": "Rogers Bastion Cannon",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28986,
+    "lng": -76.58372,
+    "dist": 13.1,
+    "description": "Historic: cannon",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7840961095,
+    "score": 0
+  },
+  {
+    "id": "sw:baltimoreharrisburge",
+    "name": "Baltimore-Harrisburg Expressway",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42423,
+    "lng": -76.63788,
+    "dist": 22.8,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7975206477,
+    "score": 0
+  },
+  {
+    "id": "sw:thirdandlastcountyal",
+    "name": "Third and Last County Almshouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46015,
+    "lng": -76.62796,
+    "dist": 25.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8095295335,
+    "score": 0
+  },
+  {
+    "id": "sw:defenderstrailsign",
+    "name": "Defender's Trail Sign",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28341,
+    "lng": -76.49065,
+    "dist": 12.6,
+    "description": "Historic: wayside shrine",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8191533699,
+    "score": 0
+  },
+  {
+    "id": "sw:mapaoverpass",
+    "name": "Ma & Pa Overpass",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39848,
+    "lng": -76.60309,
+    "dist": 20.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8731261473,
+    "score": 0
+  },
+  {
+    "id": "sw:fellspoint",
+    "name": "Fells Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28199,
+    "lng": -76.59296,
+    "dist": 12.7,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8739519331,
+    "score": 0
+  },
+  {
+    "id": "sw:americanpsychoanalyt",
+    "name": "American Psychoanalytic Association",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2983,
+    "lng": -76.61597,
+    "dist": 14.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8914830130,
+    "score": 0
+  },
+  {
+    "id": "sw:kellyavebridge",
+    "name": "Kelly Ave Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36718,
+    "lng": -76.64891,
+    "dist": 19.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929236142,
+    "score": 0
+  },
+  {
+    "id": "sw:fortgarrison",
+    "name": "Fort Garrison",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.399,
+    "lng": -76.70769,
+    "dist": 22.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929368565,
+    "score": 0
+  },
+  {
+    "id": "sw:rodgersbastion",
+    "name": "Rodgers Bastion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28986,
+    "lng": -76.58372,
+    "dist": 13.1,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8929646251,
+    "score": 0
+  },
+  {
+    "id": "sw:guthmemorialgateway",
+    "name": "Guth Memorial Gateway",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40907,
+    "lng": -76.60008,
+    "dist": 21.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8947215754,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaspalermo",
+    "name": "Thomas Palermo",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36691,
+    "lng": -76.63435,
+    "dist": 19.0,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8985808489,
+    "score": 0
+  },
+  {
+    "id": "sw:chrisstrail",
+    "name": "Chris's Trail",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.467,
+    "lng": -76.59129,
+    "dist": 25.3,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8988190520,
+    "score": 0
+  },
+  {
+    "id": "sw:lochravenreservoirwa",
+    "name": "Loch Raven Reservoir Watershed Corner",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47363,
+    "lng": -76.59054,
+    "dist": 25.7,
+    "description": "Historic: monument",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8988317465,
+    "score": 0
+  },
+  {
+    "id": "sw:established1926",
+    "name": "Established 1926",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39692,
+    "lng": -76.57926,
+    "dist": 20.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9062858322,
+    "score": 0
+  },
+  {
+    "id": "sw:harveyjburnsjrmemori",
+    "name": "Harvey J. Burns, Jr. Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31997,
+    "lng": -76.63461,
+    "dist": 15.9,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9142686897,
+    "score": 0
+  },
+  {
+    "id": "sw:homewood",
+    "name": "Homewood",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32949,
+    "lng": -76.61801,
+    "dist": 16.2,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9159403603,
+    "score": 0
+  },
+  {
+    "id": "sw:rowlandcirclespectro",
+    "name": "Rowland Circle Spectrograph",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33153,
+    "lng": -76.62288,
+    "dist": 16.4,
+    "description": "Historic: memorial",
+    "zone": "Baltimore County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9169562427,
+    "score": 0
   }
 ];
