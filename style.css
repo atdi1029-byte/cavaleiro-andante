@@ -333,6 +333,49 @@ body {
   z-index: 1;
 }
 
+#discover-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 14px;
+  gap: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.dist-pills {
+  display: flex;
+  gap: 6px;
+}
+.dist-pill {
+  padding: 5px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border-md);
+  background: transparent;
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.dist-pill.active {
+  background: var(--green);
+  color: #04100a;
+  border-color: var(--green);
+  font-weight: 700;
+}
+#surprise-btn {
+  padding: 7px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--gold);
+  background: rgba(200,154,58,0.12);
+  color: var(--gold);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+#surprise-btn:hover { background: rgba(200,154,58,0.22); }
+
 .view-toggle {
   display: flex;
   background: var(--surface);

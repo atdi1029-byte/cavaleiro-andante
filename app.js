@@ -106,6 +106,7 @@ let currentLoc = { ...HOME };
 let places     = [];
 let activeFilter = 'all';
 let activeView   = 'list';
+let maxDist      = 9999;
 let leafletMap, mapMarkers = [];
 
 // ---- Storage Keys ----
@@ -283,6 +284,7 @@ function getPlaceTags(t) {
 // ================================================
 
 function matchesFilter(p) {
+  if (p.dist > maxDist) return false;
   if (activeFilter === 'all')  return p.type !== 'other';
   if (activeFilter === 'hike') return p.type === 'trail'
     || p.tags.includes('hiking');
@@ -930,6 +932,29 @@ document.addEventListener('DOMContentLoaded', () => {
   // Reload button
   document.getElementById('refresh-btn')
     .addEventListener('click', loadPlaces);
+
+  // Distance pills
+  document.querySelectorAll('.dist-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.dist-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      maxDist = parseFloat(btn.dataset.miles);
+      renderList();
+    });
+  });
+
+  // Surprise Me
+  document.getElementById('surprise-btn').addEventListener('click', () => {
+    const vis  = loadSet(SK.visited);
+    const bad  = loadSet(SK.bad);
+    const pool = ranked(places.filter(p =>
+      matchesFilter(p) && !vis.has(p.id) && !bad.has(p.id)
+    ));
+    if (!pool.length) return;
+    // Pick randomly from top 30 so it's not always the same
+    const pick = pool[Math.floor(Math.random() * Math.min(30, pool.length))];
+    openModal(pick.id);
+  });
 
   // Modal close
   document.getElementById('modal-close')
