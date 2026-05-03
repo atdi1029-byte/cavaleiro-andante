@@ -28,38 +28,50 @@ ZONES = [
   { "name": "Southern Maryland",       "lat": 38.550, "lng": -76.600, "radius": 30000 },
   { "name": "Northern Virginia",       "lat": 38.850, "lng": -77.200, "radius": 25000 },
   { "name": "Shenandoah & Western MD", "lat": 38.900, "lng": -78.000, "radius": 40000 },
+  { "name": "Harpers Ferry & Loudoun", "lat": 39.325, "lng": -77.730, "radius": 30000 },
   { "name": "Frederick & Catoctin",    "lat": 39.415, "lng": -77.410, "radius": 28000 },
   { "name": "Philadelphia & Delaware", "lat": 39.950, "lng": -75.165, "radius": 25000 },
+  { "name": "Deep Creek & Garrett County", "lat": 39.530, "lng": -79.300, "radius": 30000 },
+  { "name": "WV Highlands",            "lat": 38.830, "lng": -79.370, "radius": 30000 },
+  { "name": "Gettysburg & Adams County","lat": 39.830, "lng": -77.230, "radius": 28000 },
+  { "name": "Assateague & Lower Shore", "lat": 38.100, "lng": -75.450, "radius": 30000 },
+  { "name": "Delaware Beaches",        "lat": 38.720, "lng": -75.080, "radius": 25000 },
+  { "name": "Upper Chesapeake & Elk Neck","lat": 39.520, "lng": -76.050, "radius": 28000 },
 ]
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 PLACES_JS    = os.path.join(os.path.dirname(__file__), "places.js")
 HOME         = (39.1037, -76.5338)  # Pasadena MD
 
-# ── OVERPASS QUERY ────────────────────────────────────────────
-def build_query(lat, lng, radius):
+# ── OVERPASS QUERIES (split into two to avoid timeout) ────────
+def build_query_nature(lat, lng, radius):
     r = radius
     return (
-        f"[out:json][timeout:60];"
+        f"[out:json][timeout:45];"
         f"("
         f'node["natural"="waterfall"](around:{r},{lat},{lng});'
-        f'way["natural"="water"]["name"](around:{r},{lat},{lng});'
+        f'node["waterway"="waterfall"](around:{r},{lat},{lng});'
         f'node["natural"="beach"]["name"](around:{r},{lat},{lng});'
         f'way["natural"="beach"]["name"](around:{r},{lat},{lng});'
         f'node["natural"="peak"]["name"](around:{r},{lat},{lng});'
+        f'node["tourism"="viewpoint"]["name"](around:{r},{lat},{lng});'
         f'way["leisure"="park"]["name"](around:{r},{lat},{lng});'
         f'relation["leisure"="park"]["name"](around:{r},{lat},{lng});'
+        f');\nout center 200;'
+    )
+
+def build_query_historic(lat, lng, radius):
+    r = radius
+    return (
+        f"[out:json][timeout:45];"
+        f"("
+        f'node["historic"]["name"](around:{r},{lat},{lng});'
+        f'way["historic"]["name"](around:{r},{lat},{lng});'
         f'way["leisure"="nature_reserve"]["name"](around:{r},{lat},{lng});'
         f'relation["leisure"="nature_reserve"]["name"](around:{r},{lat},{lng});'
         f'relation["boundary"="national_park"]["name"](around:{r},{lat},{lng});'
-        f'relation["boundary"="protected_area"]["name"](around:{r},{lat},{lng});'
-        f'relation["route"="hiking"]["name"](around:{r},{lat},{lng});'
-        f'node["tourism"="viewpoint"]["name"](around:{r},{lat},{lng});'
         f'node["tourism"="attraction"]["name"](around:{r},{lat},{lng});'
-        f'node["historic"]["name"](around:{r},{lat},{lng});'
-        f'way["historic"]["name"](around:{r},{lat},{lng});'
-        f'node["waterway"="waterfall"](around:{r},{lat},{lng});'
-        f');\nout center 300;'
+        f');\nout center 150;'
     )
 
 def fetch_overpass(query):
@@ -220,19 +232,22 @@ def save_sweep_status(status):
 # ── MAIN ──────────────────────────────────────────────────────
 def sweep_zone(zone, existing_places, existing_names):
     print(f"\n🔍 Sweeping: {zone['name']}")
-    try:
-        q    = build_query(zone["lat"], zone["lng"], zone["radius"])
-        data = fetch_overpass(q)
-        new  = parse(data, zone["name"])
-        added = [p for p in new if p["name"].lower() not in existing_names]
-        for p in added:
-            existing_names.add(p["name"].lower())
-            existing_places.append(p)
-        print(f"  ✓ Found {len(new)} places, added {len(added)} new")
-        return len(added)
-    except Exception as e:
-        print(f"  ✗ Failed: {e}")
-        return 0
+    total_new, total_added = 0, 0
+    for label, qfn in [("nature", build_query_nature), ("historic", build_query_historic)]:
+        try:
+            q    = qfn(zone["lat"], zone["lng"], zone["radius"])
+            data = fetch_overpass(q)
+            new  = parse(data, zone["name"])
+            added = [p for p in new if p["name"].lower() not in existing_names]
+            for p in added:
+                existing_names.add(p["name"].lower())
+                existing_places.append(p)
+            total_new += len(new); total_added += len(added)
+            time.sleep(2)
+        except Exception as e:
+            print(f"  ✗ {label} query failed: {e}")
+    print(f"  ✓ Found {total_new} places, added {total_added} new")
+    return total_added
 
 def main():
     args = sys.argv[1:]

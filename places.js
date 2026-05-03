@@ -48633,5 +48633,3116 @@ const SWEPT_PLACES = [
     "osmType": "way",
     "osmId": 248158871,
     "score": 0
+  },
+  {
+    "id": "sw:jeffersonrock",
+    "name": "Jefferson Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.32252,
+    "lng": -77.73345,
+    "dist": 66.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 27074612,
+    "score": 0
+  },
+  {
+    "id": "sw:loudounheights",
+    "name": "Loudoun Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.30788,
+    "lng": -77.7386,
+    "dist": 66.0,
+    "description": "Elevation: 358m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356514932,
+    "score": 0
+  },
+  {
+    "id": "sw:snyderhill",
+    "name": "Snyder Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.26816,
+    "lng": -77.79333,
+    "dist": 68.4,
+    "description": "Elevation: 200m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525287,
+    "score": 0
+  },
+  {
+    "id": "sw:whitehill",
+    "name": "White Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.31871,
+    "lng": -77.99611,
+    "dist": 79.7,
+    "description": "Elevation: 170m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535572,
+    "score": 0
+  },
+  {
+    "id": "sw:purcellknob",
+    "name": "Purcell Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.25816,
+    "lng": -77.74972,
+    "dist": 66.0,
+    "description": "Elevation: 368m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582041,
+    "score": 0
+  },
+  {
+    "id": "sw:shorthillmountain",
+    "name": "Short Hill Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.26915,
+    "lng": -77.70682,
+    "dist": 63.9,
+    "description": "Elevation: 441m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356587005,
+    "score": 0
+  },
+  {
+    "id": "sw:devilsbackbone",
+    "name": "Devils Backbone",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54788,
+    "lng": -77.70444,
+    "dist": 69.7,
+    "description": "Elevation: 156m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241510,
+    "score": 0
+  },
+  {
+    "id": "sw:ferryhill",
+    "name": "Ferry Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.43882,
+    "lng": -77.79762,
+    "dist": 71.5,
+    "description": "Elevation: 134m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358252980,
+    "score": 0
+  },
+  {
+    "id": "sw:nicodemusheights",
+    "name": "Nicodemus Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.4851,
+    "lng": -77.7586,
+    "dist": 70.6,
+    "description": "Elevation: 152m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253035,
+    "score": 0
+  },
+  {
+    "id": "sw:hauserridge",
+    "name": "Hauser Ridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.4751,
+    "lng": -77.75833,
+    "dist": 70.3,
+    "description": "Elevation: 152m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253813,
+    "score": 0
+  },
+  {
+    "id": "sw:weathertopknoboverlo",
+    "name": "WeatherTop Knob & Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.22161,
+    "lng": -77.78673,
+    "dist": 67.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2889639354,
+    "score": 0
+  },
+  {
+    "id": "sw:waterfordpeak",
+    "name": "Waterford Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.18562,
+    "lng": -77.57305,
+    "dist": 56.0,
+    "description": "Elevation: 361m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3984344539,
+    "score": 0
+  },
+  {
+    "id": "sw:splitrock",
+    "name": "Split Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.32046,
+    "lng": -77.7206,
+    "dist": 65.3,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4200540638,
+    "score": 0
+  },
+  {
+    "id": "sw:huckleberryhill",
+    "name": "Huckleberry Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.34211,
+    "lng": -77.74969,
+    "dist": 67.1,
+    "description": "Elevation: 196m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4247059182,
+    "score": 0
+  },
+  {
+    "id": "sw:neersville",
+    "name": "Neersville",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.23806,
+    "lng": -77.77116,
+    "dist": 66.9,
+    "description": "Elevation: 467m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5991507250,
+    "score": 0
+  },
+  {
+    "id": "sw:rivervista",
+    "name": "River Vista",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.30755,
+    "lng": -77.76284,
+    "dist": 67.3,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12289111139,
+    "score": 0
+  },
+  {
+    "id": "sw:idaleepark",
+    "name": "Ida Lee Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12534,
+    "lng": -77.56631,
+    "dist": 55.4,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 99215685,
+    "score": 0
+  },
+  {
+    "id": "sw:rotarypark",
+    "name": "Rotary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11726,
+    "lng": -77.5622,
+    "dist": 55.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115446654,
+    "score": 0
+  },
+  {
+    "id": "sw:robinsonpark",
+    "name": "Robinson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12258,
+    "lng": -77.54929,
+    "dist": 54.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 116044459,
+    "score": 0
+  },
+  {
+    "id": "sw:foxridgepark",
+    "name": "Foxridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11493,
+    "lng": -77.58095,
+    "dist": 56.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 133677135,
+    "score": 0
+  },
+  {
+    "id": "sw:brandonpark",
+    "name": "Brandon Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10552,
+    "lng": -77.56046,
+    "dist": 55.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 141160511,
+    "score": 0
+  },
+  {
+    "id": "sw:raflopark",
+    "name": "Raflo Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10872,
+    "lng": -77.56317,
+    "dist": 55.2,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 141160512,
+    "score": 0
+  },
+  {
+    "id": "sw:georgetownpark",
+    "name": "Georgetown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11251,
+    "lng": -77.56668,
+    "dist": 55.4,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 141444425,
+    "score": 0
+  },
+  {
+    "id": "sw:freedompark",
+    "name": "Freedom Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.08805,
+    "lng": -77.56947,
+    "dist": 55.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 141564813,
+    "score": 0
+  },
+  {
+    "id": "sw:carrvalepark",
+    "name": "Carrvale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11817,
+    "lng": -77.54365,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142059433,
+    "score": 0
+  },
+  {
+    "id": "sw:greenwaypark",
+    "name": "Greenway Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09207,
+    "lng": -77.5878,
+    "dist": 56.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142060273,
+    "score": 0
+  },
+  {
+    "id": "sw:tuscaroracreekpark",
+    "name": "Tuscarora Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.09571,
+    "lng": -77.54339,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142060758,
+    "score": 0
+  },
+  {
+    "id": "sw:edwardslandingpark",
+    "name": "Edwards Landing Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12192,
+    "lng": -77.5249,
+    "dist": 53.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142062492,
+    "score": 0
+  },
+  {
+    "id": "sw:devilsbackbonepark",
+    "name": "Devil’s Backbone Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53909,
+    "lng": -77.71075,
+    "dist": 69.7,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 146380721,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonolddominio",
+    "name": "Washington & Old Dominion Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10559,
+    "lng": -77.55583,
+    "dist": 54.8,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 225000058,
+    "score": 0
+  },
+  {
+    "id": "sw:oldeisaakwaltonpark",
+    "name": "Olde Isaak Walton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.10211,
+    "lng": -77.56839,
+    "dist": 55.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 225269006,
+    "score": 0
+  },
+  {
+    "id": "sw:oatesdalepark",
+    "name": "Oatesdale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46817,
+    "lng": -77.96593,
+    "dist": 80.6,
+    "description": "Elevation: 137m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 239376267,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtoncountyagri",
+    "name": "Washington County Agricultural Education Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51376,
+    "lng": -77.74282,
+    "dist": 70.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 279933717,
+    "score": 0
+  },
+  {
+    "id": "sw:firemansfieldpark",
+    "name": "Fireman's Field Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13325,
+    "lng": -77.71524,
+    "dist": 63.4,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 284323052,
+    "score": 0
+  },
+  {
+    "id": "sw:bearsdenpark",
+    "name": "Bears Den Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11083,
+    "lng": -77.85196,
+    "dist": 70.7,
+    "description": "Elevation: 409m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 307460444,
+    "score": 0
+  },
+  {
+    "id": "sw:harpersferrychildren",
+    "name": "Harpers Ferry Children's Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32569,
+    "lng": -77.742,
+    "dist": 66.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 328483727,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahlakebeach",
+    "name": "Shenandoah Lake Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.20994,
+    "lng": -77.81421,
+    "dist": 69.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 396807267,
+    "score": 0
+  },
+  {
+    "id": "sw:lancastercircle",
+    "name": "Lancaster Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29525,
+    "lng": -77.86043,
+    "dist": 72.3,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 463321791,
+    "score": 0
+  },
+  {
+    "id": "sw:morgansgrovepark",
+    "name": "Morgan's Grove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42105,
+    "lng": -77.82188,
+    "dist": 72.3,
+    "description": "Hours: dawn-dusk",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469212820,
+    "score": 0
+  },
+  {
+    "id": "sw:whitingsneck",
+    "name": "WHITINGS NECK",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51109,
+    "lng": -77.84873,
+    "dist": 75.7,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469620437,
+    "score": 0
+  },
+  {
+    "id": "sw:rosehillpark",
+    "name": "Rose Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14978,
+    "lng": -77.98095,
+    "dist": 77.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 471662017,
+    "score": 0
+  },
+  {
+    "id": "sw:chetmonetpark",
+    "name": "Chet Monet Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16161,
+    "lng": -78.00522,
+    "dist": 79.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 471662033,
+    "score": 0
+  },
+  {
+    "id": "sw:ambrosepark",
+    "name": "Ambrose Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45292,
+    "lng": -77.97987,
+    "dist": 81.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 486658668,
+    "score": 0
+  },
+  {
+    "id": "sw:lambertpark",
+    "name": "Lambert Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46925,
+    "lng": -77.95077,
+    "dist": 79.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 533801657,
+    "score": 0
+  },
+  {
+    "id": "sw:oakstreetpark",
+    "name": "Oak Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45252,
+    "lng": -77.95891,
+    "dist": 79.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 533809790,
+    "score": 0
+  },
+  {
+    "id": "sw:jamesrumseypark",
+    "name": "James Rumsey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4328,
+    "lng": -77.79942,
+    "dist": 71.4,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 533809791,
+    "score": 0
+  },
+  {
+    "id": "sw:charlottepratherpark",
+    "name": "Charlotte Prather Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44779,
+    "lng": -77.96299,
+    "dist": 80.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 545577976,
+    "score": 0
+  },
+  {
+    "id": "sw:pofaulknerpark",
+    "name": "P.O. Faulkner Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45069,
+    "lng": -77.96205,
+    "dist": 80.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 545579253,
+    "score": 0
+  },
+  {
+    "id": "sw:roushfield",
+    "name": "Roush Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4584,
+    "lng": -77.98082,
+    "dist": 81.2,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546322143,
+    "score": 0
+  },
+  {
+    "id": "sw:nellboonepark",
+    "name": "Nell Boone Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.29043,
+    "lng": -77.7208,
+    "dist": 64.9,
+    "description": "Elevation: 177m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555009473,
+    "score": 0
+  },
+  {
+    "id": "sw:martinlutherkingjrpa",
+    "name": "Martin Luther King Jr. Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45984,
+    "lng": -77.97049,
+    "dist": 80.7,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 581742223,
+    "score": 0
+  },
+  {
+    "id": "sw:leelandpark",
+    "name": "Leeland Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46106,
+    "lng": -77.97185,
+    "dist": 80.8,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 585443341,
+    "score": 0
+  },
+  {
+    "id": "sw:southjeffersonpark",
+    "name": "South Jefferson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26459,
+    "lng": -77.97412,
+    "dist": 77.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 608719768,
+    "score": 0
+  },
+  {
+    "id": "sw:jeffersoncountyfairg",
+    "name": "Jefferson County Fairgrounds",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33364,
+    "lng": -77.90379,
+    "dist": 75.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 609631978,
+    "score": 0
+  },
+  {
+    "id": "sw:roundhilltownpark",
+    "name": "Round Hill Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13247,
+    "lng": -77.76815,
+    "dist": 66.2,
+    "description": "Recently added park to Round Hill.  Hosts movies on the lawn and many town events.",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 628455341,
+    "score": 0
+  },
+  {
+    "id": "sw:roundhillcenterpark",
+    "name": "Round Hill Center Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13582,
+    "lng": -77.77395,
+    "dist": 66.5,
+    "description": "Local park in Round Hill with 3 baseball fields, a playground, and open fields for other sports. Home of the District 16 Little League team.",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 628455343,
+    "score": 0
+  },
+  {
+    "id": "sw:secretpark",
+    "name": "Secret Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.48521,
+    "lng": -77.90518,
+    "dist": 77.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 632043098,
+    "score": 0
+  },
+  {
+    "id": "sw:riveraccess",
+    "name": "River Access",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.13118,
+    "lng": -77.88236,
+    "dist": 72.3,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649606055,
+    "score": 0
+  },
+  {
+    "id": "sw:hamiltoncommunitypar",
+    "name": "Hamilton Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.1344,
+    "lng": -77.6664,
+    "dist": 60.8,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653306802,
+    "score": 0
+  },
+  {
+    "id": "sw:loudounvalleycommuni",
+    "name": "Loudoun Valley Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13203,
+    "lng": -77.71908,
+    "dist": 63.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653306806,
+    "score": 0
+  },
+  {
+    "id": "sw:hillsborocommunityce",
+    "name": "Hillsboro Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19857,
+    "lng": -77.72062,
+    "dist": 63.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653306808,
+    "score": 0
+  },
+  {
+    "id": "sw:sleeterlake",
+    "name": "Sleeter Lake",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12464,
+    "lng": -77.75468,
+    "dist": 65.5,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653306809,
+    "score": 0
+  },
+  {
+    "id": "sw:wodtrail",
+    "name": "W&OD Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14364,
+    "lng": -77.69304,
+    "dist": 62.2,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653310435,
+    "score": 0
+  },
+  {
+    "id": "sw:thechapmandemarytrai",
+    "name": "The Chapman DeMary Trail Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14133,
+    "lng": -77.71183,
+    "dist": 63.2,
+    "description": "John DeMary, Loudoun Valley High School (LVHS) teacher and naturalist, and his students presented their vision of creating an outdoor classroom on 10 acres of undeveloped land near their school. John Chapman helped make that dream come true.",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 653310448,
+    "score": 0
+  },
+  {
+    "id": "sw:fountaindalepark",
+    "name": "Fountaindale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42979,
+    "lng": -77.5131,
+    "dist": 57.0,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 673680449,
+    "score": 0
+  },
+  {
+    "id": "sw:galynmanorgreenpark",
+    "name": "Galyn Manor Green Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32177,
+    "lng": -77.60712,
+    "dist": 59.4,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 679281705,
+    "score": 0
+  },
+  {
+    "id": "sw:symingtoncabinpark",
+    "name": "Symington Cabin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2234,
+    "lng": -77.56191,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 692450678,
+    "score": 0
+  },
+  {
+    "id": "sw:springdaleregionalpa",
+    "name": "Springdale Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25746,
+    "lng": -77.53358,
+    "dist": 54.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 692839917,
+    "score": 0
+  },
+  {
+    "id": "sw:taylorpark",
+    "name": "Taylor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.49083,
+    "lng": -77.69518,
+    "dist": 67.6,
+    "description": "Hours: Mo-Su 8:00-22:00",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 797122532,
+    "score": 0
+  },
+  {
+    "id": "sw:bolivarcommunitypark",
+    "name": "Bolivar Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32433,
+    "lng": -77.75089,
+    "dist": 66.9,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 841960940,
+    "score": 0
+  },
+  {
+    "id": "sw:othelloregionalpark",
+    "name": "Othello Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34496,
+    "lng": -77.60417,
+    "dist": 59.7,
+    "description": "Hours: 08:00-22:00",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 845429711,
+    "score": 0
+  },
+  {
+    "id": "sw:mightymidgetkitchen",
+    "name": "Mighty Midget Kitchen",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.11271,
+    "lng": -77.56245,
+    "dist": 55.2,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 343272632,
+    "score": 0
+  },
+  {
+    "id": "sw:rumseymonument",
+    "name": "Rumsey Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.43282,
+    "lng": -77.7991,
+    "dist": 71.4,
+    "description": "Elevation: 119m · Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356521055,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgeroadhistoricdis",
+    "name": "Ridge Road Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.4626,
+    "lng": -78.02,
+    "dist": 83.3,
+    "description": "Elevation: 171m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535353,
+    "score": 0
+  },
+  {
+    "id": "sw:swanpondmanorhistori",
+    "name": "Swan Pond Manor Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.46927,
+    "lng": -77.8775,
+    "dist": 76.2,
+    "description": "Elevation: 139m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535545,
+    "score": 0
+  },
+  {
+    "id": "sw:tuscaroracreekhistor",
+    "name": "Tuscarora Creek Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.46919,
+    "lng": -77.98073,
+    "dist": 81.4,
+    "description": "Elevation: 144m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535548,
+    "score": 0
+  },
+  {
+    "id": "sw:bunkerhillhistoricdi",
+    "name": "Bunker Hill Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.33343,
+    "lng": -78.05389,
+    "dist": 82.9,
+    "description": "Elevation: 171m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535558,
+    "score": 0
+  },
+  {
+    "id": "sw:millcreekhistoricdis",
+    "name": "Mill Creek Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.33482,
+    "lng": -78.05361,
+    "dist": 82.9,
+    "description": "Elevation: 166m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535566,
+    "score": 0
+  },
+  {
+    "id": "sw:johnbrownmonument",
+    "name": "John Brown Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32346,
+    "lng": -77.72989,
+    "dist": 65.8,
+    "description": "Commemorated here is the original location of the \"John Brown Fort\", the Federal Armory's fire engine house, where abolitionist John Brown and his raiders were captured by U.S. Marines on October 18, 1859. · Elevation: 83m · Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535602,
+    "score": 0
+  },
+  {
+    "id": "sw:middlewayhistoricdis",
+    "name": "Middleway Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.30425,
+    "lng": -77.9825,
+    "dist": 78.8,
+    "description": "Elevation: 152m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535609,
+    "score": 0
+  },
+  {
+    "id": "sw:shepherdstownhistori",
+    "name": "Shepherdstown Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.43093,
+    "lng": -77.80583,
+    "dist": 71.7,
+    "description": "Elevation: 122m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356535640,
+    "score": 0
+  },
+  {
+    "id": "sw:potomawayside",
+    "name": "Potoma Wayside",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.32006,
+    "lng": -77.71211,
+    "dist": 64.8,
+    "description": "Elevation: 89m",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564759,
+    "score": 0
+  },
+  {
+    "id": "sw:hillsborohistoricdis",
+    "name": "Hillsboro Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19871,
+    "lng": -77.72472,
+    "dist": 64.1,
+    "description": "Elevation: 174m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597686,
+    "score": 0
+  },
+  {
+    "id": "sw:waterfordhistoricdis",
+    "name": "Waterford Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.1876,
+    "lng": -77.61082,
+    "dist": 58.0,
+    "description": "Elevation: 124m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597731,
+    "score": 0
+  },
+  {
+    "id": "sw:leesburghistoricdist",
+    "name": "Leesburg Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11544,
+    "lng": -77.56463,
+    "dist": 55.3,
+    "description": "Elevation: 103m · Historic: district",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597800,
+    "score": 0
+  },
+  {
+    "id": "sw:hawkinszouavesmonume",
+    "name": "Hawkins Zouaves Monument - 9th NY",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45278,
+    "lng": -77.74377,
+    "dist": 69.1,
+    "description": "Elevation: 152m · Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238967,
+    "score": 0
+  },
+  {
+    "id": "sw:mansfieldmonument",
+    "name": "Mansfield Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48328,
+    "lng": -77.74173,
+    "dist": 69.7,
+    "description": "Elevation: 153m · Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239285,
+    "score": 0
+  },
+  {
+    "id": "sw:newyorkstatemonument",
+    "name": "New York State Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47515,
+    "lng": -77.74491,
+    "dist": 69.7,
+    "description": "Elevation: 159m · Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239660,
+    "score": 0
+  },
+  {
+    "id": "sw:philadelphiabrigadem",
+    "name": "Philadelphia Brigade Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47846,
+    "lng": -77.74923,
+    "dist": 70.0,
+    "description": "Elevation: 154m · Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239847,
+    "score": 0
+  },
+  {
+    "id": "sw:countyofloudoun",
+    "name": "County of Loudoun",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11386,
+    "lng": -77.56207,
+    "dist": 55.1,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1468730371,
+    "score": 0
+  },
+  {
+    "id": "sw:leesburgquarryhistor",
+    "name": "Leesburg Quarry (Historical)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.10963,
+    "lng": -77.56106,
+    "dist": 55.1,
+    "description": "Historic: ruins",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1548178322,
+    "score": 0
+  },
+  {
+    "id": "sw:oldstonebridge",
+    "name": "Old Stone Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.13954,
+    "lng": -77.61088,
+    "dist": 57.8,
+    "description": "Historic: bridge",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1619634225,
+    "score": 0
+  },
+  {
+    "id": "sw:civilwarstatue",
+    "name": "Civil War Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11569,
+    "lng": -77.56416,
+    "dist": 55.2,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1707845568,
+    "score": 0
+  },
+  {
+    "id": "sw:worldwariiandkoreame",
+    "name": "World War II and Korea Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11545,
+    "lng": -77.56389,
+    "dist": 55.2,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1707845569,
+    "score": 0
+  },
+  {
+    "id": "sw:loudouncountycourtho",
+    "name": "Loudoun County Court House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11562,
+    "lng": -77.56396,
+    "dist": 55.2,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1707847297,
+    "score": 0
+  },
+  {
+    "id": "sw:georgecmarshall",
+    "name": "George C. Marshall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11323,
+    "lng": -77.56021,
+    "dist": 55.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2274404157,
+    "score": 0
+  },
+  {
+    "id": "sw:edwardslandinglights",
+    "name": "Edwards Landing Lights",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.11844,
+    "lng": -77.52476,
+    "dist": 53.1,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2514656566,
+    "score": 0
+  },
+  {
+    "id": "sw:oldslaveblock",
+    "name": "Old Slave Block",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45886,
+    "lng": -77.74616,
+    "dist": 69.3,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3055225779,
+    "score": 0
+  },
+  {
+    "id": "sw:privatesoldiermonume",
+    "name": "Private Soldier Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45915,
+    "lng": -77.7411,
+    "dist": 69.1,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3213095241,
+    "score": 0
+  },
+  {
+    "id": "sw:littlehouse",
+    "name": "Little House",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.43101,
+    "lng": -77.80409,
+    "dist": 71.6,
+    "description": "",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4029092959,
+    "score": 0
+  },
+  {
+    "id": "sw:whitesford",
+    "name": "White's Ford",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.16416,
+    "lng": -77.47559,
+    "dist": 50.6,
+    "description": "Historic: marker",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328550700,
+    "score": 0
+  },
+  {
+    "id": "sw:stumpyshollowhistori",
+    "name": "Stumpy's Hollow Historical Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.54906,
+    "lng": -77.91845,
+    "dist": 80.1,
+    "description": "Stumpy's Hollow Historical Monument · Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4747451952,
+    "score": 0
+  },
+  {
+    "id": "sw:captainjohnkearney",
+    "name": "Captain John Kearney",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45196,
+    "lng": -77.98141,
+    "dist": 81.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5405169040,
+    "score": 0
+  },
+  {
+    "id": "sw:adamstephenmonument",
+    "name": "Adam Stephen Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44988,
+    "lng": -77.96613,
+    "dist": 80.3,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5702166415,
+    "score": 0
+  },
+  {
+    "id": "sw:fortjohnston",
+    "name": "Fort Johnston",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.12914,
+    "lng": -77.58436,
+    "dist": 56.3,
+    "description": "Historic: fort",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6517942833,
+    "score": 0
+  },
+  {
+    "id": "sw:16thct",
+    "name": "16th CT",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44793,
+    "lng": -77.7395,
+    "dist": 68.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7485751863,
+    "score": 0
+  },
+  {
+    "id": "sw:11thoh",
+    "name": "11th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45196,
+    "lng": -77.73794,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7485751880,
+    "score": 0
+  },
+  {
+    "id": "sw:irishbrigademonument",
+    "name": "Irish Brigade Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46942,
+    "lng": -77.73608,
+    "dist": 69.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8384249515,
+    "score": 0
+  },
+  {
+    "id": "sw:georgiastatemonument",
+    "name": "Georgia State Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48092,
+    "lng": -77.74589,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775618,
+    "score": 0
+  },
+  {
+    "id": "sw:11thms",
+    "name": "11th MS",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48087,
+    "lng": -77.74545,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775619,
+    "score": 0
+  },
+  {
+    "id": "sw:104thny",
+    "name": "104th NY",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4811,
+    "lng": -77.74545,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775620,
+    "score": 0
+  },
+  {
+    "id": "sw:128thpa",
+    "name": "128th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4811,
+    "lng": -77.74495,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775621,
+    "score": 0
+  },
+  {
+    "id": "sw:137thpa",
+    "name": "137th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48112,
+    "lng": -77.74479,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775622,
+    "score": 0
+  },
+  {
+    "id": "sw:90thpa",
+    "name": "90th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.481,
+    "lng": -77.74468,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775623,
+    "score": 0
+  },
+  {
+    "id": "sw:27thin",
+    "name": "27th IN",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48115,
+    "lng": -77.74466,
+    "dist": 69.8,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775624,
+    "score": 0
+  },
+  {
+    "id": "sw:1stmdlightartilleryb",
+    "name": "1st MD Light Artillery Battery B",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48116,
+    "lng": -77.74397,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775625,
+    "score": 0
+  },
+  {
+    "id": "sw:1stnewjerseybrigade",
+    "name": "1st New Jersey Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48122,
+    "lng": -77.74343,
+    "dist": 69.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775626,
+    "score": 0
+  },
+  {
+    "id": "sw:5th7thand66thoh",
+    "name": "5th, 7th and 66th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47535,
+    "lng": -77.7464,
+    "dist": 69.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775627,
+    "score": 0
+  },
+  {
+    "id": "sw:34thny",
+    "name": "34th NY",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47533,
+    "lng": -77.74803,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775628,
+    "score": 0
+  },
+  {
+    "id": "sw:purnelllegion",
+    "name": "Purnell Legion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47523,
+    "lng": -77.74804,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775629,
+    "score": 0
+  },
+  {
+    "id": "sw:125thpa",
+    "name": "125th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47524,
+    "lng": -77.74813,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775630,
+    "score": 0
+  },
+  {
+    "id": "sw:13thnj",
+    "name": "13th NJ",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47521,
+    "lng": -77.74885,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775631,
+    "score": 0
+  },
+  {
+    "id": "sw:mclawsdivision",
+    "name": "Mclaws Division",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47508,
+    "lng": -77.75082,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775632,
+    "score": 0
+  },
+  {
+    "id": "sw:ransomsbrigade",
+    "name": "Ransom’s Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47726,
+    "lng": -77.75158,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775633,
+    "score": 0
+  },
+  {
+    "id": "sw:earlysbrigade",
+    "name": "Early’s Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47741,
+    "lng": -77.75163,
+    "dist": 70.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775634,
+    "score": 0
+  },
+  {
+    "id": "sw:ltcoljohnlemuelstets",
+    "name": "Lt. Col John Lemuel Stetson Killed Here - 59th NY",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47766,
+    "lng": -77.75166,
+    "dist": 70.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775635,
+    "score": 0
+  },
+  {
+    "id": "sw:15thma",
+    "name": "15th MA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47846,
+    "lng": -77.75149,
+    "dist": 70.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775636,
+    "score": 0
+  },
+  {
+    "id": "sw:59thnewyork",
+    "name": "59th New York",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47598,
+    "lng": -77.74662,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775637,
+    "score": 0
+  },
+  {
+    "id": "sw:19thind",
+    "name": "19th Ind",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47965,
+    "lng": -77.74789,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775638,
+    "score": 0
+  },
+  {
+    "id": "sw:massachusettsstateme",
+    "name": "Massachusetts State Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4806,
+    "lng": -77.74814,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775639,
+    "score": 0
+  },
+  {
+    "id": "sw:newjerseystatememori",
+    "name": "New Jersey State Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48087,
+    "lng": -77.74823,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775640,
+    "score": 0
+  },
+  {
+    "id": "sw:indianastatememorial",
+    "name": "Indiana State Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48106,
+    "lng": -77.74826,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775641,
+    "score": 0
+  },
+  {
+    "id": "sw:12thpa",
+    "name": "12th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48083,
+    "lng": -77.7486,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775642,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndvt",
+    "name": "2nd VT",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48089,
+    "lng": -77.74795,
+    "dist": 70.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775644,
+    "score": 0
+  },
+  {
+    "id": "sw:texasbrigade",
+    "name": "Texas Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48084,
+    "lng": -77.74694,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775645,
+    "score": 0
+  },
+  {
+    "id": "sw:14thbrooklyn",
+    "name": "14th Brooklyn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48099,
+    "lng": -77.7469,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500775646,
+    "score": 0
+  },
+  {
+    "id": "sw:12thpacavalry",
+    "name": "12th PA Cavalry",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48439,
+    "lng": -77.74268,
+    "dist": 69.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943570,
+    "score": 0
+  },
+  {
+    "id": "sw:14thct",
+    "name": "14th CT",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47211,
+    "lng": -77.74065,
+    "dist": 69.4,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943571,
+    "score": 0
+  },
+  {
+    "id": "sw:50thpa",
+    "name": "50th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45849,
+    "lng": -77.73661,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943572,
+    "score": 0
+  },
+  {
+    "id": "sw:14thin",
+    "name": "14th IN",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47147,
+    "lng": -77.74017,
+    "dist": 69.3,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943573,
+    "score": 0
+  },
+  {
+    "id": "sw:andersonsncbrigade",
+    "name": "Anderson’s NC Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47046,
+    "lng": -77.7384,
+    "dist": 69.2,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943574,
+    "score": 0
+  },
+  {
+    "id": "sw:1stmdlightartilleryb",
+    "name": "1st MD Light Artillery Battery A",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47859,
+    "lng": -77.74365,
+    "dist": 69.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943575,
+    "score": 0
+  },
+  {
+    "id": "sw:5thmd",
+    "name": "5th MD",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47198,
+    "lng": -77.7399,
+    "dist": 69.3,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943576,
+    "score": 0
+  },
+  {
+    "id": "sw:130thpa",
+    "name": "130th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47148,
+    "lng": -77.74061,
+    "dist": 69.4,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943577,
+    "score": 0
+  },
+  {
+    "id": "sw:bggeorgeandersonmort",
+    "name": "BG George Anderson Mortally Wounded Here",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47041,
+    "lng": -77.73829,
+    "dist": 69.2,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943578,
+    "score": 0
+  },
+  {
+    "id": "sw:hexamersnewjerseybat",
+    "name": "Hexamer’s New Jersey Battery",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47849,
+    "lng": -77.74381,
+    "dist": 69.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943579,
+    "score": 0
+  },
+  {
+    "id": "sw:1stde",
+    "name": "1st DE",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47136,
+    "lng": -77.74155,
+    "dist": 69.4,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943580,
+    "score": 0
+  },
+  {
+    "id": "sw:mansfieldmortallywou",
+    "name": "Mansfield Mortally Wounded Here",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.48314,
+    "lng": -77.74089,
+    "dist": 69.7,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943581,
+    "score": 0
+  },
+  {
+    "id": "sw:5thmaryland",
+    "name": "5th Maryland",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47143,
+    "lng": -77.74073,
+    "dist": 69.4,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943582,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndde",
+    "name": "2nd DE",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47004,
+    "lng": -77.73721,
+    "dist": 69.2,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943583,
+    "score": 0
+  },
+  {
+    "id": "sw:8thoh",
+    "name": "8th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47123,
+    "lng": -77.73986,
+    "dist": 69.3,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943584,
+    "score": 0
+  },
+  {
+    "id": "sw:132ndpa",
+    "name": "132nd PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47073,
+    "lng": -77.73865,
+    "dist": 69.2,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8500943585,
+    "score": 0
+  },
+  {
+    "id": "sw:48thpa",
+    "name": "48th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45096,
+    "lng": -77.74007,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186667,
+    "score": 0
+  },
+  {
+    "id": "sw:brownsvirginiabatter",
+    "name": "Browns Virginia Battery",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45355,
+    "lng": -77.73915,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186668,
+    "score": 0
+  },
+  {
+    "id": "sw:durellsbatteryd",
+    "name": "Durell’s Battery D",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45108,
+    "lng": -77.74003,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186669,
+    "score": 0
+  },
+  {
+    "id": "sw:12thoh",
+    "name": "12th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44812,
+    "lng": -77.73737,
+    "dist": 68.6,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186670,
+    "score": 0
+  },
+  {
+    "id": "sw:51stpa",
+    "name": "51st PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4512,
+    "lng": -77.73998,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186671,
+    "score": 0
+  },
+  {
+    "id": "sw:23rdohio",
+    "name": "23rd Ohio",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45034,
+    "lng": -77.74031,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186672,
+    "score": 0
+  },
+  {
+    "id": "sw:28thoh",
+    "name": "28th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45306,
+    "lng": -77.73929,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501186673,
+    "score": 0
+  },
+  {
+    "id": "sw:oldvermontbrigade",
+    "name": "Old Vermont Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47269,
+    "lng": -77.74312,
+    "dist": 69.5,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501947967,
+    "score": 0
+  },
+  {
+    "id": "sw:armyofnorthernvirgin",
+    "name": "Army of Northern Virginia Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46785,
+    "lng": -77.74507,
+    "dist": 69.5,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501947968,
+    "score": 0
+  },
+  {
+    "id": "sw:mgisraelrichardsonme",
+    "name": "MG Israel Richardson Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46958,
+    "lng": -77.73606,
+    "dist": 69.1,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552977,
+    "score": 0
+  },
+  {
+    "id": "sw:100thpa",
+    "name": "100th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45472,
+    "lng": -77.73867,
+    "dist": 68.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552978,
+    "score": 0
+  },
+  {
+    "id": "sw:45thpa",
+    "name": "45th PA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4548,
+    "lng": -77.7387,
+    "dist": 68.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552979,
+    "score": 0
+  },
+  {
+    "id": "sw:36thoh",
+    "name": "36th OH",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45395,
+    "lng": -77.73896,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552980,
+    "score": 0
+  },
+  {
+    "id": "sw:bgwilliamestarkemort",
+    "name": "BG William E. Starke Mortally Wounded Here",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47837,
+    "lng": -77.74877,
+    "dist": 69.9,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552981,
+    "score": 0
+  },
+  {
+    "id": "sw:bgisaacrodmankilledh",
+    "name": "BG Isaac Rodman Killed Here",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45239,
+    "lng": -77.7437,
+    "dist": 69.0,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8503552982,
+    "score": 0
+  },
+  {
+    "id": "sw:30thohio",
+    "name": "30th Ohio",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44885,
+    "lng": -77.74088,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8592576190,
+    "score": 0
+  },
+  {
+    "id": "sw:bgbranchkilledhere",
+    "name": "BG Branch Killed Here",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44795,
+    "lng": -77.74131,
+    "dist": 68.8,
+    "description": "Historic: memorial",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8592576191,
+    "score": 0
+  },
+  {
+    "id": "sw:cottonflourmillintak",
+    "name": "Cotton/Flour Mill Intake Arches",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32107,
+    "lng": -77.73789,
+    "dist": 66.2,
+    "description": "Historic: ruins",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9114716674,
+    "score": 0
+  },
+  {
+    "id": "sw:huntfieldcommunityob",
+    "name": "Huntfield Community Obelisk",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26286,
+    "lng": -77.87799,
+    "dist": 72.8,
+    "description": "Historic: monument",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10197073611,
+    "score": 0
+  },
+  {
+    "id": "sw:stewartchapelame",
+    "name": "Stewart Chapel A.M.E.",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37765,
+    "lng": -77.88477,
+    "dist": 74.7,
+    "description": "Historic: ruins",
+    "zone": "Harpers Ferry & Loudoun",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12043618320,
+    "score": 0
   }
 ];
