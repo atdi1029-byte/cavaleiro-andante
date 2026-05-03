@@ -696,11 +696,9 @@ ${extras.length
 </a>
 ${p.url ? `<a class="modal-maps-btn" href="${p.url}" target="_blank" rel="noopener" style="margin-top:6px;background:rgba(200,120,40,0.15);border-color:#c87828;color:#e8a84a;">${p.source === 'wikipedia' ? '📖 Read on Wikipedia' : '🔮 View on Atlas Obscura'}</a>` : ''}
 <button class="modal-maps-btn" onclick="askClaude('${id}')"
-  id="claude-btn-${id}"
   style="margin-top:6px;background:rgba(120,80,200,0.15);border-color:#8b5cf6;color:#c4b5fd;cursor:pointer;width:100%">
   🤖 Ask Claude about this place
 </button>
-<div id="claude-answer-${id}" style="display:none;margin-top:12px;padding:12px;background:rgba(120,80,200,0.08);border:1px solid rgba(139,92,246,0.3);border-radius:8px;color:#d4c8f0;font-size:13px;line-height:1.6;white-space:pre-wrap"></div>
 `;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
@@ -766,79 +764,40 @@ function closeModal() {
 // ASK CLAUDE
 // ================================================
 
-async function askClaude(id) {
+function askClaude(id) {
   const p = places.find(x => x.id === id);
   if (!p) return;
 
-  const btn = document.getElementById('claude-btn-' + id);
-  const out = document.getElementById('claude-answer-' + id);
-  if (!btn || !out) return;
+  const gmaps = `https://www.google.com/maps/search/${encodeURIComponent(p.name)}/@${p.lat},${p.lng},14z`;
+  const osm   = `https://www.openstreetmap.org/?mlat=${p.lat}&mlon=${p.lng}&zoom=14`;
+  const wiki  = p.url && p.source === 'wikipedia' ? p.url : `https://en.wikipedia.org/wiki/Special:Search?search=${encodeURIComponent(p.name)}`;
 
-  // Get or prompt for API key
-  let key = localStorage.getItem('ca_claude_key');
-  if (!key) {
-    key = prompt('Enter your Anthropic API key (stored locally, never sent anywhere else):');
-    if (!key) return;
-    localStorage.setItem('ca_claude_key', key.trim());
-    key = key.trim();
-  }
+  const text =
+`Tell me about this place and whether it's worth visiting:
 
-  btn.textContent = '⏳ Asking Claude…';
-  btn.disabled = true;
-  out.style.display = 'block';
-  out.textContent = '';
-
-  const prompt = `You're helping someone decide whether to visit a place. Be direct, specific, and honest — tell them what makes it worth going (or not), what to expect, the best time to go, any tips or warnings, and one thing most people don't know about it.
-
-Place: ${p.name}
+Name: ${p.name}
 Type: ${p.type}
-Distance from home: ${p.dist} miles
+Distance: ${p.dist} miles away
 Tags: ${p.tags.join(', ')}
 Region: ${p.zone || ''}
-Description: ${p.description || 'No description available'}
+Description: ${p.description || ''}
 
-Answer in 4–6 short paragraphs. No bullet points. Speak like a knowledgeable local friend.`;
+Links:
+- Google Maps: ${gmaps}
+- OpenStreetMap: ${osm}
+- Wikipedia: ${wiki}
 
-  try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': key,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true'
-      },
-      body: JSON.stringify({
-        model: 'claude-haiku-4-5-20251001',
-        max_tokens: 600,
-        messages: [{ role: 'user', content: prompt }]
-      })
-    });
+Is it worth the drive? What should I expect? Best time to go? Any hidden details or tips? Speak like a knowledgeable local friend.`;
 
-    if (!res.ok) {
-      const err = await res.json().catch(() => ({}));
-      if (res.status === 401) {
-        localStorage.removeItem('ca_claude_key');
-        out.textContent = '❌ Invalid API key. It\'s been cleared — tap the button again to re-enter.';
-      } else {
-        out.textContent = '❌ Error: ' + (err.error?.message || res.statusText);
-      }
-      btn.textContent = '🤖 Ask Claude about this place';
-      btn.disabled = false;
-      return;
-    }
+  navigator.clipboard.writeText(text).catch(() => {});
+  window.open('https://claude.ai/new', '_blank');
 
-    const data = await res.json();
-    const text = data.content?.[0]?.text || 'No response.';
-    out.textContent = text;
-    btn.textContent = '🤖 Ask Claude again';
-    btn.disabled = false;
-
-  } catch (e) {
-    out.textContent = '❌ Network error: ' + e.message;
-    btn.textContent = '🤖 Ask Claude about this place';
-    btn.disabled = false;
-  }
+  // Brief toast
+  const toast = document.createElement('div');
+  toast.textContent = '📋 Copied! Just paste into Claude';
+  toast.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#8b5cf6;color:#fff;padding:10px 18px;border-radius:20px;font-size:13px;z-index:9999;pointer-events:none';
+  document.body.appendChild(toast);
+  setTimeout(() => toast.remove(), 3000);
 }
 
 // ================================================
