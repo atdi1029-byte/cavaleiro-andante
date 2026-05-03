@@ -64307,490 +64307,2301 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:goathill",
-    "name": "Goat Hill",
+    "id": "sw:academygrovehistoric",
+    "name": "Academy Grove Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.10739,
+    "lng": -75.78805,
+    "dist": 79.8,
+    "description": "Elevation: 1m · Historic: district",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244762,
+    "score": 0
+  },
+  {
+    "id": "sw:manokinhistoricdistr",
+    "name": "Manokin Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.20207,
+    "lng": -75.70215,
+    "dist": 76.8,
+    "description": "Elevation: 3m · Historic: district",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244830,
+    "score": 0
+  },
+  {
+    "id": "sw:makemiemonument",
+    "name": "Makemie Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.93269,
+    "lng": -75.63499,
+    "dist": 94.4,
+    "description": "Historic: memorial",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5321229409,
+    "score": 0
+  },
+  {
+    "id": "sw:lookouttower",
+    "name": "Lookout Tower",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.86376,
+    "lng": -75.36808,
+    "dist": 106.4,
+    "description": "Historic: maritime",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6762285756,
+    "score": 0
+  },
+  {
+    "id": "sw:lockheedt33",
+    "name": "Lockheed T-33",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.06653,
+    "lng": -75.54814,
+    "dist": 89.3,
+    "description": "Historic: military",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8343614392,
+    "score": 0
+  },
+  {
+    "id": "sw:chincoteagueislandwa",
+    "name": "Chincoteague Island Waterman's Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.90094,
+    "lng": -75.4073,
+    "dist": 103.0,
+    "description": "Historic: memorial",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8490296833,
+    "score": 0
+  },
+  {
+    "id": "sw:crossingthebar",
+    "name": "Crossing the Bar",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.90083,
+    "lng": -75.40727,
+    "dist": 103.0,
+    "description": "Historic: monument",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8490296834,
+    "score": 0
+  },
+  {
+    "id": "sw:ssmarineelectric",
+    "name": "SS Marine Electric",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.90084,
+    "lng": -75.40722,
+    "dist": 103.0,
+    "description": "Historic: monument",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8490296835,
+    "score": 0
+  },
+  {
+    "id": "sw:lifesavingstation",
+    "name": "Life-Saving Station",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.19888,
+    "lng": -75.15669,
+    "dist": 97.1,
+    "description": "Historic: maritime",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8818223780,
+    "score": 0
+  },
+  {
+    "id": "sw:islandtheatre",
+    "name": "Island Theatre",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 37.93385,
+    "lng": -75.37702,
+    "dist": 102.2,
+    "description": "Historic: yes",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 192635483,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestdunn",
+    "name": "Chesapeake Forest - Dunn Swamp Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.03505,
+    "lng": -75.56711,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894386,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestcord",
+    "name": "Chesapeake Forest - Cordery Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.27043,
+    "lng": -75.44287,
+    "dist": 82.3,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894394,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestbeth",
+    "name": "Chesapeake Forest - Bethards Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.22338,
+    "lng": -75.5412,
+    "dist": 81.0,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894402,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestbuck",
+    "name": "Chesapeake Forest - Buck Harbor Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.259,
+    "lng": -75.56143,
+    "dist": 78.5,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894408,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestjohn",
+    "name": "Chesapeake Forest - Johnson & Johnson Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.16908,
+    "lng": -75.49375,
+    "dist": 85.6,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894409,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestwhit",
+    "name": "Chesapeake Forest - Whitesburg Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.19604,
+    "lng": -75.54322,
+    "dist": 82.4,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894455,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestpete",
+    "name": "Chesapeake Forest - Peters McAllen Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.22812,
+    "lng": -75.66459,
+    "dist": 76.5,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894525,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestemac",
+    "name": "Chesapeake Forest - E. Mace Smith Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.20273,
+    "lng": -75.75473,
+    "dist": 75.1,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894678,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestfost",
+    "name": "Chesapeake Forest - Foster Estate Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.24126,
+    "lng": -75.51443,
+    "dist": 81.1,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314895136,
+    "score": 0
+  },
+  {
+    "id": "sw:adkinsesconservation",
+    "name": "Adkins, E. S. Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.12053,
+    "lng": -75.68829,
+    "dist": 81.8,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929980,
+    "score": 0
+  },
+  {
+    "id": "sw:allenconservationeas",
+    "name": "Allen Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.14522,
+    "lng": -75.57159,
+    "dist": 84.2,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929981,
+    "score": 0
+  },
+  {
+    "id": "sw:bottomhills",
+    "name": "Bottom Hills",
     "type": "hike",
     "tags": [
       "hiking",
       "scenic",
       "nature"
     ],
-    "lat": 39.72339,
-    "lng": -76.08854,
-    "dist": 49.0,
-    "description": "Elevation: 135m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 357287595,
-    "score": 0
-  },
-  {
-    "id": "sw:grayshill",
-    "name": "Grays Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.61317,
-    "lng": -75.79799,
-    "dist": 52.8,
-    "description": "Elevation: 80m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358238898,
-    "score": 0
-  },
-  {
-    "id": "sw:hoghill",
-    "name": "Hog Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.59261,
-    "lng": -75.91161,
-    "dist": 47.4,
-    "description": "Elevation: 72m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358239014,
-    "score": 0
-  },
-  {
-    "id": "sw:mountararat",
-    "name": "Mount Ararat",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.59622,
-    "lng": -76.08606,
-    "dist": 41.6,
-    "description": "Elevation: 134m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241018,
-    "score": 0
-  },
-  {
-    "id": "sw:cromleysmountain",
-    "name": "Cromleys Mountain",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.67427,
-    "lng": -76.1744,
-    "dist": 43.8,
-    "description": "Elevation: 100m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241221,
-    "score": 0
-  },
-  {
-    "id": "sw:roachsshore",
-    "name": "Roachs Shore",
-    "type": "water",
-    "tags": [
-      "water",
-      "scenic"
-    ],
-    "lat": 39.54271,
-    "lng": -75.96941,
-    "dist": 42.8,
+    "lat": 38.6169,
+    "lng": -75.07138,
+    "dist": 85.6,
     "description": "Elevation: 0m",
-    "zone": "Upper Chesapeake & Elk Neck",
+    "zone": "Delaware Beaches",
     "osmTags": {},
     "osmType": "node",
-    "osmId": 358241369,
+    "osmId": 158399681,
     "score": 0
   },
   {
-    "id": "sw:baconhill",
-    "name": "Bacon Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.60206,
-    "lng": -75.9155,
-    "dist": 47.7,
-    "description": "Elevation: 61m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241455,
-    "score": 0
-  },
-  {
-    "id": "sw:baldfriar",
-    "name": "Bald Friar",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.70566,
-    "lng": -76.21273,
-    "dist": 45.0,
-    "description": "Elevation: 116m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241457,
-    "score": 0
-  },
-  {
-    "id": "sw:boothbyhill",
-    "name": "Boothby Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.48206,
-    "lng": -76.16301,
-    "dist": 32.8,
-    "description": "Elevation: 19m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241476,
-    "score": 0
-  },
-  {
-    "id": "sw:bullmountain",
-    "name": "Bull Mountain",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.50722,
-    "lng": -75.97537,
-    "dist": 40.8,
-    "description": "Elevation: 85m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241486,
-    "score": 0
-  },
-  {
-    "id": "sw:egghill",
-    "name": "Egg Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.65955,
-    "lng": -75.89882,
-    "dist": 51.2,
-    "description": "Elevation: 125m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241513,
-    "score": 0
-  },
-  {
-    "id": "sw:foyshill",
-    "name": "Foys Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.59345,
-    "lng": -76.00439,
-    "dist": 44.1,
-    "description": "Elevation: 92m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241529,
-    "score": 0
-  },
-  {
-    "id": "sw:mauldinmountain",
-    "name": "Mauldin Mountain",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.48734,
-    "lng": -75.99022,
-    "dist": 39.3,
-    "description": "Elevation: 80m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241572,
-    "score": 0
-  },
-  {
-    "id": "sw:mountainhill",
-    "name": "Mountain Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.62094,
-    "lng": -76.23246,
-    "dist": 39.2,
-    "description": "Elevation: 59m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241581,
-    "score": 0
-  },
-  {
-    "id": "sw:rhodesmountain",
-    "name": "Rhodes Mountain",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.56198,
-    "lng": -75.92949,
-    "dist": 45.2,
-    "description": "Elevation: 80m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241610,
-    "score": 0
-  },
-  {
-    "id": "sw:sugarhill",
-    "name": "Sugar Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.62344,
-    "lng": -76.24384,
-    "dist": 39.1,
-    "description": "Elevation: 90m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241638,
-    "score": 0
-  },
-  {
-    "id": "sw:cedarhill",
-    "name": "Cedar Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.61344,
-    "lng": -76.23468,
-    "dist": 38.7,
-    "description": "Elevation: 82m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248111,
-    "score": 0
-  },
-  {
-    "id": "sw:mountfelix",
-    "name": "Mount Felix",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.57067,
-    "lng": -76.13051,
-    "dist": 38.8,
-    "description": "Elevation: 142m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248122,
-    "score": 0
-  },
-  {
-    "id": "sw:petebondscenicoverlo",
-    "name": "Pete Bond Scenic Overlook",
+    "id": "sw:herringpoint",
+    "name": "Herring point",
     "type": "viewpoint",
     "tags": [
       "viewpoint",
       "scenic"
     ],
-    "lat": 39.58262,
-    "lng": -75.91683,
-    "dist": 46.7,
+    "lat": 38.76417,
+    "lng": -75.08246,
+    "dist": 81.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 790431053,
+    "score": 0
+  },
+  {
+    "id": "sw:gordonspondoverlook",
+    "name": "Gordons Pond Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.74474,
+    "lng": -75.08932,
+    "dist": 81.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2284163691,
+    "score": 0
+  },
+  {
+    "id": "sw:hawkwatch",
+    "name": "Hawk Watch",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.78834,
+    "lng": -75.08877,
+    "dist": 80.6,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4124678462,
+    "score": 0
+  },
+  {
+    "id": "sw:sunkenbarge",
+    "name": "Sunken Barge",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.68846,
+    "lng": -75.09874,
+    "dist": 82.3,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5145547098,
+    "score": 0
+  },
+  {
+    "id": "sw:lewespublicbeach",
+    "name": "Lewes Public Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.78192,
+    "lng": -75.1273,
+    "dist": 78.8,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 29402118,
+    "score": 0
+  },
+  {
+    "id": "sw:assawomanrecreationa",
+    "name": "Assawoman Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.49743,
+    "lng": -75.05581,
+    "dist": 89.9,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 330403500,
+    "score": 0
+  },
+  {
+    "id": "sw:johnwestpark",
+    "name": "John West Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54811,
+    "lng": -75.08845,
+    "dist": 86.8,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 348385593,
+    "score": 0
+  },
+  {
+    "id": "sw:lakegerarpark",
+    "name": "Lake Gerar Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71977,
+    "lng": -75.0807,
+    "dist": 82.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 384737788,
+    "score": 0
+  },
+  {
+    "id": "sw:stockleystreetpark",
+    "name": "Stockley Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71012,
+    "lng": -75.08546,
+    "dist": 82.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 384738492,
+    "score": 0
+  },
+  {
+    "id": "sw:sportsatthebeach",
+    "name": "Sports at the Beach",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70118,
+    "lng": -75.35465,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 430457113,
+    "score": 0
+  },
+  {
+    "id": "sw:cupolapark",
+    "name": "Cupola Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.59435,
+    "lng": -75.28902,
+    "dist": 75.7,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469844593,
+    "score": 0
+  },
+  {
+    "id": "sw:rehobothbaypark",
+    "name": "Rehoboth Bay Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.68673,
+    "lng": -75.12709,
+    "dist": 80.9,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 480917283,
+    "score": 0
+  },
+  {
+    "id": "sw:lewescanalfrontparka",
+    "name": "Lewes Canal Front Park and Marina",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77732,
+    "lng": -75.14082,
+    "dist": 78.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 484974977,
+    "score": 0
+  },
+  {
+    "id": "sw:zwaanendaelpark",
+    "name": "Zwaanendael Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77372,
+    "lng": -75.13933,
+    "dist": 78.3,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 484974979,
+    "score": 0
+  },
+  {
+    "id": "sw:georgehpsmithpark",
+    "name": "George H.P. Smith Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77178,
+    "lng": -75.14634,
+    "dist": 78.0,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 484980492,
+    "score": 0
+  },
+  {
+    "id": "sw:maryvesselspark",
+    "name": "Mary Vessels Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77607,
+    "lng": -75.14008,
+    "dist": 78.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 486987636,
+    "score": 0
+  },
+  {
+    "id": "sw:teardroppark",
+    "name": "Teardrop Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70778,
+    "lng": -75.08377,
+    "dist": 82.6,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 528711597,
+    "score": 0
+  },
+  {
+    "id": "sw:leestreetpark",
+    "name": "Lee Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71078,
+    "lng": -75.09096,
+    "dist": 82.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 528711603,
+    "score": 0
+  },
+  {
+    "id": "sw:martinslawn",
+    "name": "Martin's Lawn",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7152,
+    "lng": -75.08323,
+    "dist": 82.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 528711608,
+    "score": 0
+  },
+  {
+    "id": "sw:deerpark",
+    "name": "Deer Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71731,
+    "lng": -75.08815,
+    "dist": 82.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 528711611,
+    "score": 0
+  },
+  {
+    "id": "sw:centralpark",
+    "name": "Central Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71981,
+    "lng": -75.08493,
+    "dist": 82.3,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 528711614,
+    "score": 0
+  },
+  {
+    "id": "sw:governorswalk",
+    "name": "Governor's Walk",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77801,
+    "lng": -75.31199,
+    "dist": 69.4,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 638497949,
+    "score": 0
+  },
+  {
+    "id": "sw:millpark",
+    "name": "Mill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77593,
+    "lng": -75.31198,
+    "dist": 69.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 638498695,
+    "score": 0
+  },
+  {
+    "id": "sw:loopcanalcentennialp",
+    "name": "Loop Canal Centennial Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54117,
+    "lng": -75.05771,
+    "dist": 88.5,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 702172844,
+    "score": 0
+  },
+  {
+    "id": "sw:croquetlawn",
+    "name": "Croquet Lawn",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.62054,
+    "lng": -75.17935,
+    "dist": 80.2,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 721267660,
+    "score": 0
+  },
+  {
+    "id": "sw:bethanybeachcentralp",
+    "name": "Bethany Beach Central Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.53915,
+    "lng": -75.06054,
+    "dist": 88.4,
+    "description": "Town park constructed 2020",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 809391380,
+    "score": 0
+  },
+  {
+    "id": "sw:leweslittleleaguefie",
+    "name": "Lewes Little League Fields",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77801,
+    "lng": -75.14226,
+    "dist": 78.1,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 905948507,
+    "score": 0
+  },
+  {
+    "id": "sw:evanspark",
+    "name": "Evans Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54451,
+    "lng": -75.11228,
+    "dist": 85.7,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1051476825,
+    "score": 0
+  },
+  {
+    "id": "sw:otissmithpark",
+    "name": "Otis Smith Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77793,
+    "lng": -75.13552,
+    "dist": 78.4,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1167463031,
+    "score": 0
+  },
+  {
+    "id": "sw:baysidebeach",
+    "name": "Bayside Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.61083,
+    "lng": -75.15318,
+    "dist": 81.7,
+    "description": "Private beach for homeowners in Bayside",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1211485558,
+    "score": 0
+  },
+  {
+    "id": "sw:stephenphudsonpark",
+    "name": "Stephen P. Hudson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7312,
+    "lng": -75.24939,
+    "dist": 73.7,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1289918813,
+    "score": 0
+  },
+  {
+    "id": "sw:delawareseashorestat",
+    "name": "Delaware Seashore State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.6349,
+    "lng": -75.07046,
+    "dist": 85.1,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3159007,
+    "score": 0
+  },
+  {
+    "id": "sw:fenwickislandstatepa",
+    "name": "Fenwick Island State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.48102,
+    "lng": -75.05424,
+    "dist": 90.6,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6362830,
+    "score": 0
+  },
+  {
+    "id": "sw:holtslandingstatepar",
+    "name": "Holts Landing State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.58569,
+    "lng": -75.12994,
+    "dist": 83.6,
+    "description": "",
+    "zone": "Delaware Beaches",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6362884,
+    "score": 0
+  },
+  {
+    "id": "sw:charlestownhistoricd",
+    "name": "Charlestown Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.57345,
+    "lng": -75.9755,
+    "dist": 44.1,
+    "description": "Elevation: 8m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241198,
+    "score": 0
+  },
+  {
+    "id": "sw:colorameetinghouse",
+    "name": "Colora Meetinghouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.67594,
+    "lng": -76.09856,
+    "dist": 45.9,
+    "description": "Elevation: 92m · Historic: church",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241214,
+    "score": 0
+  },
+  {
+    "id": "sw:southchesapeakecityh",
+    "name": "South Chesapeake City Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.52734,
+    "lng": -75.81327,
+    "dist": 48.4,
+    "description": "Elevation: 7m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241394,
+    "score": 0
+  },
+  {
+    "id": "sw:westnottinghamacadem",
+    "name": "West Nottingham Academy Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.66983,
+    "lng": -76.07689,
+    "dist": 46.1,
+    "description": "Elevation: 109m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241436,
+    "score": 0
+  },
+  {
+    "id": "sw:darlingtonbattleswam",
+    "name": "Darlington-Battle Swamp Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.63677,
+    "lng": -76.20245,
+    "dist": 40.9,
+    "description": "Elevation: 101m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248020,
+    "score": 0
+  },
+  {
+    "id": "sw:finneyhouseshistoric",
+    "name": "Finney Houses Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.56011,
+    "lng": -76.24496,
+    "dist": 35.1,
+    "description": "Elevation: 132m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248124,
+    "score": 0
+  },
+  {
+    "id": "sw:havredegracehistoric",
+    "name": "Havre de Grace Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.54896,
+    "lng": -76.09245,
+    "dist": 38.8,
+    "description": "Elevation: 18m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248179,
+    "score": 0
+  },
+  {
+    "id": "sw:harfordfurnacehistor",
+    "name": "Harford Furnace Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.49511,
+    "lng": -76.26135,
+    "dist": 30.7,
+    "description": "Elevation: 42m · Historic: district",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248253,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemarker",
+    "name": "Mason Dixon Line Marker Arc Stone 5",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.66516,
+    "lng": -75.78894,
+    "dist": 55.6,
+    "description": "Historic: monument",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1249007848,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemarker",
+    "name": "Mason Dixon Line Marker Arc Stone 3",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.65979,
+    "lng": -75.78903,
+    "dist": 55.3,
+    "description": "Historic: monument",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1249007870,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemarker",
+    "name": "Mason Dixon Line Marker Arc Stone 4",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.6633,
+    "lng": -75.78897,
+    "dist": 55.5,
+    "description": "Historic: monument",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1249007887,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemarker",
+    "name": "Mason Dixon Line Marker Arc Stone 2",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.65971,
+    "lng": -75.78903,
+    "dist": 55.3,
+    "description": "Historic: monument",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1249007899,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemarker",
+    "name": "Mason Dixon Line Marker - Prismatic Stone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.67039,
+    "lng": -75.78879,
+    "dist": 55.8,
+    "description": "Historic: monument",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1249007909,
+    "score": 0
+  },
+  {
+    "id": "sw:concordpointlighthou",
+    "name": "Concord Point Lighthouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.54071,
+    "lng": -76.08476,
+    "dist": 38.6,
+    "description": "Historic: yes",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1347948257,
+    "score": 0
+  },
+  {
+    "id": "sw:lafayette",
+    "name": "Lafayette",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55182,
+    "lng": -76.09161,
+    "dist": 39.0,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1349171084,
+    "score": 0
+  },
+  {
+    "id": "sw:icestorage",
+    "name": "Ice Storage",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57152,
+    "lng": -76.08445,
+    "dist": 40.3,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2511732650,
+    "score": 0
+  },
+  {
+    "id": "sw:herrspotatochipfacto",
+    "name": "Herrs Potato Chip Factory",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.74599,
+    "lng": -76.01984,
+    "dist": 52.2,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "node",
-    "osmId": 1668185443,
+    "osmId": 4557844936,
     "score": 0
   },
   {
-    "id": "sw:melodymeadowspark",
-    "name": "Melody Meadows Park",
-    "type": "park",
+    "id": "sw:marylandwomeninmilit",
+    "name": "Maryland Women in Military Service Monument",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature"
+      "weird",
+      "historic"
     ],
-    "lat": 39.5931,
-    "lng": -75.75543,
-    "dist": 53.6,
-    "description": "",
+    "lat": 39.61172,
+    "lng": -76.00828,
+    "dist": 44.9,
+    "description": "Historic: memorial",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 42785082,
+    "osmType": "node",
+    "osmId": 4811885391,
     "score": 0
   },
   {
-    "id": "sw:belcamppark",
-    "name": "Belcamp Park",
-    "type": "park",
+    "id": "sw:hillsidemine",
+    "name": "Hillside Mine",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature"
+      "weird",
+      "historic"
     ],
-    "lat": 39.47136,
-    "lng": -76.2369,
-    "dist": 30.0,
-    "description": "",
+    "lat": 39.72838,
+    "lng": -76.11205,
+    "dist": 48.7,
+    "description": "Historic: mine",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 89186942,
+    "osmType": "node",
+    "osmId": 5002418527,
     "score": 0
   },
   {
-    "id": "sw:mclhinneypark",
-    "name": "McLhinney Park",
-    "type": "park",
+    "id": "sw:constantfriendship",
+    "name": "\"Constant Friendship\"",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature"
+      "weird",
+      "historic"
     ],
-    "lat": 39.55689,
-    "lng": -76.09485,
-    "dist": 39.1,
-    "description": "Elevation: 4m",
+    "lat": 39.47039,
+    "lng": -76.30937,
+    "dist": 28.0,
+    "description": "Historic: marker",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 120162685,
+    "osmType": "node",
+    "osmId": 6193616967,
     "score": 0
   },
   {
-    "id": "sw:davidrcraigpark",
-    "name": "David R. Craig Park",
-    "type": "park",
+    "id": "sw:sophiasdairy",
+    "name": "Sophia's Dairy",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature"
+      "weird",
+      "historic"
     ],
-    "lat": 39.55256,
-    "lng": -76.09092,
+    "lat": 39.4719,
+    "lng": -76.23301,
+    "dist": 30.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6273353731,
+    "score": 0
+  },
+  {
+    "id": "sw:thisisasectionoftheg",
+    "name": "This is a Section of “The General’s Highway”",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50966,
+    "lng": -76.16363,
+    "dist": 34.3,
+    "description": "Historic: marker",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6273404530,
+    "score": 0
+  },
+  {
+    "id": "sw:havredegraceracetrac",
+    "name": "Havre de Grace Racetrack",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53693,
+    "lng": -76.11213,
+    "dist": 37.5,
+    "description": "Historic: marker",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6287111786,
+    "score": 0
+  },
+  {
+    "id": "sw:linkingallsootherssu",
+    "name": "Linking All So Others Succeed, Inc.",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53501,
+    "lng": -76.34932,
+    "dist": 31.4,
+    "description": "Historic: hotel",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6483163920,
+    "score": 0
+  },
+  {
+    "id": "sw:goldstarfamiliesmemo",
+    "name": "Gold Star Families Memorial Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.5398,
+    "lng": -76.08505,
+    "dist": 38.5,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6593649533,
+    "score": 0
+  },
+  {
+    "id": "sw:1954110mmt74howitzer",
+    "name": "1954 110mm T74 Howitzer",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51318,
+    "lng": -76.16365,
+    "dist": 34.5,
+    "description": "Historic: cannon",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6604183255,
+    "score": 0
+  },
+  {
+    "id": "sw:thehayshouse",
+    "name": "The Hays House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53246,
+    "lng": -76.34709,
+    "dist": 31.3,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6717441088,
+    "score": 0
+  },
+  {
+    "id": "sw:govwilliampaca",
+    "name": "Gov. William Paca",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44943,
+    "lng": -76.2955,
+    "dist": 27.1,
+    "description": "Historic: marker",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6814465529,
+    "score": 0
+  },
+  {
+    "id": "sw:harfordtownorbush",
+    "name": "Harford Town or Bush",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47176,
+    "lng": -76.26693,
+    "dist": 29.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6814465568,
+    "score": 0
+  },
+  {
+    "id": "sw:thebushdeclarationha",
+    "name": "\"The Bush Declaration\" Harford Town",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47246,
+    "lng": -76.26604,
+    "dist": 29.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6814465570,
+    "score": 0
+  },
+  {
+    "id": "sw:jimmyhanswild",
+    "name": "Jimmy Hans Wild",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69956,
+    "lng": -75.97397,
+    "dist": 50.9,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6981296337,
+    "score": 0
+  },
+  {
+    "id": "sw:susquehannarivercros",
+    "name": "Susquehanna River Crossing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55202,
+    "lng": -76.09183,
     "dist": 39.0,
-    "description": "",
+    "description": "Historic: marker",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 120298380,
+    "osmType": "node",
+    "osmId": 6990492218,
     "score": 0
   },
   {
-    "id": "sw:emilybaylessgrahampa",
-    "name": "Emily Bayless Graham Park",
-    "type": "park",
+    "id": "sw:rochambeauplaza",
+    "name": "Rochambeau Plaza",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature",
-      "forest"
+      "weird",
+      "historic"
     ],
-    "lat": 39.48955,
-    "lng": -76.32156,
-    "dist": 29.0,
-    "description": "",
+    "lat": 39.5495,
+    "lng": -76.0897,
+    "dist": 38.9,
+    "description": "Historic: marker",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 132021849,
+    "osmType": "node",
+    "osmId": 6990809663,
     "score": 0
   },
   {
-    "id": "sw:marylandcenterforthe",
-    "name": "Maryland Center for the Arts",
-    "type": "park",
+    "id": "sw:baldfriarroadferry",
+    "name": "Bald Friar Road & Ferry",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature",
-      "forest"
+      "weird",
+      "historic"
     ],
-    "lat": 39.4886,
-    "lng": -76.32585,
-    "dist": 28.8,
-    "description": "",
+    "lat": 39.6991,
+    "lng": -76.17391,
+    "dist": 45.4,
+    "description": "Historic: memorial",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "way",
-    "osmId": 132021850,
+    "osmType": "node",
+    "osmId": 7555197901,
     "score": 0
   },
   {
-    "id": "sw:prospectmillpark",
-    "name": "Prospect Mill Park",
-    "type": "park",
+    "id": "sw:easternairlinesfligh",
+    "name": "Eastern Airlines Flight 605 Memorial",
+    "type": "weird",
     "tags": [
-      "park",
-      "nature"
+      "weird",
+      "historic"
     ],
-    "lat": 39.56291,
-    "lng": -76.30884,
+    "lat": 39.61416,
+    "lng": -76.06063,
+    "dist": 43.4,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7599088241,
+    "score": 0
+  },
+  {
+    "id": "sw:westnottinghamacadem",
+    "name": "West Nottingham Academy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.66985,
+    "lng": -76.07673,
+    "dist": 46.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7599252653,
+    "score": 0
+  },
+  {
+    "id": "sw:bainbridge",
+    "name": "Bainbridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60109,
+    "lng": -76.11231,
+    "dist": 41.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7601172001,
+    "score": 0
+  },
+  {
+    "id": "sw:bainbridgememorial",
+    "name": "Bainbridge Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60146,
+    "lng": -76.11252,
+    "dist": 41.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7601172008,
+    "score": 0
+  },
+  {
+    "id": "sw:vfwmemorial",
+    "name": "VFW Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60113,
+    "lng": -76.1123,
+    "dist": 41.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7601172013,
+    "score": 0
+  },
+  {
+    "id": "sw:havredegrace",
+    "name": "Havre de Grace",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.54068,
+    "lng": -76.08462,
+    "dist": 38.6,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7618085873,
+    "score": 0
+  },
+  {
+    "id": "sw:rockrunmill",
+    "name": "Rock Run Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.61397,
+    "lng": -76.12596,
+    "dist": 41.4,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7654245620,
+    "score": 0
+  },
+  {
+    "id": "sw:johnajcreswell",
+    "name": "John A.J. Creswell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.605,
+    "lng": -76.11542,
+    "dist": 41.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7654245642,
+    "score": 0
+  },
+  {
+    "id": "sw:snowsbattery",
+    "name": "Snow's Battery",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60401,
+    "lng": -76.11463,
+    "dist": 41.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7654245658,
+    "score": 0
+  },
+  {
+    "id": "sw:brownbrownyoung",
+    "name": "Brown, Brown & Young",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53458,
+    "lng": -76.34768,
+    "dist": 31.4,
+    "description": "Historic: house",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7804950210,
+    "score": 0
+  },
+  {
+    "id": "sw:medicalhall",
+    "name": "Medical Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55523,
+    "lng": -76.28669,
     "dist": 33.9,
-    "description": "",
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8280968981,
+    "score": 0
+  },
+  {
+    "id": "sw:built1898liriodendro",
+    "name": "Built 1898 Liriodendron",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53856,
+    "lng": -76.3532,
+    "dist": 31.6,
+    "description": "Historic: marker",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8623324722,
+    "score": 0
+  },
+  {
+    "id": "sw:colonyofmaryland",
+    "name": "Colony of Maryland",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.49678,
+    "lng": -76.23204,
+    "dist": 31.6,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8947322069,
+    "score": 0
+  },
+  {
+    "id": "sw:mapaheritagetraildog",
+    "name": "Ma & Pa Heritage Trail Dog Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.52329,
+    "lng": -76.37269,
+    "dist": 30.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8947363736,
+    "score": 0
+  },
+  {
+    "id": "sw:stateofmaryland",
+    "name": "State of Maryland",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.49724,
+    "lng": -76.23251,
+    "dist": 31.6,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9126729122,
+    "score": 0
+  },
+  {
+    "id": "sw:aberdeenprovinggroun",
+    "name": "Aberdeen Proving Ground Workers Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51102,
+    "lng": -76.16398,
+    "dist": 34.4,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9141634469,
+    "score": 0
+  },
+  {
+    "id": "sw:thelockhouse",
+    "name": "The Lock House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55611,
+    "lng": -76.09429,
+    "dist": 39.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9290749167,
+    "score": 0
+  },
+  {
+    "id": "sw:thelafayettetrail",
+    "name": "The Lafayette Trail",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55598,
+    "lng": -76.09413,
+    "dist": 39.1,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9290796135,
+    "score": 0
+  },
+  {
+    "id": "sw:whiskeystillsite1930",
+    "name": "Whiskey Still Site (1930s)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.6928,
+    "lng": -76.25346,
+    "dist": 43.4,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9592786061,
+    "score": 0
+  },
+  {
+    "id": "sw:hamiltonruins1870s",
+    "name": "Hamilton Ruins (1870s)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.70238,
+    "lng": -76.25127,
+    "dist": 44.0,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9592786062,
+    "score": 0
+  },
+  {
+    "id": "sw:whitefordfarmhouse18",
+    "name": "Whiteford Farm House (1885)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.70186,
+    "lng": -76.25577,
+    "dist": 43.9,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9592786257,
+    "score": 0
+  },
+  {
+    "id": "sw:timmonslodgeruins",
+    "name": "Timmons Lodge Ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.67957,
+    "lng": -76.24809,
+    "dist": 42.6,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9592852630,
+    "score": 0
+  },
+  {
+    "id": "sw:manorhouse",
+    "name": "Manor House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68725,
+    "lng": -76.2762,
+    "dist": 42.6,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9592852638,
+    "score": 0
+  },
+  {
+    "id": "sw:gilpinsfallscoveredb",
+    "name": "Gilpin's Falls Covered Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.64872,
+    "lng": -75.95597,
+    "dist": 48.7,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12286012469,
+    "score": 0
+  },
+  {
+    "id": "sw:indianspring",
+    "name": "Indian Spring",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.61059,
+    "lng": -76.26027,
+    "dist": 37.9,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12773514025,
+    "score": 0
+  },
+  {
+    "id": "sw:oldpostroadestablish",
+    "name": "Old Post Road - Established 1666 - Cokesbury College",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46128,
+    "lng": -76.27955,
+    "dist": 28.2,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12945569176,
+    "score": 0
+  },
+  {
+    "id": "sw:5m20ftzoomtopanoldpo",
+    "name": "5 m 20 ft    Zoom to  Pan Old Post Road - Established 1666 - Gov. William Paca",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44937,
+    "lng": -76.29641,
+    "dist": 27.0,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12945613922,
+    "score": 0
+  },
+  {
+    "id": "sw:aberdeenprovinggroun",
+    "name": "Aberdeen Proving Ground Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51111,
+    "lng": -76.16424,
+    "dist": 34.4,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13007438339,
+    "score": 0
+  },
+  {
+    "id": "sw:railroadwatchmensshe",
+    "name": "Railroad Watchmen’s Shed",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51127,
+    "lng": -76.16431,
+    "dist": 34.4,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13007438344,
+    "score": 0
+  },
+  {
+    "id": "sw:aberdeencentennialti",
+    "name": "Aberdeen Centennial Time Capsule",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51116,
+    "lng": -76.16429,
+    "dist": 34.4,
+    "description": "Historic: time capsule",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13007456722,
+    "score": 0
+  },
+  {
+    "id": "sw:siteofchapelofease",
+    "name": "Site of Chapel-of-Ease",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.63325,
+    "lng": -76.0774,
+    "dist": 44.0,
+    "description": "Historic: memorial",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13391394764,
+    "score": 0
+  },
+  {
+    "id": "sw:mcdaniellane",
+    "name": "McDaniel Lane",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.58432,
+    "lng": -75.77544,
+    "dist": 52.4,
+    "description": "Historic: heritage",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 155752700,
+    "osmId": 17227375,
+    "score": 0
+  },
+  {
+    "id": "sw:westlewisshoreroad",
+    "name": "West Lewis Shore Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57333,
+    "lng": -75.8173,
+    "dist": 50.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 17628115,
+    "score": 0
+  },
+  {
+    "id": "sw:eastlewisshoreroad",
+    "name": "East Lewis Shore Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57376,
+    "lng": -75.81347,
+    "dist": 50.4,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 17632471,
+    "score": 0
+  },
+  {
+    "id": "sw:liriodendronmansion",
+    "name": "Liriodendron Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.5342,
+    "lng": -76.36034,
+    "dist": 31.2,
+    "description": "Historic: manor",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 107137451,
+    "score": 0
+  },
+  {
+    "id": "sw:bfhansonhouse",
+    "name": "B.F. Hanson House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42785,
+    "lng": -75.7597,
+    "dist": 47.1,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 181375455,
     "score": 0
   },
   {
@@ -64799,1726 +66610,881 @@ const SWEPT_PLACES = [
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.65901,
-    "lng": -75.82282,
-    "dist": 54.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 218150657,
-    "score": 0
-  },
-  {
-    "id": "sw:pleasanthillfiretowe",
-    "name": "Pleasant Hill Fire Tower",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.65978,
-    "lng": -75.89886,
-    "dist": 51.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 218154000,
-    "score": 0
-  },
-  {
-    "id": "sw:thepellgardens",
-    "name": "The Pell Gardens",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52721,
-    "lng": -75.81162,
-    "dist": 48.4,
-    "description": "Elevation: 4m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 238913990,
-    "score": 0
-  },
-  {
-    "id": "sw:garrettislandbeach",
-    "name": "Garrett Island Beach",
-    "type": "water",
-    "tags": [
-      "water",
-      "scenic"
-    ],
-    "lat": 39.56518,
-    "lng": -76.08327,
-    "dist": 40.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 243815275,
-    "score": 0
-  },
-  {
-    "id": "sw:nottinghamcountypark",
-    "name": "Nottingham County Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.73434,
-    "lng": -76.03961,
-    "dist": 50.9,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 248097288,
-    "score": 0
-  },
-  {
-    "id": "sw:aberdeenfestivalpark",
-    "name": "Aberdeen Festival Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.51142,
-    "lng": -76.16386,
-    "dist": 34.4,
-    "description": "Elevation: 29m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 249660531,
-    "score": 0
-  },
-  {
-    "id": "sw:portdepositmarinapar",
-    "name": "Port Deposit Marina Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.59876,
-    "lng": -76.10979,
-    "dist": 41.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 257916607,
-    "score": 0
-  },
-  {
-    "id": "sw:northeastbeacharea",
-    "name": "North East Beach Area",
-    "type": "water",
-    "tags": [
-      "water",
-      "scenic"
-    ],
-    "lat": 39.49341,
-    "lng": -75.98938,
-    "dist": 39.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 286307254,
-    "score": 0
-  },
-  {
-    "id": "sw:bynumrunpark",
-    "name": "Bynum Run Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54053,
-    "lng": -76.33072,
-    "dist": 32.1,
-    "description": "Elevation: 84m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 291460215,
-    "score": 0
-  },
-  {
-    "id": "sw:ironhillpark",
-    "name": "Iron Hill Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.63831,
-    "lng": -75.75417,
-    "dist": 55.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 363232707,
-    "score": 0
-  },
-  {
-    "id": "sw:belcampbeach",
-    "name": "Belcamp Beach",
-    "type": "water",
-    "tags": [
-      "water",
-      "scenic"
-    ],
-    "lat": 39.4656,
-    "lng": -76.23503,
-    "dist": 29.7,
-    "description": "Elevation: 3m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 395119062,
-    "score": 0
-  },
-  {
-    "id": "sw:blakesventurepark",
-    "name": "Blake's Venture Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.5683,
-    "lng": -76.36844,
-    "dist": 33.3,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 450926439,
-    "score": 0
-  },
-  {
-    "id": "sw:castlepark",
-    "name": "Castle Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.55812,
-    "lng": -75.7449,
-    "dist": 52.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 466201007,
-    "score": 0
-  },
-  {
-    "id": "sw:lumspondstatepark",
-    "name": "Lums Pond State Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.56085,
-    "lng": -75.71797,
+    "lat": 39.67424,
+    "lng": -75.84734,
     "dist": 53.8,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 469420916,
+    "osmId": 218150660,
     "score": 0
   },
   {
-    "id": "sw:mansionfarmcommunity",
-    "name": "Mansion Farm Community Park",
+    "id": "sw:caveatforestlegacyea",
+    "name": "Caveat Forest Legacy Easement",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.58081,
-    "lng": -75.73404,
-    "dist": 54.0,
+    "lat": 39.52512,
+    "lng": -75.97341,
+    "dist": 41.8,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 469421170,
+    "osmId": 314901753,
     "score": 0
   },
   {
-    "id": "sw:veteranspark",
-    "name": "Veterans Park",
+    "id": "sw:dilksforestlegacyeas",
+    "name": "Dilks Forest Legacy Easement",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.54411,
-    "lng": -76.08588,
-    "dist": 38.7,
+    "lat": 39.52704,
+    "lng": -75.93026,
+    "dist": 43.5,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 478667375,
+    "osmId": 314901754,
     "score": 0
   },
   {
-    "id": "sw:havredegracereccente",
-    "name": "Havre de Grace Rec Center",
+    "id": "sw:elkriverassociatesfo",
+    "name": "Elk River Associates Forest Legacy Easement",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.54516,
-    "lng": -76.10363,
-    "dist": 38.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 478668549,
-    "score": 0
-  },
-  {
-    "id": "sw:chapelroadpark",
-    "name": "Chapel Road Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.55764,
-    "lng": -76.1484,
-    "dist": 37.5,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 478668832,
-    "score": 0
-  },
-  {
-    "id": "sw:boxhillsouthpark",
-    "name": "Box Hill South Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.47006,
-    "lng": -76.29978,
-    "dist": 28.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 519177964,
-    "score": 0
-  },
-  {
-    "id": "sw:flyingpointpark",
-    "name": "Flying Point Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.44172,
-    "lng": -76.25808,
-    "dist": 27.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 519179366,
-    "score": 0
-  },
-  {
-    "id": "sw:cedarlaneregionalpar",
-    "name": "Cedar Lane Regional Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.50493,
-    "lng": -76.27445,
-    "dist": 31.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 519202593,
-    "score": 0
-  },
-  {
-    "id": "sw:mountainroadpark",
-    "name": "Mountain Road Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.46549,
-    "lng": -76.36596,
-    "dist": 26.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 531850592,
-    "score": 0
-  },
-  {
-    "id": "sw:emmortonelementarypa",
-    "name": "Emmorton Elementary Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.48863,
-    "lng": -76.3291,
-    "dist": 28.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 531850858,
-    "score": 0
-  },
-  {
-    "id": "sw:woodbridgepark",
-    "name": "Woodbridge Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.42836,
-    "lng": -76.32867,
-    "dist": 25.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 531858344,
-    "score": 0
-  },
-  {
-    "id": "sw:schucksregionalpark",
-    "name": "Schucks Regional Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54899,
-    "lng": -76.28149,
-    "dist": 33.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 531859439,
-    "score": 0
-  },
-  {
-    "id": "sw:homesteadpark",
-    "name": "Homestead Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53017,
-    "lng": -76.33107,
-    "dist": 31.4,
-    "description": "Elevation: 103m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 532452235,
-    "score": 0
-  },
-  {
-    "id": "sw:perrymanpark",
-    "name": "Perryman Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.47453,
-    "lng": -76.21661,
-    "dist": 30.7,
-    "description": "Elevation: 9m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 532455982,
-    "score": 0
-  },
-  {
-    "id": "sw:hollywoodspark",
-    "name": "Holly Woods Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.49091,
-    "lng": -76.21454,
-    "dist": 31.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 532456557,
-    "score": 0
-  },
-  {
-    "id": "sw:plumtreepark",
-    "name": "Plumtree Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53209,
-    "lng": -76.35323,
-    "dist": 31.1,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546388243,
-    "score": 0
-  },
-  {
-    "id": "sw:aliceannepark",
-    "name": "Alice Anne Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53587,
-    "lng": -76.35296,
-    "dist": 31.4,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546388245,
-    "score": 0
-  },
-  {
-    "id": "sw:rockfieldpark",
-    "name": "Rockfield Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53665,
-    "lng": -76.33836,
-    "dist": 31.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546394214,
-    "score": 0
-  },
-  {
-    "id": "sw:colonialacrescommuni",
-    "name": "Colonial Acres Community Association Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52054,
-    "lng": -76.32894,
-    "dist": 30.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546407278,
-    "score": 0
-  },
-  {
-    "id": "sw:alicewilliamlongleyp",
-    "name": "Alice & William Longley Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.45553,
-    "lng": -76.25052,
-    "dist": 28.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546430665,
-    "score": 0
-  },
-  {
-    "id": "sw:abingdonroadpark",
-    "name": "Abingdon Road Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.47074,
-    "lng": -76.28438,
-    "dist": 28.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546711396,
-    "score": 0
-  },
-  {
-    "id": "sw:majorschoicepark",
-    "name": "Majors Choice Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54234,
-    "lng": -76.34126,
-    "dist": 32.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 546952169,
-    "score": 0
-  },
-  {
-    "id": "sw:concordpointpark",
-    "name": "Concord Point Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54051,
-    "lng": -76.08469,
-    "dist": 38.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 548372394,
-    "score": 0
-  },
-  {
-    "id": "sw:aquilascottpark",
-    "name": "Aquila Scott Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.5378,
-    "lng": -76.32871,
-    "dist": 31.9,
-    "description": "Elevation: 87m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 548496795,
-    "score": 0
-  },
-  {
-    "id": "sw:victorystreetpark",
-    "name": "Victory Street Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.50023,
-    "lng": -76.16069,
-    "dist": 33.9,
-    "description": "Elevation: 21m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 548639982,
-    "score": 0
-  },
-  {
-    "id": "sw:swanmeadowspark",
-    "name": "Swan Meadows Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.50511,
-    "lng": -76.15611,
-    "dist": 34.3,
-    "description": "Elevation: 23m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 548640894,
-    "score": 0
-  },
-  {
-    "id": "sw:northdeenpark",
-    "name": "North Deen Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.51502,
-    "lng": -76.15492,
-    "dist": 34.9,
-    "description": "Elevation: 20m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 548641342,
-    "score": 0
-  },
-  {
-    "id": "sw:elktontowncenter",
-    "name": "Elkton Town Center",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.60796,
-    "lng": -75.8297,
-    "dist": 51.3,
-    "description": "Several benches and signs about the history of Elkton",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 554981495,
-    "score": 0
-  },
-  {
-    "id": "sw:harfordglen",
-    "name": "Harford Glen",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.48595,
-    "lng": -76.34839,
-    "dist": 28.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 584069407,
-    "score": 0
-  },
-  {
-    "id": "sw:platerstreetpark",
-    "name": "Plater Street Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.51252,
-    "lng": -76.18074,
-    "dist": 34.0,
-    "description": "Elevation: 39m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592844916,
-    "score": 0
-  },
-  {
-    "id": "sw:hickorypark",
-    "name": "Hickory Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.59054,
-    "lng": -76.34796,
-    "dist": 35.1,
-    "description": "Elevation: 135m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592847337,
-    "score": 0
-  },
-  {
-    "id": "sw:francissilverpark",
-    "name": "Francis Silver Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.63972,
-    "lng": -76.19941,
-    "dist": 41.1,
-    "description": "Elevation: 88m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592868846,
-    "score": 0
-  },
-  {
-    "id": "sw:emmarockeypark",
-    "name": "Emma Rockey Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.65237,
-    "lng": -76.2423,
-    "dist": 41.0,
-    "description": "Elevation: 109m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592870194,
-    "score": 0
-  },
-  {
-    "id": "sw:dublindellpark",
-    "name": "Dublin Dell Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.65328,
-    "lng": -76.27105,
-    "dist": 40.5,
-    "description": "Elevation: 128m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592871541,
-    "score": 0
-  },
-  {
-    "id": "sw:scarborohills",
-    "name": "Scarboro Hills",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.63528,
-    "lng": -76.29385,
-    "dist": 38.9,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592895554,
-    "score": 0
-  },
-  {
-    "id": "sw:darlingtonpark",
-    "name": "Darlington Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.64702,
-    "lng": -76.20994,
-    "dist": 41.3,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 592897847,
-    "score": 0
-  },
-  {
-    "id": "sw:cecilcommunitycenter",
-    "name": "Cecil Community Center Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.68961,
-    "lng": -76.03894,
-    "dist": 48.3,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 593979777,
-    "score": 0
-  },
-  {
-    "id": "sw:conowingopark",
-    "name": "Conowingo Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.65636,
-    "lng": -76.15604,
-    "dist": 43.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 593986130,
-    "score": 0
-  },
-  {
-    "id": "sw:cheslandpark",
-    "name": "Chesland Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.5541,
-    "lng": -75.82015,
-    "dist": 49.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 593992571,
-    "score": 0
-  },
-  {
-    "id": "sw:elkmillscommunitypar",
-    "name": "Elk Mills Community Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.66301,
-    "lng": -75.83154,
-    "dist": 53.9,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 593995207,
-    "score": 0
-  },
-  {
-    "id": "sw:harborviewcommunityp",
-    "name": "Harbor View Community Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.50953,
-    "lng": -75.87434,
-    "dist": 45.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 593997102,
-    "score": 0
-  },
-  {
-    "id": "sw:diddierichardsonpark",
-    "name": "Diddie Richardson Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.69915,
-    "lng": -76.05586,
-    "dist": 48.4,
-    "description": "Elevation: 107m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 594036130,
-    "score": 0
-  },
-  {
-    "id": "sw:veteranscommunitypar",
-    "name": "Veterans Community Park of Rising Sun",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.69522,
-    "lng": -76.06409,
-    "dist": 48.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 594044022,
-    "score": 0
-  },
-  {
-    "id": "sw:meadoweastpark",
-    "name": "Meadow East Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.60775,
-    "lng": -75.81869,
-    "dist": 51.7,
-    "description": "Elevation: 3m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 594321060,
-    "score": 0
-  },
-  {
-    "id": "sw:millbrookdgc",
-    "name": "Mill Brook DGC",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.55821,
-    "lng": -76.23442,
-    "dist": 35.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 610181049,
-    "score": 0
-  },
-  {
-    "id": "sw:dublinpark",
-    "name": "Dublin Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.63145,
-    "lng": -76.26958,
-    "dist": 39.1,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 614154022,
-    "score": 0
-  },
-  {
-    "id": "sw:swanharborfarm",
-    "name": "Swan Harbor Farm",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52388,
-    "lng": -76.11782,
-    "dist": 36.6,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 643613279,
-    "score": 0
-  },
-  {
-    "id": "sw:howardspondrecreatio",
-    "name": "Howard's Pond Recreation Area",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.61041,
-    "lng": -75.81836,
-    "dist": 51.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 646992362,
-    "score": 0
-  },
-  {
-    "id": "sw:hatcherypark",
-    "name": "Hatchery Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.6079,
-    "lng": -75.81127,
-    "dist": 52.0,
-    "description": "Elevation: 5m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 646992364,
-    "score": 0
-  },
-  {
-    "id": "sw:chesapeakecitypark",
-    "name": "Chesapeake City Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52333,
-    "lng": -75.82028,
-    "dist": 47.9,
-    "description": "Elevation: 9m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 648953118,
-    "score": 0
-  },
-  {
-    "id": "sw:fletchwoodcommunityp",
-    "name": "Fletchwood Community Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.65692,
-    "lng": -75.79797,
-    "dist": 54.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 648967292,
-    "score": 0
-  },
-  {
-    "id": "sw:frederickwardpark",
-    "name": "Frederick Ward Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53756,
-    "lng": -76.35002,
-    "dist": 31.5,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 666588386,
-    "score": 0
-  },
-  {
-    "id": "sw:charlestownathleticc",
-    "name": "Charlestown Athletic Complex",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.57554,
-    "lng": -75.97886,
-    "dist": 44.1,
-    "description": "Elevation: 13m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 679376869,
-    "score": 0
-  },
-  {
-    "id": "sw:fairgreenpark",
-    "name": "Fair Green Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.57306,
-    "lng": -75.97629,
+    "lat": 39.52675,
+    "lng": -75.9182,
     "dist": 44.0,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 679378561,
+    "osmId": 314901755,
     "score": 0
   },
   {
-    "id": "sw:governorbradfordpark",
-    "name": "Governor Bradford Park",
+    "id": "sw:oldbohemiawildlifema",
+    "name": "Old Bohemia Wildlife Management Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.53517,
-    "lng": -76.34781,
-    "dist": 31.4,
+    "lat": 39.43153,
+    "lng": -75.79473,
+    "dist": 45.6,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 683622293,
+    "osmId": 314930060,
     "score": 0
   },
   {
-    "id": "sw:edgewoodrecreationpa",
-    "name": "Edgewood Recreation Park",
+    "id": "sw:riehlconservationres",
+    "name": "Riehl Conservation Reserve Enhancement Program Easement",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.41747,
-    "lng": -76.31746,
-    "dist": 24.6,
-    "description": "Elevation: 25m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 694275708,
-    "score": 0
-  },
-  {
-    "id": "sw:ferrysliproadpark",
-    "name": "Ferryslip Road Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52616,
-    "lng": -75.81216,
-    "dist": 48.4,
-    "description": "Elevation: 4m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 752821925,
-    "score": 0
-  },
-  {
-    "id": "sw:aberdeenfamilyswimce",
-    "name": "Aberdeen Family Swim Center",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53629,
-    "lng": -76.16492,
-    "dist": 35.8,
+    "lat": 39.66887,
+    "lng": -76.30556,
+    "dist": 40.9,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 766802608,
+    "osmId": 314930067,
     "score": 0
   },
   {
-    "id": "sw:marshallekrohpark",
-    "name": "Marshall E. Kroh Park",
+    "id": "sw:campconowingo",
+    "name": "Camp Conowingo",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.5084,
-    "lng": -76.3308,
-    "dist": 30.0,
+    "lat": 39.69433,
+    "lng": -76.19284,
+    "dist": 44.7,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 769777740,
+    "osmId": 314948775,
     "score": 0
   },
   {
-    "id": "sw:rockrunparkboatlaunc",
-    "name": "Rock Run Park & Boat Launch",
+    "id": "sw:bushdeclarationnatur",
+    "name": "Bush Declaration Natural Resource Management Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.61319,
-    "lng": -76.12608,
-    "dist": 41.4,
+    "lat": 39.47194,
+    "lng": -76.25872,
+    "dist": 29.4,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 819657000,
+    "osmId": 314948786,
     "score": 0
   },
   {
-    "id": "sw:oldfieldspark",
-    "name": "Old Fields Park",
+    "id": "sw:bynumrunpondfishmana",
+    "name": "Bynum Run Pond Fish Management Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.5375,
-    "lng": -76.35268,
-    "dist": 31.5,
+    "lat": 39.54051,
+    "lng": -76.33081,
+    "dist": 32.1,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 863263433,
+    "osmId": 314948787,
     "score": 0
   },
   {
-    "id": "sw:marinerspark",
-    "name": "Mariners Park",
+    "id": "sw:risingsunpondfishman",
+    "name": "Rising Sun Pond Fish Management Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.60461,
-    "lng": -75.83219,
-    "dist": 51.0,
+    "lat": 39.69738,
+    "lng": -76.07331,
+    "dist": 47.8,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 935168968,
+    "osmId": 314948839,
     "score": 0
   },
   {
-    "id": "sw:brantwoodpark",
-    "name": "Brantwood Park",
+    "id": "sw:bethalmanagedhunting",
+    "name": "Bethal Managed Hunting Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.56731,
-    "lng": -75.80571,
-    "dist": 50.4,
+    "lat": 39.52702,
+    "lng": -75.79302,
+    "dist": 49.2,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 1089571900,
+    "osmId": 315105814,
     "score": 0
   },
   {
-    "id": "sw:roundhousepark",
-    "name": "Roundhouse Park",
+    "id": "sw:canalnationalwildlif",
+    "name": "Canal National Wildlife Refuge",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.55822,
-    "lng": -76.07767,
-    "dist": 39.8,
+    "lat": 39.53785,
+    "lng": -75.78333,
+    "dist": 50.1,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 1323495259,
+    "osmId": 315105821,
     "score": 0
   },
   {
-    "id": "sw:icehousepark",
-    "name": "Ice House Park",
+    "id": "sw:courthousepointmanag",
+    "name": "Courthouse Point Managed Hunting Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.56608,
-    "lng": -76.07953,
-    "dist": 40.1,
-    "description": "Local Park and Free Fishing Area",
+    "lat": 39.50161,
+    "lng": -75.87518,
+    "dist": 44.7,
+    "description": "Elevation: 12m",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 1323495260,
+    "osmId": 315105829,
     "score": 0
   },
   {
-    "id": "sw:mildredkellypark",
-    "name": "Mildred Kelly Park",
+    "id": "sw:elkforestmanagedhunt",
+    "name": "Elk Forest Managed Hunting Area",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.41552,
-    "lng": -76.29854,
-    "dist": 25.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 1413958099,
-    "score": 0
-  },
-  {
-    "id": "sw:ederpark",
-    "name": "Eder Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.60563,
-    "lng": -75.82714,
-    "dist": 51.3,
+    "lat": 39.53878,
+    "lng": -75.83592,
+    "dist": 47.9,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
     "osmType": "way",
-    "osmId": 1425230480,
+    "osmId": 315105836,
     "score": 0
   },
   {
-    "id": "sw:communityconnectingu",
-    "name": "Community Connecting Us Park",
+    "id": "sw:welchptmanagedhuntin",
+    "name": "Welch Pt Managed Hunting /Elk Forest WMA",
     "type": "park",
     "tags": [
       "park",
-      "nature"
+      "nature",
+      "forest",
+      "hiking"
     ],
-    "lat": 39.60806,
-    "lng": -76.11868,
-    "dist": 41.3,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 1446375516,
-    "score": 0
-  },
-  {
-    "id": "sw:palmerstatepark",
-    "name": "Palmer State Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.61515,
-    "lng": -76.28374,
-    "dist": 37.8,
-    "description": "Hours: sunrise-sunset",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 4234072,
-    "score": 0
-  },
-  {
-    "id": "sw:leightpark",
-    "name": "Leight Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.45135,
-    "lng": -76.27186,
-    "dist": 27.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8252555,
-    "score": 0
-  },
-  {
-    "id": "sw:toddpark",
-    "name": "Todd Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53839,
-    "lng": -76.10192,
-    "dist": 37.9,
-    "description": "Elevation: 14m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8252559,
-    "score": 0
-  },
-  {
-    "id": "sw:batteryvillagebradfo",
-    "name": "Battery Village / Bradford Green",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54187,
-    "lng": -76.10631,
-    "dist": 37.9,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8345561,
-    "score": 0
-  },
-  {
-    "id": "sw:robertcopenhaverpark",
-    "name": "Robert Copenhaver Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.40936,
-    "lng": -76.34259,
-    "dist": 23.5,
-    "description": "Elevation: 5m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8347575,
-    "score": 0
-  },
-  {
-    "id": "sw:edgewatervillagepark",
-    "name": "Edgewater Village Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.43025,
-    "lng": -76.3129,
-    "dist": 25.5,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8462323,
-    "score": 0
-  },
-  {
-    "id": "sw:calvertregionalpark",
-    "name": "Calvert Regional Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.6988,
-    "lng": -75.97414,
-    "dist": 50.8,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8507343,
-    "score": 0
-  },
-  {
-    "id": "sw:eleanorandmillardtyd",
-    "name": "Eleanor and Millard Tydings Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.50091,
-    "lng": -76.12008,
-    "dist": 35.2,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 8920893,
-    "score": 0
-  },
-  {
-    "id": "sw:stoneyrunpark",
-    "name": "Stoney Run Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.59749,
-    "lng": -75.95496,
-    "dist": 46.0,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 9050722,
-    "score": 0
-  },
-  {
-    "id": "sw:wallacecartersmillsp",
-    "name": "Wallace-Carters Mills Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.68154,
-    "lng": -75.87257,
-    "dist": 53.3,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 9050729,
-    "score": 0
-  },
-  {
-    "id": "sw:shamrockpark",
-    "name": "Shamrock Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.53936,
-    "lng": -76.34611,
-    "dist": 31.7,
-    "description": "",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 9604067,
-    "score": 0
-  },
-  {
-    "id": "sw:perrypointpark",
-    "name": "Perry Point Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.54849,
-    "lng": -76.05075,
-    "dist": 40.1,
-    "description": "Elevation: 17m · Dogs: leashed",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 12037013,
-    "score": 0
-  },
-  {
-    "id": "sw:northeastcommunitypa",
-    "name": "North East Community Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.59373,
-    "lng": -75.94699,
+    "lat": 39.52955,
+    "lng": -75.86994,
     "dist": 46.1,
-    "description": "Elevation: 3m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 13116275,
-    "score": 0
-  },
-  {
-    "id": "sw:johnpstanleypark",
-    "name": "John P. Stanley Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.60456,
-    "lng": -75.82222,
-    "dist": 51.4,
-    "description": "Elevation: 3m",
-    "zone": "Upper Chesapeake & Elk Neck",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 13199316,
-    "score": 0
-  },
-  {
-    "id": "sw:tollgatepark",
-    "name": "Tollgate Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.52709,
-    "lng": -76.37635,
-    "dist": 30.4,
     "description": "",
     "zone": "Upper Chesapeake & Elk Neck",
     "osmTags": {},
-    "osmType": "relation",
-    "osmId": 14232345,
+    "osmType": "way",
+    "osmId": 315105910,
+    "score": 0
+  },
+  {
+    "id": "sw:rockspringspreserve",
+    "name": "Rock Springs Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.72553,
+    "lng": -76.16372,
+    "dist": 47.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 335086434,
+    "score": 0
+  },
+  {
+    "id": "sw:aikenstavernhistoric",
+    "name": "Aiken's Tavern Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.60668,
+    "lng": -75.74501,
+    "dist": 54.6,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 336097005,
+    "score": 0
+  },
+  {
+    "id": "sw:ironhillmuseum",
+    "name": "Iron Hill Museum",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.63155,
+    "lng": -75.75819,
+    "dist": 55.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 363208968,
+    "score": 0
+  },
+  {
+    "id": "sw:chestnuthillironmine",
+    "name": "Chestnut Hill Ironmine Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.6534,
+    "lng": -75.77146,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 363229640,
+    "score": 0
+  },
+  {
+    "id": "sw:ottschapel",
+    "name": "Ott's Chapel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.63411,
+    "lng": -75.77855,
+    "dist": 54.5,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 369316522,
+    "score": 0
+  },
+  {
+    "id": "sw:implementshed",
+    "name": "implement shed",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55637,
+    "lng": -75.77443,
+    "dist": 51.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 370108545,
+    "score": 0
+  },
+  {
+    "id": "sw:smokehouse",
+    "name": "smokehouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.556,
+    "lng": -75.77392,
+    "dist": 51.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 370108547,
+    "score": 0
+  },
+  {
+    "id": "sw:cowbarn",
+    "name": "cow barn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55627,
+    "lng": -75.77435,
+    "dist": 51.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 370108550,
+    "score": 0
+  },
+  {
+    "id": "sw:poplarhall",
+    "name": "Poplar Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55586,
+    "lng": -75.77423,
+    "dist": 51.2,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 370108551,
+    "score": 0
+  },
+  {
+    "id": "sw:lagrange",
+    "name": "La Grange",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.60622,
+    "lng": -75.74841,
+    "dist": 54.5,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 373555623,
+    "score": 0
+  },
+  {
+    "id": "sw:newcastleandfrenchto",
+    "name": "New Castle and Frenchtown Railway",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57455,
+    "lng": -75.83351,
+    "dist": 49.6,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 373701104,
+    "score": 0
+  },
+  {
+    "id": "sw:shop",
+    "name": "shop",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51511,
+    "lng": -75.74592,
+    "dist": 50.8,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656321,
+    "score": 0
+  },
+  {
+    "id": "sw:stable",
+    "name": "stable",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51514,
+    "lng": -75.74533,
+    "dist": 50.8,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656322,
+    "score": 0
+  },
+  {
+    "id": "sw:govbenjamintbiggsfar",
+    "name": "Gov. Benjamin T. Biggs Farmhouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51533,
+    "lng": -75.74617,
+    "dist": 50.8,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656325,
+    "score": 0
+  },
+  {
+    "id": "sw:choptank",
+    "name": "Choptank",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.49684,
+    "lng": -75.74008,
+    "dist": 50.4,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656522,
+    "score": 0
+  },
+  {
+    "id": "sw:choptankuponthehill",
+    "name": "Choptank-upon-the-Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.49669,
+    "lng": -75.74714,
+    "dist": 50.1,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656661,
+    "score": 0
+  },
+  {
+    "id": "sw:woodside",
+    "name": "Woodside",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50639,
+    "lng": -75.75036,
+    "dist": 50.3,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656906,
+    "score": 0
+  },
+  {
+    "id": "sw:icehouse",
+    "name": "icehouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50618,
+    "lng": -75.75032,
+    "dist": 50.3,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656912,
+    "score": 0
+  },
+  {
+    "id": "sw:granary",
+    "name": "granary",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50632,
+    "lng": -75.74957,
+    "dist": 50.3,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374656914,
+    "score": 0
+  },
+  {
+    "id": "sw:sholtonfarm",
+    "name": "S. Holton Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47163,
+    "lng": -75.73615,
+    "dist": 49.7,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374657146,
+    "score": 0
+  },
+  {
+    "id": "sw:milkhouse",
+    "name": "milkhouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4717,
+    "lng": -75.73599,
+    "dist": 49.7,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374657147,
+    "score": 0
+  },
+  {
+    "id": "sw:cornucopia",
+    "name": "Cornucopia",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.52573,
+    "lng": -75.77315,
+    "dist": 50.0,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374778547,
+    "score": 0
+  },
+  {
+    "id": "sw:hedgelawn",
+    "name": "Hedgelawn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44143,
+    "lng": -75.74167,
+    "dist": 48.4,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 375030000,
+    "score": 0
+  },
+  {
+    "id": "sw:maples",
+    "name": "Maples",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45494,
+    "lng": -75.73789,
+    "dist": 49.0,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 375071476,
+    "score": 0
+  },
+  {
+    "id": "sw:rosedale",
+    "name": "Rosedale",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45979,
+    "lng": -75.74532,
+    "dist": 48.8,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 375883267,
+    "score": 0
+  },
+  {
+    "id": "sw:rumseyfarm",
+    "name": "Rumsey Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44156,
+    "lng": -75.74914,
+    "dist": 48.0,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 375883479,
+    "score": 0
+  },
+  {
+    "id": "sw:ltgmiltonareckordarm",
+    "name": "LTG Milton A. Reckord Armory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53769,
+    "lng": -76.35015,
+    "dist": 31.6,
+    "description": "Elevation: 120m · Hours: Mo-Fr 08:30-16:30 · Historic: building",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 376317064,
+    "score": 0
+  },
+  {
+    "id": "sw:bigfootcabinruins",
+    "name": "Bigfoot Cabin (ruins)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69589,
+    "lng": -76.24927,
+    "dist": 43.6,
+    "description": "Historic: ruins",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 383618052,
+    "score": 0
+  },
+  {
+    "id": "sw:broodmarestable",
+    "name": "broodmare stable",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46124,
+    "lng": -75.74463,
+    "dist": 48.9,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 462659028,
+    "score": 0
+  },
+  {
+    "id": "sw:barnandstable",
+    "name": "barn and stable",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46045,
+    "lng": -75.74517,
+    "dist": 48.9,
+    "description": "Historic: heritage",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 462659029,
+    "score": 0
+  },
+  {
+    "id": "sw:bcmsrdeepruncliffsou",
+    "name": "BCMSR - Deep Run Cliffs Outpost",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.69905,
+    "lng": -76.27252,
+    "dist": 43.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 481696388,
+    "score": 0
+  },
+  {
+    "id": "sw:thehistoricalsociety",
+    "name": "The Historical Society of Harford County",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.53865,
+    "lng": -76.35247,
+    "dist": 31.6,
+    "description": "Historic: building",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 482847418,
     "score": 0
   }
 ];
