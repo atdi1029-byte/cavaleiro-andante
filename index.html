@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#142014">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Cavaleiro Andante</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- Header -->
+  <header id="header">
+    <div class="header-top">
+      <h1 class="app-title">Cavaleiro Andante</h1>
+      <button class="icon-btn" id="taste-btn" title="Taste Profile">⚗️</button>
+    </div>
+    <div class="location-bar">
+      <span id="location-icon">📍</span>
+      <span id="location-text">Pasadena, MD</span>
+      <button id="use-location-btn" class="loc-btn">Use My Location</button>
+    </div>
+  </header>
+
+  <!-- Filters -->
+  <div id="filter-bar">
+    <button class="filter-chip active" data-filter="all">All</button>
+    <button class="filter-chip" data-filter="hike">🥾 Hike</button>
+    <button class="filter-chip" data-filter="trail">🌿 Trail</button>
+    <button class="filter-chip" data-filter="park">🌲 Park</button>
+    <button class="filter-chip" data-filter="waterfall">💧 Waterfall</button>
+    <button class="filter-chip" data-filter="run">🏃 Run</button>
+    <button class="filter-chip" data-filter="water">🌊 Water</button>
+    <button class="filter-chip" data-filter="weird">👁️ Weird</button>
+  </div>
+
+  <!-- Toolbar -->
+  <div id="toolbar">
+    <div class="view-toggle">
+      <button id="list-view-btn" class="view-btn active">List</button>
+      <button id="map-view-btn" class="view-btn">Map</button>
+    </div>
+    <span id="count-label" class="count-label"></span>
+    <button id="refresh-btn" class="icon-btn">↺ Reload</button>
+  </div>
+
+  <!-- Loading -->
+  <div id="loading" class="hidden">
+    <div class="spinner"></div>
+    <p>Searching within 2 hours...</p>
+  </div>
+
+  <!-- Error -->
+  <div id="error-state" class="hidden">
+    <div class="empty-state">
+      <h3>Couldn't load places</h3>
+      <p id="error-msg">Check your connection and try again.</p>
+      <button onclick="loadPlaces()" class="retry-btn">Try Again</button>
+    </div>
+  </div>
+
+  <!-- List View -->
+  <div id="list-view">
+    <div id="places-list"></div>
+  </div>
+
+  <!-- Map View -->
+  <div id="map-view" class="hidden">
+    <div id="map"></div>
+  </div>
+
+  <!-- Place Detail Modal (bottom sheet) -->
+  <div id="modal-overlay" class="hidden">
+    <div id="place-modal">
+      <div class="modal-drag-bar"></div>
+      <button id="modal-close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <!-- Taste Profile Panel -->
+  <div id="taste-panel" class="hidden">
+    <div class="panel-header">
+      <h2>Your Taste Profile</h2>
+      <button id="taste-close">✕</button>
+    </div>
+    <div id="taste-content"></div>
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+</script>
+</body>
+</html>
