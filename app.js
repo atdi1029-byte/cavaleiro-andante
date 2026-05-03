@@ -323,6 +323,12 @@ function matchesFilter(p) {
   if (activeFilter === 'gems') return p.type === 'gems'
     || p.tags.includes('gems')
     || p.tags.includes('historic');
+  if (activeFilter === 'swim') return p.type === 'swim'
+    || p.type === 'beach'
+    || p.tags.includes('swimming')
+    || p.tags.includes('swimming hole')
+    || p.tags.includes('beach')
+    || (p.type === 'water' && (p.tags.includes('swimming') || p.name.toLowerCase().includes('beach') || p.name.toLowerCase().includes('swim')));
   if (activeFilter === 'sunset') return p.type === 'sunset'
     || p.type === 'viewpoint'
     || p.tags.includes('sunset')
@@ -478,6 +484,8 @@ const TYPE_EMOJI = {
   run:       '🏃',
   hike:      '🥾',
   sunset:    '🌅',
+  swim:      '🏊',
+  beach:     '🏖️',
   other:     '📍'
 };
 
@@ -1002,7 +1010,14 @@ async function loadPlaces() {
         return true;
       })
     : [];
-  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit, ...park, ...sunset];
+  const swim = typeof SWIM_PLACES !== 'undefined'
+    ? SWIM_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit, ...park, ...sunset, ...swim];
   places = allBase.map(p => ({
     ...p,
     dist: Math.round(
