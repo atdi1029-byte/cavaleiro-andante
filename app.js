@@ -240,50 +240,44 @@ function distanceMiles(lat1, lng1, lat2, lng2) {
 
 function buildQuery(lat, lng, r) {
   return `
-[out:json][timeout:60];
+[out:json][timeout:40];
 (
   node["natural"="waterfall"](around:${r},${lat},${lng});
-  node["natural"="beach"](around:${r},${lat},${lng});
-  way["natural"="beach"]["name"](around:${r},${lat},${lng});
   way["natural"="water"]["name"](around:${r},${lat},${lng});
-  relation["natural"="water"]["name"](around:${r},${lat},${lng});
-  way["waterway"~"river|stream"]["name"](around:${r},${lat},${lng});
+  node["natural"="beach"]["name"](around:${r},${lat},${lng});
   way["leisure"="park"]["name"](around:${r},${lat},${lng});
   relation["leisure"="park"]["name"](around:${r},${lat},${lng});
   way["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});
   relation["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});
   relation["boundary"="national_park"]["name"](around:${r},${lat},${lng});
-  relation["boundary"="protected_area"]["name"](around:${r},${lat},${lng});
-  relation["boundary"="national_forest"]["name"](around:${r},${lat},${lng});
   relation["route"="hiking"]["name"](around:${r},${lat},${lng});
-  relation["route"="foot"]["name"](around:${r},${lat},${lng});
   node["tourism"="viewpoint"]["name"](around:${r},${lat},${lng});
   node["tourism"="attraction"]["name"](around:${r},${lat},${lng});
-  way["tourism"="attraction"]["name"](around:${r},${lat},${lng});
   node["historic"]["name"](around:${r},${lat},${lng});
   way["historic"]["name"](around:${r},${lat},${lng});
-  node["tourism"="artwork"]["name"](around:${r},${lat},${lng});
 );
-out center 500;
+out center 400;
 `.trim();
 }
 
 async function fetchOverpass(lat, lng) {
-  const body = buildQuery(lat, lng, RADIUS_M);
+  const query = buildQuery(lat, lng, RADIUS_M);
+  // Overpass requires application/x-www-form-urlencoded with data= prefix
+  const body  = 'data=' + encodeURIComponent(query);
   for (const url of OVERPASS_ENDPOINTS) {
     try {
       const res = await fetch(url, {
         method: 'POST',
-        body,
-        headers: { 'Content-Type': 'text/plain' }
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.json();
     } catch (e) {
-      console.warn(`Overpass endpoint failed: ${url}`, e.message);
+      console.warn(`Overpass ${url} failed:`, e.message);
     }
   }
-  throw new Error('All Overpass endpoints failed');
+  throw new Error('All Overpass endpoints failed. Check connection.');
 }
 
 function parseResults(data, userLat, userLng) {
@@ -403,29 +397,29 @@ function cardHtml(p) {
   return `
 <div class="place-card ${cls}" data-id="${p.id}" data-type="${p.type}"
   onclick="openModal('${p.id}')">
-  <div class="card-top">
-    <span class="place-name">${emoji} ${p.name}</span>
-    <span class="place-distance">${p.dist} mi</span>
-  </div>
-  <div class="card-meta">
-    <span class="type-badge badge-${p.type}">${p.type}</span>
-    ${scoreStr
-      ? `<span class="taste-score">${scoreStr}</span>` : ''}
-  </div>
-  ${p.description
-    ? `<p class="place-desc">${p.description}</p>` : ''}
-  <div class="card-tags">${tagPills}</div>
-  <div class="card-actions" onclick="event.stopPropagation()">
-    <button class="action-btn ${isFav ? 'act-fav' : ''}" title="Save"
-      onclick="toggleFavorite('${p.id}','${tagsJson}')">
-      ${isFav ? '♥' : '♡'}
-    </button>
-    <button class="action-btn ${isVis ? 'act-visit' : ''}" title="Been there"
-      onclick="toggleVisited('${p.id}','${tagsJson}')">
-      ${isVis ? '✓' : '○'}
-    </button>
-    <button class="action-btn ${isBad ? 'act-bad' : ''}" title="Not for me"
-      onclick="toggleBad('${p.id}','${tagsJson}')">✕</button>
+  <div class="card-inner">
+    <div class="card-top">
+      <span class="place-name">${emoji} ${p.name}</span>
+      <span class="place-distance">${p.dist} mi</span>
+    </div>
+    <div class="card-meta">
+      <span class="type-badge">${p.type}</span>
+      ${scoreStr ? `<span class="taste-score">★ ${p.score.toFixed(1)}</span>` : ''}
+    </div>
+    ${p.description ? `<p class="place-desc">${p.description}</p>` : ''}
+    <div class="card-tags">${tagPills}</div>
+    <div class="card-actions" onclick="event.stopPropagation()">
+      <button class="action-btn ${isFav ? 'act-fav' : ''}" title="Save"
+        onclick="toggleFavorite('${p.id}','${tagsJson}')">
+        ${isFav ? '♥' : '♡'}
+      </button>
+      <button class="action-btn ${isVis ? 'act-visit' : ''}" title="Been there"
+        onclick="toggleVisited('${p.id}','${tagsJson}')">
+        ${isVis ? '✓' : '○'}
+      </button>
+      <button class="action-btn ${isBad ? 'act-bad' : ''}" title="Not for me"
+        onclick="toggleBad('${p.id}','${tagsJson}')">✕</button>
+    </div>
   </div>
 </div>`.trim();
 }
@@ -611,13 +605,13 @@ function openTastePanel() {
   const rows = Object.entries(taste)
     .sort((a, b) => b[1] - a[1])
     .map(([tag, val]) => {
-      const pct   = Math.round((val / maxVal) * 100);
+      const pct    = Math.round((val / maxVal) * 100);
       const barCls = val < 0.8 ? 'low' : val > 1.5 ? 'high' : '';
       return `
 <div class="taste-row">
   <span class="taste-label">${tag}</span>
-  <div class="taste-bar-wrap">
-    <div class="taste-bar ${barCls}" style="width:${pct}%"></div>
+  <div class="taste-bar-track">
+    <div class="taste-bar-fill ${barCls}" style="width:${pct}%"></div>
   </div>
   <span class="taste-val">${val.toFixed(2)}</span>
 </div>`;
@@ -765,10 +759,10 @@ async function loadPlaces() {
 
 document.addEventListener('DOMContentLoaded', () => {
 
-  // Filter chips
-  document.querySelectorAll('.filter-chip').forEach(btn => {
+  // Category photo cards
+  document.querySelectorAll('.cat-card').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-chip')
+      document.querySelectorAll('.cat-card')
         .forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       activeFilter = btn.dataset.filter;
@@ -822,6 +816,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('taste-close')
     .addEventListener('click', () => {
       document.getElementById('taste-panel').classList.add('hidden');
+      renderList();
     });
 
   // Initial load — try cache first

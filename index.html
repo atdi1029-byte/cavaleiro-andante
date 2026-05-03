@@ -2,98 +2,145 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#142014">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#07100a">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Cavaleiro Andante</title>
   <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div id="app">
 
-  <!-- Header -->
+  <!-- ── HEADER ── -->
   <header id="header">
-    <div class="header-top">
-      <h1 class="app-title">Cavaleiro <span>Andante</span></h1>
-      <button class="taste-icon-btn" id="taste-btn" title="Taste Profile">⚗️</button>
+    <div class="header-inner">
+      <div class="logo-row">
+        <img src="logo.png" alt="" class="logo-img" onerror="this.style.display='none'">
+        <div class="logo-text">
+          <span class="logo-name">Cavaleiro</span>
+          <span class="logo-name accent">Andante</span>
+        </div>
+      </div>
+      <button class="hdr-btn" id="taste-btn" title="Taste Profile">⚗️</button>
     </div>
     <div class="location-bar">
-      <span id="location-icon">📍</span>
+      <span class="location-dot"></span>
       <span id="location-text">Pasadena, MD</span>
       <button id="use-location-btn" class="loc-btn">Use My Location</button>
     </div>
   </header>
 
-  <!-- Filters -->
-  <div id="filter-bar">
-    <button class="filter-chip active" data-filter="all">All</button>
-    <button class="filter-chip" data-filter="hike">🥾 Hike</button>
-    <button class="filter-chip" data-filter="trail">🌿 Trail</button>
-    <button class="filter-chip" data-filter="park">🌲 Park</button>
-    <button class="filter-chip" data-filter="waterfall">💧 Waterfall</button>
-    <button class="filter-chip" data-filter="run">🏃 Run</button>
-    <button class="filter-chip" data-filter="water">🌊 Water</button>
-    <button class="filter-chip" data-filter="weird">👁️ Weird</button>
+  <!-- ── HERO BG (fades out at bottom) ── -->
+  <div id="hero-bg"></div>
+
+  <!-- ── CATEGORY CARDS ── -->
+  <div id="cat-scroll">
+    <div id="cat-row">
+      <button class="cat-card active" data-filter="all">
+        <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=300&h=180&q=75&auto=format&fit=crop" alt="All" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🗺️ All</span>
+      </button>
+      <button class="cat-card" data-filter="hike">
+        <img src="https://images.unsplash.com/photo-1551632811-561732d1e306?w=300&h=180&q=75&auto=format&fit=crop" alt="Hike" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🥾 Hike</span>
+      </button>
+      <button class="cat-card" data-filter="trail">
+        <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=300&h=180&q=75&auto=format&fit=crop" alt="Trail" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🌿 Trail</span>
+      </button>
+      <button class="cat-card" data-filter="park">
+        <img src="https://images.unsplash.com/photo-1448375240586-882707db888b?w=300&h=180&q=75&auto=format&fit=crop" alt="Park" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🌲 Park</span>
+      </button>
+      <button class="cat-card" data-filter="waterfall">
+        <img src="https://images.unsplash.com/photo-1554629947-334ff61d85dc?w=300&h=180&q=75&auto=format&fit=crop" alt="Waterfall" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">💧 Waterfall</span>
+      </button>
+      <button class="cat-card" data-filter="water">
+        <img src="https://images.unsplash.com/photo-1501854140801-50d01698950b?w=300&h=180&q=75&auto=format&fit=crop" alt="Lake" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🌊 Lake</span>
+      </button>
+      <button class="cat-card" data-filter="run">
+        <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=180&q=75&auto=format&fit=crop" alt="Run" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">🏃 Run</span>
+      </button>
+      <button class="cat-card" data-filter="weird">
+        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=300&h=180&q=75&auto=format&fit=crop" alt="Weird" loading="lazy">
+        <div class="cat-overlay"></div>
+        <span class="cat-label">👁️ Weird</span>
+      </button>
+    </div>
   </div>
 
-  <!-- Toolbar -->
+  <!-- ── TOOLBAR ── -->
   <div id="toolbar">
     <div class="view-toggle">
       <button id="list-view-btn" class="view-btn active">List</button>
       <button id="map-view-btn" class="view-btn">Map</button>
     </div>
     <span id="count-label" class="count-label"></span>
-    <button id="refresh-btn" class="reload-btn">↺ Reload</button>
+    <button id="refresh-btn" class="reload-btn">↺</button>
   </div>
 
-  <!-- Loading -->
+  <!-- ── LOADING ── -->
   <div id="loading" class="hidden">
     <div class="spinner"></div>
-    <p>Searching within 2 hours...</p>
+    <p>Finding places near you…</p>
   </div>
 
-  <!-- Error -->
+  <!-- ── ERROR ── -->
   <div id="error-state" class="hidden">
     <div class="empty-state">
+      <span class="empty-icon">😕</span>
       <h3>Couldn't load places</h3>
       <p id="error-msg">Check your connection and try again.</p>
       <button onclick="loadPlaces()" class="retry-btn">Try Again</button>
     </div>
   </div>
 
-  <!-- List View -->
+  <!-- ── LIST VIEW ── -->
   <div id="list-view">
     <div id="places-list"></div>
   </div>
 
-  <!-- Map View -->
+  <!-- ── MAP VIEW ── -->
   <div id="map-view" class="hidden">
     <div id="map"></div>
   </div>
 
-  <!-- Place Detail Modal (bottom sheet) -->
+  <!-- ── PLACE DETAIL MODAL ── -->
   <div id="modal-overlay" class="hidden">
     <div id="place-modal">
-      <div class="modal-drag-bar"></div>
+      <div class="modal-handle"></div>
       <button id="modal-close">✕</button>
       <div id="modal-content"></div>
     </div>
   </div>
 
-  <!-- Taste Profile Panel -->
+  <!-- ── TASTE PANEL ── -->
   <div id="taste-panel" class="hidden">
     <div class="panel-header">
-      <h2>Your Taste Profile</h2>
-      <button id="taste-close">✕</button>
+      <h2>Taste Profile</h2>
+      <button class="taste-close-btn" id="taste-close">✕</button>
     </div>
+    <p class="panel-sub">
+      The app learns what you like as you save and skip places.
+      Higher score = shown first.
+    </p>
     <div id="taste-content"></div>
   </div>
 
-</div>
+</div><!-- #app -->
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="app.js"></script>
