@@ -45321,5 +45321,3317 @@ const SWEPT_PLACES = [
     "osmType": "node",
     "osmId": 1827104890,
     "score": 0
+  },
+  {
+    "id": "sw:gooneyrunoverlook",
+    "name": "Gooney Run Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.84249,
+    "lng": -78.20795,
+    "dist": 91.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 299579771,
+    "score": 0
+  },
+  {
+    "id": "sw:gooneymanoroverlook",
+    "name": "Gooney Manor Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.83602,
+    "lng": -78.20375,
+    "dist": 91.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 299579832,
+    "score": 0
+  },
+  {
+    "id": "sw:ravenrocks",
+    "name": "Raven Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.14022,
+    "lng": -77.8349,
+    "dist": 69.8,
+    "description": "Elevation: 443m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356520569,
+    "score": 0
+  },
+  {
+    "id": "sw:aaronmountain",
+    "name": "Aaron Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.67123,
+    "lng": -78.09861,
+    "dist": 89.3,
+    "description": "Elevation: 305m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356559734,
+    "score": 0
+  },
+  {
+    "id": "sw:bessiebellmountain",
+    "name": "Bessie Bell Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61373,
+    "lng": -78.14,
+    "dist": 92.8,
+    "description": "Elevation: 387m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560112,
+    "score": 0
+  },
+  {
+    "id": "sw:bigmulkymountain",
+    "name": "Big Mulky Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74206,
+    "lng": -78.12611,
+    "dist": 89.2,
+    "description": "Elevation: 388m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560306,
+    "score": 0
+  },
+  {
+    "id": "sw:buckmountain",
+    "name": "Buck Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.844,
+    "lng": -78.23917,
+    "dist": 93.3,
+    "description": "Elevation: 442m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560496,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardhill",
+    "name": "Buzzard Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.08158,
+    "lng": -77.90139,
+    "dist": 73.4,
+    "description": "Elevation: 397m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560556,
+    "score": 0
+  },
+  {
+    "id": "sw:castletonmountain",
+    "name": "Castleton Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.60901,
+    "lng": -78.09139,
+    "dist": 90.5,
+    "description": "Elevation: 326m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560682,
+    "score": 0
+  },
+  {
+    "id": "sw:comptonpeak",
+    "name": "Compton Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8191,
+    "lng": -78.17513,
+    "dist": 90.3,
+    "description": "Elevation: 887m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560966,
+    "score": 0
+  },
+  {
+    "id": "sw:dickeyhill",
+    "name": "Dickey Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.85448,
+    "lng": -78.20564,
+    "dist": 91.4,
+    "description": "Elevation: 740m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561227,
+    "score": 0
+  },
+  {
+    "id": "sw:englandmountain",
+    "name": "England Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.79373,
+    "lng": -77.85777,
+    "dist": 74.3,
+    "description": "Elevation: 278m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561432,
+    "score": 0
+  },
+  {
+    "id": "sw:fieldingmountain",
+    "name": "Fielding Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61929,
+    "lng": -78.21139,
+    "dist": 96.3,
+    "description": "Elevation: 335m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561605,
+    "score": 0
+  },
+  {
+    "id": "sw:forkmountain",
+    "name": "Fork Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70165,
+    "lng": -78.27645,
+    "dist": 97.7,
+    "description": "Elevation: 622m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561730,
+    "score": 0
+  },
+  {
+    "id": "sw:funkhouserknob",
+    "name": "Funkhouser Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.11566,
+    "lng": -78.31806,
+    "dist": 95.7,
+    "description": "Elevation: 388m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561809,
+    "score": 0
+  },
+  {
+    "id": "sw:googemountain",
+    "name": "Googe Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70734,
+    "lng": -78.1,
+    "dist": 88.6,
+    "description": "Elevation: 328m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356561970,
+    "score": 0
+  },
+  {
+    "id": "sw:greenhill",
+    "name": "Green Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91685,
+    "lng": -78.14612,
+    "dist": 87.5,
+    "description": "Elevation: 388m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562068,
+    "score": 0
+  },
+  {
+    "id": "sw:hallspoint",
+    "name": "Halls Point",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81373,
+    "lng": -77.85222,
+    "dist": 73.6,
+    "description": "Elevation: 306m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562168,
+    "score": 0
+  },
+  {
+    "id": "sw:hickersonmountain",
+    "name": "Hickerson Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73956,
+    "lng": -78.10111,
+    "dist": 87.9,
+    "description": "Elevation: 416m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562297,
+    "score": 0
+  },
+  {
+    "id": "sw:highpointmountain",
+    "name": "High Point Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.85647,
+    "lng": -77.71378,
+    "dist": 65.6,
+    "description": "Elevation: 397m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562318,
+    "score": 0
+  },
+  {
+    "id": "sw:jeffersonmountain",
+    "name": "Jefferson Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70373,
+    "lng": -78.03444,
+    "dist": 85.3,
+    "description": "Elevation: 268m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562609,
+    "score": 0
+  },
+  {
+    "id": "sw:jenkinsmountain",
+    "name": "Jenkins Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72577,
+    "lng": -78.21169,
+    "dist": 93.9,
+    "description": "Elevation: 585m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562615,
+    "score": 0
+  },
+  {
+    "id": "sw:jobbersmountain",
+    "name": "Jobbers Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.60596,
+    "lng": -78.2275,
+    "dist": 97.4,
+    "description": "Elevation: 345m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562660,
+    "score": 0
+  },
+  {
+    "id": "sw:littlebattlemountain",
+    "name": "Little Battle Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.66929,
+    "lng": -78.05861,
+    "dist": 87.3,
+    "description": "Elevation: 271m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562954,
+    "score": 0
+  },
+  {
+    "id": "sw:littlecobblermountai",
+    "name": "Little Cobbler Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86789,
+    "lng": -77.94472,
+    "dist": 77.5,
+    "description": "Elevation: 441m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562965,
+    "score": 0
+  },
+  {
+    "id": "sw:littlejenkinsmountai",
+    "name": "Little Jenkins Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69762,
+    "lng": -78.18,
+    "dist": 92.9,
+    "description": "Elevation: 367m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356562979,
+    "score": 0
+  },
+  {
+    "id": "sw:lostmountain",
+    "name": "Lost Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.95872,
+    "lng": -77.93472,
+    "dist": 75.9,
+    "description": "Elevation: 307m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563077,
+    "score": 0
+  },
+  {
+    "id": "sw:marysrock",
+    "name": "Marys Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65001,
+    "lng": -78.31765,
+    "dist": 100.9,
+    "description": "Elevation: 1071m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563210,
+    "score": 0
+  },
+  {
+    "id": "sw:masonmountain",
+    "name": "Mason Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63623,
+    "lng": -78.18306,
+    "dist": 94.4,
+    "description": "Elevation: 268m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563216,
+    "score": 0
+  },
+  {
+    "id": "sw:meetinghousemountain",
+    "name": "Meetinghouse Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73178,
+    "lng": -78.06778,
+    "dist": 86.4,
+    "description": "Elevation: 300m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563303,
+    "score": 0
+  },
+  {
+    "id": "sw:menefeemountain",
+    "name": "Menefee Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.71956,
+    "lng": -78.14639,
+    "dist": 90.7,
+    "description": "Elevation: 310m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563315,
+    "score": 0
+  },
+  {
+    "id": "sw:nakedmountain",
+    "name": "Naked Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91903,
+    "lng": -77.98352,
+    "dist": 78.9,
+    "description": "Elevation: 448m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563878,
+    "score": 0
+  },
+  {
+    "id": "sw:neighbormountain",
+    "name": "Neighbor Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69586,
+    "lng": -78.36062,
+    "dist": 102.2,
+    "description": "Elevation: 832m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356563898,
+    "score": 0
+  },
+  {
+    "id": "sw:northmarshall",
+    "name": "North Marshall",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.77603,
+    "lng": -78.20261,
+    "dist": 92.5,
+    "description": "Elevation: 1024m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564045,
+    "score": 0
+  },
+  {
+    "id": "sw:oventop",
+    "name": "Oventop",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.83373,
+    "lng": -78.02916,
+    "dist": 82.5,
+    "description": "Elevation: 400m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564341,
+    "score": 0
+  },
+  {
+    "id": "sw:passmountain",
+    "name": "Pass Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.68284,
+    "lng": -78.31435,
+    "dist": 100.1,
+    "description": "Elevation: 915m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564400,
+    "score": 0
+  },
+  {
+    "id": "sw:pignutmountain",
+    "name": "Pignut Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.7179,
+    "lng": -78.26417,
+    "dist": 96.8,
+    "description": "Elevation: 771m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564510,
+    "score": 0
+  },
+  {
+    "id": "sw:poesmountain",
+    "name": "Poes Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.71873,
+    "lng": -78.02361,
+    "dist": 84.4,
+    "description": "Elevation: 252m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564703,
+    "score": 0
+  },
+  {
+    "id": "sw:poortownmountain",
+    "name": "Poortown Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63595,
+    "lng": -78.22028,
+    "dist": 96.3,
+    "description": "Elevation: 324m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564722,
+    "score": 0
+  },
+  {
+    "id": "sw:rappahannockmountain",
+    "name": "Rappahannock Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78873,
+    "lng": -77.84555,
+    "dist": 73.8,
+    "description": "Elevation: 404m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564910,
+    "score": 0
+  },
+  {
+    "id": "sw:ravensdenrock",
+    "name": "Ravensden Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.87163,
+    "lng": -78.10961,
+    "dist": 86.1,
+    "description": "Elevation: 604m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564936,
+    "score": 0
+  },
+  {
+    "id": "sw:redoakmountain",
+    "name": "Red Oak Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.87928,
+    "lng": -77.98166,
+    "dist": 79.3,
+    "description": "Elevation: 373m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564960,
+    "score": 0
+  },
+  {
+    "id": "sw:redmansmountain",
+    "name": "Redmans Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63472,
+    "lng": -78.24777,
+    "dist": 97.7,
+    "description": "Elevation: 358m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356564969,
+    "score": 0
+  },
+  {
+    "id": "sw:rossermountain",
+    "name": "Rosser Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.59873,
+    "lng": -78.19806,
+    "dist": 96.1,
+    "description": "Elevation: 297m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356565253,
+    "score": 0
+  },
+  {
+    "id": "sw:roundmountain",
+    "name": "Round Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69456,
+    "lng": -78.11305,
+    "dist": 89.5,
+    "description": "Elevation: 332m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356565268,
+    "score": 0
+  },
+  {
+    "id": "sw:signalmountain",
+    "name": "Signal Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8815,
+    "lng": -77.70305,
+    "dist": 64.6,
+    "description": "Elevation: 413m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566029,
+    "score": 0
+  },
+  {
+    "id": "sw:slaughtermountain",
+    "name": "Slaughter Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61596,
+    "lng": -78.19222,
+    "dist": 95.4,
+    "description": "Elevation: 326m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566089,
+    "score": 0
+  },
+  {
+    "id": "sw:southmarshall",
+    "name": "South Marshall",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.77211,
+    "lng": -78.21998,
+    "dist": 93.5,
+    "description": "Elevation: 979m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566169,
+    "score": 0
+  },
+  {
+    "id": "sw:taylorshill",
+    "name": "Taylors Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.09045,
+    "lng": -77.9197,
+    "dist": 74.3,
+    "description": "Elevation: 306m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566470,
+    "score": 0
+  },
+  {
+    "id": "sw:theblueball",
+    "name": "The Blue Ball",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.01407,
+    "lng": -78.02648,
+    "dist": 80.3,
+    "description": "Elevation: 326m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566485,
+    "score": 0
+  },
+  {
+    "id": "sw:thepeak",
+    "name": "The Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76012,
+    "lng": -78.17167,
+    "dist": 91.2,
+    "description": "Elevation: 889m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356566497,
+    "score": 0
+  },
+  {
+    "id": "sw:watersmountain",
+    "name": "Waters Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76151,
+    "lng": -77.82472,
+    "dist": 73.3,
+    "description": "Elevation: 276m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356567192,
+    "score": 0
+  },
+  {
+    "id": "sw:allensmountain",
+    "name": "Allens Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8545,
+    "lng": -78.2944,
+    "dist": 96.1,
+    "description": "Elevation: 296m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356570170,
+    "score": 0
+  },
+  {
+    "id": "sw:broadusmountain",
+    "name": "Broadus Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76373,
+    "lng": -78.36362,
+    "dist": 101.1,
+    "description": "Elevation: 400m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356570688,
+    "score": 0
+  },
+  {
+    "id": "sw:brushmountain",
+    "name": "Brush Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81489,
+    "lng": -78.32142,
+    "dist": 98.1,
+    "description": "Elevation: 370m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356570715,
+    "score": 0
+  },
+  {
+    "id": "sw:hogbackmountain",
+    "name": "Hogback Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76206,
+    "lng": -78.27431,
+    "dist": 96.5,
+    "description": "Elevation: 1056m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356572423,
+    "score": 0
+  },
+  {
+    "id": "sw:littlemulkymountain",
+    "name": "Little Mulky Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74762,
+    "lng": -78.11528,
+    "dist": 88.5,
+    "description": "Elevation: 374m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356572954,
+    "score": 0
+  },
+  {
+    "id": "sw:longmountain",
+    "name": "Long Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.83456,
+    "lng": -78.25445,
+    "dist": 94.3,
+    "description": "Elevation: 431m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356573021,
+    "score": 0
+  },
+  {
+    "id": "sw:menekapeak",
+    "name": "Meneka Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.94951,
+    "lng": -78.33489,
+    "dist": 97.3,
+    "description": "Elevation: 730m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356573254,
+    "score": 0
+  },
+  {
+    "id": "sw:richardsonknob",
+    "name": "Richardson Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.94988,
+    "lng": -78.31242,
+    "dist": 96.1,
+    "description": "Elevation: 508m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356574305,
+    "score": 0
+  },
+  {
+    "id": "sw:threesisters",
+    "name": "Three Sisters",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69304,
+    "lng": -78.37721,
+    "dist": 103.1,
+    "description": "Elevation: 636m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356575241,
+    "score": 0
+  },
+  {
+    "id": "sw:acornhill",
+    "name": "Acorn Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.82909,
+    "lng": -78.34027,
+    "dist": 98.9,
+    "description": "Elevation: 252m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581685,
+    "score": 0
+  },
+  {
+    "id": "sw:carsonmountain",
+    "name": "Carson Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.82954,
+    "lng": -78.17075,
+    "dist": 90.0,
+    "description": "Elevation: 780m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581786,
+    "score": 0
+  },
+  {
+    "id": "sw:lewinhill",
+    "name": "Lewin Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.08718,
+    "lng": -77.93988,
+    "dist": 75.4,
+    "description": "Elevation: 244m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581936,
+    "score": 0
+  },
+  {
+    "id": "sw:littlehogbackmountai",
+    "name": "Little Hogback Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.75906,
+    "lng": -78.26074,
+    "dist": 95.8,
+    "description": "Elevation: 940m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581942,
+    "score": 0
+  },
+  {
+    "id": "sw:luntsfordsmountain",
+    "name": "Luntsfords Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73512,
+    "lng": -77.72166,
+    "dist": 68.7,
+    "description": "Elevation: 171m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581968,
+    "score": 0
+  },
+  {
+    "id": "sw:roundtop",
+    "name": "Round Top",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.11844,
+    "lng": -77.79333,
+    "dist": 67.5,
+    "description": "Elevation: 267m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582057,
+    "score": 0
+  },
+  {
+    "id": "sw:knobmountain",
+    "name": "Knob Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72905,
+    "lng": -78.34891,
+    "dist": 101.0,
+    "description": "Elevation: 873m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582072,
+    "score": 0
+  },
+  {
+    "id": "sw:sheadsmountain",
+    "name": "Sheads Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.6179,
+    "lng": -77.96666,
+    "dist": 84.1,
+    "description": "Elevation: 161m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582094,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarloaf",
+    "name": "Sugarloaf",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.7537,
+    "lng": -78.28931,
+    "dist": 97.4,
+    "description": "Elevation: 985m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582131,
+    "score": 0
+  },
+  {
+    "id": "sw:toyhill",
+    "name": "Toy Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.07483,
+    "lng": -77.91449,
+    "dist": 74.1,
+    "description": "Elevation: 363m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582157,
+    "score": 0
+  },
+  {
+    "id": "sw:batteryheights",
+    "name": "Battery Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81186,
+    "lng": -77.5572,
+    "dist": 58.6,
+    "description": "Elevation: 85m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583279,
+    "score": 0
+  },
+  {
+    "id": "sw:catlettmountain",
+    "name": "Catlett Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91662,
+    "lng": -78.23032,
+    "dist": 92.0,
+    "description": "Elevation: 254m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583318,
+    "score": 0
+  },
+  {
+    "id": "sw:foggmountain",
+    "name": "Fogg Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.75512,
+    "lng": -78.08,
+    "dist": 86.5,
+    "description": "Elevation: 361m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583341,
+    "score": 0
+  },
+  {
+    "id": "sw:guardhill",
+    "name": "Guard Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.95789,
+    "lng": -78.20083,
+    "dist": 90.0,
+    "description": "Elevation: 203m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583351,
+    "score": 0
+  },
+  {
+    "id": "sw:rattlesnakemountain",
+    "name": "Rattlesnake Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86456,
+    "lng": -78.04305,
+    "dist": 82.7,
+    "description": "Elevation: 644m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583400,
+    "score": 0
+  },
+  {
+    "id": "sw:stuartshill",
+    "name": "Stuarts Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.799,
+    "lng": -77.57194,
+    "dist": 59.6,
+    "description": "Elevation: 104m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583420,
+    "score": 0
+  },
+  {
+    "id": "sw:griffinmountain",
+    "name": "Griffin Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89178,
+    "lng": -77.73805,
+    "dist": 66.3,
+    "description": "Elevation: 295m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583600,
+    "score": 0
+  },
+  {
+    "id": "sw:hardscrabblemountain",
+    "name": "Hardscrabble Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88956,
+    "lng": -78.03833,
+    "dist": 82.1,
+    "description": "Elevation: 354m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583610,
+    "score": 0
+  },
+  {
+    "id": "sw:polecathill",
+    "name": "Polecat Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9965,
+    "lng": -77.73972,
+    "dist": 65.1,
+    "description": "Elevation: 153m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583763,
+    "score": 0
+  },
+  {
+    "id": "sw:pricklypearmountain",
+    "name": "Prickly Pear Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76484,
+    "lng": -77.85527,
+    "dist": 74.8,
+    "description": "Elevation: 319m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583773,
+    "score": 0
+  },
+  {
+    "id": "sw:ridingshill",
+    "name": "Ridings Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.09511,
+    "lng": -78.26361,
+    "dist": 92.8,
+    "description": "Elevation: 287m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583798,
+    "score": 0
+  },
+  {
+    "id": "sw:steptoehill",
+    "name": "Steptoe Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.03844,
+    "lng": -77.67777,
+    "dist": 61.5,
+    "description": "Elevation: 176m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583874,
+    "score": 0
+  },
+  {
+    "id": "sw:venushill",
+    "name": "Venus Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99705,
+    "lng": -78.05139,
+    "dist": 81.8,
+    "description": "Elevation: 264m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583929,
+    "score": 0
+  },
+  {
+    "id": "sw:vesperhill",
+    "name": "Vesper Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.04789,
+    "lng": -77.67722,
+    "dist": 61.5,
+    "description": "Elevation: 122m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583931,
+    "score": 0
+  },
+  {
+    "id": "sw:wildcatknob",
+    "name": "Wildcat Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9383,
+    "lng": -78.1161,
+    "dist": 85.7,
+    "description": "Elevation: 363m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583953,
+    "score": 0
+  },
+  {
+    "id": "sw:wildcatmountain",
+    "name": "Wildcat Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.79234,
+    "lng": -77.83888,
+    "dist": 73.4,
+    "description": "Elevation: 417m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583955,
+    "score": 0
+  },
+  {
+    "id": "sw:windhill",
+    "name": "Wind Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8865,
+    "lng": -78.00916,
+    "dist": 80.6,
+    "description": "Elevation: 352m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583959,
+    "score": 0
+  },
+  {
+    "id": "sw:bigcobblermountain",
+    "name": "Big Cobbler Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.83817,
+    "lng": -77.95305,
+    "dist": 78.4,
+    "description": "Elevation: 476m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356584363,
+    "score": 0
+  },
+  {
+    "id": "sw:hazelmountain",
+    "name": "Hazel Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.62151,
+    "lng": -78.28472,
+    "dist": 99.9,
+    "description": "Elevation: 881m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356584407,
+    "score": 0
+  },
+  {
+    "id": "sw:swainsmountain",
+    "name": "Swains Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78845,
+    "lng": -77.89055,
+    "dist": 76.1,
+    "description": "Elevation: 243m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356584486,
+    "score": 0
+  },
+  {
+    "id": "sw:thumbrunmountain",
+    "name": "Thumb Run Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.79762,
+    "lng": -77.95222,
+    "dist": 79.1,
+    "description": "Elevation: 280m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356584490,
+    "score": 0
+  },
+  {
+    "id": "sw:fishershill",
+    "name": "Fishers Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.98066,
+    "lng": -78.40473,
+    "dist": 100.8,
+    "description": "Elevation: 244m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586699,
+    "score": 0
+  },
+  {
+    "id": "sw:fodderstackmountain",
+    "name": "Fodder Stack Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73762,
+    "lng": -78.14583,
+    "dist": 90.3,
+    "description": "Elevation: 399m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586709,
+    "score": 0
+  },
+  {
+    "id": "sw:gingerhill",
+    "name": "Ginger Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.6979,
+    "lng": -78.16722,
+    "dist": 92.2,
+    "description": "Elevation: 255m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586722,
+    "score": 0
+  },
+  {
+    "id": "sw:greenmountain",
+    "name": "Green Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88122,
+    "lng": -78.41923,
+    "dist": 102.4,
+    "description": "Elevation: 496m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586734,
+    "score": 0
+  },
+  {
+    "id": "sw:highpeak",
+    "name": "High Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9185,
+    "lng": -78.32125,
+    "dist": 96.8,
+    "description": "Elevation: 603m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586750,
+    "score": 0
+  },
+  {
+    "id": "sw:hupphill",
+    "name": "Hupp Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9994,
+    "lng": -78.34754,
+    "dist": 97.6,
+    "description": "Elevation: 213m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586770,
+    "score": 0
+  },
+  {
+    "id": "sw:keysermountain",
+    "name": "Keyser Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73555,
+    "lng": -78.24035,
+    "dist": 95.2,
+    "description": "Elevation: 510m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586789,
+    "score": 0
+  },
+  {
+    "id": "sw:littlemasonmountain",
+    "name": "Little Mason Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63123,
+    "lng": -78.18694,
+    "dist": 94.7,
+    "description": "Elevation: 244m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586805,
+    "score": 0
+  },
+  {
+    "id": "sw:massiesmountain",
+    "name": "Massies Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72197,
+    "lng": -78.17344,
+    "dist": 92.0,
+    "description": "Elevation: 317m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586834,
+    "score": 0
+  },
+  {
+    "id": "sw:oventopmountain",
+    "name": "Oventop Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.67234,
+    "lng": -78.27584,
+    "dist": 98.3,
+    "description": "Elevation: 752m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586869,
+    "score": 0
+  },
+  {
+    "id": "sw:signalknob",
+    "name": "Signal Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.96121,
+    "lng": -78.33102,
+    "dist": 97.0,
+    "description": "Elevation: 642m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356587012,
+    "score": 0
+  },
+  {
+    "id": "sw:threetopmountain",
+    "name": "Three Top Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.96112,
+    "lng": -78.33105,
+    "dist": 97.0,
+    "description": "Elevation: 629m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356587048,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeymountain",
+    "name": "Turkey Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65484,
+    "lng": -78.18583,
+    "dist": 94.1,
+    "description": "Elevation: 362m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356587059,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfmountain",
+    "name": "Wolf Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72567,
+    "lng": -78.22056,
+    "dist": 94.4,
+    "description": "Elevation: 531m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356587093,
+    "score": 0
+  },
+  {
+    "id": "sw:edgehill",
+    "name": "Edge Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93706,
+    "lng": -78.19333,
+    "dist": 89.8,
+    "description": "Elevation: 192m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356590956,
+    "score": 0
+  },
+  {
+    "id": "sw:grindstonehill",
+    "name": "Grindstone Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.14483,
+    "lng": -77.965,
+    "dist": 76.8,
+    "description": "Elevation: 180m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356593993,
+    "score": 0
+  },
+  {
+    "id": "sw:brushymountain",
+    "name": "Brushy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9515,
+    "lng": -77.96777,
+    "dist": 77.7,
+    "description": "Elevation: 333m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597392,
+    "score": 0
+  },
+  {
+    "id": "sw:biscuitmountain",
+    "name": "Biscuit Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81566,
+    "lng": -77.71809,
+    "dist": 66.7,
+    "description": "Elevation: 268m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597512,
+    "score": 0
+  },
+  {
+    "id": "sw:stephensonshill",
+    "name": "Stephensons Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.85937,
+    "lng": -77.86028,
+    "dist": 73.2,
+    "description": "Elevation: 228m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597603,
+    "score": 0
+  },
+  {
+    "id": "sw:ballhill",
+    "name": "Ball Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99233,
+    "lng": -77.73277,
+    "dist": 64.8,
+    "description": "Elevation: 167m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597770,
+    "score": 0
+  },
+  {
+    "id": "sw:bowershill",
+    "name": "Bowers Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.18028,
+    "lng": -78.17962,
+    "dist": 88.4,
+    "description": "Elevation: 262m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356605778,
+    "score": 0
+  },
+  {
+    "id": "sw:cavefalls",
+    "name": "Cave Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.63488,
+    "lng": -78.28667,
+    "dist": 99.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 445591279,
+    "score": 0
+  },
+  {
+    "id": "sw:signalknoboverlook",
+    "name": "Signal Knob Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.85848,
+    "lng": -78.20944,
+    "dist": 91.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116520,
+    "score": 0
+  },
+  {
+    "id": "sw:jenkinsgapoverlook",
+    "name": "Jenkins Gap Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.80541,
+    "lng": -78.18042,
+    "dist": 90.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116524,
+    "score": 0
+  },
+  {
+    "id": "sw:rangeviewoverlook",
+    "name": "Range View Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.76415,
+    "lng": -78.22719,
+    "dist": 94.0,
+    "description": "Elevation: 856m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116540,
+    "score": 0
+  },
+  {
+    "id": "sw:hogwallowflatsoverlo",
+    "name": "Hogwallow Flats Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.79366,
+    "lng": -78.18194,
+    "dist": 91.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116541,
+    "score": 0
+  },
+  {
+    "id": "sw:hogbackoverlook",
+    "name": "Hogback Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.76287,
+    "lng": -78.27989,
+    "dist": 96.8,
+    "description": "Elevation: 1031m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116548,
+    "score": 0
+  },
+  {
+    "id": "sw:jeremysrunoverlook",
+    "name": "Jeremys Run Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.71245,
+    "lng": -78.33014,
+    "dist": 100.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116556,
+    "score": 0
+  },
+  {
+    "id": "sw:passmountainoverlook",
+    "name": "Pass Mountain Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.6752,
+    "lng": -78.33444,
+    "dist": 101.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116562,
+    "score": 0
+  },
+  {
+    "id": "sw:tunneloverlook",
+    "name": "Tunnel Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.6515,
+    "lng": -78.31123,
+    "dist": 100.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116590,
+    "score": 0
+  },
+  {
+    "id": "sw:hazelmountainoverloo",
+    "name": "Hazel Mountain Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.64321,
+    "lng": -78.30978,
+    "dist": 100.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 525116595,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahvalleyover",
+    "name": "Shenandoah Valley Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.89041,
+    "lng": -78.2032,
+    "dist": 90.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 529831918,
+    "score": 0
+  },
+  {
+    "id": "sw:thorntonhollowoverlo",
+    "name": "Thornton Hollow Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.70632,
+    "lng": -78.31898,
+    "dist": 99.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 534485985,
+    "score": 0
+  },
+  {
+    "id": "sw:beahmsgapoverlook",
+    "name": "Beahms Gap Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.69494,
+    "lng": -78.32003,
+    "dist": 100.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 534486073,
+    "score": 0
+  },
+  {
+    "id": "sw:buckhollowoverlook",
+    "name": "Buck Hollow Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.64571,
+    "lng": -78.30741,
+    "dist": 100.5,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 534486074,
+    "score": 0
+  },
+  {
+    "id": "sw:whitehouseoverlook",
+    "name": "Whitehouse Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.00319,
+    "lng": -77.97357,
+    "dist": 77.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1223856524,
+    "score": 0
+  },
+  {
+    "id": "sw:landsrunfalls",
+    "name": "Lands Run Falls",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.82824,
+    "lng": -78.18905,
+    "dist": 90.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1800106870,
+    "score": 0
+  },
+  {
+    "id": "sw:lowerpiedmontoverloo",
+    "name": "Lower Piedmont Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99465,
+    "lng": -77.96978,
+    "dist": 77.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2109955285,
+    "score": 0
+  },
+  {
+    "id": "sw:upperpiedmontoverloo",
+    "name": "Upper Piedmont Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99697,
+    "lng": -77.97281,
+    "dist": 77.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2109955290,
+    "score": 0
+  },
+  {
+    "id": "sw:comptonpeakeast",
+    "name": "Compton Peak East",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.81633,
+    "lng": -78.17456,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2528783251,
+    "score": 0
+  },
+  {
+    "id": "sw:littlehogbackoverloo",
+    "name": "Little Hogback Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75892,
+    "lng": -78.26229,
+    "dist": 95.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2909286093,
+    "score": 0
+  },
+  {
+    "id": "sw:bearsdenoverlook",
+    "name": "Bear's Den Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.11197,
+    "lng": -77.85632,
+    "dist": 70.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3126180084,
+    "score": 0
+  },
+  {
+    "id": "sw:comptonpeakwest",
+    "name": "Compton Peak West",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.82061,
+    "lng": -78.17576,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3548195498,
+    "score": 0
+  },
+  {
+    "id": "sw:woodstocklookouttowe",
+    "name": "Woodstock Lookout Tower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.87041,
+    "lng": -78.4494,
+    "dist": 104.1,
+    "description": "Elevation: 571m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3808654131,
+    "score": 0
+  },
+  {
+    "id": "sw:littlecreasemountain",
+    "name": "Little Crease Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88048,
+    "lng": -78.35117,
+    "dist": 98.8,
+    "description": "Elevation: 592m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4053526985,
+    "score": 0
+  },
+  {
+    "id": "sw:overallrunfalls",
+    "name": "Overall Run Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.78272,
+    "lng": -78.29418,
+    "dist": 97.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4192762197,
+    "score": 0
+  },
+  {
+    "id": "sw:chestnutpeak",
+    "name": "Chestnut Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88582,
+    "lng": -77.68257,
+    "dist": 63.5,
+    "description": "Elevation: 374m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4909412146,
+    "score": 0
+  },
+  {
+    "id": "sw:upperoverallrunfalls",
+    "name": "Upper Overall Run Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.78179,
+    "lng": -78.29251,
+    "dist": 97.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5298307749,
+    "score": 0
+  },
+  {
+    "id": "sw:crescentrockvista",
+    "name": "Crescent Rock Vista",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.13929,
+    "lng": -77.83788,
+    "dist": 69.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5349495042,
+    "score": 0
+  },
+  {
+    "id": "sw:bluemountain",
+    "name": "Blue Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.95669,
+    "lng": -78.02404,
+    "dist": 80.6,
+    "description": "Elevation: 674m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5448538326,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardrockoverlook",
+    "name": "Buzzard Rock Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.94703,
+    "lng": -78.31635,
+    "dist": 96.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6231504933,
+    "score": 0
+  },
+  {
+    "id": "sw:fortvalleyoverlook",
+    "name": "Fort Valley Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.94232,
+    "lng": -78.32467,
+    "dist": 96.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6231504934,
+    "score": 0
+  },
+  {
+    "id": "sw:keller",
+    "name": "Keller",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91903,
+    "lng": -78.39169,
+    "dist": 100.6,
+    "description": "Elevation: 555m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6350111585,
+    "score": 0
+  },
+  {
+    "id": "sw:paris",
+    "name": "Paris",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.98393,
+    "lng": -78.00154,
+    "dist": 79.2,
+    "description": "https://www.ngs.noaa.gov/cgi-bin/ds_mark.prl?PidBox=HW3245 · Elevation: 590m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8209872425,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardhilloverlook",
+    "name": "Buzzard Hill Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.08047,
+    "lng": -77.90216,
+    "dist": 73.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8621929555,
+    "score": 0
+  },
+  {
+    "id": "sw:parismountain",
+    "name": "Paris Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.03262,
+    "lng": -77.92729,
+    "dist": 74.9,
+    "description": "Elevation: 587m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8905344405,
+    "score": 0
+  },
+  {
+    "id": "sw:gimletridgeoverlook",
+    "name": "Gimlet Ridge Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.76354,
+    "lng": -78.24548,
+    "dist": 94.9,
+    "description": "Elevation: 815m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10046206032,
+    "score": 0
+  },
+  {
+    "id": "sw:mountmarshalloverloo",
+    "name": "Mount Marshall Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75651,
+    "lng": -78.2518,
+    "dist": 95.4,
+    "description": "Elevation: 868m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10046206033,
+    "score": 0
+  },
+  {
+    "id": "sw:rattlesnakepointover",
+    "name": "Rattlesnake Point Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75163,
+    "lng": -78.28876,
+    "dist": 97.4,
+    "description": "Elevation: 946m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10046206034,
+    "score": 0
+  },
+  {
+    "id": "sw:littledevilsstairsov",
+    "name": "Little Devils Stairs Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75672,
+    "lng": -78.26754,
+    "dist": 96.2,
+    "description": "Elevation: 950m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10046206035,
+    "score": 0
+  },
+  {
+    "id": "sw:puafalls",
+    "name": "Pua Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.06906,
+    "lng": -77.90273,
+    "dist": 73.5,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11132378272,
+    "score": 0
+  },
+  {
+    "id": "sw:pinemountainoverlook",
+    "name": "Pine Mountain Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.80376,
+    "lng": -77.72,
+    "dist": 67.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11234201340,
+    "score": 0
+  },
+  {
+    "id": "sw:negromountain",
+    "name": "Negro Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.0025,
+    "lng": -77.58527,
+    "dist": 56.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373852153,
+    "score": 0
+  },
+  {
+    "id": "sw:orchardhillmountain",
+    "name": "Orchard Hill Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9441,
+    "lng": -77.991,
+    "dist": 79.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373852155,
+    "score": 0
+  },
+  {
+    "id": "sw:viewtreemountain",
+    "name": "Viewtree Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73387,
+    "lng": -77.83603,
+    "dist": 74.5,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373852162,
+    "score": 0
+  },
+  {
+    "id": "sw:nonameoverlook",
+    "name": "No Name Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.8625,
+    "lng": -78.20531,
+    "dist": 91.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11883886070,
+    "score": 0
+  },
+  {
+    "id": "sw:browntownvalleyoverl",
+    "name": "Browntown Valley Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.78462,
+    "lng": -78.19808,
+    "dist": 92.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11956730717,
+    "score": 0
+  },
+  {
+    "id": "sw:millerfalls",
+    "name": "Miller Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.78106,
+    "lng": -78.20824,
+    "dist": 92.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11956730846,
+    "score": 0
+  },
+  {
+    "id": "sw:indianrunoverlook",
+    "name": "Indian Run Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.82117,
+    "lng": -78.16514,
+    "dist": 89.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11961334824,
+    "score": 0
+  },
+  {
+    "id": "sw:greasyfalls",
+    "name": "Greasy Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.77391,
+    "lng": -78.26753,
+    "dist": 95.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12256345199,
+    "score": 0
+  },
+  {
+    "id": "sw:southforkoverlook",
+    "name": "South Fork Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.88593,
+    "lng": -78.33236,
+    "dist": 97.7,
+    "description": "Splendid view looking eastward over the South Fork of the Shenandoah River and the broader Page Valley, with Shenandoah NP and Skyline Drive in the distance.",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12300236348,
+    "score": 0
+  },
+  {
+    "id": "sw:bridleoverlook",
+    "name": "Bridle Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99204,
+    "lng": -77.93423,
+    "dist": 75.5,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13151177455,
+    "score": 0
+  },
+  {
+    "id": "sw:georgesoverlook",
+    "name": "George's Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.98325,
+    "lng": -77.9762,
+    "dist": 77.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13162466157,
+    "score": 0
+  },
+  {
+    "id": "sw:woodgrovepark",
+    "name": "Woodgrove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14784,
+    "lng": -77.76684,
+    "dist": 66.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 148902463,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonolddominio",
+    "name": "Washington & Old Dominion Trail Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.1455,
+    "lng": -77.65213,
+    "dist": 60.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 157743162,
+    "score": 0
+  },
+  {
+    "id": "sw:cmcrockettpark",
+    "name": "C.M. Crockett Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.62175,
+    "lng": -77.72437,
+    "dist": 72.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 186671878,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinpark",
+    "name": "Franklin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13143,
+    "lng": -77.7447,
+    "dist": 64.9,
+    "description": "Elevation: 172m · Hours: sunrise-sunset",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 198973666,
+    "score": 0
+  },
+  {
+    "id": "sw:parkplace",
+    "name": "Park Place",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16607,
+    "lng": -78.18866,
+    "dist": 88.8,
+    "description": "Hours: Mo-Su 07:30-22:00",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 211857836,
+    "score": 0
+  },
+  {
+    "id": "sw:jimbarnettpark",
+    "name": "Jim Barnett Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17253,
+    "lng": -78.15504,
+    "dist": 87.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 214053006,
+    "score": 0
+  },
+  {
+    "id": "sw:wfaatheyfieldssports",
+    "name": "WFA Athey Fields Sports Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71702,
+    "lng": -77.81997,
+    "dist": 74.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 215667495,
+    "score": 0
+  },
+  {
+    "id": "sw:academyhillpark",
+    "name": "Academy Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71375,
+    "lng": -77.78739,
+    "dist": 72.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 215739871,
+    "score": 0
+  },
+  {
+    "id": "sw:evawalkerpark",
+    "name": "Eva Walker Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71546,
+    "lng": -77.79284,
+    "dist": 72.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 215739886,
+    "score": 0
+  },
+  {
+    "id": "sw:brooksidecommunitypa",
+    "name": "Brookside Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7398,
+    "lng": -77.71037,
+    "dist": 68.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 216333493,
+    "score": 0
+  },
+  {
+    "id": "sw:catharpinpark",
+    "name": "Catharpin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.85771,
+    "lng": -77.5658,
+    "dist": 58.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 216906094,
+    "score": 0
+  },
+  {
+    "id": "sw:byrnesridgepark",
+    "name": "Byrne's Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92908,
+    "lng": -77.55438,
+    "dist": 56.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 248158871,
+    "score": 0
   }
 ];
