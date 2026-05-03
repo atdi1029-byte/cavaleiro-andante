@@ -401,7 +401,7 @@ function cardHtml(p) {
   const scoreStr = p.score ? `★ ${p.score.toFixed(1)}` : '';
 
   return `
-<div class="place-card ${cls}" data-id="${p.id}"
+<div class="place-card ${cls}" data-id="${p.id}" data-type="${p.type}"
   onclick="openModal('${p.id}')">
   <div class="card-top">
     <span class="place-name">${emoji} ${p.name}</span>
@@ -416,16 +416,16 @@ function cardHtml(p) {
     ? `<p class="place-desc">${p.description}</p>` : ''}
   <div class="card-tags">${tagPills}</div>
   <div class="card-actions" onclick="event.stopPropagation()">
-    <button class="action-btn ${isFav ? 'act-fav' : ''}"
+    <button class="action-btn ${isFav ? 'act-fav' : ''}" title="Save"
       onclick="toggleFavorite('${p.id}','${tagsJson}')">
-      ${isFav ? '♥ Saved' : '♡ Save'}
+      ${isFav ? '♥' : '♡'}
     </button>
-    <button class="action-btn ${isVis ? 'act-visit' : ''}"
+    <button class="action-btn ${isVis ? 'act-visit' : ''}" title="Been there"
       onclick="toggleVisited('${p.id}','${tagsJson}')">
-      ${isVis ? '✓ Been' : '+ Been There'}
+      ${isVis ? '✓' : '○'}
     </button>
-    <button class="action-btn ${isBad ? 'act-bad' : ''}"
-      onclick="toggleBad('${p.id}','${tagsJson}')">✗</button>
+    <button class="action-btn ${isBad ? 'act-bad' : ''}" title="Not for me"
+      onclick="toggleBad('${p.id}','${tagsJson}')">✕</button>
   </div>
 </div>`.trim();
 }
