@@ -8,6 +8,7 @@
 // Shown immediately on load while Overpass fetches
 // ================================================
 const SEED_PLACES = [
+  { id: 'seed:eastonpoint',     name: 'Easton Point Park',                  type: 'water',     tags: ['water','park','nature','scenic','running'],           lat: 38.774,  lng: -76.074, description: 'Quiet riverside park in Easton with water views, dock access, and walking paths. Dogs allowed.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:patapsco',       name: 'Patapsco Valley State Park',         type: 'park',      tags: ['park','forest','hiking','trail','nature'],         lat: 39.265,  lng: -76.773, description: 'Sprawling state park along the Patapsco River with miles of trails.',         osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:cunninghamfalls', name: 'Cunningham Falls',                  type: 'waterfall', tags: ['waterfall','water','scenic','hiking','trail'],       lat: 39.637,  lng: -77.462, description: "Maryland's largest cascading waterfall, 78 ft drop in Catoctin Mountain Park.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:billygoat',      name: 'Billy Goat Trail',                   type: 'trail',     tags: ['trail','hiking','scenic','nature'],                  lat: 39.013,  lng: -77.245, description: 'Rugged rock-scramble trail along the Potomac River near Great Falls.',         osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
