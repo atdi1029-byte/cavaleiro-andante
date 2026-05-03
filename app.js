@@ -678,9 +678,9 @@ ${extras.length
   </button>
 </div>
 <a class="modal-maps-btn"
-  href="https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}&travelmode=driving"
+  href="https://www.google.com/maps/search/${encodeURIComponent(p.name)}/@${p.lat},${p.lng},14z"
   target="_blank" rel="noopener">
-  🗺 Get Directions
+  🗺 Search on Google Maps
 </a>`;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
