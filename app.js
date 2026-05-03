@@ -634,6 +634,10 @@ function openModal(id) {
     extras.push(`♿ ${ot.wheelchair}`);
 
   document.getElementById('modal-content').innerHTML = `
+<div id="modal-photo-wrap" style="display:none">
+  <img id="modal-photo" src="" alt="${p.name}"
+    style="width:100%;height:200px;object-fit:cover;border-radius:10px;margin-bottom:12px">
+</div>
 <h2>${emoji} ${p.name}</h2>
 <div class="modal-meta">
   <span class="type-badge badge-${p.type}">${p.type}</span>
@@ -684,6 +688,42 @@ ${extras.length
 </a>`;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
+
+  // Fetch Wikipedia photo
+  fetchWikiPhoto(p.name);
+}
+
+function fetchWikiPhoto(name) {
+  const cache = sessionStorage;
+  const key   = 'wiki_img_' + name;
+  const cached = cache.getItem(key);
+  if (cached) {
+    if (cached !== 'none') showModalPhoto(cached);
+    return;
+  }
+  const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(name)}`;
+  fetch(url)
+    .then(r => r.ok ? r.json() : null)
+    .then(d => {
+      const src = d && d.thumbnail && d.thumbnail.source;
+      if (src) {
+        const big = src.replace(/\/\d+px-/, '/600px-');
+        cache.setItem(key, big);
+        showModalPhoto(big);
+      } else {
+        cache.setItem(key, 'none');
+      }
+    })
+    .catch(() => cache.setItem(key, 'none'));
+}
+
+function showModalPhoto(src) {
+  const wrap = document.getElementById('modal-photo-wrap');
+  const img  = document.getElementById('modal-photo');
+  if (!wrap || !img) return;
+  img.src = src;
+  img.onload = () => wrap.style.display = 'block';
+  img.onerror = () => wrap.style.display = 'none';
 }
 
 function closeModal() {
