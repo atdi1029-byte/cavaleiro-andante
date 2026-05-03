@@ -646,7 +646,7 @@ function openModal(id) {
 
   // Extra OSM fields
   const extras = [];
-  const ot = p.osmTags;
+  const ot = p.osmTags || {};
   if (ot.website || ot['contact:website']) {
     const url = ot.website || ot['contact:website'];
     extras.push(
