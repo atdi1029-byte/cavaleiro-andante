@@ -782,26 +782,6 @@ async function loadPlaces() {
   listView.classList.remove('hidden');
   renderList();
 
-  // 2. Fetch Overpass in background — show subtle footer indicator
-  const fetchBar = document.getElementById('fetch-bar');
-  if (fetchBar) fetchBar.classList.remove('hidden');
-  try {
-    const data  = await fetchOverpass(currentLoc.lat, currentLoc.lng);
-    const fresh = parseResults(data, currentLoc.lat, currentLoc.lng);
-    const existingNames = new Set(places.map(p => p.name.toLowerCase()));
-    const newOnes = fresh.filter(
-      p => !existingNames.has(p.name.toLowerCase())
-    );
-    places = [...places, ...newOnes];
-    saveCache(places);
-    console.log(`Merged ${newOnes.length} Overpass results with seed data`);
-  } catch (e) {
-    console.warn('Overpass failed, using seed data only:', e.message);
-  } finally {
-    if (fetchBar) fetchBar.classList.add('hidden');
-    renderList();
-    if (activeView === 'map') renderMapMarkers();
-  }
 }
 
 // ================================================
