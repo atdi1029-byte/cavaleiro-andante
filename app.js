@@ -782,9 +782,9 @@ async function loadPlaces() {
   listView.classList.remove('hidden');
   renderList();
 
-  // 2. Fetch Overpass in background and merge new results
-  loading.classList.remove('hidden');
-  loading.querySelector('p').textContent = 'Finding more places…';
+  // 2. Fetch Overpass in background — show subtle footer indicator
+  const fetchBar = document.getElementById('fetch-bar');
+  if (fetchBar) fetchBar.classList.remove('hidden');
   try {
     const data  = await fetchOverpass(currentLoc.lat, currentLoc.lng);
     const fresh = parseResults(data, currentLoc.lat, currentLoc.lng);
@@ -798,8 +798,7 @@ async function loadPlaces() {
   } catch (e) {
     console.warn('Overpass failed, using seed data only:', e.message);
   } finally {
-    loading.classList.add('hidden');
-    loading.querySelector('p').textContent = 'Finding places near you…';
+    if (fetchBar) fetchBar.classList.add('hidden');
     renderList();
     if (activeView === 'map') renderMapMarkers();
   }

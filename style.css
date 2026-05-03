@@ -881,6 +881,35 @@ body {
 .reset-btn:hover { background: var(--raised); color: var(--text); }
 
 /* ================================================
+   BACKGROUND FETCH BAR
+================================================ */
+#fetch-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-3);
+  letter-spacing: 0.2px;
+  position: relative;
+  z-index: 1;
+}
+
+.fetch-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--green);
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50%       { opacity: 1;   transform: scale(1.2); }
+}
+
+/* ================================================
    EMPTY / ERROR
 ================================================ */
 .empty-state {
