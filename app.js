@@ -326,9 +326,11 @@ function matchesFilter(p) {
   if (activeFilter === 'swim') return p.type === 'swim'
     || p.type === 'beach'
     || p.tags.includes('swimming')
-    || p.tags.includes('swimming hole')
     || p.tags.includes('beach')
-    || (p.type === 'water' && (p.tags.includes('swimming') || p.name.toLowerCase().includes('beach') || p.name.toLowerCase().includes('swim')));
+    || p.name.toLowerCase().includes('beach')
+    || p.name.toLowerCase().includes('swim')
+    || p.name.toLowerCase().includes('swimming hole')
+    || (p.type === 'water' && p.name.toLowerCase().includes('pool'));
   if (activeFilter === 'sunset') return p.type === 'sunset'
     || p.type === 'viewpoint'
     || p.tags.includes('sunset')
