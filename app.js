@@ -323,6 +323,8 @@ function matchesFilter(p) {
   if (activeFilter === 'gems') return p.type === 'gems'
     || p.tags.includes('gems')
     || p.tags.includes('historic');
+  if (activeFilter === 'sunset') return p.type === 'sunset'
+    || p.tags.includes('sunset');
   return true;
 }
 
@@ -470,6 +472,7 @@ const TYPE_EMOJI = {
   viewpoint: '🔭',
   run:       '🏃',
   hike:      '🥾',
+  sunset:    '🌅',
   other:     '📍'
 };
 
@@ -987,7 +990,14 @@ async function loadPlaces() {
         return true;
       })
     : [];
-  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit, ...park];
+  const sunset = typeof SUNSET_PLACES !== 'undefined'
+    ? SUNSET_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit, ...park, ...sunset];
   places = allBase.map(p => ({
     ...p,
     dist: Math.round(
