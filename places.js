@@ -44979,5 +44979,347 @@ const SWEPT_PLACES = [
     "osmType": "node",
     "osmId": 9169562427,
     "score": 0
+  },
+  {
+    "id": "sw:kinggreenleafrecreat",
+    "name": "King-Greenleaf Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87495,
+    "lng": -77.01332,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207290,
+    "score": 0
+  },
+  {
+    "id": "sw:turtlepark",
+    "name": "Turtle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8874,
+    "lng": -76.99652,
+    "dist": 29.0,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207294,
+    "score": 0
+  },
+  {
+    "id": "sw:barryfarmrecreationa",
+    "name": "Barry Farm Recreational Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86099,
+    "lng": -76.99648,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207295,
+    "score": 0
+  },
+  {
+    "id": "sw:randall",
+    "name": "Randall",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88057,
+    "lng": -77.01036,
+    "dist": 29.9,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207296,
+    "score": 0
+  },
+  {
+    "id": "sw:lansburghpark",
+    "name": "Lansburgh Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87821,
+    "lng": -77.01253,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207299,
+    "score": 0
+  },
+  {
+    "id": "sw:8thmassachusettsaven",
+    "name": "8th & Massachusetts Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89181,
+    "lng": -76.99471,
+    "dist": 28.8,
+    "description": "",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207351,
+    "score": 0
+  },
+  {
+    "id": "sw:clydetolson",
+    "name": "Clyde Tolson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88138,
+    "lng": -76.97733,
+    "dist": 28.3,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826807207,
+    "score": 0
+  },
+  {
+    "id": "sw:hooverfamily",
+    "name": "Hoover family",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88172,
+    "lng": -76.97732,
+    "dist": 28.3,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826807221,
+    "score": 0
+  },
+  {
+    "id": "sw:peterpitchlynn",
+    "name": "Peter Pitchlynn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87998,
+    "lng": -76.98021,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826832490,
+    "score": 0
+  },
+  {
+    "id": "sw:johnphilipsousa",
+    "name": "John Philip Sousa",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88122,
+    "lng": -76.97969,
+    "dist": 28.5,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826911623,
+    "score": 0
+  },
+  {
+    "id": "sw:theward6september11m",
+    "name": "The Ward 6 September 11 Memorial Grove",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88008,
+    "lng": -76.97986,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826994389,
+    "score": 0
+  },
+  {
+    "id": "sw:jessewilliams",
+    "name": "Jesse Williams",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88045,
+    "lng": -76.97981,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826994392,
+    "score": 0
+  },
+  {
+    "id": "sw:edwinmacgrotty",
+    "name": "Edwin MacGrotty",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88019,
+    "lng": -76.98045,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826994403,
+    "score": 0
+  },
+  {
+    "id": "sw:belvalockwood",
+    "name": "Belva Lockwood",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87993,
+    "lng": -76.97964,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1826994404,
+    "score": 0
+  },
+  {
+    "id": "sw:johnccalhoun",
+    "name": "John C. Calhoun",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88146,
+    "lng": -76.97894,
+    "dist": 28.4,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827102439,
+    "score": 0
+  },
+  {
+    "id": "sw:johnquincyadams",
+    "name": "John Quincy Adams",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88186,
+    "lng": -76.97871,
+    "dist": 28.4,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827102440,
+    "score": 0
+  },
+  {
+    "id": "sw:nicholasbegich",
+    "name": "Nicholas Begich",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88169,
+    "lng": -76.97879,
+    "dist": 28.4,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827102441,
+    "score": 0
+  },
+  {
+    "id": "sw:henryclay",
+    "name": "Henry Clay",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88149,
+    "lng": -76.97894,
+    "dist": 28.4,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827103500,
+    "score": 0
+  },
+  {
+    "id": "sw:josephnicollet",
+    "name": "Joseph Nicollet",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88244,
+    "lng": -76.9781,
+    "dist": 28.3,
+    "description": "Historic: tomb",
+    "zone": "Prince George's County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827104890,
+    "score": 0
   }
 ];
