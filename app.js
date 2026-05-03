@@ -69,6 +69,11 @@ const SEED_PLACES = [
   { id: 'seed:towncrk',        name: 'Town Creek Indian Mound',             type: 'gems',     tags: ['gems','historic'],                                   lat: 39.645,  lng: -77.156, description: 'Reconstructed Mississippian ceremonial site from 1,000 years ago near Frederick MD — a mortuary temple on a raised earthen mound, standing alone in a field. Genuinely eerie.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:roachesrun',     name: 'Roaches Run Waterfowl Sanctuary',     type: 'gems',     tags: ['gems','water','nature','scenic'],                    lat: 38.847,  lng: -77.054, description: "A hidden tidal marsh full of herons and ducks sitting directly beneath Reagan Airport's flight path — planes roar 200 ft overhead while egrets fish below. Surreal.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:swallowfalls',   name: 'Swallow Falls State Park',            type: 'waterfall', tags: ['waterfall','water','scenic','hiking','nature'],       lat: 39.496,  lng: -79.408, description: "Maryland's most spectacular waterfall cluster — multiple falls including 53-ft Muddy Creek Falls crashing through an old-growth hemlock gorge near Deep Creek Lake.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:beverlytriton',  name: 'Beverly-Triton Beach Park',         type: 'water',     tags: ['water','park','scenic','nature','running'],            lat: 38.834,  lng: -76.528, description: 'Small quiet beach park in Shady Side MD on the Bay — grassy picnic area, sandy beach, calm water. Perfect for reading or a slow afternoon.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:quietwaters',   name: 'Quiet Waters Park',                 type: 'park',      tags: ['park','water','running','trail','scenic','nature'],     lat: 38.939,  lng: -76.517, description: 'Annapolis park with 6 miles of paved trails on the South River — popular running loop with water views, benches, and shaded paths. Dogs welcome.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:lakewaterford', name: 'Lake Waterford Park',               type: 'water',     tags: ['water','park','trail','nature','running','scenic'],    lat: 39.097,  lng: -76.607, description: 'Small lake park in Pasadena — paved loop around the lake, good for a run or a quiet walk. Ducks, fishing, benches by the water. A real local gem.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:kinderfarm',    name: 'Kinder Farm Park',                  type: 'park',      tags: ['park','running','trail','nature','scenic'],             lat: 39.059,  lng: -76.617, description: 'Millersville MD park with a 2.5-mile paved loop — great flat run through open farmland and forest. Peaceful and rarely crowded.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:northbeach',    name: 'North Beach Town Beach',            type: 'water',     tags: ['water','scenic','nature','park'],                       lat: 38.703,  lng: -76.533, description: 'Small Chesapeake Bay beach town with a public boardwalk and sandy beach — good sunset spot, vintage feel, easy drive south from Pasadena.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:downspark',      name: 'Downs Park',                        type: 'water',     tags: ['water','park','scenic','nature','trail'],              lat: 39.093,  lng: -76.490, description: 'Pasadena waterfront county park on the Chesapeake Bay — beach, wooded trails, fishing pier, and wide water views. One of the best local parks in Anne Arundel County.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:terrapin',       name: 'Terrapin Nature Park',              type: 'water',     tags: ['water','park','scenic','nature','trail'],              lat: 38.978,  lng: -76.348, description: 'Kent Island waterfront park right on the Chesapeake Bay — sandy beach, marsh trails, and a front-row view of the Bay Bridge. Easy Eastern Shore escape.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:hoopersisland',  name: "Hooper's Island Overlook",           type: 'viewpoint', tags: ['viewpoint','water','scenic','weird'],                  lat: 38.255,  lng: -76.220, description: "Remote Eastern Shore peninsula where the Honga River meets the Bay — wide open water views, working watermen docks, and some of the best sunsets in Maryland. Feels like the edge of the world.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
@@ -113,18 +118,19 @@ const SK = {
 // ================================================
 
 const DEFAULT_TASTE = {
-  waterfall: 1.0,
-  forest:    1.0,
-  hiking:    1.0,
-  trail:     1.0,
-  park:      1.0,
-  water:     1.0,
-  gems:     1.0,
+  waterfall: 1.2,
+  forest:    1.1,
+  hiking:    1.1,
+  trail:     1.2,
+  park:      1.2,
+  water:     1.4,  // loves waterfront/beach parks
+  gems:      1.2,
   historic:  1.0,
-  viewpoint: 1.0,
-  running:   1.0,
-  nature:    1.0,
-  scenic:    1.0
+  viewpoint: 1.2,
+  swimming:  1.3,
+  running:   1.3,  // runs at Downs, Kinder Farm, Lake Waterford
+  nature:    1.1,
+  scenic:    1.2
 };
 
 function loadTaste() {
