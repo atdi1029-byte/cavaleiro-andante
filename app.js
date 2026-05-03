@@ -301,13 +301,13 @@ function matchesFilter(p) {
   const isFav     = loadSet(SK.favorites).has(p.id);
   const isVisited = loadSet(SK.visited).has(p.id);
 
-  // ❤️ My Places: only hearted spots
+  // ❤️ My Places: only hearted spots (heart dominates — shows even if visited)
   if (activeFilter === 'saved') return isFav;
 
-  // Hearted places only live in My Places — hide from all other views
+  // Hearted places only live in My Places
   if (isFav) return false;
 
-  // Visited (been there) but not hearted → auto-hide
+  // Visited but not hearted → auto-hide
   if (isVisited) return false;
 
   if (activeFilter === 'all')  return p.type !== 'other';
