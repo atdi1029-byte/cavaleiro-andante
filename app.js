@@ -297,7 +297,19 @@ function getPlaceTags(t) {
 function matchesFilter(p) {
   if (p.dist > maxDist) return false;
   if (loadSet(SK.hidden).has(p.id)) return false;
-  if (unseenOnly && loadSet(SK.visited).has(p.id)) return false;
+
+  const isFav     = loadSet(SK.favorites).has(p.id);
+  const isVisited = loadSet(SK.visited).has(p.id);
+
+  // ❤️ My Places: only hearted spots
+  if (activeFilter === 'saved') return isFav;
+
+  // Hearted places only live in My Places — hide from all other views
+  if (isFav) return false;
+
+  // Visited (been there) but not hearted → auto-hide
+  if (isVisited) return false;
+
   if (activeFilter === 'all')  return p.type !== 'other';
   if (activeFilter === 'hike') return p.type === 'trail'
     || p.tags.includes('hiking');
@@ -311,11 +323,6 @@ function matchesFilter(p) {
   if (activeFilter === 'gems') return p.type === 'gems'
     || p.tags.includes('gems')
     || p.tags.includes('historic');
-  if (activeFilter === 'saved') {
-    const favs = loadSet(SK.favorites);
-    const vis  = loadSet(SK.visited);
-    return favs.has(p.id) || vis.has(p.id);
-  }
   return true;
 }
 
