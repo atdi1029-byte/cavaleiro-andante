@@ -687,7 +687,9 @@ ${extras.length
   href="https://www.google.com/maps/search/${encodeURIComponent(p.name)}/@${p.lat},${p.lng},14z"
   target="_blank" rel="noopener">
   🗺 Search on Google Maps
-</a>`;
+</a>
+${p.url ? `<a class="modal-maps-btn" href="${p.url}" target="_blank" rel="noopener" style="margin-top:6px;background:rgba(200,120,40,0.15);border-color:#c87828;color:#e8a84a;">${p.source === 'wikipedia' ? '📖 Read on Wikipedia' : '🔮 View on Atlas Obscura'}</a>` : ''}
+`;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
 
@@ -905,12 +907,23 @@ async function loadPlaces() {
   listView.classList.add('hidden');
   mapView.classList.add('hidden');
 
-  // 1. Show seed + swept data immediately (with distances from currentLoc)
-  const allBase = typeof SWEPT_PLACES !== 'undefined'
-    ? [...SEED_PLACES, ...SWEPT_PLACES.filter(s =>
-        !SEED_PLACES.some(seed => seed.name.toLowerCase() === s.name.toLowerCase())
-      )]
-    : SEED_PLACES;
+  // 1. Show seed + swept + atlas data immediately (with distances from currentLoc)
+  const seenNames = new Set(SEED_PLACES.map(p => p.name.toLowerCase()));
+  const swept = typeof SWEPT_PLACES !== 'undefined'
+    ? SWEPT_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const wiki = typeof WIKI_PLACES !== 'undefined'
+    ? WIKI_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const allBase = [...SEED_PLACES, ...swept, ...wiki];
   places = allBase.map(p => ({
     ...p,
     dist: Math.round(
