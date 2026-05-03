@@ -197,12 +197,55 @@ body {
 }
 .loc-btn:hover { background: rgba(93,191,93,0.22); }
 
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 9px;
+}
+
+.search-bar input {
+  flex: 1;
+  background: var(--raised);
+  border: 1px solid var(--border-md);
+  border-radius: 22px;
+  padding: 7px 14px;
+  font-family: inherit;
+  font-size: 12px;
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s;
+}
+.search-bar input::placeholder { color: var(--text-3); }
+.search-bar input:focus {
+  border-color: rgba(93,191,93,0.45);
+  background: var(--overlay);
+}
+
+.search-bar button {
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background: var(--green-2);
+  color: var(--green);
+  border: 1px solid rgba(93,191,93,0.3);
+  border-radius: 50%;
+  font-size: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s;
+}
+.search-bar button:hover { background: rgba(93,191,93,0.22); }
+.search-bar button:disabled { opacity: 0.45; cursor: default; }
+
 /* ================================================
    CATEGORY PHOTO CARDS
 ================================================ */
 #cat-scroll {
   position: sticky;
-  top: 79px;
+  top: 114px;
   z-index: 40;
   background: rgba(7,16,10,0.82);
   backdrop-filter: blur(24px);

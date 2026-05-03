@@ -3,6 +3,43 @@
 // Find trails, parks, waterfalls & weird spots
 // ================================================
 
+// ================================================
+// SEED DATA — Maryland / DC / Virginia curated places
+// Shown immediately on load while Overpass fetches
+// ================================================
+const SEED_PLACES = [
+  { id: 'seed:patapsco',       name: 'Patapsco Valley State Park',         type: 'park',      tags: ['park','forest','hiking','trail','nature'],         lat: 39.265,  lng: -76.773, description: 'Sprawling state park along the Patapsco River with miles of trails.',         osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:cunninghamfalls', name: 'Cunningham Falls',                  type: 'waterfall', tags: ['waterfall','water','scenic','hiking','trail'],       lat: 39.637,  lng: -77.462, description: "Maryland's largest cascading waterfall, 78 ft drop in Catoctin Mountain Park.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:billygoat',      name: 'Billy Goat Trail',                   type: 'trail',     tags: ['trail','hiking','scenic','nature'],                  lat: 39.013,  lng: -77.245, description: 'Rugged rock-scramble trail along the Potomac River near Great Falls.',         osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:greatfalls',     name: 'Great Falls Park',                   type: 'park',      tags: ['park','scenic','hiking','nature','waterfall'],        lat: 38.999,  lng: -77.253, description: 'Dramatic Potomac River waterfalls and gorge on the Virginia side.',            osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:shenandoah',     name: 'Shenandoah National Park',           type: 'park',      tags: ['park','forest','hiking','trail','nature','scenic'],   lat: 38.533,  lng: -78.352, description: 'Blue Ridge Mountains with Skyline Drive, 500+ miles of trails, and wildlife.',  osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:gunpowder',      name: 'Gunpowder Falls State Park',         type: 'park',      tags: ['park','water','trail','nature','hiking'],             lat: 39.487,  lng: -76.548, description: 'Long river corridor park north of Baltimore with swimming holes and trails.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:calvertcliffs',  name: 'Calvert Cliffs State Park',          type: 'park',      tags: ['park','water','scenic','hiking','trail'],             lat: 38.401,  lng: -76.434, description: 'Chesapeake Bay fossil cliffs — find shark teeth on the beach.',                osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:sugarloaf',      name: 'Sugarloaf Mountain',                 type: 'trail',     tags: ['hiking','trail','scenic','nature'],                   lat: 39.255,  lng: -77.393, description: 'Isolated monadnock rising 800 ft above the Piedmont, great summit views.',      osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:annapolisrock',  name: 'Annapolis Rock AT',                  type: 'trail',     tags: ['trail','hiking','scenic','nature'],                   lat: 39.563,  lng: -77.615, description: 'Appalachian Trail overlook with sweeping views of Middletown Valley.',          osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:seneca',         name: 'Seneca Creek State Park',            type: 'park',      tags: ['park','water','trail','nature','hiking'],             lat: 39.133,  lng: -77.233, description: '6,300-acre park following Seneca Creek with lake, trails, and canoe access.',   osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:sandypoint',     name: 'Sandy Point State Park',             type: 'water',     tags: ['water','scenic','nature'],                            lat: 38.993,  lng: -76.412, description: 'Beach on the Chesapeake Bay with sweeping views of the Bay Bridge.',            osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:assateague',     name: 'Assateague Island',                  type: 'water',     tags: ['water','scenic','nature','trail'],                    lat: 38.059,  lng: -75.165, description: 'Barrier island with wild ponies, pristine beaches, and undeveloped seashore.',   osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:rockcreek',      name: 'Rock Creek Park',                    type: 'park',      tags: ['park','trail','nature','hiking','running'],           lat: 38.957,  lng: -77.050, description: 'Urban national park running through DC with forested trails and creek.',        osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:cocanal',        name: 'C&O Canal Towpath',                  type: 'trail',     tags: ['trail','hiking','running','nature','water'],          lat: 38.954,  lng: -77.516, description: '184.5-mile flat towpath from DC to Cumberland along the Potomac River.',        osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:blackwater',     name: 'Blackwater National Wildlife Refuge',type: 'park',      tags: ['park','water','nature','weird'],                      lat: 38.432,  lng: -76.054, description: 'Tidal marsh refuge on the Eastern Shore — eagles, migratory birds, eerie tidelands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:marylandheights', name: 'Maryland Heights Trail',            type: 'trail',     tags: ['trail','hiking','scenic','historic'],                 lat: 39.322,  lng: -77.730, description: 'Demanding climb above Harpers Ferry with panoramic views of the confluence.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:cascadefalls',   name: 'Cascade Falls',                      type: 'waterfall', tags: ['waterfall','water','scenic','hiking','trail'],        lat: 39.295,  lng: -77.511, description: 'Pretty 15-ft cascade in Cunningham Falls State Park manor area.',               osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:merkle',         name: 'Merkle Wildlife Sanctuary',          type: 'park',      tags: ['park','water','nature','weird'],                      lat: 38.726,  lng: -76.693, description: 'Scenic sanctuary along the Patuxent River; fall Canada goose flocks number in the thousands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:jugbay',         name: 'Jug Bay Wetlands Sanctuary',         type: 'water',     tags: ['water','nature','park','weird'],                      lat: 38.782,  lng: -76.714, description: 'Pristine tidal freshwater wetland on the Patuxent River — kayaking and birding.',  osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:rocks',          name: 'Rocks State Park',                   type: 'park',      tags: ['park','scenic','hiking','trail','nature'],            lat: 39.620,  lng: -76.372, description: 'Dramatic rock outcrops in the Deer Creek valley, including the King and Queen Seat.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:catoctin',       name: 'Catoctin Mountain Park',             type: 'park',      tags: ['park','forest','hiking','trail','nature'],            lat: 39.634,  lng: -77.462, description: "Federal park adjacent to Camp David with rugged trails and Blue Blazes Whiskey Still.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:southmtn',       name: 'South Mountain State Park',          type: 'trail',     tags: ['hiking','trail','scenic','nature','historic'],        lat: 39.489,  lng: -77.643, description: 'AT corridor and Civil War battlefield ridge with long mountain views.',            osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:prettyboy',      name: 'Prettyboy Reservoir',                type: 'water',     tags: ['water','nature','park','scenic'],                     lat: 39.593,  lng: -76.807, description: 'Remote reservoir north of Baltimore — quiet trails and undeveloped shoreline.',     osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:soldiersdelight', name: "Soldier's Delight Natural Area",    type: 'weird',     tags: ['weird','nature','historic','scenic'],                 lat: 39.415,  lng: -76.851, description: 'Rare serpentine barrens with alien-looking landscape and endemic plant species.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:poe',            name: 'Edgar Allan Poe House',              type: 'weird',     tags: ['weird','historic'],                                   lat: 39.296,  lng: -76.625, description: "The poet's childhood Baltimore home, now a small museum in the Poe neighborhood.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:nationalharbor', name: 'National Harbor',                    type: 'viewpoint', tags: ['viewpoint','scenic','water'],                         lat: 38.783,  lng: -77.010, description: 'Waterfront development on the Potomac with sweeping river views and the Awakening statue.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:baybridge',      name: 'Chesapeake Bay Bridge Viewpoint',    type: 'viewpoint', tags: ['viewpoint','scenic','water'],                         lat: 38.994,  lng: -76.393, description: 'Sandy Point beach gives the best ground-level view of the twin Bay Bridge spans.',   osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:pointlookout',   name: 'Point Lookout State Park',           type: 'water',     tags: ['water','historic','weird','scenic'],                  lat: 38.055,  lng: -76.326, description: "Where the Potomac meets the Bay — Civil War prison site, lighthouse, and ghost lore.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:skymeadows',     name: 'Sky Meadows State Park',             type: 'park',      tags: ['park','hiking','trail','scenic','nature'],            lat: 38.982,  lng: -77.908, description: 'Rolling Virginia piedmont farm with meadow trails and Blue Ridge backdrop.',          osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:cunninghammanor', name: 'Cunningham Falls Manor Area',       type: 'park',      tags: ['park','water','nature','trail'],                      lat: 39.620,  lng: -77.470, description: 'Lower section of Cunningham Falls SP with Hunting Creek Lake and fishing.',           osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 }
+];
+
 // ---- Config ----
 const HOME = {
   lat: 39.1037,
@@ -215,6 +252,11 @@ function matchesFilter(p) {
   if (activeFilter === 'weird') return p.type === 'weird'
     || p.tags.includes('weird')
     || p.tags.includes('historic');
+  if (activeFilter === 'saved') {
+    const favs = loadSet(SK.favorites);
+    const vis  = loadSet(SK.visited);
+    return favs.has(p.id) || vis.has(p.id);
+  }
   return true;
 }
 
@@ -705,6 +747,20 @@ function loadCache() {
 // MAIN LOAD
 // ================================================
 
+function showContent() {
+  const listView = document.getElementById('list-view');
+  const mapView  = document.getElementById('map-view');
+  if (activeView === 'map') {
+    mapView.classList.remove('hidden');
+    initMap();
+    leafletMap.setView([currentLoc.lat, currentLoc.lng], 10);
+    renderMapMarkers();
+  } else {
+    listView.classList.remove('hidden');
+    renderList();
+  }
+}
+
 async function loadPlaces() {
   const loading  = document.getElementById('loading');
   const listView = document.getElementById('list-view');
@@ -712,33 +768,85 @@ async function loadPlaces() {
   const errEl    = document.getElementById('error-state');
 
   errEl.classList.add('hidden');
-  loading.classList.remove('hidden');
   listView.classList.add('hidden');
   mapView.classList.add('hidden');
 
+  // 1. Show seed data immediately (with distances from currentLoc)
+  places = SEED_PLACES.map(p => ({
+    ...p,
+    dist: Math.round(
+      distanceMiles(currentLoc.lat, currentLoc.lng, p.lat, p.lng) * 10
+    ) / 10
+  }));
+  loading.classList.add('hidden');
+  listView.classList.remove('hidden');
+  renderList();
+
+  // 2. Fetch Overpass in background and merge new results
+  loading.classList.remove('hidden');
+  loading.querySelector('p').textContent = 'Finding more places…';
   try {
-    const data = await fetchOverpass(currentLoc.lat, currentLoc.lng);
-    places = parseResults(data, currentLoc.lat, currentLoc.lng);
+    const data  = await fetchOverpass(currentLoc.lat, currentLoc.lng);
+    const fresh = parseResults(data, currentLoc.lat, currentLoc.lng);
+    const existingNames = new Set(places.map(p => p.name.toLowerCase()));
+    const newOnes = fresh.filter(
+      p => !existingNames.has(p.name.toLowerCase())
+    );
+    places = [...places, ...newOnes];
     saveCache(places);
-
+    console.log(`Merged ${newOnes.length} Overpass results with seed data`);
+  } catch (e) {
+    console.warn('Overpass failed, using seed data only:', e.message);
+  } finally {
     loading.classList.add('hidden');
+    loading.querySelector('p').textContent = 'Finding places near you…';
+    renderList();
+    if (activeView === 'map') renderMapMarkers();
+  }
+}
 
-    if (activeView === 'map') {
-      mapView.classList.remove('hidden');
-      initMap();
-      leafletMap.setView([currentLoc.lat, currentLoc.lng], 10);
-      renderMapMarkers();
-    } else {
-      listView.classList.remove('hidden');
-      renderList();
+// ================================================
+// LOCATION SEARCH (Nominatim)
+// ================================================
+
+async function searchLocation(query) {
+  if (!query.trim()) return;
+  const btn   = document.getElementById('search-btn');
+  const input = document.getElementById('search-input');
+  btn.textContent = '…';
+  btn.disabled    = true;
+  input.disabled  = true;
+
+  try {
+    const url = `https://nominatim.openstreetmap.org/search?q=`
+      + encodeURIComponent(query)
+      + `&format=json&limit=1&accept-language=en`;
+    const res  = await fetch(url);
+    const data = await res.json();
+    if (!data.length) {
+      alert('Location not found. Try a different search.');
+      return;
     }
-  } catch (err) {
-    console.error(err);
-    loading.classList.add('hidden');
-    listView.classList.remove('hidden');
-    errEl.classList.remove('hidden');
-    document.getElementById('error-msg').textContent =
-      err.message || 'Unknown error.';
+    const { lat, lon, display_name } = data[0];
+    // Use first two parts of display_name as label
+    const label = display_name.split(',').slice(0, 2).join(', ');
+    currentLoc = { lat: parseFloat(lat), lng: parseFloat(lon), label };
+    document.getElementById('location-text').textContent = label;
+    // Reset the location button back to "Use My Location"
+    const locBtn = document.getElementById('use-location-btn');
+    locBtn.textContent = 'Use My Location';
+    locBtn.onclick     = useCurrentLocation;
+    // Clear cache so new area loads fresh
+    sessionStorage.removeItem(CACHE_KEY);
+    loadPlaces();
+  } catch (e) {
+    console.error('Nominatim error:', e);
+    alert('Search failed. Check your connection.');
+  } finally {
+    btn.textContent = '→';
+    btn.disabled    = false;
+    input.disabled  = false;
+    input.value     = '';
   }
 }
 
@@ -808,10 +916,24 @@ document.addEventListener('DOMContentLoaded', () => {
       renderList();
     });
 
-  // Initial load — try cache first
+  // Location search bar
+  document.getElementById('search-btn')
+    .addEventListener('click', () => {
+      const q = document.getElementById('search-input').value;
+      searchLocation(q);
+    });
+  document.getElementById('search-input')
+    .addEventListener('keydown', e => {
+      if (e.key === 'Enter') {
+        searchLocation(e.target.value);
+      }
+    });
+
+  // Initial load — try cache first, else load with seed data
   const cached = loadCache();
   if (cached && cached.length) {
     places = cached;
+    document.getElementById('list-view').classList.remove('hidden');
     renderList();
   } else {
     loadPlaces();
