@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Cache Bust</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body { background:#07100a; color:#ccc; font-family:sans-serif;
+       display:flex; flex-direction:column; align-items:center;
+       justify-content:center; height:100vh; margin:0; text-align:center; }
+button { margin-top:20px; padding:14px 28px; background:#2d5a27;
+         color:#fff; border:none; border-radius:10px; font-size:16px; cursor:pointer; }
+</style>
+</head>
+<body>
+<h2>Clearing cache…</h2>
+<p id="status">Working…</p>
+<button onclick="location.href='./'">Back to App</button>
+<script>
+(async () => {
+  const keys = await caches.keys();
+  await Promise.all(keys.map(k => caches.delete(k)));
+  const reg = await navigator.serviceWorker.getRegistration();
+  if (reg) await reg.unregister();
+  document.getElementById('status').textContent =
+    `Done — cleared ${keys.length} cache(s). Tap the button to reload.`;
+})();
+</script>
+</body>
+</html>

@@ -625,8 +625,18 @@ function renderMapMarkers() {
 let modalPlaceId = null;
 
 function openModal(id) {
+  try { _openModal(id); }
+  catch(e) {
+    console.error('openModal crashed:', e);
+    document.getElementById('modal-content').innerHTML =
+      `<p style="color:#f87;padding:12px">Error: ${e.message}<br><small>${id}</small></p>`;
+    document.getElementById('modal-overlay').classList.remove('hidden');
+  }
+}
+
+function _openModal(id) {
   const p = places.find(x => x.id === id);
-  if (!p) return;
+  if (!p) { console.warn('place not found:', id); return; }
   modalPlaceId = id;
 
   const favs  = loadSet(SK.favorites);
