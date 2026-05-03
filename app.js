@@ -692,17 +692,32 @@ ${extras.length
   document.getElementById('modal-overlay').classList.remove('hidden');
 
   // Fetch Wikipedia photo
-  fetchWikiPhoto(p.name);
+  fetchWikiPhoto(p.name, p.type);
 }
 
-function fetchWikiPhoto(name) {
-  const cache = sessionStorage;
-  const key   = 'wiki_img_' + name;
+const TYPE_FALLBACK_PHOTO = {
+  waterfall: 'https://images.unsplash.com/photo-1554629947-334ff61d85dc?w=700&h=400&q=80&auto=format&fit=crop',
+  water:     'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&h=400&q=80&auto=format&fit=crop',
+  trail:     'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=700&h=400&q=80&auto=format&fit=crop',
+  hike:      'https://images.unsplash.com/photo-1551632811-561732d1e306?w=700&h=400&q=80&auto=format&fit=crop',
+  park:      'https://images.unsplash.com/photo-1448375240586-882707db888b?w=700&h=400&q=80&auto=format&fit=crop',
+  gems:      'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&h=400&q=80&auto=format&fit=crop',
+  viewpoint: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=700&h=400&q=80&auto=format&fit=crop',
+  run:       'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=700&h=400&q=80&auto=format&fit=crop',
+};
+
+function fetchWikiPhoto(name, type) {
+  const cache  = sessionStorage;
+  const key    = 'wiki_img_' + name;
   const cached = cache.getItem(key);
   if (cached) {
-    if (cached !== 'none') showModalPhoto(cached);
+    showModalPhoto(cached);
     return;
   }
+  // Show type fallback immediately, replace if Wiki has something better
+  const fallback = TYPE_FALLBACK_PHOTO[type] || TYPE_FALLBACK_PHOTO.park;
+  showModalPhoto(fallback);
+
   const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(name)}`;
   fetch(url)
     .then(r => r.ok ? r.json() : null)
@@ -713,10 +728,10 @@ function fetchWikiPhoto(name) {
         cache.setItem(key, big);
         showModalPhoto(big);
       } else {
-        cache.setItem(key, 'none');
+        cache.setItem(key, fallback);
       }
     })
-    .catch(() => cache.setItem(key, 'none'));
+    .catch(() => {});
 }
 
 function showModalPhoto(src) {
