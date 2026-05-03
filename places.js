@@ -3409,9 +3409,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bestgate",
     "name": "Bestgate",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99177,
@@ -3427,9 +3427,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wickesmemorialhistor",
     "name": "Wickes Memorial Historical Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01933,
@@ -3464,9 +3464,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herndonmonument",
     "name": "Herndon Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9823,
@@ -3482,9 +3482,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shiplaphouse",
     "name": "Shiplap House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97862,
@@ -3500,9 +3500,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chanceboatyard",
     "name": "Chance Boatyard",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97337,
@@ -3518,9 +3518,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97936,
@@ -3536,9 +3536,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwariimemorial",
     "name": "World War II Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.998,
@@ -3554,9 +3554,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tripolimonument",
     "name": "Tripoli Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98311,
@@ -3572,9 +3572,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mexicanwarmidshipmen",
     "name": "Mexican War Midshipmen's Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98157,
@@ -3590,9 +3590,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williemccoolmemorial",
     "name": "Willie McCool Memorial Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99723,
@@ -3608,9 +3608,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kuntakintealexhaleym",
     "name": "Kunta Kinte - Alex Haley Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97762,
@@ -3626,9 +3626,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:frenchmonument",
     "name": "French Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98414,
@@ -3644,9 +3644,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:libertybellreplica",
     "name": "Liberty Bell Replica",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98099,
@@ -3662,9 +3662,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwarimemorial",
     "name": "World War I Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98117,
@@ -3680,9 +3680,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ptolemystone",
     "name": "Ptolemy Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98213,
@@ -3698,9 +3698,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:watermansmonument",
     "name": "Waterman's Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.96855,
@@ -3716,9 +3716,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stillonpatrol",
     "name": "Still on Patrol",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9813,
@@ -3734,9 +3734,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:foremastoftheussmain",
     "name": "Foremast of the USS Maine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98088,
@@ -3752,9 +3752,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tecumseh",
     "name": "Tecumseh",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98222,
@@ -3770,9 +3770,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:annearundelacademybo",
     "name": "Anne Arundel Academy Boarding House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.05541,
@@ -3788,9 +3788,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:foundedin1830",
     "name": "founded in 1830",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97809,
@@ -3806,9 +3806,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:elvatonstation",
     "name": "Elvaton Station",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.12076,
     "lng": -76.5881,
@@ -3823,9 +3823,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kimwoodfarmhouse",
     "name": "Kimwood Farm House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04673,
@@ -3841,9 +3841,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:drmartinlutherkingjr",
     "name": "Dr. Martin Luther King, Jr. Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04912,
@@ -3859,9 +3859,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialgardenplaque",
     "name": "Memorial Garden Plaque 1",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.08712,
@@ -3877,9 +3877,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialgardenplaque",
     "name": "Memorial Garden Plaque 2",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.08707,
@@ -3895,9 +3895,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:louisgoldstein",
     "name": "Louis Goldstein",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98066,
@@ -3913,9 +3913,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baronjohanndekalb",
     "name": "Baron Johann DeKalb",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97857,
@@ -3931,9 +3931,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:guardiansofthefirsta",
     "name": "Guardians of the First Amendment Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97638,
@@ -3949,9 +3949,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:m60",
     "name": "M60",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98565,
@@ -3967,9 +3967,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussmarylandmemorialb",
     "name": "USS Maryland Memorial & Bell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97847,
@@ -3985,9 +3985,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:submarinemonument",
     "name": "Submarine Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98124,
@@ -4003,9 +4003,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:belvoirmanor",
     "name": "Belvoir Manor",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01887,
@@ -4021,9 +4021,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:beverlyzimmerman",
     "name": "Beverly Zimmerman",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.16363,
@@ -4039,9 +4039,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wishingrock",
     "name": "Wishing Rock",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.12244,
@@ -4057,9 +4057,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lafayettesencampment",
     "name": "Lafayette's Encampment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97153,
@@ -4075,9 +4075,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:howardsinheritance",
     "name": "Howard's Inheritance",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99596,
@@ -4093,9 +4093,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bricehouse",
     "name": "Brice House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97929,
@@ -4111,9 +4111,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chaselloydhouse",
     "name": "Chase-Lloyd House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98109,
@@ -4129,9 +4129,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:linthicumwalks",
     "name": "Linthicum Walks",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99919,
@@ -4207,9 +4207,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historiclondontownan",
     "name": "Historic London Town and Gardens",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94047,
@@ -4225,9 +4225,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sandypointmansion",
     "name": "Sandy Point Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01444,
@@ -4443,9 +4443,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:captainsalemaveryhou",
     "name": "Captain Salem Avery House Museum",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.84955,
@@ -4461,9 +4461,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williambrownhouse",
     "name": "William Brown House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94145,
@@ -4479,9 +4479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomaspointshoalligh",
     "name": "Thomas Point Shoal Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89896,
@@ -4497,9 +4497,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:batteryhartshorne",
     "name": "Battery Hartshorne",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.16619,
@@ -4515,9 +4515,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:f4aphantomii",
     "name": "F-4A Phantom II",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98766,
@@ -4533,9 +4533,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:melfordhouse",
     "name": "Melford House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.95981,
@@ -4731,9 +4731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:highisland",
     "name": "High Island",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88405,
@@ -4769,9 +4769,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial Columns",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97936,
@@ -4787,9 +4787,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial Circle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97934,
@@ -4845,9 +4845,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:f14atomcat",
     "name": "F-14A Tomcat",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98728,
@@ -4863,9 +4863,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ea6bgrowler",
     "name": "EA-6B Growler",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98745,
@@ -8569,9 +8569,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:eastcornerboundaryst",
     "name": "East Corner Boundary Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89286,
@@ -8587,9 +8587,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:northcornerboundarym",
     "name": "North Corner Boundary Marker of the Original District of Columbia",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99597,
@@ -8605,9 +8605,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:capitolhill",
     "name": "Capitol Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.889,
@@ -8623,9 +8623,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westcornerstone",
     "name": "West Cornerstone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89325,
@@ -8641,9 +8641,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationallawenforceme",
     "name": "National Law Enforcement Officers Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89676,
@@ -8659,9 +8659,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columbarium",
     "name": "Columbarium",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87584,
@@ -8677,9 +8677,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bayevacastle",
     "name": "Bay-Eva Castle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90074,
@@ -8695,9 +8695,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tomboftheunknownsold",
     "name": "Tomb of the Unknown Soldier",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87639,
@@ -8713,9 +8713,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cityoffairfaxhistori",
     "name": "City of Fairfax Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.84611,
@@ -8731,9 +8731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:alexandriahistoricdi",
     "name": "Alexandria Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.80514,
@@ -8749,9 +8749,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pallotticollege",
     "name": "Pallotti College",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97076,
@@ -8767,9 +8767,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalparkseminary",
     "name": "National Park Seminary",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01188,
@@ -8785,9 +8785,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountrainierhistoric",
     "name": "Mount Rainier Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94139,
@@ -8803,9 +8803,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:saintceciliachapelru",
     "name": "Saint Cecilia Chapel (ruin)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9715,
@@ -8821,9 +8821,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hayesseniorwellnessc",
     "name": "Hayes Senior Wellness Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90274,
@@ -8839,9 +8839,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americanlegionfreedo",
     "name": "American Legion Freedom Bell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89657,
@@ -8857,9 +8857,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:generaljosedesanmart",
     "name": "General Jose de San Martin Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89501,
@@ -8875,9 +8875,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hahnemannmonument",
     "name": "Hahnemann Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90725,
@@ -8893,9 +8893,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:homeopathichospital",
     "name": "Homeopathic Hospital",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90595,
@@ -8911,9 +8911,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bernardodegalvez",
     "name": "Bernardo de Galvez",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89569,
@@ -8929,9 +8929,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:janeadelanoandthenur",
     "name": "Jane A Delano and the Nurses Who Died in Service in World War I",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89494,
@@ -8947,9 +8947,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:56signersofthedeclar",
     "name": "56 Signers of the Declaration of Independence Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89109,
@@ -8965,9 +8965,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:medlinkhospitalandnu",
     "name": "Medlink Hospital and Nursing Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89236,
@@ -8983,9 +8983,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:redcrossmenandwomenk",
     "name": "Red Cross Men and Women Killed in Service",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8947,
@@ -9001,9 +9001,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:queenisabellaimemori",
     "name": "Queen Isabella I Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89286,
@@ -9019,9 +9019,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jamescardinalgibbons",
     "name": "James Cardinal Gibbons Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9314,
@@ -9037,9 +9037,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:guglielmomarconistat",
     "name": "Guglielmo Marconi Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93042,
@@ -9055,9 +9055,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:andrewjacksondowning",
     "name": "Andrew Jackson Downing Urn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8884,
@@ -9073,9 +9073,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:japaneselantern",
     "name": "Japanese Lantern",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88656,
@@ -9091,9 +9091,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theliberatorsimonbol",
     "name": "The Liberator Simon Bolivar Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89313,
@@ -9128,9 +9128,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:generaljosegervasioa",
     "name": "General Jose Gervasio Artigas Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89232,
@@ -9146,9 +9146,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:benitojuarezmemorial",
     "name": "Benito Juarez Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89877,
@@ -9164,9 +9164,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tuburculosishospital",
     "name": "Tuburculosis Hospital",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94289,
@@ -9182,9 +9182,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:josephdarlingtonmemo",
     "name": "Joseph Darlington Memorial Fountain",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89526,
@@ -9200,9 +9200,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:waylandseminary",
     "name": "Wayland Seminary",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.92152,
@@ -9218,9 +9218,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:alberteinsteinmemori",
     "name": "Albert Einstein Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8924,
@@ -9236,9 +9236,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:peacecross",
     "name": "Peace Cross",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.92913,
@@ -9254,9 +9254,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:almastemple",
     "name": "Almas Temple",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.90278,
     "lng": -77.03132,
@@ -9271,9 +9271,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:khalilgibranmemorial",
     "name": "Khalil Gibran Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.92048,
@@ -9289,9 +9289,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnericssonnational",
     "name": "John Ericsson National Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88667,
@@ -9307,9 +9307,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cubanamericanfriends",
     "name": "Cuban American Friendship Urn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87854,
@@ -9325,9 +9325,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:washingtonarealawenf",
     "name": "Washington Area Law Enforcement Officers Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89567,
@@ -9343,9 +9343,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jeanmonnetplaque",
     "name": "Jean Monnet Plaque",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89674,
@@ -9361,9 +9361,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:juliawardhowememoria",
     "name": "Julia Ward Howe Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.92345,
@@ -9379,9 +9379,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:justicewilliamodougl",
     "name": "Justice William O Douglas Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90421,
@@ -9397,9 +9397,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:122ndnewyorkvoluntee",
     "name": "122nd New York Volunteer Mounment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97088,
@@ -9415,9 +9415,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:25thnewyorkvolunteer",
     "name": "25th New York Volunteer Cavelry Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97079,
@@ -9433,9 +9433,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:98thpennsylvaniavolu",
     "name": "98th Pennsylvania Volunteer Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97084,
@@ -9451,9 +9451,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:adamsmemorial",
     "name": "Adams Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94739,
@@ -9469,9 +9469,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:petermuhlenbergmemor",
     "name": "Peter Muhlenberg Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.95357,
@@ -9487,9 +9487,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:africanamericancivil",
     "name": "African American Civil War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91654,
@@ -9505,9 +9505,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:airmailmarker",
     "name": "Air Mail Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88162,
@@ -9523,9 +9523,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:allhallowsguildtrave",
     "name": "All Hallows Guild Traveling Carousel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93039,
@@ -9541,9 +9541,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamfrederickalle",
     "name": "William Frederick Allen",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89749,
@@ -9559,9 +9559,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:veteransofforeignwar",
     "name": "Veterans of Foreign Wars Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89233,
@@ -9577,9 +9577,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:150thohionationalgua",
     "name": "150th Ohio National Guard Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97091,
@@ -9595,9 +9595,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:josececiliodelvallem",
     "name": "Jose Cecilio del Valle Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89339,
@@ -9613,9 +9613,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:daguerrememorial",
     "name": "Daguerre Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89762,
@@ -9631,9 +9631,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kossuthlajos",
     "name": "Kossuth Lajos",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91049,
@@ -9668,9 +9668,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:samueldgrossmemorial",
     "name": "Samuel D Gross Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90706,
@@ -9686,9 +9686,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sonnybono",
     "name": "Sonny Bono",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90848,
@@ -9704,9 +9704,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chesapeakeandohiocan",
     "name": "Chesapeake and Ohio Canal Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90436,
@@ -9722,9 +9722,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:grantroadhistoricdis",
     "name": "Grant Road Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94732,
@@ -9740,9 +9740,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:twinoaks",
     "name": "Twin Oaks",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93212,
     "lng": -77.06313,
@@ -9757,9 +9757,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:macarthurtheater",
     "name": "MacArthur Theater",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9167,
@@ -9775,9 +9775,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountvernontheater",
     "name": "Mount Vernon Theater",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9028,
@@ -9793,9 +9793,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bronaughbibblibbeyho",
     "name": "Bronaugh-Bibb-Libbey House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9081,
@@ -9811,9 +9811,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bussardnewmanhouse",
     "name": "Bussard-Newman House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90844,
@@ -9829,9 +9829,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomasparrothouse",
     "name": "Thomas Parrot House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90844,
@@ -9847,9 +9847,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thesevenbuildings",
     "name": "The Seven Buildings",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90048,
@@ -9865,9 +9865,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herronmoxleyhouse",
     "name": "Herron-Moxley House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90985,
@@ -9883,9 +9883,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:forestglenhistoricra",
     "name": "Forest Glen Historic Railroad Station",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01458,
@@ -9901,9 +9901,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fairfaxcountygovernm",
     "name": "Fairfax County Government Offices",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.95203,
@@ -9919,9 +9919,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:freemanhousehistoric",
     "name": "Freeman House Historic Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.90339,
     "lng": -77.26514,
@@ -9936,9 +9936,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandmine",
     "name": "Maryland Mine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.99533,
     "lng": -77.23231,
@@ -9953,9 +9953,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rockofthemarne",
     "name": "Rock of the Marne",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87677,
@@ -9971,9 +9971,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:challengerspaceshutt",
     "name": "Challenger Space Shuttle Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87675,
@@ -9989,9 +9989,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:iranrescuemissionmem",
     "name": "Iran Rescue Mission Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87676,
@@ -10007,9 +10007,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columbiaspaceshuttle",
     "name": "Columbia Space Shuttle Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87677,
@@ -10025,9 +10025,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussmaine",
     "name": "USS Maine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87651,
@@ -10043,9 +10043,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:titanicmonument",
     "name": "Titanic Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87189,
@@ -10061,9 +10061,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wallabyyard",
     "name": "Wallaby yard",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93074,
     "lng": -77.04884,
@@ -10078,9 +10078,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:butterflygarden",
     "name": "Butterfly Garden",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.92997,
     "lng": -77.04711,
@@ -10095,9 +10095,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lesserkudu",
     "name": "Lesser Kudu",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93171,
     "lng": -77.05313,
@@ -10112,9 +10112,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:abyssiniangroundhorn",
     "name": "Abyssinian Ground Hornbill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93161,
     "lng": -77.05301,
@@ -10129,9 +10129,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:grevyszebra",
     "name": "Grevy's Zebra",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.9313,
     "lng": -77.05315,
@@ -10146,9 +10146,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:redbelliedturtle",
     "name": "Red-Bellied Turtle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93021,
     "lng": -77.04757,
@@ -10163,9 +10163,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westernlowlandgorill",
     "name": "Western Lowland Gorilla",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.93007,
     "lng": -77.0483,
@@ -10180,9 +10180,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:maryrandolph",
     "name": "Mary Randolph",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88186,
@@ -10198,9 +10198,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pierrecharleslenfant",
     "name": "Pierre Charles L'Enfant",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8811,
@@ -10216,9 +10216,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:roberttoddlincoln",
     "name": "Robert Todd Lincoln",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88299,
@@ -10234,9 +10234,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:september11memorial",
     "name": "September 11 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87346,
@@ -10252,9 +10252,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jessebrown",
     "name": "Jesse Brown",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88364,
@@ -10270,9 +10270,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lieutenantgeneraltim",
     "name": "Lieutenant General Timothy Maude",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88362,
@@ -10288,9 +10288,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamhowardtaft",
     "name": "William Howard Taft",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88365,
@@ -10306,9 +10306,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mcclellangate",
     "name": "McClellan Gate",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8788,
@@ -10324,9 +10324,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussserpensmonument",
     "name": "USS Serpens Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87402,
@@ -10342,9 +10342,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:robertpearyjosephine",
     "name": "Robert Peary &Josephine Diebitsch Peary",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8706,
@@ -10360,9 +10360,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:matthewhenson",
     "name": "Matthew Henson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87064,
@@ -10378,9 +10378,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:unitedstatescoastgua",
     "name": "United States Coast Guard Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87089,
@@ -10396,9 +10396,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sirjohndill",
     "name": "Sir John Dill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88082,
@@ -10414,9 +10414,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:325thgliderregiment",
     "name": "325th Glider Regiment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87863,
@@ -10432,9 +10432,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndinfantry",
     "name": "2nd Infantry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87903,
@@ -10450,9 +10450,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11thairbornedivision",
     "name": "11th Airborne Division",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87906,
@@ -10468,9 +10468,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:airborne50thannivers",
     "name": "Airborne - 50th Anniversary",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87916,
@@ -10486,9 +10486,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:83rdinfantry",
     "name": "83rd Infantry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87925,
@@ -10504,9 +10504,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:82ndairborne",
     "name": "82nd Airborne",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87875,
@@ -10522,9 +10522,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:koreanwarpow",
     "name": "Korean War - POW",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8791,
@@ -10540,9 +10540,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chinaburmaindiaveter",
     "name": "China-Burma-India Veterans",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87875,
@@ -10558,9 +10558,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:militarychaplains",
     "name": "Military Chaplains",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87904,
@@ -10576,9 +10576,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofthebulgememo",
     "name": "Battle of the Bulge Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87496,
@@ -10594,9 +10594,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:majorwalterreed",
     "name": "Major Walter Reed",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87374,
@@ -10612,9 +10612,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nursesmemorial",
     "name": "Nurses Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87486,
@@ -10630,9 +10630,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williampittkellogg",
     "name": "William Pitt Kellogg",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87349,
@@ -10648,9 +10648,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lindaweinermemorial",
     "name": "Linda Weiner Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97998,
@@ -10666,9 +10666,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:arlingtoncountypeace",
     "name": "Arlington County Peace Officer Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89019,
@@ -10684,9 +10684,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fscottfitzgerald",
     "name": "F. Scott Fitzgerald",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.08206,
@@ -10702,9 +10702,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldgreenbelttheatre",
     "name": "Old Greenbelt Theatre",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.00139,
@@ -10720,9 +10720,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:princegeorgesequestr",
     "name": "Prince George's Equestrian Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.81079,
     "lng": -76.74661,
@@ -10737,9 +10737,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldgreyhoundbustermi",
     "name": "Old Greyhound Bus Terminal",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90062,
@@ -10755,9 +10755,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamjosephbrennan",
     "name": "William Joseph Brennan, Jr.",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88195,
@@ -10773,9 +10773,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:haroldandrewblackmun",
     "name": "Harold Andrew Blackmun",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88191,
@@ -10791,9 +10791,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rupertvancehartke",
     "name": "Rupert Vance Hartke",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88231,
@@ -10809,9 +10809,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamodouglas",
     "name": "William O. Douglas",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88204,
@@ -10827,9 +10827,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:warrenearlburger",
     "name": "Warren Earl Burger",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88199,
@@ -10845,9 +10845,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:roughridersmonument",
     "name": "Rough Riders Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87542,
@@ -10863,9 +10863,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamhrehnquist",
     "name": "William H. Rehnquist",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88224,
@@ -10881,9 +10881,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshall",
     "name": "Thurgood Marshall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88192,
@@ -10899,9 +10899,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:koreanwarmemorialben",
     "name": "Korean War Memorial Bench",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87709,
@@ -10917,9 +10917,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:potterstewart",
     "name": "Potter Stewart",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88194,
@@ -10935,9 +10935,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnwingateweeks",
     "name": "John Wingate Weeks",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88193,
@@ -10953,9 +10953,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:galleryoh",
     "name": "Gallery O/H",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.90036,
     "lng": -76.98646,
@@ -10970,9 +10970,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:flagpole",
     "name": "Flag Pole",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9652,
@@ -10988,9 +10988,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:burlingdefenders",
     "name": "Burling Defenders",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9658,
@@ -11006,9 +11006,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:benjaminbannekersw9i",
     "name": "Benjamin Banneker: SW-9 Intermediate Boundary Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88252,
@@ -11024,9 +11024,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:washingtonolddominio",
     "name": "Washington & Old Dominion Caboose",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87308,
@@ -11042,9 +11042,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oliverisleysewardsta",
     "name": "Olive Risley Seward Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88642,
@@ -11060,9 +11060,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mohandaskgandhistatu",
     "name": "Mohandas K. Gandhi Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91103,
@@ -11078,9 +11078,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgemasonmemorial",
     "name": "George Mason Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87946,
@@ -11096,9 +11096,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lummi911healingpole",
     "name": "Lummi 9/11 Healing Pole",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88033,
@@ -11114,9 +11114,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:arsenalmonument",
     "name": "Arsenal Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8815,
@@ -12214,9 +12214,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herndonhistoricdistr",
     "name": "Herndon Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.96988,
@@ -12232,9 +12232,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gaithersburglatitude",
     "name": "Gaithersburg Latitude Observatory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.13666,
@@ -12250,9 +12250,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:argonnecross",
     "name": "Argonne Cross",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87156,
@@ -12268,9 +12268,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:generalgeorgecmarsha",
     "name": "General George C. Marshall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87699,
@@ -12286,9 +12286,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:admiralgracehopper",
     "name": "Admiral Grace Hopper",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87756,
@@ -12304,9 +12304,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialgarden",
     "name": "Memorial Garden",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.95338,
@@ -12322,9 +12322,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nathanhalestatue",
     "name": "Nathan Hale Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9523,
@@ -12340,9 +12340,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americansecondline",
     "name": "American Second Line",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93404,
@@ -12358,9 +12358,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bladensburgduelinggr",
     "name": "Bladensburg Dueling Grounds",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93408,
@@ -12376,9 +12376,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:veteransmemorial",
     "name": "Veteran's Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.96317,
@@ -12394,9 +12394,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofbladensburg",
     "name": "Battle of Bladensburg",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93811,
@@ -12412,9 +12412,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:samuelgompersstatute",
     "name": "Samuel Gompers Statute",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90401,
@@ -12430,9 +12430,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:majorgeneraljamesbmc",
     "name": "Major General James B. McPherson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90196,
@@ -18035,9 +18035,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dickeyvillehistoricd",
     "name": "Dickeyville Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3154,
@@ -18091,9 +18091,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ellicottcityhistoric",
     "name": "Ellicott City Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26776,
@@ -18109,9 +18109,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldsavagedamgates",
     "name": "Old Savage Dam Gates",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.13655,
@@ -18146,9 +18146,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldbaltimorecitynwco",
     "name": "Old Baltimore City NW Cornerstone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.34028,
@@ -18164,9 +18164,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 3",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28127,
@@ -18182,9 +18182,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stmaryscollegeformer",
     "name": "St. Mary's College, former",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25059,
@@ -18200,9 +18200,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 10",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26794,
@@ -18218,9 +18218,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 6",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27313,
@@ -18236,9 +18236,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldquarryworks",
     "name": "Old Quarry Works",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.14079,
@@ -18254,9 +18254,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:giantpineapple",
     "name": "Giant Pineapple",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27208,
@@ -18272,9 +18272,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:millrace",
     "name": "Mill Race",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.19027,
@@ -18290,9 +18290,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:august261814",
     "name": "August 26, 1814",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18038,
@@ -18308,9 +18308,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:elton",
     "name": "Elton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22263,
@@ -18326,9 +18326,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:devotion",
     "name": "Devotion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.283,
@@ -18344,9 +18344,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldstreetcarbridgeab",
     "name": "Old Streetcar Bridge Abutment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.31642,
     "lng": -76.69631,
@@ -18361,9 +18361,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mainstreetballroom",
     "name": "Main Street Ballroom",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.26752,
     "lng": -76.79996,
@@ -18378,9 +18378,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:foundation",
     "name": "Foundation",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.24937,
@@ -18396,9 +18396,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:coreywalter",
     "name": "Corey Walter",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11864,
@@ -18414,9 +18414,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:haeminleeburialsite",
     "name": "Hae Min Lee Burial Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.30179,
     "lng": -76.69936,
@@ -18431,9 +18431,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:waterwheel",
     "name": "Water Wheel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.30288,
     "lng": -76.69464,
@@ -18448,9 +18448,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandsonsmonument",
     "name": "Maryland Sons Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2807,
@@ -18466,9 +18466,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dunlogginmanor",
     "name": "Dunloggin Manor",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25833,
@@ -18484,9 +18484,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:captainjohnsmithmark",
     "name": "Captain John Smith Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22779,
@@ -18502,9 +18502,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:granitenationalhisto",
     "name": "Granite National Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.34357,
@@ -18520,9 +18520,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 11",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26978,
@@ -18538,9 +18538,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 15",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28396,
@@ -18556,9 +18556,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 14",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27964,
@@ -18574,9 +18574,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 12",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27271,
@@ -18592,9 +18592,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:scottscoveatrockygor",
     "name": "Scott’s Cove at Rocky Gorge Reservoir",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.1346,
     "lng": -76.89177,
@@ -18609,9 +18609,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomaspumphreyhouse",
     "name": "Thomas Pumphrey House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.19491,
@@ -18627,9 +18627,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:slomanmonument",
     "name": "Sloman Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30998,
@@ -18645,9 +18645,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mentzelpapermill",
     "name": "Mentzel Paper Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27269,
@@ -18663,9 +18663,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:edgardanieldraper",
     "name": "Edgar Daniel Draper",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31627,
@@ -18681,9 +18681,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dogwoodwall",
     "name": "Dogwood Wall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.3153,
     "lng": -76.79365,
@@ -18698,9 +18698,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 17",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29382,
@@ -18716,9 +18716,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 20",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30798,
@@ -18734,9 +18734,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 22",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31698,
@@ -18752,9 +18752,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 18",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29851,
@@ -18770,9 +18770,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 13",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27503,
@@ -18788,9 +18788,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 16",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28803,
@@ -18806,9 +18806,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:catonsvillenine",
     "name": "Catonsville Nine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27032,
@@ -18824,9 +18824,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:castlethunder",
     "name": "Castle Thunder",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27036,
@@ -18842,9 +18842,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 7",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2704,
@@ -18860,9 +18860,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thenationalroad",
     "name": "The National Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26871,
@@ -18878,9 +18878,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cooksville",
     "name": "Cooksville",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32102,
@@ -18896,9 +18896,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:policeofficerwilliam",
     "name": "Police Officer William Torbit Way",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29383,
@@ -18914,9 +18914,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:grotto",
     "name": "Grotto",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2506,
@@ -18932,9 +18932,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shrine",
     "name": "Shrine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25489,
@@ -18950,9 +18950,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fairytalebridge",
     "name": "Fairytale Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2525,
@@ -18968,9 +18968,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:railroadcrossinglook",
     "name": "Railroad Crossing Lookout for the Locomotive",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2715,
@@ -18986,9 +18986,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:walnuthill",
     "name": "Walnut Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.17709,
@@ -19004,9 +19004,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ellicottsuppermills",
     "name": "Ellicotts Upper Mills",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31035,
@@ -19022,9 +19022,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harmans",
     "name": "Harmans",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.16175,
@@ -19040,9 +19040,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ellicottsmills",
     "name": "Ellicott's Mills",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26797,
@@ -19058,9 +19058,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:formercanalgates",
     "name": "Former Canal Gates",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.13644,
@@ -19076,9 +19076,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stmarysmainsteps",
     "name": "St. Mary's Main Steps",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25063,
@@ -19094,9 +19094,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:capitalsubdivision",
     "name": "Capital Subdivision",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22147,
@@ -19112,9 +19112,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brookevilleacademy",
     "name": "Brookeville Academy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18032,
@@ -19130,9 +19130,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oakleycabin",
     "name": "Oakley Cabin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18049,
@@ -19148,9 +19148,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountclarebranch",
     "name": "Mount Clare Branch",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27506,
@@ -19166,9 +19166,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:outwardbound",
     "name": "Outward Bound",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3049,
@@ -19184,9 +19184,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thechapel",
     "name": "The Chapel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30728,
@@ -19202,9 +19202,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:crimeamansion",
     "name": "Crimea Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30513,
@@ -19220,9 +19220,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:trailhouse",
     "name": "Trail House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30712,
@@ -19258,9 +19258,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:patapscofemaleinstit",
     "name": "Patapsco Female Institute",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27085,
@@ -19296,9 +19296,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:doughoreganmanor",
     "name": "Doughoregan Manor",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27662,
@@ -19314,9 +19314,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westarlingtonwaterto",
     "name": "West Arlington Water Tower",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33615,
@@ -19372,9 +19372,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ba79integratedfireco",
     "name": "BA-79 Integrated Fire Control Area",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.34621,
@@ -19390,9 +19390,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americanicecompany",
     "name": "American Ice Company",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29383,
@@ -19408,9 +19408,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thepinesfortheinehou",
     "name": "The Pines, Fort-Heine House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27048,
@@ -19426,9 +19426,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:emmartpierpontsafeho",
     "name": "Emmart Pierpont Safe House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.35503,
@@ -19444,9 +19444,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomasviaductmarker",
     "name": "Thomas Viaduct Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22252,
@@ -19482,9 +19482,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:buenavista",
     "name": "Buena Vista",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30749,
@@ -19500,9 +19500,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:themount",
     "name": "The Mount",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3088,
@@ -19518,9 +19518,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:springhouse",
     "name": "Spring House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30441,
@@ -19536,9 +19536,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stableruin",
     "name": "Stable ruin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30808,
@@ -19574,9 +19574,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:simpsonmill",
     "name": "Simpson Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.1884,
@@ -19792,9 +19792,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ridgewoodmobilehomep",
     "name": "Ridgewood Mobile Home Park",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.16515,
@@ -19810,9 +19810,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bridgeabutment",
     "name": "Bridge Abutment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27572,
@@ -20008,9 +20008,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uniondamraceembankme",
     "name": "Union Dam Race Embankment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2939,
@@ -20026,9 +20026,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uniondam",
     "name": "Union Dam",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29418,
@@ -20044,9 +20044,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shelterruins",
     "name": "Shelter (ruins)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.23258,
@@ -20062,9 +20062,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:menslatrineruins",
     "name": "Men's Latrine (ruins)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2335,
@@ -20080,9 +20080,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:womenslatrineruins",
     "name": "Women's Latrine (ruins)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2333,
@@ -20098,9 +20098,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:houseruins",
     "name": "House (ruins)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22753,
@@ -20156,9 +20156,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rootcellar",
     "name": "Root Cellar",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30438,
@@ -20174,9 +20174,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:henrytonbridge",
     "name": "Henryton Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.35065,
@@ -20192,9 +20192,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:farmfieldremnants",
     "name": "Farm Field Remnants",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25691,
@@ -20270,9 +20270,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stmarysovalgardenfor",
     "name": "St. Mary's Oval Garden (former)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25045,
@@ -20288,9 +20288,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:latrinepitformer",
     "name": "Latrine Pit (former)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25082,
@@ -20306,9 +20306,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stoneytrainstation",
     "name": "Stoney Train Station",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18968,
@@ -20324,9 +20324,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:generatorshedformer",
     "name": "Generator Shed (former)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2418,
@@ -21395,9 +21395,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:saintgertrudeacademy",
     "name": "Saint Gertrude Academy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.0029,
@@ -21451,9 +21451,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:caulksfieldmemorial",
     "name": "Caulks Field Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.20604,
@@ -21469,9 +21469,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:earlevillepostoffice",
     "name": "Earleville Post Office",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41317,
@@ -21487,9 +21487,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixoncrownstone",
     "name": "Mason-Dixon Crown Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11267,
@@ -21505,9 +21505,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:craighillchannellowe",
     "name": "Craighill Channel Lower Range Rear Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22903,
@@ -21523,9 +21523,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jimmiefoxxmemorial",
     "name": "Jimmie Foxx Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18689,
@@ -21541,9 +21541,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:queenanne",
     "name": "Queen Anne",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04503,
@@ -21559,9 +21559,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:veteransmemorial",
     "name": "Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04497,
@@ -21577,9 +21577,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mccollumpoint",
     "name": "McCollum Point",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2899,
@@ -21595,9 +21595,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountharmon",
     "name": "Mount Harmon",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40672,
@@ -21613,9 +21613,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hazelmore",
     "name": "Hazelmore",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39625,
@@ -21631,9 +21631,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:crewslanding",
     "name": "Crew's Landing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3706,
@@ -21649,9 +21649,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandsfirstwomenv",
     "name": "Maryland's First Women Voters",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32744,
@@ -21667,9 +21667,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinecrowns",
     "name": "Mason-Dixon Line Crownstone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25779,
@@ -21985,9 +21985,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:poinsetthouse",
     "name": "Poinsett House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26312,
@@ -22003,9 +22003,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:benjaminblackistonho",
     "name": "Benjamin Blackiston House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25199,
@@ -22100,9 +22100,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:towera",
     "name": "Tower A",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.14909,
@@ -22118,9 +22118,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:draytonmanor",
     "name": "Drayton Manor",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32642,
@@ -22136,9 +22136,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brickhousefarm",
     "name": "Brick House Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01488,
@@ -22154,9 +22154,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bachelorshope",
     "name": "Bachelor's Hope",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.03377,
@@ -22172,9 +22172,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bloomingdale",
     "name": "Bloomingdale",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97487,
@@ -22190,9 +22190,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:centrevillearmory",
     "name": "Centreville Armory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04183,
@@ -22208,9 +22208,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wyemill",
     "name": "Wye Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.94173,
@@ -22226,9 +22226,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:turkeypointlight",
     "name": "Turkey Point Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4499,
@@ -22244,9 +22244,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:millersisland",
     "name": "Millers Island",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.15753,
@@ -22262,9 +22262,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thecustomshouse",
     "name": "The Customs House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.20716,
@@ -22320,9 +22320,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:truslowboathouse",
     "name": "Truslow Boat House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.20432,
@@ -22338,9 +22338,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:craighillchannellowe",
     "name": "Craighill Channel Lower Range Front Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.1886,
@@ -22356,9 +22356,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bowlingly",
     "name": "Bowlingly",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99348,
@@ -22374,9 +22374,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:queenstowncolonialco",
     "name": "Queenstown Colonial Courthouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9903,
@@ -22392,9 +22392,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chapeloftheholycross",
     "name": "Chapel of the Holy Cross",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25939,
@@ -22410,9 +22410,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:widehall",
     "name": "Wide Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.20763,
@@ -24007,9 +24007,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:saintmichaelshistori",
     "name": "Saint Michaels Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.78474,
@@ -24025,9 +24025,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:boydfarmponddam",
     "name": "Boyd Farm Pond Dam",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91806,
@@ -24043,9 +24043,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:carolinecountyvocati",
     "name": "Caroline County Vocational Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90789,
@@ -24099,9 +24099,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:spocottwindmill",
     "name": "Spocott Windmill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.58846,
     "lng": -76.18165,
@@ -24116,9 +24116,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnfkennedy",
     "name": "John F. Kennedy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.57186,
@@ -24134,9 +24134,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tom",
     "name": "Tom",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.77658,
@@ -24152,9 +24152,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:colonelrichardsonsto",
     "name": "Colonel Richardson's Tomb",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8099,
@@ -24170,9 +24170,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:coveyslanding",
     "name": "Coveys Landing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87252,
@@ -24188,9 +24188,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:waymanwharf",
     "name": "Wayman Wharf",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88847,
@@ -24206,9 +24206,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:reeselanding",
     "name": "Reese Landing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83931,
@@ -24224,9 +24224,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:charlesdickensongrav",
     "name": "Charles Dickenson Grave Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.76182,
@@ -24242,9 +24242,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tuckahoefriendsmeeti",
     "name": "Tuckahoe Friends Meeting House Burying Ground",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82525,
@@ -24260,9 +24260,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:plaindealing",
     "name": "Plain Dealing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.72562,
@@ -24278,9 +24278,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldwomansfolly",
     "name": "Old Woman's Folly",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.72936,
@@ -24296,9 +24296,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hardcastlemillhouse",
     "name": "Hardcastle Mill House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93102,
@@ -24314,9 +24314,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamstillcenterfa",
     "name": "William Still Center Families Divided & United Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83286,
@@ -24332,9 +24332,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wyeisland",
     "name": "Wye Island",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91494,
@@ -24350,9 +24350,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historichollytree",
     "name": "Historic Holly Tree",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89168,
@@ -24588,9 +24588,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wyehouse",
     "name": "Wye House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.8534,
@@ -24606,9 +24606,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pungyshipwreck",
     "name": "Pungy Shipwreck",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.85966,
@@ -24624,9 +24624,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:willistonmill",
     "name": "Williston Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82922,
@@ -24642,9 +24642,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:millershouse",
     "name": "Miller's House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82965,
@@ -24660,9 +24660,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tuckahoeneckmeetingh",
     "name": "Tuckahoe Neck Meeting House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.89194,
@@ -24678,9 +24678,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorylane",
     "name": "Memory Lane",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83085,
@@ -24696,9 +24696,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandsteamboatcom",
     "name": "Maryland Steamboat Company",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88834,
@@ -24714,9 +24714,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:linchestermill",
     "name": "Linchester Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.70073,
@@ -24732,9 +24732,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:webbcabin",
     "name": "Webb Cabin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.75547,
@@ -24750,9 +24750,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:smithsonchapel",
     "name": "Smithson Chapel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.76541,
@@ -24768,9 +24768,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kerrhouse",
     "name": "Kerr House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87721,
@@ -24786,9 +24786,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wyehall",
     "name": "Wye Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88903,
@@ -24804,9 +24804,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:friendshiphall",
     "name": "Friendship Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.59485,
@@ -24822,9 +24822,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:potterhall",
     "name": "Potter Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83119,
@@ -24840,9 +24840,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:daffinhouse",
     "name": "Daffin House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87523,
@@ -24858,9 +24858,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:castlebury",
     "name": "Castlebury",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93922,
@@ -24876,9 +24876,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:trothsfortune",
     "name": "Troth's Fortune",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.76324,
@@ -24894,9 +24894,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sandomingo",
     "name": "San Domingo",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.77905,
@@ -24912,9 +24912,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hopehouse",
     "name": "Hope House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83232,
@@ -24930,9 +24930,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oremsdelight",
     "name": "Orems Delight",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.68616,
@@ -24948,9 +24948,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:perryhall",
     "name": "Perry Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.76701,
@@ -24966,9 +24966,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:grosscoate",
     "name": "Gross Coate",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.86055,
@@ -25004,9 +25004,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:willistonmillhistori",
     "name": "Williston Mill Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82942,
@@ -25022,9 +25022,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamstillinterpre",
     "name": "William Still Interpretive Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.83294,
@@ -25060,9 +25060,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:centaurcastle",
     "name": "Centaur Castle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.80548,
@@ -25532,9 +25532,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theferryhouse",
     "name": "The Ferry House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.48395,
@@ -25550,9 +25550,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:governorhickshouse",
     "name": "Governor Hicks House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.48205,
@@ -25568,9 +25568,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hooperislandlight",
     "name": "Hooper Island Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.25625,
@@ -26006,9 +26006,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ridgeton",
     "name": "Ridgeton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.46135,
@@ -27901,9 +27901,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:indianvillage",
     "name": "Indian Village",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.40038,
@@ -27919,9 +27919,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kingsreachsite",
     "name": "Kings Reach Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.40211,
@@ -27937,9 +27937,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stemssite",
     "name": "Stems Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.40126,
@@ -27955,9 +27955,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:smithsstleonardsite",
     "name": "Smith's St. Leonard Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.39145,
@@ -27973,9 +27973,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sharpsislandlight",
     "name": "Sharps Island Light",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.63914,
@@ -27991,9 +27991,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:boarmanmemorial",
     "name": "Boarman Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.4341,
@@ -28009,9 +28009,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:saintfrancisofassisi",
     "name": "Saint Francis of Assisi",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.43377,
@@ -28027,9 +28027,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tothosewhofishedtheb",
     "name": "To Those Who Fished The Bay And Built Their Boats",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.32414,
@@ -28045,9 +28045,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:glendeningwalkingtra",
     "name": "Glendening Walking Trails at Jug Bay Nature Preserve",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.79359,
     "lng": -76.69616,
@@ -28062,9 +28062,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:molldyerrock",
     "name": "Moll Dyer Rock",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.28838,
@@ -28080,9 +28080,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jcloresonsoysterhous",
     "name": "J.C. Lore & Sons Oyster House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.32419,
@@ -28098,9 +28098,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:solomonsisland",
     "name": "Solomon’s Island",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.32429,
@@ -28116,9 +28116,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mmdavisshipyard",
     "name": "M.M. Davis Shipyard",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.32225,
@@ -28134,9 +28134,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chesapeakebiological",
     "name": "Chesapeake Biological Laboratory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.31808,
@@ -28152,9 +28152,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:drumpointlighthouse",
     "name": "Drum Point Lighthouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.33137,
@@ -28170,9 +28170,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historiccroomairport",
     "name": "Historic Croom Airport",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.75372,
@@ -28488,9 +28488,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountcalvert",
     "name": "Mount Calvert",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.78524,
@@ -28506,9 +28506,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jcloreoysterhouse",
     "name": "J. C. Lore Oyster House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.32428,
@@ -28524,9 +28524,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:patuxentriverparkoff",
     "name": "Patuxent River Park Office",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.77313,
@@ -28542,9 +28542,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:yowaiskimill",
     "name": "Yowaiski Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.3829,
@@ -28560,9 +28560,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tudorhall",
     "name": "Tudor Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.28847,
@@ -28578,9 +28578,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columbiaaircenter",
     "name": "Columbia Air Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.75351,
@@ -28596,9 +28596,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:corncrib",
     "name": "Corncrib",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.51443,
@@ -28614,9 +28614,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lemuelwallacehouse",
     "name": "Lemuel-Wallace House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.51454,
@@ -28632,9 +28632,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tenanthouse",
     "name": "Tenant House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.49201,
@@ -29138,9 +29138,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stephensfort",
     "name": "Stephens Fort",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.07816,
@@ -29194,9 +29194,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:berryvillehistoricdi",
     "name": "Berryville Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.15113,
@@ -29231,9 +29231,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uppervillehistoricdi",
     "name": "Upperville Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99316,
@@ -29249,9 +29249,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bluemonthistoricdist",
     "name": "Bluemont Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11122,
@@ -29267,9 +29267,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goosecreekhistoricdi",
     "name": "Goose Creek Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.09761,
@@ -29285,9 +29285,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:middleburghistoricdi",
     "name": "Middleburg Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.96909,
@@ -29303,9 +29303,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oatlandshistoricdist",
     "name": "Oatlands Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.02955,
@@ -29321,9 +29321,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldashbysgapturnpike",
     "name": "Old Ashby's Gap Turnpike Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.97761,
@@ -29358,9 +29358,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bellegroveplantation",
     "name": "Belle Grove Plantation",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.02076,
@@ -29376,9 +29376,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:vinthillsfarmstation",
     "name": "Vint Hills Farm Station Heliport",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.75111,
@@ -29394,9 +29394,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:spaceport",
     "name": "Space Port",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82668,
     "lng": -77.66537,
@@ -29411,9 +29411,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:silopavilion",
     "name": "Silo Pavilion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82605,
     "lng": -77.66698,
@@ -29428,9 +29428,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theship",
     "name": "The Ship",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82706,
     "lng": -77.66488,
@@ -29445,9 +29445,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thebigdig",
     "name": "The Big Dig",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82759,
     "lng": -77.66515,
@@ -29462,9 +29462,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thefort",
     "name": "The Fort",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82713,
     "lng": -77.66625,
@@ -29479,9 +29479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:akelavillage",
     "name": "Akela Village",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.83026,
     "lng": -77.66546,
@@ -29496,9 +29496,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fredandanitascottamp",
     "name": "Fred And Anita Scott Amphitheater",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82934,
     "lng": -77.67036,
@@ -29513,9 +29513,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:copecourse",
     "name": "Cope Course",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82409,
     "lng": -77.6618,
@@ -29530,9 +29530,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:archeryrange",
     "name": "Archery Range",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82647,
     "lng": -77.66664,
@@ -29547,9 +29547,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:indiangrave",
     "name": "Indian Grave",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.79889,
@@ -29565,9 +29565,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:secondmanassasmonume",
     "name": "Second Manassas Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82084,
@@ -29583,9 +29583,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:powmiamemorial",
     "name": "POW-MIA Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.17651,
@@ -29601,9 +29601,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brawnerfarm",
     "name": "Brawner Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.81309,
@@ -29619,9 +29619,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:deepcutbattlefield",
     "name": "Deep Cut Battlefield",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82058,
     "lng": -77.55254,
@@ -29636,9 +29636,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historicaldiemill",
     "name": "Historic Aldie Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.97523,
     "lng": -77.64103,
@@ -29653,9 +29653,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:snowdenruins",
     "name": "Snowden Ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98621,
@@ -29671,9 +29671,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cedarcreekbattlefiel",
     "name": "Cedar Creek Battlefield",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.02181,
@@ -29689,9 +29689,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ramseurshillfishersh",
     "name": "Ramseur's Hill - Fisher's Hill Battlefield",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98962,
@@ -29707,9 +29707,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:skylinecaverns",
     "name": "Skyline Caverns",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.89928,
     "lng": -78.21618,
@@ -29724,9 +29724,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndbattleofkernstown",
     "name": "2nd Battle of Kernstown (1864)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.14032,
@@ -29742,9 +29742,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stand2ndbattlesofke",
     "name": "1st and 2nd Battles of Kernstown",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.14006,
@@ -29760,9 +29760,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bbriflerange",
     "name": "BB Rifle Range",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.82716,
     "lng": -77.66641,
@@ -29777,9 +29777,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofaldie",
     "name": "Battle of Aldie",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99204,
@@ -29795,9 +29795,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:judgejohnhandleymemo",
     "name": "Judge John Handley Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.17596,
@@ -29813,9 +29813,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cannon",
     "name": "Cannon",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.81754,
@@ -29831,9 +29831,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:norfolksouthernrailw",
     "name": "Norfolk & Southern Railway Co. Caboose",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91814,
@@ -29849,9 +29849,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:milleniumsundial",
     "name": "Millenium Sundial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.91793,
@@ -29867,9 +29867,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marshmansion",
     "name": "Marsh Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82129,
@@ -29885,9 +29885,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofbucklandmill",
     "name": "Battle of Buckland Mills",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.77725,
@@ -29903,9 +29903,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tomboflordfairfax",
     "name": "Tomb of Lord Fairfax",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18481,
@@ -29921,9 +29921,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:911steelbeammemorial",
     "name": "9/11 Steel Beam Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.13404,
@@ -29939,9 +29939,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:loudounbranchmanassa",
     "name": "Loudoun Branch, Manassas Gap Railroad",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.12196,
@@ -29957,9 +29957,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sherandoarrow",
     "name": "Sherando Arrow",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.07524,
@@ -29975,9 +29975,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:8thvermontmonument",
     "name": "8th Vermont Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.0108,
@@ -29993,9 +29993,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:128thnewyorkmonument",
     "name": "128th New York Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.00882,
@@ -30011,9 +30011,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:southcarolinamonumen",
     "name": "South Carolina Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.01054,
@@ -30029,9 +30029,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dixieartillery",
     "name": "Dixie Artillery",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.81182,
@@ -30047,9 +30047,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shannondalelodge",
     "name": "Shannondale Lodge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.21096,
@@ -30084,9 +30084,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hauntedhollow",
     "name": "Haunted Hollow",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.69325,
     "lng": -77.77847,
@@ -30101,9 +30101,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stmassachusettscava",
     "name": "1st Massachusetts Cavalry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.99198,
@@ -30119,9 +30119,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:belleville",
     "name": "Belleville",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.162,
@@ -30137,9 +30137,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:timbrookpark",
     "name": "Timbrook Park",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18497,
@@ -30155,9 +30155,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:whitepost",
     "name": "White Post",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.05998,
@@ -30173,9 +30173,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tiremountain",
     "name": "Tire Mountain",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09389,
     "lng": -77.82344,
@@ -30190,9 +30190,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:saratoga",
     "name": "Saratoga",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.09301,
@@ -30208,9 +30208,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:townofboyce",
     "name": "Town of Boyce",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.09307,
@@ -30226,9 +30226,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gemminingsluice",
     "name": "Gem Mining Sluice",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.0947,
     "lng": -77.82527,
@@ -30243,9 +30243,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:trexpumpkincrusher",
     "name": "T-Rex Pumpkin Crusher",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09403,
     "lng": -77.82336,
@@ -30260,9 +30260,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pathwaypuzzlemaze",
     "name": "Pathway Puzzle Maze",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09406,
     "lng": -77.82408,
@@ -30277,9 +30277,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jammedtractormaze",
     "name": "Jammed Tractor Maze",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09416,
     "lng": -77.82386,
@@ -30294,9 +30294,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:animalbarnarea",
     "name": "Animal Barn Area",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09434,
     "lng": -77.82369,
@@ -30311,9 +30311,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pigraces",
     "name": "Pig Races",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09528,
     "lng": -77.82401,
@@ -30328,9 +30328,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cowtrain",
     "name": "Cow Train",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09526,
     "lng": -77.82419,
@@ -30345,9 +30345,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ciderstage",
     "name": "Cider Stage",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.09478,
     "lng": -77.82612,
@@ -30382,9 +30382,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldbotraindepot",
     "name": "Old B&O Train Depot",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18593,
@@ -30439,9 +30439,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:snickersvilleturnpik",
     "name": "Snickersville Turnpike",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.03734,
@@ -30457,9 +30457,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brawnerhouse",
     "name": "Brawner House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.81332,
@@ -30495,9 +30495,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oatlandsmansion",
     "name": "Oatlands Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.04092,
@@ -30513,9 +30513,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:glenburnie",
     "name": "Glen Burnie",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18719,
@@ -30551,9 +30551,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sneadfarm",
     "name": "Snead Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.85615,
@@ -30569,9 +30569,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldtownspring",
     "name": "Old Town Spring",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18772,
@@ -30587,9 +30587,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thehexagonhouse",
     "name": "The Hexagon House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18774,
@@ -30625,9 +30625,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:swartfarmhouse",
     "name": "Swart Farmhouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.93236,
@@ -30682,9 +30682,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:northwales",
     "name": "North Wales",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.67328,
@@ -30700,9 +30700,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:virginiatechmassacre",
     "name": "Virginia Tech Massacre Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.0779,
@@ -30718,9 +30718,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battlefieldofthirdwi",
     "name": "Battlefield of Third Winchester",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.20197,
@@ -30756,9 +30756,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:southwarrensubstatio",
     "name": "South Warren Substation 3",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.81247,
@@ -30814,9 +30814,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pritchardhouse",
     "name": "Pritchard House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.14347,
@@ -30852,9 +30852,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oakhill",
     "name": "Oak Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.9974,
@@ -30870,9 +30870,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hibbsbridge",
     "name": "Hibbs Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.03734,
@@ -30888,9 +30888,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theguadalupechapelof",
     "name": "The Guadalupe Chapel of Divine Mercy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.71184,
@@ -30906,9 +30906,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chapmanbeverleymill",
     "name": "Chapman-Beverley Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.82456,
@@ -30924,9 +30924,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:spilmansilo",
     "name": "Spilman Silo",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.65273,
@@ -30942,9 +30942,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:poplarspringsmanor",
     "name": "Poplar Springs Manor",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.65222,
@@ -30960,9 +30960,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bucklandpreservation",
     "name": "Buckland Preservation Society",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.78119,
@@ -30998,9 +30998,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historichansonhouse",
     "name": "Historic Hanson House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.96966,
@@ -31016,9 +31016,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mapplewood",
     "name": "Mapplewood",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.02362,
@@ -31034,9 +31034,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goosecreekbridge",
     "name": "Goose Creek Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.98167,
@@ -31072,9 +31072,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:patsyclinehouse",
     "name": "Patsy Cline House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.17795,
@@ -34539,9 +34539,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thegreatfrederickfai",
     "name": "The Great Frederick Fair",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.4129,
     "lng": -77.39496,
@@ -34556,9 +34556,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:renomonument",
     "name": "Reno Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47057,
@@ -34574,9 +34574,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:p",
     "name": "P",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.35432,
@@ -34592,9 +34592,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:taylorstownhistoricd",
     "name": "Taylorstown Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25467,
@@ -34610,9 +34610,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:warcorrespondentsmem",
     "name": "War Correspondents Memorial Arch",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40575,
@@ -34647,9 +34647,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brunswickhistoricdis",
     "name": "Brunswick Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3126,
@@ -34684,9 +34684,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:buckeystownhistoricd",
     "name": "Buckeystown Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33399,
@@ -34721,9 +34721,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11connecticutvolunte",
     "name": "11 Connecticut Volunteers",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4503,
@@ -34739,9 +34739,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jugmonument",
     "name": "Jug Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40475,
@@ -34757,9 +34757,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldcottage",
     "name": "Old Cottage",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50531,
@@ -34775,9 +34775,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:parrsspringmarker",
     "name": "Parr's Spring Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.35442,
@@ -34793,9 +34793,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pumpkincannon",
     "name": "Pumpkin Cannon",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.59005,
     "lng": -77.37962,
@@ -34810,9 +34810,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pennsylvaniamonument",
     "name": "Pennsylvania Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.361,
@@ -34828,9 +34828,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandmonument",
     "name": "Maryland Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37638,
@@ -34846,9 +34846,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uniteddaughtersofthe",
     "name": "United Daughters of the Confederacy Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37644,
@@ -34864,9 +34864,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:10thvermontmonument",
     "name": "10th Vermont Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36037,
@@ -34882,9 +34882,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:14thnewjerseyvolunte",
     "name": "14th New Jersey Volunteer Infantry Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3707,
@@ -34900,9 +34900,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chesapeakeandohioaqu",
     "name": "Chesapeake and Ohio Aqueduct Across the Monocacy River",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2246,
@@ -34918,9 +34918,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:damascus",
     "name": "Damascus",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28787,
@@ -34936,9 +34936,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:washingtonsfarm",
     "name": "Washington's Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.19813,
@@ -34954,9 +34954,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nc13thinfantrymemori",
     "name": "NC 13th Infantry Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46764,
@@ -34972,9 +34972,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williammckinleycoffe",
     "name": "William McKinley Coffee Break Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44922,
@@ -34990,9 +34990,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:earlspicnicspot",
     "name": "Earl's Picnic Spot",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27461,
@@ -35008,9 +35008,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gumspringsmemorial",
     "name": "Gum Springs Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31318,
@@ -35026,9 +35026,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jugbridgeeastabutmen",
     "name": "Jug Bridge East Abutment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39884,
@@ -35044,9 +35044,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jugbridgewestabutmen",
     "name": "Jug Bridge West Abutment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39929,
@@ -35062,9 +35062,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monumenttotheunknown",
     "name": "Monument to the Unknown Confederate Soldiers",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40288,
@@ -35080,9 +35080,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monumenttogenroberte",
     "name": "Monument to Gen. Robert E. Lee",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46443,
@@ -35098,9 +35098,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:burialmonument",
     "name": "Burial Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41721,
@@ -35116,9 +35116,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tencommandments",
     "name": "Ten Commandments",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41718,
@@ -35134,9 +35134,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:vietnamwarmemorial",
     "name": "Vietnam War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41706,
@@ -35152,9 +35152,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:koreanwarveteransmem",
     "name": "Korean War Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41743,
@@ -35170,9 +35170,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:laboringsonsmemorial",
     "name": "Laboring Sons Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42074,
@@ -35188,9 +35188,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:walkersvillesouthern",
     "name": "Walkersville Southern Railroad",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.48525,
     "lng": -77.35578,
@@ -35205,9 +35205,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 34",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37021,
@@ -35223,9 +35223,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 31",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36448,
@@ -35241,9 +35241,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 28",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.34705,
@@ -35259,9 +35259,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 37",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38324,
@@ -35277,9 +35277,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 39",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38829,
@@ -35295,9 +35295,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 35",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37695,
@@ -35313,9 +35313,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 33",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36834,
@@ -35331,9 +35331,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 36",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38185,
@@ -35349,9 +35349,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 38",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38469,
@@ -35367,9 +35367,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 41",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39553,
@@ -35385,9 +35385,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalroadmilemark",
     "name": "National Road Mile Marker 44",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40938,
@@ -35403,9 +35403,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:munfordsbrigadeandma",
     "name": "Munford's Brigade and Mahone's Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39724,
@@ -35421,9 +35421,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goldstarfamiliesmemo",
     "name": "Gold Star Families Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25962,
@@ -35439,9 +35439,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:beallhomestead",
     "name": "Beall Homestead",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28272,
@@ -35457,9 +35457,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thehodsonmemorial",
     "name": "The Hodson Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42373,
@@ -35475,9 +35475,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theclairemccardellpr",
     "name": "The Claire McCardell Project",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41278,
@@ -35493,9 +35493,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialplaquetothep",
     "name": "Memorial Plaque to the Provisional Army of the United States of America",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37998,
@@ -35511,9 +35511,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:frederickcounty",
     "name": "Frederick County",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33021,
@@ -35529,9 +35529,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goodloeebyron",
     "name": "Goodloe E Byron",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33206,
@@ -35547,9 +35547,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stonewallregiment",
     "name": "Stonewall Regiment",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47079,
@@ -35565,9 +35565,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:covid19memorial",
     "name": "COVID-19 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5236,
@@ -35583,9 +35583,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ironmastershouse",
     "name": "Ironmaster's House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5821,
@@ -35601,9 +35601,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:roddyroad",
     "name": "Roddy Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.64087,
@@ -35619,9 +35619,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bennieshillroad",
     "name": "Bennies Hill Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40957,
@@ -35637,9 +35637,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:poffenbergerroad",
     "name": "Poffenberger Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38173,
@@ -35655,9 +35655,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:eastalco",
     "name": "Eastalco",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33001,
@@ -35813,9 +35813,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monocacyaqueduct",
     "name": "Monocacy Aqueduct",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.22388,
@@ -36011,9 +36011,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:strongmansion",
     "name": "Strong Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25514,
@@ -36049,9 +36049,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:blackrockhotel",
     "name": "Black Rock Hotel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57724,
@@ -36087,9 +36087,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wormansmillhistoricr",
     "name": "Worman's Mill Historic Ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45883,
@@ -36105,9 +36105,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:doubsmill",
     "name": "Doubs Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57836,
@@ -36123,9 +36123,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:catoctinaqueduct",
     "name": "Catoctin Aqueduct",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31107,
@@ -36141,9 +36141,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock26woodslock",
     "name": "Lock 26: Wood's Lock",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.19077,
@@ -36178,9 +36178,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock28",
     "name": "Lock 28",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28163,
@@ -36196,9 +36196,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock29",
     "name": "Lock 29",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30646,
@@ -36214,9 +36214,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock30",
     "name": "Lock 30",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31142,
@@ -36232,9 +36232,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock31",
     "name": "Lock 31",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32936,
@@ -36250,9 +36250,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lockhouse31",
     "name": "Lockhouse 31",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32956,
@@ -36268,9 +36268,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dahlgrenchapel",
     "name": "Dahlgren Chapel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4845,
@@ -36286,9 +36286,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westwoodmansion",
     "name": "Westwood Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.25387,
@@ -36304,9 +36304,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1887barnruins",
     "name": "1887 Barn ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40674,
@@ -36322,9 +36322,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwar1",
     "name": "World War 1",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4896,
@@ -36359,9 +36359,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hamburglookouttower",
     "name": "Hamburg Lookout Tower",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50958,
@@ -36377,9 +36377,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:darbystore",
     "name": "Darby Store",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.17957,
@@ -36395,9 +36395,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worthingtonhouse",
     "name": "Worthington House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36145,
@@ -36413,9 +36413,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kennedyfarm",
     "name": "Kennedy Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38,
@@ -36431,9 +36431,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:davidmoodycabin",
     "name": "David Moody Cabin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.24934,
@@ -36449,9 +36449,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:norwoodtobaccobarn",
     "name": "Norwood Tobacco Barn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27826,
@@ -36467,9 +36467,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hyattstownmill",
     "name": "Hyattstown Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27972,
@@ -36485,9 +36485,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:winderbournemansion",
     "name": "Winderbourne Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.18349,
@@ -36503,9 +36503,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hopewellbarn",
     "name": "Hopewell Barn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5257,
@@ -36521,9 +36521,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:snookfamilyfarmhouse",
     "name": "Snook Family Farmhouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51555,
@@ -40121,9 +40121,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rittenhousetown",
     "name": "Rittenhouse Town",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.02973,
@@ -40139,9 +40139,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:robertmorris",
     "name": "Robert Morris",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94771,
@@ -40157,9 +40157,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columnsandcapitalfro",
     "name": "Columns and Capital from Amman Jordan",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95119,
@@ -40175,9 +40175,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:philadelphiavietnamv",
     "name": "Philadelphia Vietnam Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94392,
@@ -40193,9 +40193,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:philadelphiakoreanwa",
     "name": "Philadelphia Korean War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94491,
@@ -40211,9 +40211,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fairmountwaterworks",
     "name": "Fairmount Water Works",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96634,
@@ -40229,9 +40229,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williampennlandingsi",
     "name": "William Penn Landing Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.84399,
@@ -40247,9 +40247,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock68",
     "name": "Lock 68",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03793,
@@ -40265,9 +40265,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:abrahamlincoln",
     "name": "Abraham Lincoln",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96957,
@@ -40283,9 +40283,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:civilwarsoldiersands",
     "name": "Civil War Soldiers and Sailors Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95943,
@@ -40301,9 +40301,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:devonhorseshow",
     "name": "Devon Horse Show",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.04613,
     "lng": -75.42039,
@@ -40318,9 +40318,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:libertybell",
     "name": "Liberty Bell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94947,
@@ -40336,9 +40336,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hadrosaurushaddydino",
     "name": "Hadrosaurus (Haddy Dinosaur Statue)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.89706,
@@ -40354,9 +40354,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:welcometohistorichad",
     "name": "Welcome to Historic Haddonfield",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.89694,
@@ -40372,9 +40372,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:valleycottage",
     "name": "Valley Cottage",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.9336,
@@ -40390,9 +40390,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stopfordfamilymeadow",
     "name": "Stopford Family Meadow Maze",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.93344,
     "lng": -75.43754,
@@ -40407,9 +40407,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:radnortownshipwarmem",
     "name": "Radnor Township War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04213,
@@ -40425,9 +40425,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:louispaolone",
     "name": "Louis Paolone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.93241,
@@ -40443,9 +40443,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:southfarm",
     "name": "South Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.92716,
@@ -40461,9 +40461,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ruinsofoldmill",
     "name": "Ruins of Old Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98254,
@@ -40479,9 +40479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hobbithollow",
     "name": "Hobbit Hollow",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.93616,
     "lng": -75.44164,
@@ -40496,9 +40496,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hiddenruins",
     "name": "Hidden ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.90528,
@@ -40514,9 +40514,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shawmontrollofhonorw",
     "name": "Shawmont \"Roll of Honor\" War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04461,
@@ -40532,9 +40532,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:newkirkmonument",
     "name": "Newkirk Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94001,
@@ -40550,9 +40550,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thepilgrim",
     "name": "The Pilgrim",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.9701,
@@ -40568,9 +40568,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:forttyler",
     "name": "Fort Tyler",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.93397,
     "lng": -75.43883,
@@ -40585,9 +40585,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:germanyhillwarmemori",
     "name": "Germany Hill War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03391,
@@ -40603,9 +40603,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:corporalstevenlevyme",
     "name": "Corporal Steven Levy Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.74371,
@@ -40621,9 +40621,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:firefightersmemorial",
     "name": "Firefighters' Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7459,
@@ -40639,9 +40639,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:laddscastlecandorhal",
     "name": "Ladd's Castle / Candor Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.85675,
@@ -40657,9 +40657,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monumenttosixmillion",
     "name": "Monument to Six Million Jewish Martyrs",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.955,
@@ -40675,9 +40675,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tuliptreehouse",
     "name": "Tulip Tree House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.9333,
     "lng": -75.43914,
@@ -40692,9 +40692,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stregimentinfantryn",
     "name": "1st Regiment Infantry National Guard of Philadelphia",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94984,
@@ -40710,9 +40710,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:washingtongraysmonum",
     "name": "Washington Grays Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95006,
@@ -40728,9 +40728,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:christophercolumbus",
     "name": "Christopher Columbus",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94465,
@@ -40746,9 +40746,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgewashington",
     "name": "George Washington",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94905,
@@ -40764,9 +40764,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:f14atomcatbuno159448",
     "name": "F-14A Tomcat BuNo 159448",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04476,
@@ -40782,9 +40782,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ad3skyraiderbuno1228",
     "name": "AD-3 Skyraider BuNo 122811",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04495,
@@ -40800,9 +40800,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:a6eintruderbuno15700",
     "name": "A-6E Intruder BuNo 157001",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04518,
@@ -40818,9 +40818,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:av8charrierbuno15924",
     "name": "AV-8C Harrier BuNo. 159247",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.04533,
@@ -40836,9 +40836,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:generalgalushapennyp",
     "name": "General Galusha Pennypacker Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95854,
@@ -40854,9 +40854,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shakespearememorial",
     "name": "Shakespeare Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95876,
@@ -40872,9 +40872,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnbkelly",
     "name": "John B. Kelly",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98606,
@@ -40890,9 +40890,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussnewjerseypropelle",
     "name": "USS New Jersey Propeller",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94323,
@@ -40908,9 +40908,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwartwomemorial",
     "name": "World War Two Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.92001,
@@ -40926,9 +40926,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:911memorial",
     "name": "9-11 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.07192,
@@ -40944,9 +40944,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:constitutionmemorial",
     "name": "Constitution Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.07338,
@@ -40962,9 +40962,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thesoldiersmonument",
     "name": "The Soldier's Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94125,
@@ -40980,9 +40980,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:readingterminal",
     "name": "Reading Terminal",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.9533,
     "lng": -75.15905,
@@ -40997,9 +40997,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:italianmarket",
     "name": "Italian market",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.93901,
     "lng": -75.15784,
@@ -41014,9 +41014,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:medalofhonormemorial",
     "name": "Medal of Honor Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.88369,
@@ -41032,9 +41032,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ralphmodjeski1861194",
     "name": "Ralph Modjeski (1861-1940)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95488,
@@ -41050,9 +41050,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:helenaschaaffsaunder",
     "name": "Helena Schaaff Saunders Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.99778,
@@ -41068,9 +41068,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:franknpiasecki191920",
     "name": "Frank N. Piasecki (1919-2008)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96082,
@@ -41086,9 +41086,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:phillyaidsthriftgiov",
     "name": "Philly AIDS Thrift @ Giovanni's Room",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94517,
@@ -41104,9 +41104,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mckaigmemorial",
     "name": "McKaig Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.07187,
@@ -41122,9 +41122,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:officerbradmfoxmemor",
     "name": "Officer Brad M. Fox Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.10095,
@@ -41140,9 +41140,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:arrowheadtrainstatio",
     "name": "Arrow Head Train & Station",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.94359,
     "lng": -75.13073,
@@ -41157,9 +41157,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:alumnicircle",
     "name": "Alumni Circle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98145,
@@ -41175,9 +41175,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:robertcorneliusmemor",
     "name": "Robert Cornelius Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00265,
@@ -41193,9 +41193,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:charlesbrockdenbrown",
     "name": "Charles Brockden Brown Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.99989,
@@ -41211,9 +41211,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:elishakentkanememori",
     "name": "Elisha Kent Kane Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.0044,
@@ -41229,9 +41229,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:maryannalongstrethme",
     "name": "Mary Anna Longstreth Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.99798,
@@ -41247,9 +41247,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gengeorgegmeadememor",
     "name": "Gen. George G. Meade Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00343,
@@ -41265,9 +41265,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:genrobertpattersonme",
     "name": "Gen. Robert Patterson Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00064,
@@ -41283,9 +41283,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:unclaimedremainsofth",
     "name": "Unclaimed Remains of the City of Philadelphia",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00074,
@@ -41301,9 +41301,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:widenerfamilymemoria",
     "name": "Widener Family Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00059,
@@ -41319,9 +41319,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:robertralstonstewart",
     "name": "Robert Ralston Stewart Memorial ",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00443,
@@ -41337,9 +41337,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnfrancismarionmem",
     "name": "John Francis Marion Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00346,
@@ -41355,9 +41355,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamjmullenmemori",
     "name": "William J. Mullen Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.99899,
@@ -41373,9 +41373,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:alexanderizelenetski",
     "name": "Alexander I. Zelenetskii Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00249,
@@ -41391,9 +41391,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mercycarlislememoria",
     "name": "Mercy Carlisle Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00361,
@@ -41409,9 +41409,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:charlesevansantmemor",
     "name": "Charles E. Vansant Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.9983,
@@ -41427,9 +41427,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:adrianbalboapauliepe",
     "name": "Adrian Balboa & Paulie Pennino",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.00377,
     "lng": -75.18753,
@@ -41444,9 +41444,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:silentsentrymonument",
     "name": "Silent Sentry Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00227,
@@ -41462,9 +41462,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:henrycharlesleamemor",
     "name": "Henry Charles Lea Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00345,
@@ -41480,9 +41480,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harrykalasmemorial",
     "name": "Harry Kalas Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00374,
@@ -41498,9 +41498,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:yellowfevermonument",
     "name": "Yellow Fever Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00601,
@@ -41516,9 +41516,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ltlamontmoorememoria",
     "name": "Lt. Lamont Moore Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00571,
@@ -41534,9 +41534,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:manueltsozinhomemori",
     "name": "Manuel T. Sozinho Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00636,
@@ -41552,9 +41552,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:drmaryepenningtonmem",
     "name": "Dr. Mary E. Pennington Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00522,
@@ -41570,9 +41570,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sarahjhalememorial",
     "name": "Sarah J. Hale Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00532,
@@ -41588,9 +41588,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marthadrinnanmemoria",
     "name": "Martha Drinnan Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00523,
@@ -41606,9 +41606,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldmortalitymonument",
     "name": "Old Mortality Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00416,
@@ -41624,9 +41624,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:berwindmemorial",
     "name": "Berwind Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00063,
@@ -41642,9 +41642,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marthacostonmemorial",
     "name": "Martha Coston Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00366,
@@ -41660,9 +41660,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:genjohncliffordpembe",
     "name": "Gen. John Clifford Pemberton Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.99778,
@@ -41678,9 +41678,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:willowgrovemallcarou",
     "name": "Willow Grove Mall Carousel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.13993,
     "lng": -75.1239,
@@ -41695,9 +41695,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:8milemarker",
     "name": "8-Mile marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.01136,
@@ -41713,9 +41713,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:washingtonencampment",
     "name": "Washington Encampment 1777",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.00977,
@@ -41731,9 +41731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jenkintownsign",
     "name": "Jenkintown Sign",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.09227,
@@ -41749,9 +41749,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:911memorial",
     "name": "9/11 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.90448,
@@ -41767,9 +41767,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:flighttestmemorial",
     "name": "Flight Test Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.86612,
@@ -41785,9 +41785,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:watermanmansionsite",
     "name": "Waterman Mansion Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.08891,
@@ -41803,9 +41803,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:langstrothmillcomple",
     "name": "Langstroth Mill Complex",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.1403,
@@ -41821,9 +41821,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bonehillmill",
     "name": "Bone Hill Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.1426,
@@ -41839,9 +41839,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:joanofarc",
     "name": "Joan of Arc",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96649,
@@ -41857,9 +41857,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:helicoptermemorial",
     "name": "Helicopter Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.14555,
@@ -41875,9 +41875,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:aeromemorial",
     "name": "Aero Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.9581,
@@ -41893,9 +41893,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:buddbb1pioneeraircra",
     "name": "Budd BB-1 Pioneer Aircraft",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95849,
@@ -41911,9 +41911,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:angeloftheresurrecti",
     "name": "Angel of the Resurrection",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95566,
@@ -41929,9 +41929,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thegreatbeech",
     "name": "The Great Beech",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.07984,
     "lng": -75.23414,
@@ -41946,9 +41946,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:holidaygardenrailway",
     "name": "Holiday Garden Railway",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.08661,
     "lng": -75.22012,
@@ -41963,9 +41963,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wildworksropescourse",
     "name": "WildWorks Ropes Course",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.97379,
     "lng": -75.1952,
@@ -41980,9 +41980,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lock70",
     "name": "Lock 70",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.02262,
@@ -41998,9 +41998,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harbisonsdairymilkbo",
     "name": "Harbison's Dairy Milk Bottle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.98157,
     "lng": -75.13212,
@@ -42015,9 +42015,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gettysburgstone",
     "name": "Gettysburg Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94913,
@@ -42033,9 +42033,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kelpiuscave",
     "name": "Kelpius Cave",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 40.02403,
     "lng": -75.20141,
@@ -42050,9 +42050,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:commodoreuriahplevy",
     "name": "Commodore Uriah P. Levy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95133,
@@ -42068,9 +42068,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgeandmetaconorwo",
     "name": "George and Meta Conor-Wood Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98137,
@@ -42086,9 +42086,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lawprosperityandpowe",
     "name": "Law, Prosperity, and Power",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98444,
@@ -42104,9 +42104,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:civilwarmonument",
     "name": "Civil War Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98595,
@@ -42122,9 +42122,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chiefjusticejohnmars",
     "name": "Chief Justice John Marshall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96621,
@@ -42140,9 +42140,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:aquestforparitytheoc",
     "name": "A Quest for Parity: The Octavius V. Catto Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95187,
@@ -42158,9 +42158,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:evelyntaylorpricemem",
     "name": "Evelyn Taylor Price Memorial Sundial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95002,
@@ -42176,9 +42176,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:drjwilliamwhitememor",
     "name": "Dr. J. William White Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94927,
@@ -42194,9 +42194,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonsurveyhist",
     "name": "Mason-Dixon Survey Historical Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94093,
@@ -42212,9 +42212,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jamesagarfieldmonume",
     "name": "James A. Garfield Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.97388,
@@ -42230,9 +42230,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:discoverycenterateas",
     "name": "Discovery Center at East Park Reservoir",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.98273,
     "lng": -75.193,
@@ -42247,9 +42247,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thebijoucafe",
     "name": "The Bijou Cafe",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.94495,
@@ -42265,9 +42265,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americanbandstand",
     "name": "American Bandstand",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.95835,
     "lng": -75.21282,
@@ -42282,9 +42282,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stephengirard",
     "name": "Stephen Girard",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.92036,
@@ -42300,9 +42300,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:majorgeneraljohnfult",
     "name": "Major General John Fulton Reynolds",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.92261,
@@ -42318,9 +42318,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fortmercer",
     "name": "Fort Mercer",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.87241,
@@ -42336,9 +42336,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pennsportveteransmem",
     "name": "Pennsport Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.93096,
@@ -42354,9 +42354,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wissahickonwarmemori",
     "name": "Wissahickon War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.01682,
@@ -42372,9 +42372,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rittenhousepapermill",
     "name": "Rittenhouse Papermill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.02973,
@@ -42390,9 +42390,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:21stwardwarmemorial",
     "name": "21st Ward War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03674,
@@ -42408,9 +42408,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:buttercupcottageruin",
     "name": "Buttercup Cottage Ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.0587,
@@ -42426,9 +42426,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marketsquarewarmemor",
     "name": "Market Square War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03434,
@@ -42444,9 +42444,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:allwarsmemorialtocol",
     "name": "All Wars Memorial to Colored Soldiers and Sailors",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95834,
@@ -42462,9 +42462,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:henryhowardhoustonme",
     "name": "Henry Howard Houston Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03197,
@@ -42480,9 +42480,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americanwarmotherand",
     "name": "American War Mother and Her Sons",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03585,
@@ -42498,9 +42498,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:delawarecountyvetera",
     "name": "Delaware County Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.97843,
@@ -42516,9 +42516,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pastoriousmonument",
     "name": "Pastorious Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.0369,
@@ -42534,9 +42534,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wakefieldtenanthouse",
     "name": "Wakefield Tenant House Ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 40.03163,
@@ -42552,9 +42552,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnnyringstatue",
     "name": "Johnny Ring Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.98249,
@@ -42570,9 +42570,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:911firstrespondermem",
     "name": "9/11 First Responder Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95857,
@@ -42588,9 +42588,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:overthetop",
     "name": "Over the Top",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.96082,
@@ -42606,9 +42606,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theuniversalsphere",
     "name": "The Universal Sphere",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.95491,
     "lng": -75.16988,
@@ -42623,9 +42623,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:guglielmomarconi",
     "name": "Guglielmo Marconi",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.91544,
@@ -42641,9 +42641,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:livingflamememorial",
     "name": "Living Flame Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.95539,
@@ -42697,9 +42697,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bullrunspecialevents",
     "name": "Bull Run Special Events Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.81646,
     "lng": -77.46604,
@@ -42714,9 +42714,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:civilwarmonumentsign",
     "name": "Civil War Monument - Signal Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.7531,
@@ -42969,9 +42969,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:barrecirclehistoricd",
     "name": "Barre Circle Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28483,
@@ -42987,9 +42987,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:butchershillhistoric",
     "name": "Butchers Hill Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29177,
@@ -43005,9 +43005,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cathedralhillhistori",
     "name": "Cathedral Hill Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.294,
@@ -43023,9 +43023,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:charlesvillageabellh",
     "name": "Charles Village-Abell Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32344,
@@ -43060,9 +43060,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:federalhillhistoricd",
     "name": "Federal Hill Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27929,
@@ -43078,9 +43078,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fellspointhistoricdi",
     "name": "Fells Point Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28258,
@@ -43115,9 +43115,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldgouchercollegebui",
     "name": "Old Goucher College Buildings",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31598,
@@ -43152,9 +43152,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:armisteadmonument",
     "name": "Armistead Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28024,
@@ -43170,9 +43170,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandlinemonument",
     "name": "Maryland Line Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30565,
@@ -43188,9 +43188,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:meadowsroadbridge",
     "name": "Meadows Road Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40067,
@@ -43206,9 +43206,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:koreanwarmemorial",
     "name": "Korean War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2775,
@@ -43224,9 +43224,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofnorthpoint",
     "name": "Battle of North Point",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.27903,
@@ -43242,9 +43242,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:edmundswell",
     "name": "Edmunds Well",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3221,
@@ -43260,9 +43260,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:garrettbridge",
     "name": "Garrett Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32567,
@@ -43278,9 +43278,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:morrisfountain",
     "name": "Morris Fountain",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32543,
@@ -43296,9 +43296,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:silverspringsite",
     "name": "Silver Spring (Site)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32612,
@@ -43314,9 +43314,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:martinluthermonument",
     "name": "Martin Luther Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32762,
@@ -43332,9 +43332,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:policememorial",
     "name": "Police Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40012,
@@ -43350,9 +43350,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:firememorial",
     "name": "Fire Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40083,
@@ -43368,9 +43368,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:spanishamericanwarme",
     "name": "Spanish-American War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29459,
@@ -43386,9 +43386,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fallswayfountain",
     "name": "Fallsway Fountain",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30333,
@@ -43404,9 +43404,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:methodistmeetinghous",
     "name": "Methodist Meeting House Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2819,
@@ -43422,9 +43422,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baltimorecityfratern",
     "name": "Baltimore City Fraternal Order of Police Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29041,
@@ -43440,9 +43440,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:watsonmonument",
     "name": "Watson Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31104,
@@ -43458,9 +43458,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:simnbolvar",
     "name": "Simón Bolívar",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.34353,
@@ -43476,9 +43476,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goldstarmothersmemor",
     "name": "Gold Star Mothers Memorial Flagstaff",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.287,
@@ -43494,9 +43494,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:samuelsmithmonument",
     "name": "Samuel Smith Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2802,
@@ -43512,9 +43512,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:vietnamveteransmemor",
     "name": "Vietnam Veterans Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4007,
@@ -43530,9 +43530,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:furnace",
     "name": "Furnace",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45069,
@@ -43548,9 +43548,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:camdenyardsmemorialw",
     "name": "Camden Yards Memorial Wall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28203,
@@ -43566,9 +43566,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chapinaharrisbust",
     "name": "Chapin A. Harris Bust",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32483,
@@ -43584,9 +43584,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:remingtonwymanservic",
     "name": "Remington-Wyman Servicemen Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32669,
@@ -43602,9 +43602,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sidneylaniermonument",
     "name": "Sidney Lanier Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33123,
@@ -43620,9 +43620,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamwallacemonume",
     "name": "William Wallace Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31736,
@@ -43638,9 +43638,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:richardwagnermemoria",
     "name": "Richard Wagner Memorial Bust",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32133,
@@ -43656,9 +43656,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pulaskimonument",
     "name": "Pulaski Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28717,
@@ -43674,9 +43674,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:starspangledbannerce",
     "name": "Star Spangled Banner Centennial Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28994,
@@ -43692,9 +43692,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:taurusstatueremnant",
     "name": "Taurus Statue Remnant",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29057,
@@ -43710,9 +43710,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wheelmonument",
     "name": "Wheel Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28147,
@@ -43728,9 +43728,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:towsontigerstatue",
     "name": "Towson Tiger Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39241,
@@ -43746,9 +43746,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williamdonaldshaefer",
     "name": "William Donald Shaefer Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28435,
@@ -43764,9 +43764,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columbusobelisk",
     "name": "Columbus Obelisk",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33634,
@@ -43782,9 +43782,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thepassage",
     "name": "The Passage",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40037,
@@ -43800,9 +43800,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harryjeanetteweinber",
     "name": "Harry & Jeanette Weinberg",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29301,
@@ -43818,9 +43818,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalkatymemorial",
     "name": "National Katyń Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28318,
@@ -43836,9 +43836,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:billieholidaymonumen",
     "name": "Billie Holiday Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30118,
@@ -43854,9 +43854,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:homelessofbaltimorec",
     "name": "Homeless of Baltimore County",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.401,
@@ -43872,9 +43872,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cornerstone",
     "name": "Cornerstone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.49505,
@@ -43890,9 +43890,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:northamptonfurnace",
     "name": "Northampton Furnace",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.43658,
     "lng": -76.58821,
@@ -43907,9 +43907,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:blacksoldiersstatue",
     "name": "Black Soldiers Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29091,
@@ -43925,9 +43925,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:severnteacklewallism",
     "name": "Severn Teackle Wallis Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29759,
@@ -43943,9 +43943,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgepeabodymonumen",
     "name": "George Peabody Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29756,
@@ -43961,9 +43961,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marquisdelafayettemo",
     "name": "Marquis de Lafayette Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29721,
@@ -43979,9 +43979,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johneagerhowardmonum",
     "name": "John Eager Howard Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2984,
@@ -43997,9 +43997,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgewashingtonbice",
     "name": "George Washington Bicentennial Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29422,
@@ -44015,9 +44015,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:limekiln",
     "name": "Lime Kiln",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50707,
@@ -44033,9 +44033,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hammanncostinwwimeda",
     "name": "Hammann-Costin WWI Medal of Honor Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.3046,
@@ -44051,9 +44051,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:columbusmonument",
     "name": "Columbus Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31942,
@@ -44069,9 +44069,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandspacegrantob",
     "name": "Maryland Space Grant Observatory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33179,
@@ -44087,9 +44087,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:orlinskygrovemarker",
     "name": "Orlinsky Grove Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32639,
@@ -44105,9 +44105,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dumbartonfarmpillar",
     "name": "Dumbarton Farm Pillar",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.37578,
     "lng": -76.61923,
@@ -44122,9 +44122,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fountainatcharlespla",
     "name": "Fountain at Charles Plaza",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.29064,
     "lng": -76.61602,
@@ -44139,9 +44139,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnmifflinhoodmonum",
     "name": "John Mifflin Hood Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29267,
@@ -44157,9 +44157,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:josmartmonument",
     "name": "José Martí Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29411,
@@ -44175,9 +44175,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fountainatcharlescen",
     "name": "Fountain at Charles Center",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.29063,
     "lng": -76.61561,
@@ -44192,9 +44192,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shieldofbaltimorecit",
     "name": "Shield of Baltimore City",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.29097,
     "lng": -76.6162,
@@ -44209,9 +44209,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountainpassspring",
     "name": "Mountain Pass Spring",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32639,
@@ -44227,9 +44227,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jameslridgelymonumen",
     "name": "James L. Ridgely Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29604,
@@ -44245,9 +44245,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:koreavietnamwarmemor",
     "name": "Korea-Vietnam War Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30886,
@@ -44263,9 +44263,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lestweforget",
     "name": "Lest We Forget",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30885,
@@ -44281,9 +44281,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:operationenduringfre",
     "name": "Operation Enduring Freedom Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4007,
@@ -44299,9 +44299,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stoneno4",
     "name": "Stone No. 4",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60196,
@@ -44317,9 +44317,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stoneno2",
     "name": "Stone No. 2",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.54538,
@@ -44335,9 +44335,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stoneno3",
     "name": "Stone No. 3",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57421,
@@ -44353,9 +44353,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:southwestcornerofthe",
     "name": "Southwest corner of the main arch of the Westminster Turnpike Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48953,
@@ -44371,9 +44371,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stoneno1",
     "name": "Stone No. 1",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51744,
@@ -44389,9 +44389,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thegoodshepherd",
     "name": "The Good Shepherd",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32801,
@@ -44407,9 +44407,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baltimorecityfirefig",
     "name": "Baltimore City Fire Fighters Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29146,
@@ -44425,9 +44425,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fortholabirdmemorial",
     "name": "Fort Holabird Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26497,
@@ -44443,9 +44443,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:warof1812bombrack",
     "name": "War of 1812 Bomb & Rack",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28887,
@@ -44461,9 +44461,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:latrobemonument",
     "name": "Latrobe Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29172,
@@ -44479,9 +44479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomaswildeymonument",
     "name": "Thomas Wildey Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.29328,
@@ -44497,9 +44497,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:boyslatinathletichal",
     "name": "Boys' Latin Athletic Hall of Fame Plaque",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37288,
@@ -44515,9 +44515,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lebrunscoachesfieldp",
     "name": "Lebrun's Coaches Field Plaque",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37194,
@@ -44533,9 +44533,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:boyslatinlacrossenat",
     "name": "Boys' Latin lacrosse national championship years",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37255,
@@ -44551,9 +44551,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historyplaquesofwinn",
     "name": "History Plaques of Winners",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28418,
@@ -44569,9 +44569,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:caldwellfield",
     "name": "Caldwell Field",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28327,
@@ -44587,9 +44587,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theunitywall",
     "name": "The Unity Wall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31231,
@@ -44605,9 +44605,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:calripkensenior",
     "name": "Cal Ripken Senior",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32944,
@@ -44623,9 +44623,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialfieldatthey",
     "name": "Memorial Field at the Y",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32946,
@@ -44641,9 +44641,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:conradinkreutzermonu",
     "name": "Conradin Kreutzer Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28828,
@@ -44659,9 +44659,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rogersbastioncannon",
     "name": "Rogers Bastion Cannon",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28986,
@@ -44677,9 +44677,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baltimoreharrisburge",
     "name": "Baltimore-Harrisburg Expressway",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42423,
@@ -44695,9 +44695,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thirdandlastcountyal",
     "name": "Third and Last County Almshouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46015,
@@ -44713,9 +44713,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:defenderstrailsign",
     "name": "Defender's Trail Sign",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28341,
@@ -44731,9 +44731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mapaoverpass",
     "name": "Ma & Pa Overpass",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39848,
@@ -44749,9 +44749,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fellspoint",
     "name": "Fells Point",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28199,
@@ -44767,9 +44767,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:americanpsychoanalyt",
     "name": "American Psychoanalytic Association",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.2983,
@@ -44785,9 +44785,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kellyavebridge",
     "name": "Kelly Ave Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36718,
@@ -44803,9 +44803,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fortgarrison",
     "name": "Fort Garrison",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.399,
@@ -44821,9 +44821,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rodgersbastion",
     "name": "Rodgers Bastion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.28986,
@@ -44839,9 +44839,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:guthmemorialgateway",
     "name": "Guth Memorial Gateway",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40907,
@@ -44857,9 +44857,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomaspalermo",
     "name": "Thomas Palermo",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36691,
@@ -44875,9 +44875,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chrisstrail",
     "name": "Chris's Trail",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.467,
@@ -44893,9 +44893,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lochravenreservoirwa",
     "name": "Loch Raven Reservoir Watershed Corner",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47363,
@@ -44911,9 +44911,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:established1926",
     "name": "Established 1926",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39692,
@@ -44929,9 +44929,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harveyjburnsjrmemori",
     "name": "Harvey J. Burns, Jr. Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.31997,
@@ -44947,9 +44947,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:homewood",
     "name": "Homewood",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32949,
@@ -44965,9 +44965,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rowlandcirclespectro",
     "name": "Rowland Circle Spectrograph",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33153,
@@ -45091,9 +45091,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:clydetolson",
     "name": "Clyde Tolson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88138,
@@ -45109,9 +45109,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hooverfamily",
     "name": "Hoover family",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88172,
@@ -45127,9 +45127,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:peterpitchlynn",
     "name": "Peter Pitchlynn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87998,
@@ -45145,9 +45145,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnphilipsousa",
     "name": "John Philip Sousa",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88122,
@@ -45163,9 +45163,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:theward6september11m",
     "name": "The Ward 6 September 11 Memorial Grove",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88008,
@@ -45181,9 +45181,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jessewilliams",
     "name": "Jesse Williams",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88045,
@@ -45199,9 +45199,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:edwinmacgrotty",
     "name": "Edwin MacGrotty",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88019,
@@ -45217,9 +45217,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:belvalockwood",
     "name": "Belva Lockwood",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.87993,
@@ -45235,9 +45235,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnccalhoun",
     "name": "John C. Calhoun",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88146,
@@ -45253,9 +45253,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnquincyadams",
     "name": "John Quincy Adams",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88186,
@@ -45271,9 +45271,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nicholasbegich",
     "name": "Nicholas Begich",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88169,
@@ -45289,9 +45289,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:henryclay",
     "name": "Henry Clay",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88149,
@@ -45307,9 +45307,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:josephnicollet",
     "name": "Joseph Nicollet",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.88244,
@@ -49927,9 +49927,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mightymidgetkitchen",
     "name": "Mighty Midget Kitchen",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.11271,
     "lng": -77.56245,
@@ -49944,9 +49944,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rumseymonument",
     "name": "Rumsey Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.43282,
@@ -50057,9 +50057,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnbrownmonument",
     "name": "John Brown Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32346,
@@ -50113,9 +50113,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:potomawayside",
     "name": "Potoma Wayside",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.32006,
     "lng": -77.71211,
@@ -50130,9 +50130,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hillsborohistoricdis",
     "name": "Hillsboro Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.19871,
@@ -50148,9 +50148,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:waterfordhistoricdis",
     "name": "Waterford Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.1876,
@@ -50166,9 +50166,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:leesburghistoricdist",
     "name": "Leesburg Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11544,
@@ -50184,9 +50184,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hawkinszouavesmonume",
     "name": "Hawkins Zouaves Monument - 9th NY",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45278,
@@ -50202,9 +50202,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mansfieldmonument",
     "name": "Mansfield Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48328,
@@ -50220,9 +50220,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:newyorkstatemonument",
     "name": "New York State Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47515,
@@ -50238,9 +50238,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:philadelphiabrigadem",
     "name": "Philadelphia Brigade Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47846,
@@ -50256,9 +50256,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:countyofloudoun",
     "name": "County of Loudoun",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11386,
@@ -50274,9 +50274,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:leesburgquarryhistor",
     "name": "Leesburg Quarry (Historical)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.10963,
@@ -50292,9 +50292,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldstonebridge",
     "name": "Old Stone Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.13954,
@@ -50310,9 +50310,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:civilwarstatue",
     "name": "Civil War Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11569,
@@ -50328,9 +50328,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwariiandkoreame",
     "name": "World War II and Korea Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11545,
@@ -50346,9 +50346,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:loudouncountycourtho",
     "name": "Loudoun County Court House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11562,
@@ -50364,9 +50364,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgecmarshall",
     "name": "George C. Marshall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.11323,
@@ -50382,9 +50382,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:edwardslandinglights",
     "name": "Edwards Landing Lights",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.11844,
     "lng": -77.52476,
@@ -50399,9 +50399,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldslaveblock",
     "name": "Old Slave Block",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45886,
@@ -50417,9 +50417,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:privatesoldiermonume",
     "name": "Private Soldier Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45915,
@@ -50435,9 +50435,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:littlehouse",
     "name": "Little House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.43101,
     "lng": -77.80409,
@@ -50452,9 +50452,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:whitesford",
     "name": "White's Ford",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.16416,
@@ -50470,9 +50470,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stumpyshollowhistori",
     "name": "Stumpy's Hollow Historical Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.54906,
@@ -50488,9 +50488,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:captainjohnkearney",
     "name": "Captain John Kearney",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45196,
@@ -50506,9 +50506,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:adamstephenmonument",
     "name": "Adam Stephen Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44988,
@@ -50524,9 +50524,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fortjohnston",
     "name": "Fort Johnston",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.12914,
@@ -50542,9 +50542,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:16thct",
     "name": "16th CT",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44793,
@@ -50560,9 +50560,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11thoh",
     "name": "11th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45196,
@@ -50578,9 +50578,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:irishbrigademonument",
     "name": "Irish Brigade Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46942,
@@ -50596,9 +50596,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:georgiastatemonument",
     "name": "Georgia State Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48092,
@@ -50614,9 +50614,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11thms",
     "name": "11th MS",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48087,
@@ -50632,9 +50632,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:104thny",
     "name": "104th NY",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4811,
@@ -50650,9 +50650,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:128thpa",
     "name": "128th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4811,
@@ -50668,9 +50668,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:137thpa",
     "name": "137th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48112,
@@ -50686,9 +50686,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:90thpa",
     "name": "90th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.481,
@@ -50704,9 +50704,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:27thin",
     "name": "27th IN",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48115,
@@ -50722,9 +50722,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stmdlightartilleryb",
     "name": "1st MD Light Artillery Battery B",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48116,
@@ -50740,9 +50740,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stnewjerseybrigade",
     "name": "1st New Jersey Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48122,
@@ -50758,9 +50758,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5th7thand66thoh",
     "name": "5th, 7th and 66th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47535,
@@ -50776,9 +50776,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:34thny",
     "name": "34th NY",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47533,
@@ -50794,9 +50794,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:purnelllegion",
     "name": "Purnell Legion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47523,
@@ -50812,9 +50812,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:125thpa",
     "name": "125th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47524,
@@ -50830,9 +50830,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:13thnj",
     "name": "13th NJ",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47521,
@@ -50848,9 +50848,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mclawsdivision",
     "name": "Mclaws Division",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47508,
@@ -50866,9 +50866,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ransomsbrigade",
     "name": "Ransom’s Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47726,
@@ -50884,9 +50884,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:earlysbrigade",
     "name": "Early’s Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47741,
@@ -50902,9 +50902,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ltcoljohnlemuelstets",
     "name": "Lt. Col John Lemuel Stetson Killed Here - 59th NY",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47766,
@@ -50920,9 +50920,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:15thma",
     "name": "15th MA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47846,
@@ -50938,9 +50938,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:59thnewyork",
     "name": "59th New York",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47598,
@@ -50956,9 +50956,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:19thind",
     "name": "19th Ind",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47965,
@@ -50974,9 +50974,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:massachusettsstateme",
     "name": "Massachusetts State Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4806,
@@ -50992,9 +50992,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:newjerseystatememori",
     "name": "New Jersey State Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48087,
@@ -51010,9 +51010,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:indianastatememorial",
     "name": "Indiana State Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48106,
@@ -51028,9 +51028,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:12thpa",
     "name": "12th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48083,
@@ -51046,9 +51046,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndvt",
     "name": "2nd VT",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48089,
@@ -51064,9 +51064,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:texasbrigade",
     "name": "Texas Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48084,
@@ -51082,9 +51082,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:14thbrooklyn",
     "name": "14th Brooklyn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48099,
@@ -51100,9 +51100,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:12thpacavalry",
     "name": "12th PA Cavalry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48439,
@@ -51118,9 +51118,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:14thct",
     "name": "14th CT",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47211,
@@ -51136,9 +51136,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:50thpa",
     "name": "50th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45849,
@@ -51154,9 +51154,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:14thin",
     "name": "14th IN",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47147,
@@ -51172,9 +51172,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:andersonsncbrigade",
     "name": "Anderson’s NC Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47046,
@@ -51190,9 +51190,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stmdlightartilleryb",
     "name": "1st MD Light Artillery Battery A",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47859,
@@ -51208,9 +51208,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thmd",
     "name": "5th MD",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47198,
@@ -51226,9 +51226,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:130thpa",
     "name": "130th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47148,
@@ -51244,9 +51244,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bggeorgeandersonmort",
     "name": "BG George Anderson Mortally Wounded Here",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47041,
@@ -51262,9 +51262,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hexamersnewjerseybat",
     "name": "Hexamer’s New Jersey Battery",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47849,
@@ -51280,9 +51280,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stde",
     "name": "1st DE",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47136,
@@ -51298,9 +51298,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mansfieldmortallywou",
     "name": "Mansfield Mortally Wounded Here",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.48314,
@@ -51316,9 +51316,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thmaryland",
     "name": "5th Maryland",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47143,
@@ -51334,9 +51334,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndde",
     "name": "2nd DE",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47004,
@@ -51352,9 +51352,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:8thoh",
     "name": "8th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47123,
@@ -51370,9 +51370,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:132ndpa",
     "name": "132nd PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47073,
@@ -51388,9 +51388,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:48thpa",
     "name": "48th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45096,
@@ -51406,9 +51406,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brownsvirginiabatter",
     "name": "Browns Virginia Battery",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45355,
@@ -51424,9 +51424,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:durellsbatteryd",
     "name": "Durell’s Battery D",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45108,
@@ -51442,9 +51442,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:12thoh",
     "name": "12th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44812,
@@ -51460,9 +51460,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:51stpa",
     "name": "51st PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4512,
@@ -51478,9 +51478,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:23rdohio",
     "name": "23rd Ohio",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45034,
@@ -51496,9 +51496,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:28thoh",
     "name": "28th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45306,
@@ -51514,9 +51514,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldvermontbrigade",
     "name": "Old Vermont Brigade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47269,
@@ -51532,9 +51532,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:armyofnorthernvirgin",
     "name": "Army of Northern Virginia Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46785,
@@ -51550,9 +51550,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mgisraelrichardsonme",
     "name": "MG Israel Richardson Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46958,
@@ -51568,9 +51568,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:100thpa",
     "name": "100th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45472,
@@ -51586,9 +51586,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:45thpa",
     "name": "45th PA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4548,
@@ -51604,9 +51604,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:36thoh",
     "name": "36th OH",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45395,
@@ -51622,9 +51622,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bgwilliamestarkemort",
     "name": "BG William E. Starke Mortally Wounded Here",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47837,
@@ -51640,9 +51640,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bgisaacrodmankilledh",
     "name": "BG Isaac Rodman Killed Here",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45239,
@@ -51658,9 +51658,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:30thohio",
     "name": "30th Ohio",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44885,
@@ -51676,9 +51676,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bgbranchkilledhere",
     "name": "BG Branch Killed Here",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44795,
@@ -51694,9 +51694,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cottonflourmillintak",
     "name": "Cotton/Flour Mill Intake Arches",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32107,
@@ -51712,9 +51712,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:huntfieldcommunityob",
     "name": "Huntfield Community Obelisk",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.26286,
@@ -51730,9 +51730,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stewartchapelame",
     "name": "Stewart Chapel A.M.E.",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.37765,
@@ -54271,9 +54271,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:erodedoutcropping",
     "name": "eroded outcropping",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.52025,
     "lng": -79.12189,
@@ -54288,9 +54288,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ashbyshill",
     "name": "Ashby's Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.35439,
@@ -54306,9 +54306,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:browning",
     "name": "Browning",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45352,
@@ -54324,9 +54324,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:burchinal",
     "name": "Burchinal",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47351,
@@ -54342,9 +54342,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:dawsonshill",
     "name": "Dawson's Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30896,
@@ -54360,9 +54360,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:elseyshill",
     "name": "Elsey's Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55975,
@@ -54378,9 +54378,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fikesmountainnorth",
     "name": "Fike's Mountain North",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.58325,
@@ -54396,9 +54396,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fikesmountainsouth",
     "name": "Fike's Mountain South",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57778,
@@ -54414,9 +54414,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herbertfriendridge",
     "name": "Herbert Friend Ridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.62145,
@@ -54432,9 +54432,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jereteetsridge",
     "name": "Jere Teet's Ridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.65385,
@@ -54450,9 +54450,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ldedricksridge",
     "name": "L Dedrick's Ridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.66047,
@@ -54468,9 +54468,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lauerhill",
     "name": "Lauer Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.36351,
@@ -54486,9 +54486,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:melvillefriendshill",
     "name": "Melville Friends Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.63966,
@@ -54504,9 +54504,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:miller",
     "name": "Miller",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.38792,
@@ -54522,9 +54522,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:morrisconnell",
     "name": "Morris Connell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42573,
@@ -54540,9 +54540,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:offutshill",
     "name": "Offut's Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.32258,
@@ -54558,9 +54558,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:poling",
     "name": "Poling",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.39628,
@@ -54576,9 +54576,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:reckardroad",
     "name": "Reckard Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.61449,
@@ -54594,9 +54594,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:severe",
     "name": "Severe",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44882,
@@ -54612,9 +54612,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shermanfriendshill",
     "name": "Sherman Friends Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.63144,
@@ -54630,9 +54630,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stahlshill",
     "name": "Stahl's Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.33708,
@@ -54648,9 +54648,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:strawserroad",
     "name": "Strawser Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.56715,
@@ -54666,9 +54666,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:teets",
     "name": "Teets",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.52476,
@@ -54684,9 +54684,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomasridge",
     "name": "Thomas Ridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.71437,
@@ -54702,9 +54702,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:white",
     "name": "White",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.41076,
@@ -54720,9 +54720,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:spruceforestartisanv",
     "name": "Spruce Forest Artisan Village",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.69652,
     "lng": -79.14202,
@@ -54737,9 +54737,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:pierciepaughhomestea",
     "name": "Piercie Paugh Homestead Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42254,
@@ -54755,9 +54755,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:coljamesmchenryofbal",
     "name": "Col. James McHenry of Baltimore",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.54601,
@@ -54773,9 +54773,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldcherryglademeetin",
     "name": "Old Cherry Glade Meetinghouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.60996,
     "lng": -79.26128,
@@ -54790,9 +54790,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:castlemansriverbridg",
     "name": "Castleman’s River Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.6969,
@@ -54808,9 +54808,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:casselmansbridge",
     "name": "Casselman’s Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69648,
@@ -54826,9 +54826,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:highestpointonthemar",
     "name": "Highest Point on the Maryland State Roads System",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.30149,
@@ -54844,9 +54844,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:deepcreeklakegarrett",
     "name": "Deep Creek Lake Garrett County",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51982,
@@ -54862,9 +54862,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cobblershopin1859",
     "name": "Cobbler Shop in 1859",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40798,
@@ -54880,9 +54880,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bethsgarden",
     "name": "Beth's Garden",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.40913,
@@ -55058,9 +55058,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lonaconingfurnace",
     "name": "Lonaconing Furnace",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57029,
@@ -55116,9 +55116,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:andersonchapel",
     "name": "Anderson Chapel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45929,
@@ -55134,9 +55134,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:petersburgtollhouse",
     "name": "Petersburg Tollhouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.74659,
@@ -58207,9 +58207,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:fortmulligan",
     "name": "Fort Mulligan",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.00101,
@@ -58225,9 +58225,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:senecacaverns",
     "name": "Seneca Caverns",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 38.76317,
     "lng": -79.38889,
@@ -58242,9 +58242,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ananiaspitsenbargerf",
     "name": "Ananias Pitsenbarger Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.57937,
@@ -58340,9 +58340,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:priestmill",
     "name": "Priest Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.63936,
@@ -58358,9 +58358,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1971planecrashsite",
     "name": "1971 Plane Crash Site",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.76408,
@@ -61139,9 +61139,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalfallenfirefi",
     "name": "National Fallen Firefighters Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69502,
@@ -61157,9 +61157,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:toliftanation911memo",
     "name": "To Lift a Nation 9-1-1 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69426,
@@ -61175,9 +61175,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:13thvtrandall",
     "name": "13th VT Randall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80967,
@@ -61193,9 +61193,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:106thpacurry",
     "name": "106th PA Curry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81262,
@@ -61211,9 +61211,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneralalexanderwe",
     "name": "US General Alexander Webb",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81296,
@@ -61229,9 +61229,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stpareservescokmcph",
     "name": "1st PA Reserves Co K - McPherson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8306,
@@ -61247,9 +61247,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussergeantamoshumist",
     "name": "US Sergeant Amos Humiston KIA Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.83203,
@@ -61265,9 +61265,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nationalsystemofinte",
     "name": "National System of Interstate and Defense Highways",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69159,
@@ -61283,9 +61283,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneralalexanderha",
     "name": "US General Alexander Hays",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8168,
@@ -61301,9 +61301,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:confederatesoldiersa",
     "name": "Confederate Soldiers and Sailors",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.785,
@@ -61319,9 +61319,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usbrigadiergeneralgo",
     "name": "US Brigadier General Gouverneur K. Warren(w)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7925,
@@ -61337,9 +61337,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:csarmisteadkia",
     "name": "CS Armistead KIA",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81311,
@@ -61355,9 +61355,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cshqlongstreet",
     "name": "CS HQ Longstreet",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80001,
@@ -61373,9 +61373,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:us212ndbrigadenyiris",
     "name": "US 2-1-2nd Brigade NY Irish Brigade Kelly",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79706,
@@ -61391,9 +61391,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:140thnypatrickororke",
     "name": "140th NY Patrick O'Rorke+ / Ernst",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7915,
@@ -61409,9 +61409,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneralsamuelcrawf",
     "name": "US General Samuel Crawford",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79596,
@@ -61427,9 +61427,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usmajorwilliamwells",
     "name": "US Major William Wells",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.78488,
@@ -61445,9 +61445,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11thpares40thpavolun",
     "name": "11th PA Res \"40th PA Volunteer Infantry Regiment\" Jackson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79702,
@@ -61463,9 +61463,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thnyartillerysmiths",
     "name": "4th NY Artillery “Smith’s Battery” Smith",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79208,
@@ -61481,9 +61481,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:91stpasinex",
     "name": "91st PA Sinex",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79217,
@@ -61499,9 +61499,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:99thpamoorewfritz",
     "name": "99th PA Moore(w) / Fritz",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79239,
@@ -61517,9 +61517,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneralandrewhumph",
     "name": "US General Andrew Humphreys",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80824,
@@ -61535,9 +61535,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usalbertwoolson",
     "name": "US Albert Woolson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81616,
@@ -61553,9 +61553,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cshq2ndcorpsewell",
     "name": "CS HQ 2nd Corps Ewell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.83116,
@@ -61571,9 +61571,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneraljohngibbon",
     "name": "US General John Gibbon",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81103,
@@ -61589,9 +61589,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:154thnyallen",
     "name": "154th NY Allen",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.83521,
@@ -61607,9 +61607,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kystate",
     "name": "KY State",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81973,
@@ -61625,9 +61625,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usgeneralhancockwoun",
     "name": "US General Hancock wounded",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80877,
@@ -61643,9 +61643,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rogershousemarker",
     "name": "Rogers House Marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80848,
@@ -61661,9 +61661,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:44thnyriceconner12th",
     "name": "44th NY Rice / Conner & 12th NY Ryder",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7913,
@@ -61679,9 +61679,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:alonzocushing",
     "name": "Alonzo Cushing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81315,
@@ -61697,9 +61697,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:culpbrothersmemorial",
     "name": "Culp Brothers' Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8199,
@@ -61715,9 +61715,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cshq3rdcorpaphill",
     "name": "CS HQ 3rd Corp A.P. Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81801,
@@ -61733,9 +61733,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqbrigadiergeneral",
     "name": "US HQ Brigadier General Henry Hunt",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81367,
@@ -61751,9 +61751,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq12thcorpsslocum",
     "name": "US HQ 12th Corps Slocum",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80806,
@@ -61769,9 +61769,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq6thcorpssedgwick",
     "name": "US HQ 6th Corps Sedgwick",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79767,
@@ -61787,9 +61787,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:us1stmdpotomachomebr",
     "name": "US 1st MD \"Potomac Home Brigade\" Maulsby",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81479,
@@ -61805,9 +61805,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq622ndbrigade1stv",
     "name": "US HQ 6-2-2nd Brigade \"1st Vermont Brigade\" L.A.Grant",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.78516,
@@ -61823,9 +61823,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:43rdnckenanwlewis",
     "name": "43rd NC Kenan(w) / Lewis",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81853,
@@ -61841,9 +61841,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thnhhapgood",
     "name": "5th NH Hapgood",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79504,
@@ -61859,9 +61859,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uscolstrongvincentmo",
     "name": "US Col. Strong Vincent+ mortally wounded mark",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79075,
@@ -61877,9 +61877,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:13thnjcarman",
     "name": "13th NJ Carman",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81308,
@@ -61895,9 +61895,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thmipulford",
     "name": "5th MI Pulford",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79721,
@@ -61913,9 +61913,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:17thctfowlerbrady",
     "name": "17th CT Fowler+ / Brady",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.82261,
@@ -61931,9 +61931,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marymotherofthemount",
     "name": "Mary, Mother of the Mount",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68078,
@@ -61949,9 +61949,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountstmarysmemorial",
     "name": "Mount St. Mary's Memorial for Priests",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68073,
@@ -61967,9 +61967,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mountstmaryscradleof",
     "name": "Mount St. Mary's Cradle of Bishops",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68118,
@@ -61985,9 +61985,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historicnavyshipgun",
     "name": "Historic Navy Ship Gun",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68017,
@@ -62003,9 +62003,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stjohnmarievianney",
     "name": "St. John Marie Vianney",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68018,
@@ -62021,9 +62021,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:calvaryscene",
     "name": "Calvary Scene",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.684,
@@ -62039,9 +62039,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialtothevictims",
     "name": "Memorial to the Victims of Abortion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68101,
@@ -62057,9 +62057,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:statueofcardinaljohn",
     "name": "Statue of Cardinal John Henry Newman",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68038,
@@ -62075,9 +62075,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stmotherteresaofcalc",
     "name": "St. Mother Teresa of Calcutta Statue",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68175,
@@ -62093,9 +62093,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monsignorhughjphilli",
     "name": "Monsignor Hugh J Phillips Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7084,
@@ -62111,9 +62111,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:monsignorhughjphilli",
     "name": "Monsignor Hugh J. Phillips",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68163,
@@ -62129,9 +62129,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:redmondmemorial",
     "name": "Redmond Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68118,
@@ -62147,9 +62147,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:verteransway",
     "name": "Verteran's Way",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68077,
@@ -62165,9 +62165,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnjayscully",
     "name": "John (Jay) Scully",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68123,
@@ -62183,9 +62183,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:battleofhanover",
     "name": "Battle of Hanover",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80085,
@@ -62201,9 +62201,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:15thmawardjoslin",
     "name": "15th MA Ward+ / Joslin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81079,
@@ -62219,9 +62219,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stmnmessickfarrell",
     "name": "1st MN Messick / Farrell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81056,
@@ -62237,9 +62237,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:82ndny2ndnewyorkstat",
     "name": "82nd NY “2nd New York State Militia” Huston+ / Darrow",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81041,
@@ -62255,9 +62255,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:80thny20thnysmulster",
     "name": "80th NY “20th NYSM” \"Ulster Guard“ Gates",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8101,
@@ -62273,9 +62273,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thusartillerybatter",
     "name": "5th US Artillery Battery C Weir",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81004,
@@ -62291,9 +62291,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:121stpaalexanderbidd",
     "name": "121st PA  Alexander Biddle / Chapman Biddle",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81092,
@@ -62309,9 +62309,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:19thmadevereaux",
     "name": "19th MA Devereaux",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81153,
@@ -62327,9 +62327,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:20thmareveremacywabb",
     "name": "20th MA Revere+ / Macy(w) / Abbott",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81147,
@@ -62345,9 +62345,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:7thmisteelecurtis",
     "name": "7th MI Steele+ /  Curtis",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81182,
@@ -62363,9 +62363,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:59thnythomanmcfadden",
     "name": "59th NY Thoman+ / McFadden",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81208,
@@ -62381,9 +62381,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:69thpaokanetschudydu",
     "name": "69th PA O’Kane+ / Tschudy+ / Duffy(w) / Davis",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81265,
@@ -62399,9 +62399,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:72ndpafirezouavebaxt",
     "name": "72nd PA \"Fire Zouave\" Baxter(w) / Hesser",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81302,
@@ -62417,9 +62417,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:72ndpaphiladelphiabr",
     "name": "72nd PA \"Philadelphia Brigade\" Baxter(w) / Hesser",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81292,
@@ -62435,9 +62435,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:3rdmibpiercewepierce",
     "name": "3rd MI B. Pierce(w) / E. Pierce",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80023,
@@ -62453,9 +62453,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:141stpamadill",
     "name": "141st PA Madill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8011,
@@ -62471,9 +62471,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:68thpascottlegiontip",
     "name": "68th PA “Scott Legion” Tippin / Davis",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80149,
@@ -62489,9 +62489,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:63rdpadanks",
     "name": "63rd PA Danks",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80185,
@@ -62507,9 +62507,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:10thnybatteryphilips",
     "name": "10th NY Battery Philips",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80066,
@@ -62525,9 +62525,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thmabatteryphilips",
     "name": "5th MA Battery Philips",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80058,
@@ -62543,9 +62543,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:10thusclintonw",
     "name": "10th US Clinton(w)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79495,
@@ -62561,9 +62561,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:11thusfloydjones",
     "name": "11th US Floyd-Jones",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79478,
@@ -62579,9 +62579,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:12thusdunn",
     "name": "12th US Dunn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79482,
@@ -62597,9 +62597,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:6thusbootesw",
     "name": "6th US Bootes(w)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79494,
@@ -62615,9 +62615,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thusadams",
     "name": "4th US Adams",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7952,
@@ -62633,9 +62633,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:3rdusfreedlywlay",
     "name": "3rd US Freedly(w) / Lay",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79536,
@@ -62651,9 +62651,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq3rdcorpsickleswb",
     "name": "US HQ 3rd Corp Sickles(w) / Birney",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80186,
@@ -62669,9 +62669,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemonume",
     "name": "Mason Dixon Line monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.71994,
@@ -62687,9 +62687,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:84thpaopp",
     "name": "84th PA Opp",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80821,
@@ -62705,9 +62705,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:8thpacavalrycorrie",
     "name": "8th PA Cavalry Corrie",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80851,
@@ -62723,9 +62723,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thnycavalrypruyn",
     "name": "4th NY Cavalry Pruyn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80864,
@@ -62741,9 +62741,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2thnycavalryharhaus",
     "name": "2th NY Cavalry Harhaus",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80884,
@@ -62759,9 +62759,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq2ndcorpshancockw",
     "name": "US HQ 2nd Corps Hancock(w) / Gibbon(w) / Hays",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80841,
@@ -62777,9 +62777,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqcavalrycorpsplea",
     "name": "US HQ Cavalry Corps Pleasanton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80815,
@@ -62795,9 +62795,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:15thnyengineerscassi",
     "name": "15th NY Engineers Cassin & 50th NY Engineers Pettes",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80824,
@@ -62813,9 +62813,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqengineerbrigadeb",
     "name": "US HQ Engineer Brigade Benham",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80819,
@@ -62831,9 +62831,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:usbattalionofenginee",
     "name": "US Battalion of Engineers Mendell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80817,
@@ -62849,9 +62849,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq1stcorpsdoubleda",
     "name": "US HQ 1st Corps Doubleday(w) / Newton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8078,
@@ -62867,9 +62867,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq1stcavalryartill",
     "name": "US HQ 1st Cavalry Artillery Brigade Robertson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80802,
@@ -62885,9 +62885,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndusartillerybatter",
     "name": "2nd US Artillery Battery B & L Heaton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.808,
@@ -62903,9 +62903,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stohcavalrycoajones",
     "name": "1st OH Cavalry Co A Jones & Co C Stanford",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8084,
@@ -62921,9 +62921,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stwvcavalryrichmond",
     "name": "1st WV Cavalry Richmond",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80871,
@@ -62939,9 +62939,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:nhsharpshooters1stre",
     "name": "NH Sharpshooters 1st Reg Berdan / Trepp & 2nd Reg Stoughton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80813,
@@ -62957,9 +62957,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:17stmemerrill",
     "name": "17st ME Merrill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80794,
@@ -62975,9 +62975,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:9thmiartillerybatter",
     "name": "9th MI Artillery Battery Daniels",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80781,
@@ -62993,9 +62993,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq1stregularbrigad",
     "name": "US HQ 1st Regular Brigade Artillery Reserve Ransom",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80769,
@@ -63011,9 +63011,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thusartillerybatter",
     "name": "4th US Artillery Battery C “Thomas’ Battery” Thomas",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80754,
@@ -63029,9 +63029,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:palightartillerybatt",
     "name": "PA Light Artillery Battery C & F Thompson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8073,
@@ -63047,9 +63047,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:njartillerybatteryah",
     "name": "NJ Artillery Battery A “Hexamer’s Battery” Parsons",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80755,
@@ -63065,9 +63065,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hqus133rdbrigadeseco",
     "name": "HQ US 1-3-3rd Brigade “Second Vermont Brigade” Stannard",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8093,
@@ -63083,9 +63083,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:14thvtnicholls",
     "name": "14th VT Nicholls",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80883,
@@ -63101,9 +63101,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:16thvtveazey",
     "name": "16th VT Veazey",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80908,
@@ -63119,9 +63119,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:124thnytheorangeblos",
     "name": "124th NY “The Orange Blossoms” van Horne Ellis+ / Cummins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80868,
@@ -63137,9 +63137,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:71stpacaliforniaregi",
     "name": "71st PA “California Regiment” Smith",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81337,
@@ -63155,9 +63155,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:3rdusartillerybatter",
     "name": "3rd US Artillery Battery F & K Trunbull",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81425,
@@ -63173,9 +63173,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:10thnynationalzouave",
     "name": "10th NY “National Zouaves” Hopper",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81427,
@@ -63191,9 +63191,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndpacavalryprice",
     "name": "2nd PA Cavalry Price",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81433,
@@ -63209,9 +63209,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stmasharpshooterspl",
     "name": "1st MA Sharpshooters Plumer",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81696,
@@ -63227,9 +63227,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:8thusinfregread",
     "name": "8th US Inf Reg Read",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81466,
@@ -63245,9 +63245,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oneidanycavalrymann",
     "name": "Oneida NY Cavalry Mann",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81467,
@@ -63263,9 +63263,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:6thpacavalryrushslan",
     "name": "6th PA Cavalry “Rush’s Lancers” Co E & I Haseltine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81469,
@@ -63281,9 +63281,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:93rdnybutler",
     "name": "93rd NY Butler",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81468,
@@ -63299,9 +63299,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:6thnyartillerybatter",
     "name": "6th NY Artillery Battery Martin",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81555,
@@ -63317,9 +63317,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:12thmawebstersregime",
     "name": "12th MA \"Webster's Regiment\" Bates(w) / Allen",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81721,
@@ -63335,9 +63335,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:3rdnyartillerybatter",
     "name": "3rd NY Artillery Battery Harn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81671,
@@ -63353,9 +63353,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqgeneralgeorgemea",
     "name": "US HQ General George Meade",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.81449,
@@ -63371,9 +63371,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqartilleryreserve",
     "name": "US HQ Artillery Reserve Tyler",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8077,
@@ -63389,9 +63389,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:88thpafoustwmasscwhi",
     "name": "88th PA Foust(w) / Mass(c) / Whiteside July 2nd 1863 pos marker",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80652,
@@ -63407,9 +63407,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:90thpalylesellers",
     "name": "90th PA Lyle / Sellers",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80631,
@@ -63425,9 +63425,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stpalightartilleryb",
     "name": "1st PA Light Artillery Battery B “Cooper’s Battery” Cooper",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80616,
@@ -63443,9 +63443,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5thmaartillerybatter",
     "name": "5th MA Artillery Battery Philips",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80575,
@@ -63461,9 +63461,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:148thpamckeenmcfarla",
     "name": "148th PA McKeen / McFarlane",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80549,
@@ -63479,9 +63479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:15thnylightartillery",
     "name": "15th NY Light Artillery Battery Hart(w) / Knox(w)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80524,
@@ -63497,9 +63497,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndnjartilleryclarks",
     "name": "2nd NJ Artillery “Clark’s Battery” Clark",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80427,
@@ -63515,9 +63515,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushqartilleryreserve",
     "name": "US HQ Artillery Reserve 1st Brigade McGilvery",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80402,
@@ -63533,9 +63533,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:2ndctartillerysterli",
     "name": "2nd CT Artillery “Sterling’s Battery” Sterling",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80377,
@@ -63551,9 +63551,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:6thmeartillerydowsba",
     "name": "6th ME Artillery “Dow’s Battery” Dow",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.8033,
@@ -63569,9 +63569,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stnyartillerybatter",
     "name": "1st NY Artillery Battery G “Ames’ Battery” Ames",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80287,
@@ -63587,9 +63587,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thpacavalrydoster",
     "name": "4th PA Cavalry Doster",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80476,
@@ -63605,9 +63605,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:uscavalrycorps3rdpah",
     "name": "US Cavalry Corps 3rd PA Heavy Artillery Battery H Rank",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80474,
@@ -63623,9 +63623,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:revwilliamcorby",
     "name": "Rev. William Corby",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80345,
@@ -63641,9 +63641,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq12nddivisionrobi",
     "name": "US HQ 1-2nd Division Robinson",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.80546,
@@ -63659,9 +63659,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:20thmechamberlain",
     "name": "20th ME Chamberlain",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.78945,
@@ -63677,9 +63677,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:20thmecobmorrill",
     "name": "20th ME Co B Morrill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.78912,
@@ -63695,9 +63695,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:9thpareserves38thpai",
     "name": "9th PA Reserves \"38th PA Infantry Reg\" Snodgrass",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.78976,
@@ -63713,9 +63713,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ushq513rdbrigadestro",
     "name": "US HQ 5-1-3rd Brigade Strong Vincent+ / Rice",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79093,
@@ -63731,9 +63731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:16thmiwelch",
     "name": "16th MI Welch",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.7912,
@@ -63749,9 +63749,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1stand2ndusregmishar",
     "name": "1st and 2nd US Reg MI Sharpshooters Berdan / Stoughton",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79133,
@@ -63767,9 +63767,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:40thnymozartregegan",
     "name": "40th NY “Mozart Reg” Egan",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79243,
@@ -63785,9 +63785,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:4thmewalkerwwhitcomb",
     "name": "4th ME Walker(w) / Whitcomb+ / Libby",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.79191,
@@ -64347,9 +64347,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:makemiemonument",
     "name": "Makemie Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.93269,
@@ -64365,9 +64365,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lookouttower",
     "name": "Lookout Tower",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.86376,
@@ -64383,9 +64383,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lockheedt33",
     "name": "Lockheed T-33",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.06653,
@@ -64401,9 +64401,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chincoteagueislandwa",
     "name": "Chincoteague Island Waterman's Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.90094,
@@ -64419,9 +64419,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:crossingthebar",
     "name": "Crossing the Bar",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.90083,
@@ -64437,9 +64437,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ssmarineelectric",
     "name": "SS Marine Electric",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.90084,
@@ -64455,9 +64455,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lifesavingstation",
     "name": "Life-Saving Station",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.19888,
@@ -64473,9 +64473,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:islandtheatre",
     "name": "Island Theatre",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 37.93385,
@@ -65361,9 +65361,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:colorameetinghouse",
     "name": "Colora Meetinghouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.67594,
@@ -65436,9 +65436,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:finneyhouseshistoric",
     "name": "Finney Houses Historic District",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.56011,
@@ -65492,9 +65492,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemarker",
     "name": "Mason Dixon Line Marker Arc Stone 5",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.66516,
@@ -65510,9 +65510,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemarker",
     "name": "Mason Dixon Line Marker Arc Stone 3",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.65979,
@@ -65528,9 +65528,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemarker",
     "name": "Mason Dixon Line Marker Arc Stone 4",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.6633,
@@ -65546,9 +65546,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemarker",
     "name": "Mason Dixon Line Marker Arc Stone 2",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.65971,
@@ -65564,9 +65564,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:masondixonlinemarker",
     "name": "Mason Dixon Line Marker - Prismatic Stone",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.67039,
@@ -65582,9 +65582,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:concordpointlighthou",
     "name": "Concord Point Lighthouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.54071,
@@ -65600,9 +65600,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lafayette",
     "name": "Lafayette",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55182,
@@ -65618,9 +65618,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:icestorage",
     "name": "Ice Storage",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57152,
@@ -65636,9 +65636,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herrspotatochipfacto",
     "name": "Herrs Potato Chip Factory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird"
+      "gems"
     ],
     "lat": 39.74599,
     "lng": -76.01984,
@@ -65653,9 +65653,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:marylandwomeninmilit",
     "name": "Maryland Women in Military Service Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.61172,
@@ -65671,9 +65671,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hillsidemine",
     "name": "Hillside Mine",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.72838,
@@ -65689,9 +65689,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:constantfriendship",
     "name": "\"Constant Friendship\"",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47039,
@@ -65707,9 +65707,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sophiasdairy",
     "name": "Sophia's Dairy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4719,
@@ -65725,9 +65725,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thisisasectionoftheg",
     "name": "This is a Section of “The General’s Highway”",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50966,
@@ -65743,9 +65743,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:havredegraceracetrac",
     "name": "Havre de Grace Racetrack",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53693,
@@ -65761,9 +65761,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:linkingallsootherssu",
     "name": "Linking All So Others Succeed, Inc.",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53501,
@@ -65779,9 +65779,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:goldstarfamiliesmemo",
     "name": "Gold Star Families Memorial Monument",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5398,
@@ -65797,9 +65797,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:1954110mmt74howitzer",
     "name": "1954 110mm T74 Howitzer",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51318,
@@ -65815,9 +65815,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thehayshouse",
     "name": "The Hays House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53246,
@@ -65833,9 +65833,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:govwilliampaca",
     "name": "Gov. William Paca",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44943,
@@ -65851,9 +65851,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:harfordtownorbush",
     "name": "Harford Town or Bush",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47176,
@@ -65869,9 +65869,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thebushdeclarationha",
     "name": "\"The Bush Declaration\" Harford Town",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47246,
@@ -65887,9 +65887,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:jimmyhanswild",
     "name": "Jimmy Hans Wild",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69956,
@@ -65905,9 +65905,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:susquehannarivercros",
     "name": "Susquehanna River Crossing",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55202,
@@ -65923,9 +65923,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rochambeauplaza",
     "name": "Rochambeau Plaza",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5495,
@@ -65941,9 +65941,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baldfriarroadferry",
     "name": "Bald Friar Road & Ferry",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.6991,
@@ -65959,9 +65959,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:easternairlinesfligh",
     "name": "Eastern Airlines Flight 605 Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.61416,
@@ -65977,9 +65977,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westnottinghamacadem",
     "name": "West Nottingham Academy",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.66985,
@@ -65995,9 +65995,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bainbridge",
     "name": "Bainbridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60109,
@@ -66013,9 +66013,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bainbridgememorial",
     "name": "Bainbridge Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60146,
@@ -66031,9 +66031,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:vfwmemorial",
     "name": "VFW Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60113,
@@ -66049,9 +66049,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:havredegrace",
     "name": "Havre de Grace",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.54068,
@@ -66067,9 +66067,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rockrunmill",
     "name": "Rock Run Mill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.61397,
@@ -66085,9 +66085,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:johnajcreswell",
     "name": "John A.J. Creswell",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.605,
@@ -66103,9 +66103,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:snowsbattery",
     "name": "Snow's Battery",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60401,
@@ -66121,9 +66121,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:brownbrownyoung",
     "name": "Brown, Brown & Young",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53458,
@@ -66139,9 +66139,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:medicalhall",
     "name": "Medical Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55523,
@@ -66157,9 +66157,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:built1898liriodendro",
     "name": "Built 1898 Liriodendron",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53856,
@@ -66175,9 +66175,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:colonyofmaryland",
     "name": "Colony of Maryland",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.49678,
@@ -66193,9 +66193,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mapaheritagetraildog",
     "name": "Ma & Pa Heritage Trail Dog Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.52329,
@@ -66211,9 +66211,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stateofmaryland",
     "name": "State of Maryland",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.49724,
@@ -66229,9 +66229,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:aberdeenprovinggroun",
     "name": "Aberdeen Proving Ground Workers Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51102,
@@ -66247,9 +66247,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thelockhouse",
     "name": "The Lock House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55611,
@@ -66265,9 +66265,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thelafayettetrail",
     "name": "The Lafayette Trail",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55598,
@@ -66283,9 +66283,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:whiskeystillsite1930",
     "name": "Whiskey Still Site (1930s)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.6928,
@@ -66301,9 +66301,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hamiltonruins1870s",
     "name": "Hamilton Ruins (1870s)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.70238,
@@ -66319,9 +66319,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:whitefordfarmhouse18",
     "name": "Whiteford Farm House (1885)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.70186,
@@ -66337,9 +66337,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:timmonslodgeruins",
     "name": "Timmons Lodge Ruins",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.67957,
@@ -66355,9 +66355,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:manorhouse",
     "name": "Manor House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.68725,
@@ -66373,9 +66373,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:gilpinsfallscoveredb",
     "name": "Gilpin's Falls Covered Bridge",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.64872,
@@ -66391,9 +66391,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:indianspring",
     "name": "Indian Spring",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.61059,
@@ -66409,9 +66409,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:oldpostroadestablish",
     "name": "Old Post Road - Established 1666 - Cokesbury College",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46128,
@@ -66427,9 +66427,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:5m20ftzoomtopanoldpo",
     "name": "5 m 20 ft    Zoom to  Pan Old Post Road - Established 1666 - Gov. William Paca",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44937,
@@ -66445,9 +66445,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:aberdeenprovinggroun",
     "name": "Aberdeen Proving Ground Memorial",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51111,
@@ -66463,9 +66463,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:railroadwatchmensshe",
     "name": "Railroad Watchmen’s Shed",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51127,
@@ -66481,9 +66481,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:aberdeencentennialti",
     "name": "Aberdeen Centennial Time Capsule",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51116,
@@ -66499,9 +66499,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:siteofchapelofease",
     "name": "Site of Chapel-of-Ease",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.63325,
@@ -66517,9 +66517,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mcdaniellane",
     "name": "McDaniel Lane",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.58432,
@@ -66535,9 +66535,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:westlewisshoreroad",
     "name": "West Lewis Shore Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57333,
@@ -66553,9 +66553,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:eastlewisshoreroad",
     "name": "East Lewis Shore Road",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57376,
@@ -66571,9 +66571,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:liriodendronmansion",
     "name": "Liriodendron Mansion",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.5342,
@@ -66589,9 +66589,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bfhansonhouse",
     "name": "B.F. Hanson House",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.42785,
@@ -66946,9 +66946,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ironhillmuseum",
     "name": "Iron Hill Museum",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.63155,
@@ -66984,9 +66984,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ottschapel",
     "name": "Ott's Chapel",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.63411,
@@ -67002,9 +67002,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:implementshed",
     "name": "implement shed",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55637,
@@ -67020,9 +67020,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:smokehouse",
     "name": "smokehouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.556,
@@ -67038,9 +67038,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cowbarn",
     "name": "cow barn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55627,
@@ -67056,9 +67056,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:poplarhall",
     "name": "Poplar Hall",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.55586,
@@ -67074,9 +67074,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lagrange",
     "name": "La Grange",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.60622,
@@ -67092,9 +67092,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:newcastleandfrenchto",
     "name": "New Castle and Frenchtown Railway",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.57455,
@@ -67110,9 +67110,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shop",
     "name": "shop",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51511,
@@ -67128,9 +67128,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stable",
     "name": "stable",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51514,
@@ -67146,9 +67146,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:govbenjamintbiggsfar",
     "name": "Gov. Benjamin T. Biggs Farmhouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.51533,
@@ -67164,9 +67164,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:choptank",
     "name": "Choptank",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.49684,
@@ -67182,9 +67182,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:choptankuponthehill",
     "name": "Choptank-upon-the-Hill",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.49669,
@@ -67200,9 +67200,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:woodside",
     "name": "Woodside",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50639,
@@ -67218,9 +67218,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:icehouse",
     "name": "icehouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50618,
@@ -67236,9 +67236,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:granary",
     "name": "granary",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.50632,
@@ -67254,9 +67254,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sholtonfarm",
     "name": "S. Holton Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.47163,
@@ -67272,9 +67272,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:milkhouse",
     "name": "milkhouse",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.4717,
@@ -67290,9 +67290,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:cornucopia",
     "name": "Cornucopia",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.52573,
@@ -67308,9 +67308,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:hedgelawn",
     "name": "Hedgelawn",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44143,
@@ -67326,9 +67326,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:maples",
     "name": "Maples",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45494,
@@ -67344,9 +67344,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rosedale",
     "name": "Rosedale",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.45979,
@@ -67362,9 +67362,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:rumseyfarm",
     "name": "Rumsey Farm",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.44156,
@@ -67380,9 +67380,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ltgmiltonareckordarm",
     "name": "LTG Milton A. Reckord Armory",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53769,
@@ -67398,9 +67398,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bigfootcabinruins",
     "name": "Bigfoot Cabin (ruins)",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.69589,
@@ -67416,9 +67416,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:broodmarestable",
     "name": "broodmare stable",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46124,
@@ -67434,9 +67434,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:barnandstable",
     "name": "barn and stable",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.46045,
@@ -67472,9 +67472,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thehistoricalsociety",
     "name": "The Historical Society of Harford County",
-    "type": "weird",
+    "type": "gems",
     "tags": [
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 39.53865,
@@ -67497,7 +67497,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97306,
     "lng": -76.50111,
@@ -67514,7 +67514,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97389,
     "lng": -76.50556,
@@ -67531,7 +67531,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97382,
     "lng": -76.50571,
@@ -67548,7 +67548,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97879,
     "lng": -76.50561,
@@ -67565,7 +67565,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97756,
     "lng": -76.49364,
@@ -67582,7 +67582,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97814,
     "lng": -76.49336,
@@ -67599,7 +67599,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98014,
     "lng": -76.49633,
@@ -67616,7 +67616,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97489,
     "lng": -76.48989,
@@ -67633,7 +67633,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97806,
     "lng": -76.49139,
@@ -67650,7 +67650,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97725,
     "lng": -76.49017,
@@ -67667,7 +67667,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97909,
     "lng": -76.49193,
@@ -67684,7 +67684,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97733,
     "lng": -76.49006,
@@ -67701,7 +67701,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97861,
     "lng": -76.49111,
@@ -67718,7 +67718,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98167,
     "lng": -76.49694,
@@ -67735,7 +67735,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98186,
     "lng": -76.49715,
@@ -67752,7 +67752,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97889,
     "lng": -76.49111,
@@ -67769,7 +67769,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97917,
     "lng": -76.49,
@@ -67786,7 +67786,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.96028,
     "lng": -76.50306,
@@ -67803,7 +67803,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97872,
     "lng": -76.48808,
@@ -67820,7 +67820,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97667,
     "lng": -76.48639,
@@ -67837,7 +67837,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97823,
     "lng": -76.48689,
@@ -67854,7 +67854,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97961,
     "lng": -76.48786,
@@ -67871,7 +67871,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97894,
     "lng": -76.48706,
@@ -67888,7 +67888,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97931,
     "lng": -76.48722,
@@ -67905,7 +67905,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98111,
     "lng": -76.48881,
@@ -67922,7 +67922,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98153,
     "lng": -76.48933,
@@ -67939,7 +67939,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97833,
     "lng": -76.48611,
@@ -67956,7 +67956,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9852,
     "lng": -76.50142,
@@ -67973,7 +67973,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9852,
     "lng": -76.50142,
@@ -67990,7 +67990,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98094,
     "lng": -76.48839,
@@ -68007,7 +68007,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.985,
     "lng": -76.507,
@@ -68024,7 +68024,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97778,
     "lng": -76.48417,
@@ -68041,7 +68041,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98631,
     "lng": -76.50085,
@@ -68058,7 +68058,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98635,
     "lng": -76.50087,
@@ -68075,7 +68075,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9815,
     "lng": -76.48706,
@@ -68092,7 +68092,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.984,
     "lng": -76.49,
@@ -68109,7 +68109,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98109,
     "lng": -76.48592,
@@ -68126,7 +68126,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98155,
     "lng": -76.48629,
@@ -68143,7 +68143,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9786,
     "lng": -76.4838,
@@ -68160,7 +68160,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.97278,
     "lng": -76.48167,
@@ -68177,7 +68177,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9864,
     "lng": -76.49536,
@@ -68194,7 +68194,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9828,
     "lng": -76.4872,
@@ -68211,7 +68211,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2897,
     "lng": -76.6122,
@@ -68228,7 +68228,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28944,
     "lng": -76.6125,
@@ -68245,7 +68245,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29069,
     "lng": -76.61242,
@@ -68262,7 +68262,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29,
     "lng": -76.61083,
@@ -68279,7 +68279,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28917,
     "lng": -76.6125,
@@ -68296,7 +68296,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29089,
     "lng": -76.61292,
@@ -68313,7 +68313,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29083,
     "lng": -76.61306,
@@ -68330,7 +68330,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29,
     "lng": -76.61361,
@@ -68347,7 +68347,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28889,
     "lng": -76.61111,
@@ -68364,7 +68364,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28933,
     "lng": -76.61044,
@@ -68381,7 +68381,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29111,
     "lng": -76.61306,
@@ -68398,7 +68398,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28889,
     "lng": -76.61083,
@@ -68415,7 +68415,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2905,
     "lng": -76.614,
@@ -68432,7 +68432,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2898,
     "lng": -76.6141,
@@ -68449,7 +68449,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29028,
     "lng": -76.61417,
@@ -68466,7 +68466,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28861,
     "lng": -76.61056,
@@ -68483,7 +68483,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2909,
     "lng": -76.61,
@@ -68500,7 +68500,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2892,
     "lng": -76.6141,
@@ -68517,7 +68517,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28889,
     "lng": -76.61,
@@ -68534,7 +68534,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2909,
     "lng": -76.60964,
@@ -68551,7 +68551,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28956,
     "lng": -76.61466,
@@ -68568,7 +68568,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28978,
     "lng": -76.60922,
@@ -68585,7 +68585,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29191,
     "lng": -76.61063,
@@ -68602,7 +68602,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29013,
     "lng": -76.61488,
@@ -68619,7 +68619,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2889,
     "lng": -76.6148,
@@ -68636,7 +68636,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28833,
     "lng": -76.61431,
@@ -68653,7 +68653,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28778,
     "lng": -76.61333,
@@ -68670,7 +68670,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28924,
     "lng": -76.61507,
@@ -68687,7 +68687,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29131,
     "lng": -76.60922,
@@ -68704,7 +68704,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29133,
     "lng": -76.615,
@@ -68721,7 +68721,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2925,
     "lng": -76.61333,
@@ -68738,7 +68738,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2886,
     "lng": -76.6088,
@@ -68755,7 +68755,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29181,
     "lng": -76.61489,
@@ -68772,7 +68772,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29083,
     "lng": -76.61556,
@@ -68789,7 +68789,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28817,
     "lng": -76.60906,
@@ -68806,7 +68806,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29135,
     "lng": -76.61544,
@@ -68823,7 +68823,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29306,
     "lng": -76.61111,
@@ -68840,7 +68840,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28972,
     "lng": -76.61611,
@@ -68857,7 +68857,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29278,
     "lng": -76.61417,
@@ -68874,7 +68874,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.28728,
     "lng": -76.61444,
@@ -68891,7 +68891,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29333,
     "lng": -76.61111,
@@ -68908,7 +68908,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2866,
     "lng": -76.6109,
@@ -68925,7 +68925,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.39293,
     "lng": -76.71425,
@@ -68942,7 +68942,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.39176,
     "lng": -76.72268,
@@ -68959,7 +68959,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.39389,
     "lng": -76.7375,
@@ -68976,7 +68976,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.3865,
     "lng": -76.73081,
@@ -68993,7 +68993,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.38647,
     "lng": -76.73081,
@@ -69010,7 +69010,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41528,
     "lng": -76.71278,
@@ -69027,7 +69027,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.38583,
     "lng": -76.70653,
@@ -69044,7 +69044,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.38905,
     "lng": -76.73831,
@@ -69061,7 +69061,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.37693,
     "lng": -76.71026,
@@ -69078,7 +69078,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.39194,
     "lng": -76.75028,
@@ -69095,7 +69095,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.37495,
     "lng": -76.72297,
@@ -69112,7 +69112,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.3825,
     "lng": -76.69111,
@@ -69129,7 +69129,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.37192,
     "lng": -76.70936,
@@ -69146,7 +69146,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36889,
     "lng": -76.72167,
@@ -69163,7 +69163,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36944,
     "lng": -76.71057,
@@ -69180,7 +69180,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42617,
     "lng": -76.69685,
@@ -69197,7 +69197,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.3786,
     "lng": -76.68414,
@@ -69214,7 +69214,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36611,
     "lng": -76.70639,
@@ -69231,7 +69231,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40306,
     "lng": -76.67083,
@@ -69248,7 +69248,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36278,
     "lng": -76.70569,
@@ -69265,7 +69265,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41083,
     "lng": -76.67139,
@@ -69282,7 +69282,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40083,
     "lng": -76.66833,
@@ -69316,7 +69316,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41111,
     "lng": -76.6675,
@@ -69333,7 +69333,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41272,
     "lng": -76.7733,
@@ -69350,7 +69350,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36889,
     "lng": -76.68028,
@@ -69367,7 +69367,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42972,
     "lng": -76.76167,
@@ -69384,7 +69384,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36324,
     "lng": -76.68886,
@@ -69401,7 +69401,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.36324,
     "lng": -76.68886,
@@ -69418,7 +69418,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21194,
     "lng": -76.85528,
@@ -69435,7 +69435,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.22139,
     "lng": -76.8475,
@@ -69452,7 +69452,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.22227,
     "lng": -76.85571,
@@ -69469,7 +69469,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.215,
     "lng": -76.861,
@@ -69486,7 +69486,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.215,
     "lng": -76.861,
@@ -69503,7 +69503,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20892,
     "lng": -76.85849,
@@ -69520,7 +69520,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2098,
     "lng": -76.86227,
@@ -69537,7 +69537,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21222,
     "lng": -76.83639,
@@ -69554,7 +69554,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20925,
     "lng": -76.86267,
@@ -69571,7 +69571,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20361,
     "lng": -76.85694,
@@ -69588,7 +69588,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21472,
     "lng": -76.87083,
@@ -69605,7 +69605,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.22556,
     "lng": -76.86639,
@@ -69622,7 +69622,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.1975,
     "lng": -76.8525,
@@ -69639,7 +69639,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.23111,
     "lng": -76.85972,
@@ -69656,7 +69656,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.23611,
     "lng": -76.84417,
@@ -69673,7 +69673,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.19,
     "lng": -76.84306,
@@ -69690,7 +69690,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.23472,
     "lng": -76.82583,
@@ -69707,7 +69707,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.24333,
     "lng": -76.855,
@@ -69724,7 +69724,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2358,
     "lng": -76.87618,
@@ -69741,7 +69741,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.18778,
     "lng": -76.87111,
@@ -69758,7 +69758,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.1836,
     "lng": -76.8409,
@@ -69775,7 +69775,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.24528,
     "lng": -76.83472,
@@ -69792,7 +69792,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.23764,
     "lng": -76.81917,
@@ -69809,7 +69809,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.23472,
     "lng": -76.88667,
@@ -69826,7 +69826,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.18678,
     "lng": -76.82398,
@@ -69843,7 +69843,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.25056,
     "lng": -76.8425,
@@ -69860,7 +69860,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21278,
     "lng": -76.80306,
@@ -69877,7 +69877,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.18556,
     "lng": -76.82222,
@@ -69894,7 +69894,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9072,
     "lng": -77.0369,
@@ -69911,7 +69911,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90722,
     "lng": -77.03728,
@@ -69928,7 +69928,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90724,
     "lng": -77.03651,
@@ -69945,7 +69945,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90769,
     "lng": -77.03692,
@@ -69962,7 +69962,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90631,
     "lng": -77.03684,
@@ -69979,7 +69979,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90722,
     "lng": -77.03806,
@@ -69996,7 +69996,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90726,
     "lng": -77.03572,
@@ -70013,7 +70013,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90593,
     "lng": -77.03733,
@@ -70030,7 +70030,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9075,
     "lng": -77.03861,
@@ -70047,7 +70047,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9082,
     "lng": -77.0362,
@@ -70064,7 +70064,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90676,
     "lng": -77.03514,
@@ -70081,7 +70081,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90676,
     "lng": -77.03514,
@@ -70098,7 +70098,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9075,
     "lng": -77.03889,
@@ -70115,7 +70115,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90833,
     "lng": -77.03583,
@@ -70132,7 +70132,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9073,
     "lng": -77.03905,
@@ -70149,7 +70149,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90774,
     "lng": -77.03505,
@@ -70166,7 +70166,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90774,
     "lng": -77.03505,
@@ -70183,7 +70183,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90528,
     "lng": -77.03694,
@@ -70200,7 +70200,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90783,
     "lng": -77.03895,
@@ -70217,7 +70217,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90861,
     "lng": -77.03611,
@@ -70234,7 +70234,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90861,
     "lng": -77.03611,
@@ -70251,7 +70251,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90889,
     "lng": -77.03639,
@@ -70268,7 +70268,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90665,
     "lng": -77.03449,
@@ -70285,7 +70285,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9051,
     "lng": -77.0379,
@@ -70302,7 +70302,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90903,
     "lng": -77.03705,
@@ -70319,7 +70319,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90903,
     "lng": -77.03705,
@@ -70336,7 +70336,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9072,
     "lng": -77.0396,
@@ -70353,7 +70353,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90906,
     "lng": -77.03694,
@@ -70370,7 +70370,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90557,
     "lng": -77.03903,
@@ -70387,7 +70387,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90492,
     "lng": -77.03597,
@@ -70404,7 +70404,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90922,
     "lng": -77.0375,
@@ -70421,7 +70421,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90694,
     "lng": -77.04,
@@ -70438,7 +70438,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90534,
     "lng": -77.03487,
@@ -70455,7 +70455,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90534,
     "lng": -77.0392,
@@ -70472,7 +70472,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90944,
     "lng": -77.0375,
@@ -70489,7 +70489,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90808,
     "lng": -77.03986,
@@ -70506,7 +70506,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90459,
     "lng": -77.03616,
@@ -70523,7 +70523,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird",
+      "gems",
       "historic"
     ],
     "lat": 38.90611,
@@ -70541,7 +70541,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90945,
     "lng": -77.03624,
@@ -70558,7 +70558,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.905,
     "lng": -77.035,
@@ -70575,7 +70575,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90494,
     "lng": -77.03889,
@@ -70592,7 +70592,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90694,
     "lng": -77.04028,
@@ -70609,7 +70609,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90825,
     "lng": -77.03994,
@@ -70626,7 +70626,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90855,
     "lng": -77.03991,
@@ -70643,7 +70643,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08417,
     "lng": -77.15528,
@@ -70660,7 +70660,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.0825,
     "lng": -77.155,
@@ -70677,7 +70677,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.0846,
     "lng": -77.15564,
@@ -70694,7 +70694,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.0872,
     "lng": -77.1525,
@@ -70711,7 +70711,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08533,
     "lng": -77.14712,
@@ -70728,7 +70728,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08389,
     "lng": -77.16139,
@@ -70745,7 +70745,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08139,
     "lng": -77.16083,
@@ -70762,7 +70762,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08306,
     "lng": -77.16222,
@@ -70779,7 +70779,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08481,
     "lng": -77.16264,
@@ -70796,7 +70796,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08194,
     "lng": -77.13972,
@@ -70813,7 +70813,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.07583,
     "lng": -77.15944,
@@ -70830,7 +70830,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.07444,
     "lng": -77.1425,
@@ -70847,7 +70847,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.09722,
     "lng": -77.15111,
@@ -70864,7 +70864,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08639,
     "lng": -77.12917,
@@ -70881,7 +70881,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.0635,
     "lng": -77.1491,
@@ -70898,7 +70898,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.08637,
     "lng": -77.17913,
@@ -70915,7 +70915,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.09472,
     "lng": -77.17861,
@@ -70932,7 +70932,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.097,
     "lng": -77.127,
@@ -70949,7 +70949,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.0611,
     "lng": -77.12635,
@@ -70966,7 +70966,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.05111,
     "lng": -77.16333,
@@ -70983,7 +70983,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.06327,
     "lng": -77.11557,
@@ -71000,7 +71000,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.05417,
     "lng": -77.12801,
@@ -71017,7 +71017,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.1063,
     "lng": -77.1133,
@@ -71034,7 +71034,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.09556,
     "lng": -77.10528,
@@ -71051,7 +71051,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.06611,
     "lng": -77.10833,
@@ -71068,7 +71068,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.09861,
     "lng": -77.19889,
@@ -71085,7 +71085,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.09394,
     "lng": -77.20164,
@@ -71102,7 +71102,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.12124,
     "lng": -77.12939,
@@ -71119,7 +71119,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.84,
     "lng": -76.82389,
@@ -71136,7 +71136,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.81083,
     "lng": -76.86694,
@@ -71153,7 +71153,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.81083,
     "lng": -76.86694,
@@ -71170,7 +71170,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.81083,
     "lng": -76.86694,
@@ -71187,7 +71187,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8125,
     "lng": -76.81694,
@@ -71204,7 +71204,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.855,
     "lng": -76.87528,
@@ -71221,7 +71221,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8475,
     "lng": -76.88694,
@@ -71238,7 +71238,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8225,
     "lng": -76.79861,
@@ -71255,7 +71255,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.82222,
     "lng": -76.79639,
@@ -71272,7 +71272,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.80667,
     "lng": -76.89667,
@@ -71289,7 +71289,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.78583,
     "lng": -76.84278,
@@ -71306,7 +71306,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8775,
     "lng": -76.86722,
@@ -71323,7 +71323,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77889,
     "lng": -76.84278,
@@ -71340,7 +71340,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.87083,
     "lng": -76.89139,
@@ -71357,7 +71357,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.805,
     "lng": -76.79111,
@@ -71374,7 +71374,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8075,
     "lng": -76.91806,
@@ -71391,7 +71391,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88194,
     "lng": -76.81639,
@@ -71408,7 +71408,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88861,
     "lng": -76.82472,
@@ -71425,7 +71425,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.84889,
     "lng": -76.93667,
@@ -71442,7 +71442,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20688,
     "lng": -76.06521,
@@ -71459,7 +71459,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20678,
     "lng": -76.06481,
@@ -71476,7 +71476,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2075,
     "lng": -76.06389,
@@ -71493,7 +71493,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20806,
     "lng": -76.06306,
@@ -71510,7 +71510,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20667,
     "lng": -76.06333,
@@ -71527,7 +71527,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21917,
     "lng": -76.08028,
@@ -71544,7 +71544,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.21944,
     "lng": -76.08556,
@@ -71561,7 +71561,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20472,
     "lng": -76.04528,
@@ -71578,7 +71578,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.19278,
     "lng": -76.09333,
@@ -71595,7 +71595,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.20806,
     "lng": -76.03778,
@@ -71612,7 +71612,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.17833,
     "lng": -76.0575,
@@ -71629,7 +71629,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.16972,
     "lng": -76.06278,
@@ -71646,7 +71646,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.18833,
     "lng": -76.14083,
@@ -71663,7 +71663,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.27444,
     "lng": -76.09222,
@@ -71680,7 +71680,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.14611,
     "lng": -76.03278,
@@ -71697,7 +71697,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.14083,
     "lng": -76.12167,
@@ -71714,7 +71714,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.15222,
     "lng": -76.14417,
@@ -71731,7 +71731,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.12917,
     "lng": -76.09722,
@@ -71748,7 +71748,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29389,
     "lng": -76.07472,
@@ -71765,7 +71765,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.12722,
     "lng": -76.09056,
@@ -71782,7 +71782,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.29528,
     "lng": -76.06278,
@@ -71799,7 +71799,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77194,
     "lng": -76.07389,
@@ -71816,7 +71816,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77215,
     "lng": -76.07407,
@@ -71833,7 +71833,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77417,
     "lng": -76.075,
@@ -71850,7 +71850,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77444,
     "lng": -76.07472,
@@ -71867,7 +71867,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77621,
     "lng": -76.07056,
@@ -71884,7 +71884,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.76639,
     "lng": -76.07694,
@@ -71901,7 +71901,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77039,
     "lng": -76.08161,
@@ -71918,7 +71918,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.74688,
     "lng": -76.07222,
@@ -71953,7 +71953,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.76233,
     "lng": -76.11111,
@@ -71970,7 +71970,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.76639,
     "lng": -76.11833,
@@ -72004,7 +72004,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.73278,
     "lng": -76.08944,
@@ -72021,7 +72021,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79123,
     "lng": -76.02188,
@@ -72038,7 +72038,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.80417,
     "lng": -76.11833,
@@ -72055,7 +72055,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79611,
     "lng": -76.12861,
@@ -72072,7 +72072,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79472,
     "lng": -76.13028,
@@ -72089,7 +72089,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.78611,
     "lng": -76.13639,
@@ -72106,7 +72106,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79449,
     "lng": -75.97989,
@@ -72123,7 +72123,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.75361,
     "lng": -76.17611,
@@ -72140,7 +72140,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.74222,
     "lng": -76.17778,
@@ -72157,7 +72157,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.69861,
     "lng": -76.13778,
@@ -72174,7 +72174,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.42083,
     "lng": -76.09694,
@@ -72191,7 +72191,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.4279,
     "lng": -75.9798,
@@ -72208,7 +72208,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.3692,
     "lng": -76.0011,
@@ -72225,7 +72225,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.36,
     "lng": -76.0075,
@@ -72242,7 +72242,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.549,
     "lng": -76.589,
@@ -72259,7 +72259,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.55924,
     "lng": -76.59702,
@@ -72276,7 +72276,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.54,
     "lng": -76.58778,
@@ -72293,7 +72293,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.5272,
     "lng": -76.61496,
@@ -72310,7 +72310,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.54556,
     "lng": -76.635,
@@ -72327,7 +72327,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.5325,
     "lng": -76.63278,
@@ -72344,7 +72344,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.58889,
     "lng": -76.55528,
@@ -72361,7 +72361,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.49444,
     "lng": -76.59417,
@@ -72378,7 +72378,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.60278,
     "lng": -76.57028,
@@ -72412,7 +72412,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.48056,
     "lng": -76.62139,
@@ -72429,7 +72429,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.50083,
     "lng": -76.52944,
@@ -72446,7 +72446,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.47583,
     "lng": -76.59028,
@@ -72463,7 +72463,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.5175,
     "lng": -76.51333,
@@ -72480,7 +72480,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.53444,
     "lng": -76.70028,
@@ -72497,7 +72497,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.46212,
     "lng": -76.60535,
@@ -72514,7 +72514,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.47083,
     "lng": -76.54806,
@@ -72531,7 +72531,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.85,
     "lng": -77.20833,
@@ -72548,7 +72548,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.83186,
     "lng": -77.20761,
@@ -72565,7 +72565,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.82556,
     "lng": -77.21167,
@@ -72600,7 +72600,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.878,
     "lng": -77.2004,
@@ -72617,7 +72617,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.87033,
     "lng": -77.175,
@@ -72634,7 +72634,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.87861,
     "lng": -77.2025,
@@ -72651,7 +72651,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8745,
     "lng": -77.22322,
@@ -72668,7 +72668,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.87456,
     "lng": -77.22331,
@@ -72685,7 +72685,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.87417,
     "lng": -77.17361,
@@ -72702,7 +72702,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.86722,
     "lng": -77.16472,
@@ -72719,7 +72719,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.878,
     "lng": -77.231,
@@ -72736,7 +72736,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.887,
     "lng": -77.201,
@@ -72753,7 +72753,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88706,
     "lng": -77.20053,
@@ -72770,7 +72770,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88238,
     "lng": -77.17482,
@@ -72787,7 +72787,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.85513,
     "lng": -77.25063,
@@ -72804,7 +72804,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.883,
     "lng": -77.1687,
@@ -72821,7 +72821,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8755,
     "lng": -77.15778,
@@ -72838,7 +72838,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.86833,
     "lng": -77.15203,
@@ -72855,7 +72855,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88667,
     "lng": -77.17278,
@@ -72872,7 +72872,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.82083,
     "lng": -77.24028,
@@ -72889,7 +72889,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.89722,
     "lng": -77.99917,
@@ -72906,7 +72906,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90583,
     "lng": -77.99778,
@@ -72923,7 +72923,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.8725,
     "lng": -77.9975,
@@ -72940,7 +72940,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90389,
     "lng": -77.92444,
@@ -72957,7 +72957,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.95592,
     "lng": -78.02414,
@@ -72974,7 +72974,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.9021,
     "lng": -77.9187,
@@ -72991,7 +72991,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.91583,
     "lng": -77.92,
@@ -73008,7 +73008,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.83194,
     "lng": -77.99944,
@@ -73025,7 +73025,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.88868,
     "lng": -77.90338,
@@ -73042,7 +73042,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.90361,
     "lng": -77.90167,
@@ -73059,7 +73059,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.96222,
     "lng": -77.93889,
@@ -73076,7 +73076,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.96222,
     "lng": -77.93889,
@@ -73093,7 +73093,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98472,
     "lng": -77.99194,
@@ -73128,7 +73128,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.98083,
     "lng": -77.95389,
@@ -73163,7 +73163,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32345,
     "lng": -77.72989,
@@ -73180,7 +73180,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32306,
     "lng": -77.73028,
@@ -73197,7 +73197,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.3228,
     "lng": -77.7302,
@@ -73214,7 +73214,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.3226,
     "lng": -77.72777,
@@ -73231,7 +73231,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32379,
     "lng": -77.73541,
@@ -73248,7 +73248,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32372,
     "lng": -77.73542,
@@ -73265,7 +73265,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32149,
     "lng": -77.73916,
@@ -73282,7 +73282,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32415,
     "lng": -77.74106,
@@ -73299,7 +73299,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32639,
     "lng": -77.74139,
@@ -73316,7 +73316,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32,
     "lng": -77.72,
@@ -73333,7 +73333,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32556,
     "lng": -77.74694,
@@ -73350,7 +73350,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.31647,
     "lng": -77.71682,
@@ -73367,7 +73367,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32,
     "lng": -77.71,
@@ -73402,7 +73402,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.31626,
     "lng": -77.75568,
@@ -73437,7 +73437,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32361,
     "lng": -77.76139,
@@ -73454,7 +73454,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.33417,
     "lng": -77.76528,
@@ -73471,7 +73471,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.2937,
     "lng": -77.72505,
@@ -73488,7 +73488,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.34806,
     "lng": -77.69333,
@@ -73505,7 +73505,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.35333,
     "lng": -77.68889,
@@ -73522,7 +73522,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.35167,
     "lng": -77.68417,
@@ -73539,7 +73539,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.32694,
     "lng": -77.66417,
@@ -73556,7 +73556,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.37972,
     "lng": -77.71556,
@@ -73573,7 +73573,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.37472,
     "lng": -77.68417,
@@ -73590,7 +73590,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.27333,
     "lng": -77.68472,
@@ -73607,7 +73607,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.30147,
     "lng": -77.80536,
@@ -73624,7 +73624,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.415,
     "lng": -77.41,
@@ -73641,7 +73641,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41472,
     "lng": -77.41194,
@@ -73658,7 +73658,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41402,
     "lng": -77.41166,
@@ -73675,7 +73675,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41431,
     "lng": -77.41347,
@@ -73692,7 +73692,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.41667,
     "lng": -77.41472,
@@ -73709,7 +73709,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40903,
     "lng": -77.40939,
@@ -73726,7 +73726,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42056,
     "lng": -77.40694,
@@ -73743,7 +73743,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42417,
     "lng": -77.41653,
@@ -73778,7 +73778,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42722,
     "lng": -77.41056,
@@ -73795,7 +73795,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.4278,
     "lng": -77.40808,
@@ -73812,7 +73812,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40139,
     "lng": -77.41333,
@@ -73829,7 +73829,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43033,
     "lng": -77.4104,
@@ -73846,7 +73846,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.42333,
     "lng": -77.4275,
@@ -73863,7 +73863,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43111,
     "lng": -77.39722,
@@ -73880,7 +73880,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.39543,
     "lng": -77.41415,
@@ -73897,7 +73897,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43639,
     "lng": -77.40583,
@@ -73914,7 +73914,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40056,
     "lng": -77.43361,
@@ -73931,7 +73931,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43427,
     "lng": -77.42903,
@@ -73948,7 +73948,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43556,
     "lng": -77.42722,
@@ -73965,7 +73965,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.4356,
     "lng": -77.4272,
@@ -73982,7 +73982,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.43404,
     "lng": -77.43095,
@@ -73999,7 +73999,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.438,
     "lng": -77.4234,
@@ -74016,7 +74016,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.40427,
     "lng": -77.44055,
@@ -74050,7 +74050,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.38278,
     "lng": -77.40583,
@@ -74067,7 +74067,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.44722,
     "lng": -77.415,
@@ -74084,7 +74084,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.44778,
     "lng": -77.41417,
@@ -74101,7 +74101,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.45222,
     "lng": -77.4175,
@@ -74118,7 +74118,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.546,
     "lng": -79.372,
@@ -74135,7 +74135,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.59028,
     "lng": -79.36944,
@@ -74152,7 +74152,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.83389,
     "lng": -79.36778,
@@ -74169,7 +74169,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.83583,
     "lng": -79.37389,
@@ -74186,7 +74186,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.81917,
     "lng": -79.38583,
@@ -74203,7 +74203,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.86667,
     "lng": -79.36667,
@@ -74220,7 +74220,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.78789,
     "lng": -79.40671,
@@ -74237,7 +74237,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.771,
     "lng": -79.378,
@@ -74254,7 +74254,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.765,
     "lng": -79.39,
@@ -74271,7 +74271,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.76344,
     "lng": -79.3886,
@@ -74288,7 +74288,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.85965,
     "lng": -79.28445,
@@ -74305,7 +74305,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77778,
     "lng": -79.28472,
@@ -74322,7 +74322,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.83121,
     "lng": -77.22996,
@@ -74356,7 +74356,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.83051,
     "lng": -77.23338,
@@ -74373,7 +74373,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.82565,
     "lng": -77.23127,
@@ -74390,7 +74390,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.835,
     "lng": -77.23472,
@@ -74407,7 +74407,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.82228,
     "lng": -77.23092,
@@ -74424,7 +74424,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.82222,
     "lng": -77.23306,
@@ -74441,7 +74441,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.82097,
     "lng": -77.23181,
@@ -74476,7 +74476,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81977,
     "lng": -77.23122,
@@ -74493,7 +74493,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.834,
     "lng": -77.24283,
@@ -74510,7 +74510,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.8395,
     "lng": -77.2366,
@@ -74527,7 +74527,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.82694,
     "lng": -77.24389,
@@ -74544,7 +74544,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.83162,
     "lng": -77.24433,
@@ -74561,7 +74561,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.83194,
     "lng": -77.24472,
@@ -74578,7 +74578,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.818,
     "lng": -77.2325,
@@ -74595,7 +74595,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81786,
     "lng": -77.23191,
@@ -74612,7 +74612,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.8201,
     "lng": -77.2203,
@@ -74629,7 +74629,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81772,
     "lng": -77.23303,
@@ -74646,7 +74646,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.84175,
     "lng": -77.22331,
@@ -74663,7 +74663,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81675,
     "lng": -77.22839,
@@ -74698,7 +74698,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81639,
     "lng": -77.23028,
@@ -74715,7 +74715,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81578,
     "lng": -77.23414,
@@ -74732,7 +74732,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81547,
     "lng": -77.23517,
@@ -74749,7 +74749,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81964,
     "lng": -77.24707,
@@ -74766,7 +74766,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81343,
     "lng": -77.2364,
@@ -74783,7 +74783,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81833,
     "lng": -77.24726,
@@ -74800,7 +74800,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.813,
     "lng": -77.23628,
@@ -74835,7 +74835,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.8125,
     "lng": -77.23583,
@@ -74852,7 +74852,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81245,
     "lng": -77.23572,
@@ -74869,7 +74869,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.8126,
     "lng": -77.2366,
@@ -74886,7 +74886,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81139,
     "lng": -77.22583,
@@ -74903,7 +74903,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81139,
     "lng": -77.22583,
@@ -74920,7 +74920,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81139,
     "lng": -77.22583,
@@ -74937,7 +74937,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81139,
     "lng": -77.22583,
@@ -74954,7 +74954,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.81124,
     "lng": -77.22487,
@@ -74971,7 +74971,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.09778,
     "lng": -75.45444,
@@ -74988,7 +74988,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.13278,
     "lng": -75.43278,
@@ -75005,7 +75005,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.12472,
     "lng": -75.48972,
@@ -75022,7 +75022,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.09378,
     "lng": -75.39757,
@@ -75057,7 +75057,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.07056,
     "lng": -75.49167,
@@ -75074,7 +75074,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.05722,
     "lng": -75.41667,
@@ -75091,7 +75091,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.0775,
     "lng": -75.38028,
@@ -75108,7 +75108,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.13028,
     "lng": -75.3825,
@@ -75142,7 +75142,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.08972,
     "lng": -75.54111,
@@ -75159,7 +75159,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.07678,
     "lng": -75.53797,
@@ -75176,7 +75176,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.115,
     "lng": -75.34917,
@@ -75193,7 +75193,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.17083,
     "lng": -75.39472,
@@ -75210,7 +75210,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.17278,
     "lng": -75.39667,
@@ -75227,7 +75227,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.17306,
     "lng": -75.39472,
@@ -75244,7 +75244,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.17556,
     "lng": -75.39694,
@@ -75261,7 +75261,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.17556,
     "lng": -75.39611,
@@ -75278,7 +75278,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.71667,
     "lng": -75.07611,
@@ -75312,7 +75312,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.725,
     "lng": -75.08639,
@@ -75346,7 +75346,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.73611,
     "lng": -75.08444,
@@ -75363,7 +75363,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.71694,
     "lng": -75.11111,
@@ -75380,7 +75380,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.73389,
     "lng": -75.11167,
@@ -75414,7 +75414,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.7575,
     "lng": -75.10944,
@@ -75431,7 +75431,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77148,
     "lng": -75.0955,
@@ -75448,7 +75448,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.776,
     "lng": -75.0639,
@@ -75465,7 +75465,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77722,
     "lng": -75.08694,
@@ -75482,7 +75482,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.66408,
     "lng": -75.1045,
@@ -75499,7 +75499,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.7425,
     "lng": -75.15028,
@@ -75516,7 +75516,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77,
     "lng": -75.14194,
@@ -75533,7 +75533,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79028,
     "lng": -75.08056,
@@ -75550,7 +75550,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77389,
     "lng": -75.13854,
@@ -75567,7 +75567,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.7717,
     "lng": -75.1428,
@@ -75584,7 +75584,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.775,
     "lng": -75.1394,
@@ -75601,7 +75601,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.75167,
     "lng": -75.16444,
@@ -75618,7 +75618,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77592,
     "lng": -75.14099,
@@ -75635,7 +75635,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77472,
     "lng": -75.14278,
@@ -75652,7 +75652,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77792,
     "lng": -75.14111,
@@ -75669,7 +75669,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.7477,
     "lng": -75.1695,
@@ -75686,7 +75686,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77608,
     "lng": -75.14479,
@@ -75703,7 +75703,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79717,
     "lng": -75.1,
@@ -75720,7 +75720,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79778,
     "lng": -75.10833,
@@ -75737,7 +75737,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77944,
     "lng": -75.15083,
@@ -75754,7 +75754,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.78028,
     "lng": -75.15111,
@@ -75771,7 +75771,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.74639,
     "lng": -75.18,
@@ -75788,7 +75788,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.79972,
     "lng": -75.1075,
@@ -75805,7 +75805,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.77111,
     "lng": -75.16472,
@@ -75839,7 +75839,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.805,
     "lng": -75.088,
@@ -75856,7 +75856,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 38.78361,
     "lng": -75.15722,
@@ -75873,7 +75873,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.54306,
     "lng": -76.07556,
@@ -75890,7 +75890,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.54944,
     "lng": -76.07083,
@@ -75907,7 +75907,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.54068,
     "lng": -76.08468,
@@ -75924,7 +75924,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.495,
     "lng": -76.083,
@@ -75941,7 +75941,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.53836,
     "lng": -76.09011,
@@ -75958,7 +75958,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.49444,
     "lng": -76.08333,
@@ -75975,7 +75975,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.53806,
     "lng": -76.09167,
@@ -75992,7 +75992,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.53972,
     "lng": -76.09417,
@@ -76009,7 +76009,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.55722,
     "lng": -76.07833,
@@ -76026,7 +76026,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.57,
     "lng": -76.0575,
@@ -76043,7 +76043,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.55667,
     "lng": -76.09472,
@@ -76060,7 +76060,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.52845,
     "lng": -75.98078,
@@ -76077,7 +76077,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.56511,
     "lng": -76.08884,
@@ -76094,7 +76094,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.57722,
     "lng": -76.03639,
@@ -76128,7 +76128,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.565,
     "lng": -76.102,
@@ -76145,7 +76145,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.47556,
     "lng": -76.11139,
@@ -76162,7 +76162,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.45595,
     "lng": -76.07662,
@@ -76179,7 +76179,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.49927,
     "lng": -75.96703,
@@ -76196,7 +76196,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.542,
     "lng": -76.133,
@@ -76213,7 +76213,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.475,
     "lng": -76.125,
@@ -76230,7 +76230,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.565,
     "lng": -76.12861,
@@ -76247,7 +76247,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.57417,
     "lng": -75.9775,
@@ -76264,7 +76264,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.59639,
     "lng": -76.07278,
@@ -76281,7 +76281,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.52167,
     "lng": -76.15306,
@@ -76298,7 +76298,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.47345,
     "lng": -76.14084,
@@ -76315,7 +76315,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.47345,
     "lng": -76.14084,
@@ -76349,7 +76349,7 @@ const WIKI_PLACES = [
     "type": "gems",
     "tags": [
       "gems",
-      "weird"
+      "gems"
     ],
     "lat": 39.51152,
     "lng": -76.16449,

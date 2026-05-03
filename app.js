@@ -453,10 +453,7 @@ function ranked(list) {
       const fa = favs.has(a.id) ? 1 : 0;
       const fb = favs.has(b.id) ? 1 : 0;
       if (fa !== fb) return fb - fa;
-      // Sort by distance, but let score pull places closer within a 15mi band
-      const aVal = a.dist - a.score * 15;
-      const bVal = b.dist - b.score * 15;
-      return aVal - bVal;
+      return a.dist - b.dist;
     });
 }
 
