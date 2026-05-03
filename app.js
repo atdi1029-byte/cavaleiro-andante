@@ -107,6 +107,7 @@ let places     = [];
 let activeFilter = 'all';
 let activeView   = 'list';
 let maxDist      = 9999;
+let unseenOnly   = false;
 let leafletMap, mapMarkers = [];
 
 // ---- Storage Keys ----
@@ -296,6 +297,7 @@ function getPlaceTags(t) {
 function matchesFilter(p) {
   if (p.dist > maxDist) return false;
   if (loadSet(SK.hidden).has(p.id)) return false;
+  if (unseenOnly && loadSet(SK.visited).has(p.id)) return false;
   if (activeFilter === 'all')  return p.type !== 'other';
   if (activeFilter === 'hike') return p.type === 'trail'
     || p.tags.includes('hiking');
@@ -996,6 +998,13 @@ document.addEventListener('DOMContentLoaded', () => {
       maxDist = parseFloat(btn.dataset.miles);
       renderList();
     });
+  });
+
+  // Unseen toggle
+  document.getElementById('unseen-btn').addEventListener('click', function() {
+    unseenOnly = !unseenOnly;
+    this.classList.toggle('active', unseenOnly);
+    renderList();
   });
 
   // Surprise Me

@@ -362,6 +362,23 @@ body {
   border-color: var(--green);
   font-weight: 700;
 }
+#unseen-btn {
+  padding: 7px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border-md);
+  background: transparent;
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s;
+}
+#unseen-btn.active {
+  background: rgba(93,191,93,0.15);
+  border-color: var(--green);
+  color: var(--green);
+}
 #surprise-btn {
   padding: 7px 14px;
   border-radius: 20px;
