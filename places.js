@@ -67488,3 +67488,8876 @@ const SWEPT_PLACES = [
     "score": 0
   }
 ];
+
+// Wikipedia geosearch — notable landmarks and features
+const WIKI_PLACES = [
+  {
+    "id": "wp:annapolismaryland",
+    "name": "Annapolis, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97306,
+    "lng": -76.50111,
+    "dist": 9.2,
+    "description": "Annapolis ( ə-NAP-əl-iss) is the capital of the U.S. state of Maryland. It is the county seat of Anne Arundel County and its only incorporated city.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annapolis%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:ballettheatreofmaryl",
+    "name": "Ballet Theatre of Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97389,
+    "lng": -76.50556,
+    "dist": 9.1,
+    "description": "Ballet Theatre of Maryland is based in Annapolis, Maryland. Originally established as The Ballet Theatre of Annapolis, the organization was founded in November 1978 as a private non-profit corporation governed by a twelve-person Board of Trustees, with Eddie Stewart as the first artistic director, a",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ballet_Theatre_of_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:marylandhallforthecr",
+    "name": "Maryland Hall for the Creative Arts",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97382,
+    "lng": -76.50571,
+    "dist": 9.1,
+    "description": "The Maryland Hall for the Creative Arts is a multi-disciplinary arts center in Annapolis, Maryland which offers opportunities in the arts for individuals of all ages, skill levels and backgrounds. It was founded in 1979 to promote art appreciation and education in Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maryland_Hall_for_the_Creative_Arts",
+    "score": 0
+  },
+  {
+    "id": "wp:annapolispolicedepar",
+    "name": "Annapolis Police Department",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97879,
+    "lng": -76.50561,
+    "dist": 8.8,
+    "description": "The Annapolis Police Department (APD) is a full-service law enforcement agency servicing a population of over 38,000 residents in 7.1 square miles (18 km2) of the municipality of Annapolis, Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annapolis_Police_Department",
+    "score": 0
+  },
+  {
+    "id": "wp:bannekerdouglasstubm",
+    "name": "Banneker-Douglass-Tubman Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97756,
+    "lng": -76.49364,
+    "dist": 9.0,
+    "description": "The Banneker-Douglass-Tubman Museum, formerly known as the Banneker-Douglass Museum, is the state of Maryland's official museum for African American history and culture. Located at 84 Franklin Street, Annapolis, Anne Arundel County, Maryland, the museum is housed within the former Mt.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banneker-Douglass-Tubman_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:reynoldstavern",
+    "name": "Reynold's Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97814,
+    "lng": -76.49336,
+    "dist": 8.9,
+    "description": "Reynold's Tavern is an 18th-century tavern located at 7 Church Circle in Annapolis, Maryland. It is the oldest tavern in Annapolis, and one of the oldest in the United States.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Reynold%27s_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:stantoncenter",
+    "name": "Stanton Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98014,
+    "lng": -76.49633,
+    "dist": 8.8,
+    "description": "Stanton Center is a historic building at Annapolis, Anne Arundel County, Maryland, United States. It is a two-story (plus basement), Classical Revival brick masonry building with a one-story addition.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stanton_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:uptonscotthouse",
+    "name": "Upton Scott House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97489,
+    "lng": -76.48989,
+    "dist": 9.2,
+    "description": "The Upton Scott House is a historic home in Annapolis, Anne Arundel County, Maryland, United States. It is a 2+1⁄2-story, rectangular brick house.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Upton_Scott_House",
+    "score": 0
+  },
+  {
+    "id": "wp:colonialannapolishis",
+    "name": "Colonial Annapolis Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97806,
+    "lng": -76.49139,
+    "dist": 9.0,
+    "description": "The Colonial Annapolis Historic District is a historic district in the City of Annapolis, the state capital of Maryland, that was designated a National Historic Landmark District in 1965 and was geographically further expanded in 1984.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Colonial_Annapolis_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:annapolisconvention1",
+    "name": "Annapolis Convention (1786)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97725,
+    "lng": -76.49017,
+    "dist": 9.0,
+    "description": "The Annapolis Convention (formally titled a Meeting of Commissioners to Remedy Defects of the Federal Government) was a national political convention held September 11–14, 1786 in the old Senate Chamber of the Maryland State House in Annapolis, Maryland. (The Maryland Society, Sons of the American R",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annapolis_Convention_%281786%29",
+    "score": 0
+  },
+  {
+    "id": "wp:governmenthousemaryl",
+    "name": "Government House (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97909,
+    "lng": -76.49193,
+    "dist": 8.9,
+    "description": "Government House, (also occasionally known as the Governor's Mansion), is the official residence of the governor of Maryland. It is located on State Circle in the state capital town of Annapolis, Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Government_House_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:johncallahanhouse",
+    "name": "John Callahan House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97733,
+    "lng": -76.49006,
+    "dist": 9.0,
+    "description": "John Callahan House, known previously as Pinkney-Callahan House when it was located on St. John Street, is a historic home in Annapolis, Maryland, United States.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Callahan_House",
+    "score": 0
+  },
+  {
+    "id": "wp:georgewashingtonsres",
+    "name": "George Washington's resignation as commander-in-chief",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97861,
+    "lng": -76.49111,
+    "dist": 8.9,
+    "description": "George Washington's resignation as commander-in-chief marked the end of Washington's military service in the American Revolutionary War and his return to civilian life at Mount Vernon. His voluntary action has been described as \"one of the nation's great acts of statesmanship\" and helped establish t",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/George_Washington%27s_resignation_as_commander-in-chief",
+    "score": 0
+  },
+  {
+    "id": "wp:universallodgeno14",
+    "name": "Universal Lodge No. 14",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98167,
+    "lng": -76.49694,
+    "dist": 8.7,
+    "description": "Universal Lodge No. 14 is a historic building located in Annapolis, Anne Arundel County, Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Universal_Lodge_No._14",
+    "score": 0
+  },
+  {
+    "id": "wp:florencemackubin",
+    "name": "Florence MacKubin",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98186,
+    "lng": -76.49715,
+    "dist": 8.6,
+    "description": "Florence MacKubin (or Mackubin) (c. 1857 – 1918) was an American portrait painter in miniature, pastel, and oil colors.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Florence_MacKubin",
+    "score": 0
+  },
+  {
+    "id": "wp:marylandstatehouse",
+    "name": "Maryland State House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97889,
+    "lng": -76.49111,
+    "dist": 8.9,
+    "description": "The Maryland State House is located in Annapolis, Maryland. It is the oldest U.S. state capitol in continuous legislative use, dating to 1772, and houses the Maryland General Assembly, plus the offices of the governor and lieutenant governor.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maryland_State_House",
+    "score": 0
+  },
+  {
+    "id": "wp:historicinnsofannapo",
+    "name": "Historic Inns of Annapolis",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97917,
+    "lng": -76.49,
+    "dist": 8.9,
+    "description": "The Historic Inns of Annapolis consist of three historically rich inns dating back to the end of the American Revolutionary War. The historical buildings, located in Annapolis, Maryland, include the Maryland Inn Archived July 18, 2014, at the Wayback Machine, Governor Calvert House, and the Robert J",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Historic_Inns_of_Annapolis",
+    "score": 0
+  },
+  {
+    "id": "wp:primrosehillannapoli",
+    "name": "Primrose Hill (Annapolis, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.96028,
+    "lng": -76.50306,
+    "dist": 10.0,
+    "description": "Primrose Hill is a historic home at 3 Milkshake Lane in Annapolis, Anne Arundel County, Maryland. It is a 2+1⁄2-story, four-bay, double-pile brick house with interior end chimneys.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Primrose_Hill_%28Annapolis%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:artisanshouse",
+    "name": "Artisan's House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97872,
+    "lng": -76.48808,
+    "dist": 9.0,
+    "description": "Artisan's House is a historic home located at Annapolis, Maryland, United States. It is a 1+1⁄2-story frame house on a brick foundation representative of modest middle class dwellings of the 18th century.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Artisan%27s_House",
+    "score": 0
+  },
+  {
+    "id": "wp:mustangbrogan",
+    "name": "Mustang (brogan)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97667,
+    "lng": -76.48639,
+    "dist": 9.1,
+    "description": "The Mustang is a Chesapeake Bay brogan, built in 1907. She is located at Annapolis, Anne Arundel County, Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mustang_%28brogan%29",
+    "score": 0
+  },
+  {
+    "id": "wp:middletontavern",
+    "name": "Middleton Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97823,
+    "lng": -76.48689,
+    "dist": 9.0,
+    "description": "Middleton Tavern is a tavern in Annapolis, Maryland. It is one of the oldest continuously operating taverns in the United States.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Middleton_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:pacahouseandgarden",
+    "name": "Paca House and Garden",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97961,
+    "lng": -76.48786,
+    "dist": 8.9,
+    "description": "The William Paca House (at one time known as Carvel Hall) is an 18th-century Georgian mansion in Annapolis, Maryland, United States. Founding Father William Paca was a signatory of the Declaration of Independence and a three-term Governor of Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paca_House_and_Garden",
+    "score": 0
+  },
+  {
+    "id": "wp:patrickcreaghhouse",
+    "name": "Patrick Creagh House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97894,
+    "lng": -76.48706,
+    "dist": 9.0,
+    "description": "The Patrick Creagh House is a historic house located at 160 Prince George Street in Annapolis, Anne Arundel County, Maryland.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Patrick_Creagh_House",
+    "score": 0
+  },
+  {
+    "id": "wp:bricehouseannapolism",
+    "name": "Brice House (Annapolis, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97931,
+    "lng": -76.48722,
+    "dist": 9.0,
+    "description": "The Brice House is, along with the Hammond-Harwood House and the William Paca House, one of three similar preserved 18th-century Georgian style brick houses in Annapolis, Maryland. Like the Paca and Hammond-Harwood houses, it is a five-part brick mansion with a large central block and flanking pavil",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brice_House_%28Annapolis%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:chaselloydhouse",
+    "name": "Chase–Lloyd House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98111,
+    "lng": -76.48881,
+    "dist": 8.8,
+    "description": "The Chase–Lloyd House is a historic house at 22 Maryland Avenue in Annapolis, Maryland. Built in 1769–1774, it is one of the first brick three-story Georgian mansions to be built in the Thirteen Colonies, and is one of the finest examples of the style.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chase%E2%80%93Lloyd_House",
+    "score": 0
+  },
+  {
+    "id": "wp:oglehall",
+    "name": "Ogle Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98153,
+    "lng": -76.48933,
+    "dist": 8.8,
+    "description": "Ogle Hall is a historic building in Annapolis, Maryland, Maryland Inventory of Historic Properties Inventory #AA-530. It is also known as the United States Naval Academy Alumni House.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ogle_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:johnsandshouse",
+    "name": "John Sands House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97833,
+    "lng": -76.48611,
+    "dist": 9.0,
+    "description": "John Sands House is a historic home at Annapolis, Anne Arundel County, Maryland. The original structure was built about 1740, and is a modest frame, gambrel-roof dwelling with early 20th-century finishes.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Sands_House",
+    "score": 0
+  },
+  {
+    "id": "wp:robertnmcdonald",
+    "name": "Robert N. McDonald",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9852,
+    "lng": -76.50142,
+    "dist": 8.4,
+    "description": "Robert N. McDonald (born February 23, 1952) is a former judge of the Maryland Court of Appeals. He was appointed to the Court by Governor Martin O'Malley in 2012.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_N._McDonald",
+    "score": 0
+  },
+  {
+    "id": "wp:supremecourtofmaryla",
+    "name": "Supreme Court of Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9852,
+    "lng": -76.50142,
+    "dist": 8.4,
+    "description": "The Supreme Court of Maryland (previously the Maryland Court of Appeals) is the highest court of the U.S. state of Maryland. The court, which is composed of one chief justice and six associate justices, meets in the Robert C. Murphy Courts of Appeal Building in the state capital, Annapolis.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:hammondharwoodhouse",
+    "name": "Hammond–Harwood House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98094,
+    "lng": -76.48839,
+    "dist": 8.8,
+    "description": "The Hammond–Harwood House is a historic house museum at 19 Maryland Avenue in Annapolis, Maryland, USA. Built in 1774, is one of the premier colonial houses remaining in America from the British colonial period (1607–1776). It is one of the only existing works of colonial academic architecture that ",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hammond%E2%80%93Harwood_House",
+    "score": 0
+  },
+  {
+    "id": "wp:navymarinecorpsmemor",
+    "name": "Navy–Marine Corps Memorial Stadium",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.985,
+    "lng": -76.507,
+    "dist": 8.3,
+    "description": "Navy–Marine Corps Memorial Stadium is an open-air stadium located off the campus of the United States Naval Academy in Annapolis, Maryland. Opened in 1959, it serves as the home stadium of the Navy Midshipmen college football and lacrosse teams, and was the home of the Chesapeake Bayhawks of Major L",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Navy%E2%80%93Marine_Corps_Memorial_Stadium",
+    "score": 0
+  },
+  {
+    "id": "wp:halseyfieldhouse",
+    "name": "Halsey Field House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97778,
+    "lng": -76.48417,
+    "dist": 9.1,
+    "description": "Halsey Field House is a multi-purpose arena at the United States Naval Academy, in Annapolis, Maryland, with a seating capacity of 5,000. It was home to the Navy Midshipmen men's basketball team until the Alumni Hall opened in 1991.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Halsey_Field_House",
+    "score": 0
+  },
+  {
+    "id": "wp:rogerbtaneymonumenta",
+    "name": "Roger B. Taney Monument (Annapolis)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98631,
+    "lng": -76.50085,
+    "dist": 8.3,
+    "description": "The Roger B. Taney Monument is a statue of Roger Brooke Taney (1777–1864), fifth Chief Justice of the United States, that formerly stood on the grounds of the Maryland State House in Annapolis. Mounting opposition to the monument, as a commemoration of the author of the Dred Scott decision supportin",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Roger_B._Taney_Monument_%28Annapolis%29",
+    "score": 0
+  },
+  {
+    "id": "wp:marylandstatearchive",
+    "name": "Maryland State Archives",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98635,
+    "lng": -76.50087,
+    "dist": 8.3,
+    "description": "The Maryland State Archives serves as the central depository for government records of permanent value. Its holdings date from Maryland's founding in 1634, and include colonial and state executive, legislative, and judicial records; county probate, land, and court records; church records; business r",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maryland_State_Archives",
+    "score": 0
+  },
+  {
+    "id": "wp:peggystewarthouse",
+    "name": "Peggy Stewart House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9815,
+    "lng": -76.48706,
+    "dist": 8.8,
+    "description": "The Peggy Stewart House, also known as the Rutland-Jenifer-Stone House, is a Georgian-style house in Annapolis, Maryland. Built between 1761 and 1764 by Thomas Rutland as a rental property, it was owned at various times by Thomas Stone and U.S. Founding Father Daniel of St.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peggy_Stewart_House",
+    "score": 0
+  },
+  {
+    "id": "wp:wordenfield",
+    "name": "Worden Field",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.984,
+    "lng": -76.49,
+    "dist": 8.6,
+    "description": "Worden Field is a large grass field located on the campus of the United States Naval Academy in Annapolis, Maryland. First mentioned in 1890, the field served as the home stadium for the academy's Midshipmen football team from that year through 1923, replaced by Thompson Stadium in 1924.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Worden_Field",
+    "score": 0
+  },
+  {
+    "id": "wp:jenningshouseannapol",
+    "name": "Jennings House (Annapolis, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98109,
+    "lng": -76.48592,
+    "dist": 8.9,
+    "description": "Jennings House, located in Annapolis, Maryland, was the residence of the governors of Maryland from 1777 until 1870, when it was replaced by Government House. The building was sold to the United States Naval Academy in 1869 for $25,000 (equivalent to $605,000 in 2025).",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jennings_House_%28Annapolis%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:navalacademychapel",
+    "name": "Naval Academy Chapel",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98155,
+    "lng": -76.48629,
+    "dist": 8.8,
+    "description": "The United States Naval Academy Chapel in Annapolis, Maryland, is one of nine designated chapel spaces on the grounds of the United States Navy's service academy. Protestant and Catholic services are held there.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Naval_Academy_Chapel",
+    "score": 0
+  },
+  {
+    "id": "wp:navybill",
+    "name": "Navy Bill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9786,
+    "lng": -76.4838,
+    "dist": 9.1,
+    "description": "Navy Bill is a sculpture of the United States Naval Academy's mascot, Bill the Goat, a billy goat. It was designed by Clemente Spampinato in 1956, and presented to the academy in 1957.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Navy_Bill",
+    "score": 0
+  },
+  {
+    "id": "wp:annapolisyachtyard",
+    "name": "Annapolis Yacht Yard",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.97278,
+    "lng": -76.48167,
+    "dist": 9.5,
+    "description": "Annapolis Yacht Yard was founded in 1937 by Nelson-Reid, Inc, naval architects and yacht brokers in New York City. Annapolis Yacht Yard was across the Severn River from the Annapolis Naval Academy.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Annapolis_Yacht_Yard",
+    "score": 0
+  },
+  {
+    "id": "wp:terwilligerbrothersf",
+    "name": "Terwilliger Brothers Field at Max Bishop Stadium",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9864,
+    "lng": -76.49536,
+    "dist": 8.4,
+    "description": "Terwilliger Brothers Field at Max Bishop Stadium is a baseball venue in Annapolis, Maryland, United States. Opened in 1946, it is home to the Navy Midshipmen baseball team of the NCAA Division I Patriot League.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Terwilliger_Brothers_Field_at_Max_Bishop_Stadium",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatesnavalaca",
+    "name": "United States Naval Academy Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9828,
+    "lng": -76.4872,
+    "dist": 8.7,
+    "description": "The United States Naval Academy Museum is a public maritime museum in Annapolis, Maryland, United States. A part of the United States Naval Academy, it is located at Preble Hall on the academy premises.",
+    "zone": "Annapolis & Anne Arundel",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Naval_Academy_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:onecalvertplaza",
+    "name": "One Calvert Plaza",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2897,
+    "lng": -76.6122,
+    "dist": 13.5,
+    "description": "One Calvert Plaza, formerly the Continental Trust Company Building, is a historic 16-story, 76 m (249 ft) skyscraper in Baltimore, Maryland. The Beaux-Arts, early modern office building was constructed with steel structural members clad with terra cotta fireproofing and tile-arch floors.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/One_Calvert_Plaza",
+    "score": 0
+  },
+  {
+    "id": "wp:alexbrownsonsbuildin",
+    "name": "Alex. Brown & Sons Building",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28944,
+    "lng": -76.6125,
+    "dist": 13.5,
+    "description": "The Alex. Brown & Sons building is a historic structure located at 135 East Baltimore Street in Baltimore, Maryland.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alex._Brown_%26_Sons_Building",
+    "score": 0
+  },
+  {
+    "id": "wp:battlemonument",
+    "name": "Battle Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29069,
+    "lng": -76.61242,
+    "dist": 13.6,
+    "description": "The Battle Monument, located in Battle Monument Square on North Calvert Street between East Fayette and East Lexington Streets in Baltimore, Maryland, commemorates the Battle of Baltimore, with the British fleet of the Royal Navy's bombardment of Fort McHenry, the Battle of North Point, southeast of",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:businessandgovernmen",
+    "name": "Business and Government Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29,
+    "lng": -76.61083,
+    "dist": 13.5,
+    "description": "The Business and Government Historic District is a historic district in downtown Baltimore, Maryland, United States, that was listed on the National Register of Historic Places in 1987. The district comprises the center of Baltimore's municipal government and the eastern portion of Baltimore's comme",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Business_and_Government_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:mercantiletrustandde",
+    "name": "Mercantile Trust and Deposit Company",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28917,
+    "lng": -76.6125,
+    "dist": 13.5,
+    "description": "Mercantile Trust and Deposit Company is a historic bank building in Baltimore, designed by the Baltimore architectural firm of Wyatt and Sperry and constructed in 1885. It has a brick-with-stone-ornamentation Romanesque Revival structure, with deeply set windows, round-arch window openings, squat co",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mercantile_Trust_and_Deposit_Company",
+    "score": 0
+  },
+  {
+    "id": "wp:equitablebuildingbal",
+    "name": "Equitable Building (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29089,
+    "lng": -76.61292,
+    "dist": 13.6,
+    "description": "The Equitable Building is a mixed-use historic building at 10 North Calvert Street in downtown Baltimore, Maryland. Constructed from 1891 to 1893, this 10-story, 225,000-square-foot building was Baltimore's first skyscraper and is the oldest surviving building in Monument Square.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Equitable_Building_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatespostoffi",
+    "name": "United States Post Office and Courthouse (Baltimore, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29083,
+    "lng": -76.61306,
+    "dist": 13.6,
+    "description": "The United States Post Office and Courthouse is a historic combined post office and Federal courthouse located in Baltimore, Maryland, United States.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Post_Office_and_Courthouse_%28Baltimore%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:wellsfargotowerbalti",
+    "name": "Wells Fargo Tower (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29,
+    "lng": -76.61361,
+    "dist": 13.6,
+    "description": "The Wells Fargo Tower, formerly known as the First Union Signet Tower, Wachovia Tower, and Union Trust Building, is a commercial high-rise in Baltimore, Maryland. The building rises 24 floors above street level and is 330 feet (101 m) in height; it is tied with Charles Center South as the 17th-talle",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wells_Fargo_Tower_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:thegarrettbuilding",
+    "name": "The Garrett Building",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28889,
+    "lng": -76.61111,
+    "dist": 13.4,
+    "description": "The Garrett Building is a historic office building located at 233-239 Redwood Street, Baltimore, Maryland, United States. It is a 13-story, limestone faced skyscraper which combines the Commercial style with Renaissance Revival detailing.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Garrett_Building",
+    "score": 0
+  },
+  {
+    "id": "wp:commerceplacebaltimo",
+    "name": "Commerce Place (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28933,
+    "lng": -76.61044,
+    "dist": 13.5,
+    "description": "Commerce Place is a high-rise in Baltimore, Maryland. The building rises 31 floors and 454 feet (138 m) in height, and stands as the fifth-tallest building in the city.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Commerce_Place_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:federalreservebankof",
+    "name": "Federal Reserve Bank of Richmond Baltimore Branch",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29111,
+    "lng": -76.61306,
+    "dist": 13.6,
+    "description": "The Federal Reserve Bank of Richmond Baltimore Branch Office is one of the two Federal Reserve Bank of Richmond branch offices. The Federal Reserve Bank of Richmond's Baltimore Branch is an operational and regional center for Maryland, the metropolitan Washington D.C. area, Northern Virginia, and no",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Bank_of_Richmond_Baltimore_Branch",
+    "score": 0
+  },
+  {
+    "id": "wp:cantonhouse",
+    "name": "Canton House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28889,
+    "lng": -76.61083,
+    "dist": 13.4,
+    "description": "Canton House is a historic office building located on the northeast corner of Water Street and South Street in Baltimore, Maryland, United States. It is a 4+1⁄2-story Colonial Revival-style building, with seven bays across the front façade of Water Street to the south and three bays across the side ",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Canton_House",
+    "score": 0
+  },
+  {
+    "id": "wp:baltimoremorninghera",
+    "name": "Baltimore Morning Herald",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2905,
+    "lng": -76.614,
+    "dist": 13.6,
+    "description": "The Baltimore Morning Herald was a daily newspaper published in Baltimore in the beginning of the 20th century.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_Morning_Herald",
+    "score": 0
+  },
+  {
+    "id": "wp:williamdonaldschaefe",
+    "name": "William Donald Schaefer Building",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2898,
+    "lng": -76.6141,
+    "dist": 13.6,
+    "description": "The William Donald Schaefer Building (a.k.a. William Donald Schaefer Tower or simply Schaefer Tower, previously known as Merritt Tower) is the fourth-tallest building in the City of Baltimore, Maryland, located at 6 St.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/William_Donald_Schaefer_Building",
+    "score": 0
+  },
+  {
+    "id": "wp:baltimorefederalsavi",
+    "name": "Baltimore Federal Savings & Loan Association",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29028,
+    "lng": -76.61417,
+    "dist": 13.6,
+    "description": "Baltimore Federal Savings & Loan Association is a historic bank building located at Baltimore, Maryland, United States. It was built in 1950, and is a five-story, Colonial Revival-style steel frame building sheathed in brick.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_Federal_Savings_%26_Loan_Association",
+    "score": 0
+  },
+  {
+    "id": "wp:merchantsnationalban",
+    "name": "Merchants' National Bank Building (1895), Baltimore",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28861,
+    "lng": -76.61056,
+    "dist": 13.4,
+    "description": "The Merchants' National Bank Building (1895), Baltimore was a historic bank building at 301 Water Street, at the corner of South Street, in Baltimore, Maryland. It was a 7-story, Renaissance Revival style building designed by the Baltimore-based architectural firm of Baldwin & Pennington, and constr",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Merchants%27_National_Bank_Building_%281895%29%2C_Baltimore",
+    "score": 0
+  },
+  {
+    "id": "wp:hollidaystreettheate",
+    "name": "Holliday Street Theater",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2909,
+    "lng": -76.61,
+    "dist": 13.6,
+    "description": "The Holliday Street Theater also known as the New Theatre, New Holliday, Old Holliday, The Baltimore Theatre, and Old Drury, was a historical theatrical venue in Federal Period Baltimore, Maryland. It is known for showing the first performance of Francis Scott Key's \"The Star-Spangled Banner\".",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Holliday_Street_Theater",
+    "score": 0
+  },
+  {
+    "id": "wp:10lightstreetbaltimo",
+    "name": "10 Light Street (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2892,
+    "lng": -76.6141,
+    "dist": 13.5,
+    "description": "10 Light Street is a historic 34-story Art Deco 155 m (509 ft) skyscraper located at the corner of East Baltimore Street and Light Street in downtown Baltimore, Maryland. Constructed as the Baltimore Trust Company Building, it was converted to apartments in 2015 and is currently named Arrive Inner H",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/10_Light_Street_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:chamberofcommercebui",
+    "name": "Chamber of Commerce Building (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28889,
+    "lng": -76.61,
+    "dist": 13.4,
+    "description": "The Chamber of Commerce Building is a historic office building located in Baltimore, Maryland, United States. It is a Renaissance Revival–style of architecture with a brown glazed brick building five floors in height, eleven bays long on the west/east sides, facing Commerce Street on the west and Cu",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chamber_of_Commerce_Building_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:warmemorialplaza",
+    "name": "War Memorial Plaza",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2909,
+    "lng": -76.60964,
+    "dist": 13.6,
+    "description": "War Memorial Plaza is a public square, small park and space in Downtown Baltimore between City Hall and the War Memorial Building, between Holliday Street on the west, East Fayette Street on the south, North Gay Street on the east, and East Lexington Street on the north.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/War_Memorial_Plaza",
+    "score": 0
+  },
+  {
+    "id": "wp:worldrelief",
+    "name": "World Relief",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28956,
+    "lng": -76.61466,
+    "dist": 13.6,
+    "description": "World Relief (officially World Relief Corporation of National Association of Evangelicals) is a global Christian humanitarian organization.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/World_Relief",
+    "score": 0
+  },
+  {
+    "id": "wp:theblockbaltimore",
+    "name": "The Block, Baltimore",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28978,
+    "lng": -76.60922,
+    "dist": 13.5,
+    "description": "The Block is a group of buildings on the 400 block of East Baltimore Street in Baltimore, Maryland, containing several strip clubs, sex shops, and other adult entertainment merchants. During the 19th century, Baltimore was filled with brothels, and in the first half of the 20th century, it was famou",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Block%2C_Baltimore",
+    "score": 0
+  },
+  {
+    "id": "wp:pealemuseum",
+    "name": "Peale Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29191,
+    "lng": -76.61063,
+    "dist": 13.6,
+    "description": "The Peale is a community museum in Baltimore, Maryland, which opened in 2022 after a 5-year renovation. It occupies the first building in the Western Hemisphere to be designed and built specifically as a museum.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peale_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:onenorthcharles",
+    "name": "One North Charles",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29013,
+    "lng": -76.61488,
+    "dist": 13.6,
+    "description": "One North Charles, formerly known as The Blaustein Building, is a highrise building located in Baltimore, Maryland, United States. The building stands at 360 feet (110 m), containing 30 floors.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/One_North_Charles",
+    "score": 0
+  },
+  {
+    "id": "wp:hansahaus",
+    "name": "Hansa Haus",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2889,
+    "lng": -76.6148,
+    "dist": 13.5,
+    "description": "The Hansa Haus is a historic building in Downtown Baltimore, Maryland, United States. The structure is a Baltimore City Landmark, and a contributing property of the Business and Government Historic District, on the National Register of Historic Places.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hansa_Haus",
+    "score": 0
+  },
+  {
+    "id": "wp:25southcharles",
+    "name": "25 South Charles",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28833,
+    "lng": -76.61431,
+    "dist": 13.5,
+    "description": "25 South Charles, formerly the M&T Bank Building, the First Maryland Building, and the First National Bank Of Maryland, is a commercial high-rise in Baltimore, Maryland. The building rises 22 floors and 315 feet (96 m) in height, and is currently tied with the Mercantile Bank & Trust Company Buildin",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/25_South_Charles",
+    "score": 0
+  },
+  {
+    "id": "wp:lombardstreetbaltimo",
+    "name": "Lombard Street (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28778,
+    "lng": -76.61333,
+    "dist": 13.4,
+    "description": "Lombard Street is a major street in Baltimore. It forms a one-way pair of streets with Pratt Street that run west–east through downtown Baltimore.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lombard_Street_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:marylandstatelibrary",
+    "name": "Maryland State Library",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28924,
+    "lng": -76.61507,
+    "dist": 13.5,
+    "description": "The Maryland State Library Agency is the official state library agency of Maryland located in Baltimore, Maryland. It is governed by the twelve-member Maryland State Library Board.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maryland_State_Library",
+    "score": 0
+  },
+  {
+    "id": "wp:oddfellowshallbaltim",
+    "name": "Odd Fellows Hall (Baltimore, 1831)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29131,
+    "lng": -76.60922,
+    "dist": 13.6,
+    "description": "The Odd Fellows Hall in Baltimore, Maryland, United States was a building that was the meeting place of the Independent Order of Odd Fellows fraternal organization, as well as the organization's national headquarters, from 1831 until 1890. It was the first Odd Fellows' Hall in the United States.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Odd_Fellows_Hall_%28Baltimore%2C_1831%29",
+    "score": 0
+  },
+  {
+    "id": "wp:201northcharlesstree",
+    "name": "201 North Charles Street Building",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29133,
+    "lng": -76.615,
+    "dist": 13.7,
+    "description": "201 North Charles Street Building is a high-rise office building located at 201 North Charles Street in Baltimore, Maryland. The building rises 28 floors and 350 feet (107 m) in height, and is tied with 4 other buildings as the 16th-tallest building in the city.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/201_North_Charles_Street_Building",
+    "score": 0
+  },
+  {
+    "id": "wp:mercymedicalcenterba",
+    "name": "Mercy Medical Center (Baltimore, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2925,
+    "lng": -76.61333,
+    "dist": 13.7,
+    "description": "Mercy Medical Center is a hospital located in Baltimore, Maryland. Mercy Medical Center has been recognized by U.S. News & World Report's \"Best Hospitals\" ratings for 2022–2023.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mercy_Medical_Center_%28Baltimore%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:merchantsexchangebui",
+    "name": "Merchants' Exchange Building (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2886,
+    "lng": -76.6088,
+    "dist": 13.4,
+    "description": "The Baltimore Exchange Building, also known as the first Baltimore Custom House, the Merchants' Exchange Building, and the Baltimore Government Building was a structure in Maryland, United States that housed an eclectic array of commercial enterprises and government offices during the 19th century. ",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Merchants%27_Exchange_Building_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:thegrandbaltimore",
+    "name": "The Grand (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29181,
+    "lng": -76.61489,
+    "dist": 13.7,
+    "description": "The Grand is a Masonic temple located in Baltimore, Maryland, United States. Constructed in 1866 by the Freemasons as the Grand Lodge of Maryland Masonic Temple, the building was the headquarters for the Maryland Freemasons for over 130 years.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Grand_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:onecharlescenter",
+    "name": "One Charles Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29083,
+    "lng": -76.61556,
+    "dist": 13.7,
+    "description": "One Charles Center is a historic office building located in Baltimore, Maryland, United States. It is a 23-story aluminium and glass International Style skyscraper designed by Ludwig Mies van der Rohe and constructed in 1962.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/One_Charles_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatescustomho",
+    "name": "United States Custom House (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28817,
+    "lng": -76.60906,
+    "dist": 13.4,
+    "description": "U.S. Custom House is a historic custom house building located at Baltimore, Maryland, United States. It is a granite, steel-frame structure measuring 252 feet 8 inches (77.01 m) by 139 feet 6 inches (42.52 m).",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Custom_House_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:fidelitybuildingbalt",
+    "name": "Fidelity Building (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29135,
+    "lng": -76.61544,
+    "dist": 13.7,
+    "description": "The Fidelity Building is a 15-story, 67 m (220 ft) high rise building in the central business district of Baltimore, Maryland. Completed in 1894, it was later the headquarters of the Fidelity and Deposit Company of Baltimore which was founded in 1892.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fidelity_Building_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:hammerjacks",
+    "name": "Hammerjacks",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29306,
+    "lng": -76.61111,
+    "dist": 13.7,
+    "description": "Hammerjacks was a music venue in downtown Baltimore which operated from 1977 to 2006. It was founded by Louis J. Principio III. The club attracted many big-name national acts, but also showcased many rising stars in the music world.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hammerjacks",
+    "score": 0
+  },
+  {
+    "id": "wp:lordbaltimorehotel",
+    "name": "Lord Baltimore Hotel",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28972,
+    "lng": -76.61611,
+    "dist": 13.6,
+    "description": "The Lord Baltimore Hotel is located at 20 West Baltimore Street, on the northeast corner of the intersection with North Hanover Street, and one block west of the main downtown thoroughfare of North Charles Street, in the downtown area of Baltimore, Maryland.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lord_Baltimore_Hotel",
+    "score": 0
+  },
+  {
+    "id": "wp:commercialcreditcomp",
+    "name": "Commercial Credit Company Building",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29278,
+    "lng": -76.61417,
+    "dist": 13.8,
+    "description": "The Commercial Credit Company Building, also known as The Residences at 300 St. Paul, is a historic building located in Baltimore, Maryland, United States.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Commercial_Credit_Company_Building",
+    "score": 0
+  },
+  {
+    "id": "wp:100lightstreet",
+    "name": "100 Light Street",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.28728,
+    "lng": -76.61444,
+    "dist": 13.4,
+    "description": "100 Light Street (colloquially known by its most recent former label, the Transamerica Tower) is a 40-story, 528 ft (161 m) skyscraper completed in 1973 in downtown Baltimore, Maryland. It occupies the city block bounded by South Charles (Maryland Route 139), East Lombard, Light and East Pratt Stree",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/100_Light_Street",
+    "score": 0
+  },
+  {
+    "id": "wp:terminalwarehouse",
+    "name": "Terminal Warehouse",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29333,
+    "lng": -76.61111,
+    "dist": 13.7,
+    "description": "Terminal Warehouse, also known as the Flour Warehouse of Terminal Corporation, is a historic warehouse building located at Baltimore, Maryland, United States. It has a common bond brick exterior accented by a rusticated brownstone foundation built originally in 1894, with a steel beam addition const",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Terminal_Warehouse",
+    "score": 0
+  },
+  {
+    "id": "wp:300eastprattstreet",
+    "name": "300 East Pratt Street",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2866,
+    "lng": -76.6109,
+    "dist": 13.3,
+    "description": "300 East Pratt Street is a high-rise building located in Baltimore, Maryland between Commerce and South streets, on what was once the location of the Baltimore News-American building. It sits along the north side of Pratt Street, almost directly north of the Baltimore World Trade Center.",
+    "zone": "Baltimore City",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/300_East_Pratt_Street",
+    "score": 0
+  },
+  {
+    "id": "wp:chizukamunocongregat",
+    "name": "Chizuk Amuno Congregation",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.39293,
+    "lng": -76.71425,
+    "dist": 22.2,
+    "description": "Chizuk Amuno Congregation (Hebrew: ק\"ק חזוק אמונה, lit. 'Perpetuators of Faith') is a Conservative Jewish congregation and synagogue, located on Stevenson Road, in Pikesville, a suburb of Baltimore, Maryland, in the United States.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chizuk_Amuno_Congregation",
+    "score": 0
+  },
+  {
+    "id": "wp:bethelcongregationpi",
+    "name": "Beth El Congregation (Pikesville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.39176,
+    "lng": -76.72268,
+    "dist": 22.3,
+    "description": "Beth El Congregation is a Conservative Jewish congregation and synagogue, located at 8101 Park Heights Avenue, in Pikesville, an outer suburb of greater Baltimore, Maryland, in the United States. The congregation was established in 1948.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beth_El_Congregation_%28Pikesville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:greyrockmansion",
+    "name": "Grey Rock Mansion",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.39389,
+    "lng": -76.7375,
+    "dist": 22.8,
+    "description": "Grey Rock Mansion is a historic mansion in Pikesville, Maryland, United States, located at 400 Grey Rock Road. The original property was improved in the late 1850s on what was the ancestral homestead of John Eager Howard with a large Italian country estate mansion.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Grey_Rock_Mansion",
+    "score": 0
+  },
+  {
+    "id": "wp:wbjc",
+    "name": "WBJC",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.3865,
+    "lng": -76.73081,
+    "dist": 22.2,
+    "description": "WBJC (91.5 FM) is a non-commercial educational radio station licensed to Baltimore, Maryland, United States. Owned by Baltimore City Community College, it airs a classical music format, with studios and offices located on Reisterstown Road in Baltimore.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WBJC",
+    "score": 0
+  },
+  {
+    "id": "wp:wqsr",
+    "name": "WQSR",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.38647,
+    "lng": -76.73081,
+    "dist": 22.2,
+    "description": "WQSR (102.7 MHz, \"102-7 Jack FM\") is a commercial FM radio station licensed to Baltimore, Maryland. The station is owned by iHeartMedia through licensee iHM Licenses, LLC. It broadcasts an adult hits format, using the syndicated \"Jack FM\" service and trademark.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WQSR",
+    "score": 0
+  },
+  {
+    "id": "wp:greenspringvalleyhis",
+    "name": "Green Spring Valley Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41528,
+    "lng": -76.71278,
+    "dist": 23.6,
+    "description": "Green Spring Valley Historic District is a national historic district near Stevenson in Baltimore County, Maryland, United States. It is a suburban area of Baltimore that acquires significance from the collection of 18th, 19th, and early 20th century buildings.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Green_Spring_Valley_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:bethtfilohcongregati",
+    "name": "Beth Tfiloh Congregation",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.38583,
+    "lng": -76.70653,
+    "dist": 21.6,
+    "description": "Beth Tfiloh Congregation is a Modern Orthodox congregation and synagogue located at 3300 Old Court Road, in Pikesville, Maryland, in the United States. With approximately 3,500 members, and seating for 1,600 worshippers, Beth Tfiloh claims it is the largest Modern Orthodox congregation in the United",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beth_Tfiloh_Congregation",
+    "score": 0
+  },
+  {
+    "id": "wp:internationaldyslexi",
+    "name": "International Dyslexia Association",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.38905,
+    "lng": -76.73831,
+    "dist": 22.5,
+    "description": "The International Dyslexia Association (IDA) is a non-profit education and advocacy organization devoted to issues surrounding dyslexia. Its headquarters are located in Pikesville, Maryland, United States.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/International_Dyslexia_Association",
+    "score": 0
+  },
+  {
+    "id": "wp:dumbartonhistoricdis",
+    "name": "Dumbarton Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.37693,
+    "lng": -76.71026,
+    "dist": 21.1,
+    "description": "Dumbarton Historic District is a national historic district in Pikesville, Baltimore County, Maryland, United States. The suburban subdivision features curvilinear streets, generously sized lots, and naturalistic landscaping that generally reflect design principles associated with Frederick Law Olms",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dumbarton_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:westerogle",
+    "name": "Wester Ogle",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.39194,
+    "lng": -76.75028,
+    "dist": 23.0,
+    "description": "Wester Ogle is a historic home located at Pikesville, Baltimore County, Maryland, United States. It is a large, Federal-influenced house constructed about 1842.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wester_Ogle",
+    "score": 0
+  },
+  {
+    "id": "wp:marylandstatepolice",
+    "name": "Maryland State Police",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.37495,
+    "lng": -76.72297,
+    "dist": 21.3,
+    "description": "The Maryland State Police (MSP), officially the Maryland Department of State Police (MDSP), is the official state police force of the U.S. state of Maryland. The Maryland State Police is headquartered at 1201 Reisterstown Road in the Pikesville CDP in unincorporated Baltimore County.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maryland_State_Police",
+    "score": 0
+  },
+  {
+    "id": "wp:quarrylakemaryland",
+    "name": "Quarry Lake (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.3825,
+    "lng": -76.69111,
+    "dist": 21.0,
+    "description": "Quarry Lake is a manmade lake in the Pikesville area of Baltimore County, Maryland. Originally a marble quarry, it is now one of the deepest lakes in the state.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quarry_Lake_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:baltimorehebrewcongr",
+    "name": "Baltimore Hebrew Congregation",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.37192,
+    "lng": -76.70936,
+    "dist": 20.8,
+    "description": "The Baltimore Hebrew Congregation is a Reform Jewish congregation and synagogue located at 7401 Park Heights Avenue, in Pikesville, on the border of Baltimore City and Baltimore County, Maryland, in the United States.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_Hebrew_Congregation",
+    "score": 0
+  },
+  {
+    "id": "wp:pikesvillearmory",
+    "name": "Pikesville Armory",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36889,
+    "lng": -76.72167,
+    "dist": 20.9,
+    "description": "The Pikesville Armory was built in 1903 to support the expansion of the National Guard program. The second-oldest armory in Maryland, it was designed by architects Wyatt and Nolting.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pikesville_Armory",
+    "score": 0
+  },
+  {
+    "id": "wp:harsinaiohebshalomco",
+    "name": "Har Sinai – Oheb Shalom Congregation",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36944,
+    "lng": -76.71057,
+    "dist": 20.7,
+    "description": "Har Sinai – Oheb Shalom Congregation (transliterated from Hebrew as \"Mount Sinai - Lovers of Peace Congregation\") is a Reform Jewish congregation and synagogue located at 7310 Park Heights Avenue, in Pikesville, Baltimore County, Maryland, in the United States. Established in 1842 in Baltimore and k",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Har_Sinai_%E2%80%93_Oheb_Shalom_Congregation",
+    "score": 0
+  },
+  {
+    "id": "wp:gramercymansion",
+    "name": "Gramercy Mansion",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42617,
+    "lng": -76.69685,
+    "dist": 23.9,
+    "description": "Gramercy Mansion is a historic mansion in Stevenson, Maryland, United States, located on Greenspring Valley Road near Stevenson University. It was built in 1902 by Alexander J. Cassatt, president of the Pennsylvania Railroad and brother of the American Impressionist painter, Mary Cassatt.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gramercy_Mansion",
+    "score": 0
+  },
+  {
+    "id": "wp:greenspringavenue",
+    "name": "Greenspring Avenue",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.3786,
+    "lng": -76.68414,
+    "dist": 20.6,
+    "description": "Greenspring Avenue is a road in Baltimore, Maryland and its northwestern suburbs. At one time, Greenspring Avenue was Maryland Route 519 from Worthington Road to Dover Road, but the road has since been decommissioned and no longer has any numerical designation.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Greenspring_Avenue",
+    "score": 0
+  },
+  {
+    "id": "wp:samesterparkwayapart",
+    "name": "Samester Parkway Apartments",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36611,
+    "lng": -76.70639,
+    "dist": 20.3,
+    "description": "Samester Parkway Apartments is a historic apartment complex in Baltimore, Maryland, United States. The 72-unit complex consists of two symmetrical detached wings, massed as stacked chevrons of six apartment buildings each, that face each other across a central courtyard.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samester_Parkway_Apartments",
+    "score": 0
+  },
+  {
+    "id": "wp:rocklandbrooklandvil",
+    "name": "Rockland (Brooklandville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40306,
+    "lng": -76.67083,
+    "dist": 21.9,
+    "description": "Rockland is a historic home located on Falls Road in Brooklandville, Baltimore County, Maryland. It is a 2+1⁄2-story Greek Revival-influenced house consisting of a three-bay-wide main block, constructed in 1837, with two telescoping additions, a two-bay-wide stage completed in 1852, and a three-bay-",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rockland_%28Brooklandville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:fallstaffbaltimore",
+    "name": "Fallstaff, Baltimore",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36278,
+    "lng": -76.70569,
+    "dist": 20.1,
+    "description": "Fallstaff is a neighborhood in the Upper Park Heights area of Northwest Baltimore, Maryland, and is one of the city's northwesternmost communities. The area, which is mostly middle class, is part of the center of Baltimore's Orthodox Jewish community, and also has a heavy African-American and immigr",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fallstaff%2C_Baltimore",
+    "score": 0
+  },
+  {
+    "id": "wp:thecloistersluthervi",
+    "name": "The Cloisters (Lutherville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41083,
+    "lng": -76.67139,
+    "dist": 22.5,
+    "description": "The Cloisters, also known as Cloisters Castle, is a historic home in Lutherville, Baltimore County, Maryland, United States. The building was completed in 1932, after three years of construction.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Cloisters_%28Lutherville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:rocklandhistoricdist",
+    "name": "Rockland Historic District (Brooklandville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40083,
+    "lng": -76.66833,
+    "dist": 21.8,
+    "description": "Rockland Historic District is a national historic district at Brooklandville, Baltimore County, Maryland, United States. It is located at the intersection of Old Court Road and Falls Road, where Old Court turns into Ruxton Road.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rockland_Historic_District_%28Brooklandville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:deeprunjonesfalls",
+    "name": "Deep Run (Jones Falls)",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.41444,
+    "lng": -76.67056,
+    "dist": 22.7,
+    "description": "Deep Run is a tributary of Jones Falls a stream in Baltimore County, Maryland, in the United States.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Deep_Run_%28Jones_Falls%29",
+    "score": 0
+  },
+  {
+    "id": "wp:brooklandvillehouse",
+    "name": "Brooklandville House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41111,
+    "lng": -76.6675,
+    "dist": 22.4,
+    "description": "Brooklandville House, or the Valley Inn, is a historic restaurant and tavern building, and a former inn, located in Brooklandville, Baltimore County, Maryland. It is a 2+1⁄2-story stone structure facing the former railroad and dating from about 1832.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brooklandville_House",
+    "score": 0
+  },
+  {
+    "id": "wp:foundryrow",
+    "name": "Foundry Row",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41272,
+    "lng": -76.7733,
+    "dist": 24.9,
+    "description": "Foundry Row is a lifestyle center/mixed-use development built on the former site of a Solo Cup Company factory in Owings Mills, Maryland, United States. Its anchor stores are Wegmans, Old Navy and Designer Shoe Warehouse.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Foundry_Row",
+    "score": 0
+  },
+  {
+    "id": "wp:congregationshomreie",
+    "name": "Congregation Shomrei Emunah (Baltimore)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36889,
+    "lng": -76.68028,
+    "dist": 19.9,
+    "description": "Congregation Shomrei Emunah (Hebrew: קהילת שומרי אמונה) is an Orthodox Jewish synagogue in the Greenspring neighborhood of Baltimore, Maryland. Rabbi Binyamin Marwick is the synagogue's rabbi.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Congregation_Shomrei_Emunah_%28Baltimore%29",
+    "score": 0
+  },
+  {
+    "id": "wp:wcao",
+    "name": "WCAO",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42972,
+    "lng": -76.76167,
+    "dist": 25.6,
+    "description": "WCAO (600 kHz \"Heaven 600\") is a commercial AM radio station in Baltimore, Maryland. It broadcasts an urban contemporary gospel radio format and is owned by iHeartMedia, Inc.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WCAO",
+    "score": 0
+  },
+  {
+    "id": "wp:forestparkbaltimore",
+    "name": "Forest Park, Baltimore",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36324,
+    "lng": -76.68886,
+    "dist": 19.8,
+    "description": "Forest Park (and Howard Park) is a region of Northwest Baltimore, Maryland located west of Reisterstown Road, south of Northern Parkway, and east of the Baltimore City/County line. In Baltimore, the region is referred to by locals simply as \"Forest Park\" and includes the neighborhoods of Ashburton, ",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Forest_Park%2C_Baltimore",
+    "score": 0
+  },
+  {
+    "id": "wp:cheswoldebaltimore",
+    "name": "Cheswolde, Baltimore",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.36324,
+    "lng": -76.68886,
+    "dist": 19.8,
+    "description": "Cheswolde is residential community in northwest Baltimore, Maryland. It is located along the Western Run.",
+    "zone": "Baltimore County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cheswolde%2C_Baltimore",
+    "score": 0
+  },
+  {
+    "id": "wp:lakekittamaqundi",
+    "name": "Lake Kittamaqundi",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21194,
+    "lng": -76.85528,
+    "dist": 18.8,
+    "description": "Lake Kittamaqundi is a man made 27-acre (110,000 m2) reservoir located in Columbia, Maryland in the vicinity of the Mall in Columbia as well as Merriweather Post Pavilion. It is also adjacent to offices and visible from US-29.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lake_Kittamaqundi",
+    "score": 0
+  },
+  {
+    "id": "wp:oaklandmillsblacksmi",
+    "name": "Oakland Mills Blacksmith House and Shop",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.22139,
+    "lng": -76.8475,
+    "dist": 18.7,
+    "description": "The Oakland Mills Blacksmith House and Shop, also known as Felicity, is a historic property at 5471 Old Columbia Road in Oakland Mills, Maryland.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oakland_Mills_Blacksmith_House_and_Shop",
+    "score": 0
+  },
+  {
+    "id": "wp:oaklandmanor",
+    "name": "Oakland Manor",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.22227,
+    "lng": -76.85571,
+    "dist": 19.1,
+    "description": "Oakland or Oakland Manor is a Federal style stone manor house commissioned in 1810 by Charles Sterrett Ridgely in the Howard District of Anne Arundel County, Maryland (now Howard County). The lands that became Oakland Manor were patented by John Dorsey as \"Dorsey's Adventure\" in 1688 which was wille",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oakland_Manor",
+    "score": 0
+  },
+  {
+    "id": "wp:themallincolumbia",
+    "name": "The Mall in Columbia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.215,
+    "lng": -76.861,
+    "dist": 19.1,
+    "description": "The Mall in Columbia, also known as the Columbia Mall, is the central shopping mall for the planned community of Columbia, Maryland, United States. It has over 200 specialty stores and the anchor stores are AMC Theatres, Lidl, Main Event Entertainment, Barnes & Noble, JCPenney, Macy's, and Nordstrom",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Mall_in_Columbia",
+    "score": 0
+  },
+  {
+    "id": "wp:2014columbiamallshoo",
+    "name": "2014 Columbia Mall shooting",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.215,
+    "lng": -76.861,
+    "dist": 19.1,
+    "description": "On January 25, 2014, a shooting occurred at The Mall in Columbia in Columbia, Maryland. Nineteen-year-old Darion Marcus Aguilar, a resident of College Park, Maryland, shot and killed two employees before committing suicide in the mall.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2014_Columbia_Mall_shooting",
+    "score": 0
+  },
+  {
+    "id": "wp:tobysdinnertheatre",
+    "name": "Toby's Dinner Theatre",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20892,
+    "lng": -76.85849,
+    "dist": 18.9,
+    "description": "Toby's Dinner Theatre is a dinner theater based in Columbia, Maryland.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Toby%27s_Dinner_Theatre",
+    "score": 0
+  },
+  {
+    "id": "wp:merriweatherparkatsy",
+    "name": "Merriweather Park at Symphony Woods",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2098,
+    "lng": -76.86227,
+    "dist": 19.1,
+    "description": "Merriweather Park at Symphony Woods is a large central park in downtown Columbia, Maryland. The park includes the Chrysalis, a 2016 amphitheater with lawn seating.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Merriweather_Park_at_Symphony_Woods",
+    "score": 0
+  },
+  {
+    "id": "wp:blandair",
+    "name": "Blandair",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21222,
+    "lng": -76.83639,
+    "dist": 17.9,
+    "description": "Blandair, also known as Blandair Farm, Blandair Park, and Blandair Regional Park, is 300 acres of former slave plantation located in Columbia, Maryland. The Blandair Foundation estate of Mrs.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Blandair",
+    "score": 0
+  },
+  {
+    "id": "wp:merriweatherpostpavi",
+    "name": "Merriweather Post Pavilion",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20925,
+    "lng": -76.86267,
+    "dist": 19.1,
+    "description": "Merriweather Post Pavilion is an outdoor concert venue located in the planned community of Columbia, Maryland. In 2010, Merriweather was named the second best amphitheater in the United States by Billboard magazine.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Merriweather_Post_Pavilion",
+    "score": 0
+  },
+  {
+    "id": "wp:columbiamaryland",
+    "name": "Columbia, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20361,
+    "lng": -76.85694,
+    "dist": 18.6,
+    "description": "Columbia is a planned community in Howard County, Maryland, United States, consisting of 10 self-contained villages. With a population of 104,681 at the 2020 census, it is the second-most-populous community in Maryland, after Baltimore.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Columbia%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:chemicalpropulsionin",
+    "name": "Chemical Propulsion Information Analysis Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21472,
+    "lng": -76.87083,
+    "dist": 19.6,
+    "description": "The Chemical Propulsion Information Analysis Center (CPIAC) is one of several United States Department of Defense (DoD) sponsored Information Analysis Centers (IACs), administered by the Defense Technical Information Center (DTIC). CPIAC is the oldest IAC, having been in continuous operation since 1",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chemical_Propulsion_Information_Analysis_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:wildelakecolumbiamar",
+    "name": "Wilde Lake, Columbia, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.22556,
+    "lng": -76.86639,
+    "dist": 19.7,
+    "description": "Wilde Lake is a human-made drainage reservoir dug in 1966 and the name of the surrounding \"village\" of neighborhoods located in Columbia, Maryland, just north and west of Columbia Town Center. The village was the first part of Columbia's \"New Town\" to be built in the late 1960s, James W. Rouse and F",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wilde_Lake%2C_Columbia%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:igleharthousecolumbi",
+    "name": "Iglehart House (Columbia, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.1975,
+    "lng": -76.8525,
+    "dist": 18.3,
+    "description": "The Iglehart House (c. 1846) was a historic home located in Columbia, Maryland, Howard County, Maryland, now part of the Rouse Company land development. The property was originally an undeveloped 119-acre tract of land granted by Edward T. Iglehart to his daughter Sussanah.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Iglehart_House_%28Columbia%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:fairfieldfarm",
+    "name": "Fairfield Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.23111,
+    "lng": -76.85972,
+    "dist": 19.6,
+    "description": "Fairfield Farm is a historic farm located near Ellicott City, now Columbia in Howard County, Maryland, United States. Fairfield farm was a 200-acre farm at the crossroads community of Columbia.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fairfield_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:arlingtoncolumbiamar",
+    "name": "Arlington (Columbia, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.23611,
+    "lng": -76.84417,
+    "dist": 19.0,
+    "description": "Arlington is a historic slave plantation located in Columbia, Howard County, Maryland, now part of the Fairway Hills Golf Course. The estate occupied several original land patents including \"Dorsey's Search, Talbot's Resolution Manor, and Long Reach\".",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Arlington_%28Columbia%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:dasherfarm",
+    "name": "Dasher Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.19,
+    "lng": -76.84306,
+    "dist": 17.6,
+    "description": "The Dasher Farm is a historic farm located in Columbia, Howard County, Maryland, now part of the Rouse Company land development. Hammond Dorsey operated Elkhorn plantation on the site.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dasher_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:woodlawncolumbiamary",
+    "name": "Woodlawn (Columbia, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.23472,
+    "lng": -76.82583,
+    "dist": 18.1,
+    "description": "Woodlawn, is a historic slave plantation located at Columbia, Howard County, Maryland. It is a two-story, stuccoed stone house built in 1840 with wood frame portions constructed about 1785.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodlawn_%28Columbia%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:centenniallakemaryla",
+    "name": "Centennial Lake (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.24333,
+    "lng": -76.855,
+    "dist": 19.7,
+    "description": "Centennial Lake is a man-made 54-acre (220,000 m2) reservoir, in a 325-acre (1.32 km2) park in Howard County, Maryland, near Columbia, Maryland and Clarksville, known as Centennial Park. It was created by damming the Centennial Branch of the Little Patuxent River.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Centennial_Lake_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:clarkselioakfarm",
+    "name": "Clark's Elioak Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2358,
+    "lng": -76.87618,
+    "dist": 20.5,
+    "description": "Clark's Elioak Farm is a historic farm and petting zoo located along Maryland Route 108 in Howard County, Maryland, covering 540 acres. All of the acreage is part of county or state farmland protection programs, barring use of the property for non-farm development.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clark%27s_Elioak_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:atholmanor",
+    "name": "Athol Manor",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.18778,
+    "lng": -76.87111,
+    "dist": 19.0,
+    "description": "Athol is a historic slave manor and rectory located in Columbia (Simpsonville), Howard County, Maryland, U.S.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Athol_Manor",
+    "score": 0
+  },
+  {
+    "id": "wp:lakeelkhorn",
+    "name": "Lake Elkhorn",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.1836,
+    "lng": -76.8409,
+    "dist": 17.4,
+    "description": "Lake Elkhorn is a 37-acre (150,000 m2) reservoir located in the Owen Brown area of Columbia, Maryland. It is Columbia's third and largest lake.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lake_Elkhorn",
+    "score": 0
+  },
+  {
+    "id": "wp:dorseyhall",
+    "name": "Dorsey Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.24528,
+    "lng": -76.83472,
+    "dist": 18.9,
+    "description": "Dorsey Hall is a historic home in Columbia, Maryland, United States. It is a six-by-one-bay, 2+1⁄2-story stucco structure with a gable roof covered with asphalt shingles.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dorsey_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:mountjoyfarm",
+    "name": "Mountjoy Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.23764,
+    "lng": -76.81917,
+    "dist": 17.9,
+    "description": "Mount Joy (sometimes called Santa Fe) is a historic slave plantation in Ellicott City, Howard County, Maryland, which has a current address of 5000 Executive Park Drive. The farm is located on the original land grant named Chews Resolution Manor.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mountjoy_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:elioakmaryland",
+    "name": "Elioak, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.23472,
+    "lng": -76.88667,
+    "dist": 21.0,
+    "description": "Elioak is an unincorporated community in Howard County, Maryland, United States. It was the home of the \"Pushpin Farm\", a 200-acre slave plantation purchased in 1724 in the Howard District of Anne Arundel County by Col.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elioak%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:columbiacenterforthe",
+    "name": "Columbia Center for Theatrical Arts",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.18678,
+    "lng": -76.82398,
+    "dist": 16.6,
+    "description": "Columbia Center for Theatrical Arts (CCTA) is a Greater Washington D.C. Area regional theater school based in Columbia, Maryland. CCTA is a non-profit 501(c)(3) organization that is funded, in part, by the National Endowment for the Arts, the Maryland State Arts Council, and the Howard County Arts C",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Columbia_Center_for_Theatrical_Arts",
+    "score": 0
+  },
+  {
+    "id": "wp:elkridgefarm",
+    "name": "Elkridge Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.25056,
+    "lng": -76.8425,
+    "dist": 19.4,
+    "description": "Elkridge Farm, is a historic slave plantation located in Ellicott City in Howard County, Maryland, United States. In 1913, James Booker Clark built a mansion resembling the White House to house seven children.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elkridge_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:brotherspartnership",
+    "name": "Brother's Partnership",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21278,
+    "lng": -76.80306,
+    "dist": 16.3,
+    "description": "Brother's Partnership (also called Peter Harmon House) is a historic house in Ellicott City, Howard County, Maryland. The house is located on a 600-acre tract patented in 1734 by Joshua Dorsey named \"Brother's Partnership\".",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brother%27s_Partnership",
+    "score": 0
+  },
+  {
+    "id": "wp:oakhallcolumbiamaryl",
+    "name": "Oak Hall (Columbia, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.18556,
+    "lng": -76.82222,
+    "dist": 16.5,
+    "description": "Oak Hall was a historic farm and manor house located in Columbia, Howard County, Maryland. It was occupied by the Dorsey family from the time of construction in 1809 until it was demolished in 1985.",
+    "zone": "Howard County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oak_Hall_%28Columbia%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:associationforstuden",
+    "name": "Association for Student Conduct Administration",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "dist": 30.2,
+    "description": "The Association for Student Conduct Administration (ASCA), formerly the Association for Student Judicial Affairs, is the leading voice for student conduct administration within higher education, conflict resolution, law and public policy related to student conduct administration. ASCA also attracts ",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Association_for_Student_Conduct_Administration",
+    "score": 0
+  },
+  {
+    "id": "wp:danielwebstermemoria",
+    "name": "Daniel Webster Memorial",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90722,
+    "lng": -77.03728,
+    "dist": 30.2,
+    "description": "The Daniel Webster Memorial is a monument in Washington, D.C., honoring U.S. statesman and lawyer Daniel Webster. It is located near Webster's former house, beside Scott Circle, at the intersection of Massachusetts Avenue, N Street, and Rhode Island Avenue NW. The person who commissioned the memoria",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Daniel_Webster_Memorial",
+    "score": 0
+  },
+  {
+    "id": "wp:equestrianstatueofwi",
+    "name": "Equestrian statue of Winfield Scott",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90724,
+    "lng": -77.03651,
+    "dist": 30.2,
+    "description": "Brevet Lt. General Winfield Scott is an equestrian statue in Washington, D.C., that honors career military officer Winfield Scott.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Winfield_Scott",
+    "score": 0
+  },
+  {
+    "id": "wp:australianseal",
+    "name": "Australian Seal",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90769,
+    "lng": -77.03692,
+    "dist": 30.2,
+    "description": "Australian Seal is an outdoor sculpture of 1968–69 by Thomas Bass, installed outside the Embassy of Australia, Washington, D.C., in the United States. The bronze sculpture measures approximately 8 feet (2.4 m) x 5 feet (1.5 m) x 2 feet (0.61 m) and is set on a flagstone base.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Australian_Seal",
+    "score": 0
+  },
+  {
+    "id": "wp:chineseamericanmuseu",
+    "name": "Chinese American Museum DC",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90631,
+    "lng": -77.03684,
+    "dist": 30.3,
+    "description": "The Chinese American Museum DC (abbreviated CAMDC) is a cultural museum in Downtown Washington, DC, established through the efforts of The Chinese American Museum Foundation, private benefactors, and the general public. The museum focuses on the history of Chinese in America with an emphasis on the ",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chinese_American_Museum_DC",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyofthephilippi",
+    "name": "Embassy of the Philippines, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90722,
+    "lng": -77.03806,
+    "dist": 30.3,
+    "description": "The Embassy of the Philippines in Washington, D.C. (Filipino: Pasuguan ng Pilipinas sa Washington D.C. also Filipino: Embahada ng Pilipinas sa Washington D.C.) is the diplomatic mission of the Republic of the Philippines to the United States. It is located at 1600 Massachusetts Avenue, Northwest, Wa",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_the_Philippines%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:samuelhahnemannmonum",
+    "name": "Samuel Hahnemann Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90726,
+    "lng": -77.03572,
+    "dist": 30.2,
+    "description": "The Samuel Hahnemann Monument, also known as Dr. Samuel Hahnemann, is a public artwork dedicated to German physician Samuel Hahnemann, the founder of homeopathy.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Hahnemann_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:thewildernesssociety",
+    "name": "The Wilderness Society (United States)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90593,
+    "lng": -77.03733,
+    "dist": 30.3,
+    "description": "The Wilderness Society is an American non-profit land conservation organization that is dedicated to protecting natural areas and federal public lands in the United States. They advocate for the designation of federal wilderness areas and other protective designations, such as for national monuments",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Wilderness_Society_%28United_States%29",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyofperuwashing",
+    "name": "Embassy of Peru, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9075,
+    "lng": -77.03861,
+    "dist": 30.3,
+    "description": "The Embassy of Peru in the United States is the diplomatic mission of the Republic of Peru to the United States. It is housed at Emily J. Wilkins House, located at 1700 Massachusetts Avenue, Northwest, Washington, D.C., in the Embassy Row neighborhood.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_Peru%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:kimptonbannekerhotel",
+    "name": "Kimpton Banneker Hotel",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9082,
+    "lng": -77.0362,
+    "dist": 30.2,
+    "description": "Kimpton Banneker Hotel is a 144-room boutique hotel located at 16th Street Northwest and Rhode Island Avenue in Washington, D.C. It is located at Scott Circle across from the Australian embassy. Originally a 1967 apartment building and then a Quality hotel, it opened as the Kimpton Rouge Hotel on De",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kimpton_Banneker_Hotel",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyoftunisiawash",
+    "name": "Embassy of Tunisia, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90676,
+    "lng": -77.03514,
+    "dist": 30.2,
+    "description": "The Embassy of Tunisia in Washington, D.C. is the diplomatic mission of the Tunisian Republic to the United States. It is located at 1515 Massachusetts Avenue NW in Washington, D.C., on the east side of Scott Circle and on the eastern edge of Embassy Row.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_Tunisia%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsoft",
+    "name": "List of ambassadors of Tunisia to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90676,
+    "lng": -77.03514,
+    "dist": 30.2,
+    "description": "The Tunisian Ambassador in Washington, D.C. is the official representative of the Government in Tunis to the Government of United States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Tunisia_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsoft",
+    "name": "List of ambassadors of Trinidad and Tobago to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9075,
+    "lng": -77.03889,
+    "dist": 30.3,
+    "description": "The Trinidadian and Tobagonian ambassador in Washington, D.C. is the official representative of the government of the Republic of Trinidad and Tobago to the government of the United States and representative to the Organization of American States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Trinidad_and_Tobago_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyofserbiawashi",
+    "name": "Embassy of Serbia, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90833,
+    "lng": -77.03583,
+    "dist": 30.1,
+    "description": "The Embassy of Serbia, Washington, D.C. (Serbian: Амбасада Србије у Вашингтону) or alternatively, Serbian Embassy, Washington, D.C. (Serbian: Српска амбасада у Вашингтону) is the primary diplomatic mission of Serbia to the United States. The embassy is located at 1333 16th Street NW, in the Dupont C",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_Serbia%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsofm",
+    "name": "List of ambassadors of Mauritius to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9073,
+    "lng": -77.03905,
+    "dist": 30.3,
+    "description": "The Mauritian ambassador in Washington, D. C. is the official representative of the Government in Port Louis to the Government of the United States. He is also Permanent Representative next the Headquarters of the United Nations.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Mauritius_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:brodheadbellmortonma",
+    "name": "Brodhead-Bell-Morton Mansion",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90774,
+    "lng": -77.03505,
+    "dist": 30.1,
+    "description": "The Brodhead-Bell-Morton Mansion, also known as the Levi P. Morton House is a historic Beaux-Arts home, located at 1500 Rhode Island Avenue, Northwest, Washington, D.C., in the Logan Circle neighborhood.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brodhead-Bell-Morton_Mansion",
+    "score": 0
+  },
+  {
+    "id": "wp:statueoftheboyfrompe",
+    "name": "Statue of the Boy from Pest (Washington, D.C.)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90774,
+    "lng": -77.03505,
+    "dist": 30.1,
+    "description": "The statue of the Boy from Pest (Hungarian: A Pesti srác szobra) is a bronze sculpture in Washington, D.C., in the United States, within the city's Northwest quadrant. It is placed in front the embassy of Hungary in the Brodhead-Bell-Morton Mansion, at 1500 Rhode Island Avenue.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Statue_of_the_Boy_from_Pest_%28Washington%2C_D.C.%29",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalgeographicso",
+    "name": "National Geographic Society Headquarters",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90528,
+    "lng": -77.03694,
+    "dist": 30.3,
+    "description": "The National Geographic Society Headquarters is a historic complex of buildings in Washington, D.C., United States. The complex was constructed in phases beginning in 1904 to house the offices and museum of the National Geographic Society, a scientific and educational nonprofit institution that has ",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Geographic_Society_Headquarters",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsoft",
+    "name": "List of ambassadors of the Federated States of Micronesia to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90783,
+    "lng": -77.03895,
+    "dist": 30.3,
+    "description": "The Micronesian ambassador in Washington, D. C. is the official representative of the Government in Palikir to the Government of the United States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_the_Federated_States_of_Micronesia_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsofk",
+    "name": "List of ambassadors of Kazakhstan to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90861,
+    "lng": -77.03611,
+    "dist": 30.2,
+    "description": "The Kazakh ambassador in Washington, D. C. is the official representative of the Government in Astana to the Government of the United States and is concurrently accredited in Brasília.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Kazakhstan_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyofkazakhstanw",
+    "name": "Embassy of Kazakhstan, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90861,
+    "lng": -77.03611,
+    "dist": 30.2,
+    "description": "The Embassy of Kazakhstan in Washington, D.C. is the diplomatic mission of the Republic of Kazakhstan to the United States. It is located at 1401 16th Street Northwest, Washington, D.C. in the Dupont Circle neighborhood.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_Kazakhstan%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:robertsimpsonwoodwar",
+    "name": "Robert Simpson Woodward House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90889,
+    "lng": -77.03639,
+    "dist": 30.2,
+    "description": "The Robert Simpson Woodward House is a former residence located at 1513 16th Street, NW in the Dupont Circle neighborhood of Washington, D.C. From 1904 until 1914, it was a home of geologist Robert Simpson Woodward (1849–1924), the first president of the Carnegie Institution and a highly regarded sc",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_Simpson_Woodward_House",
+    "score": 0
+  },
+  {
+    "id": "wp:washingtonsocietyofl",
+    "name": "Washington Society of Landscape Painters",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90665,
+    "lng": -77.03449,
+    "dist": 30.1,
+    "description": "The Washington Society of Landscape Painters is one of the United States' oldest fine art organizations.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Washington_Society_of_Landscape_Painters",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalgeographicso",
+    "name": "National Geographic Society",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9051,
+    "lng": -77.0379,
+    "dist": 30.3,
+    "description": "The National Geographic Society, headquartered in Washington, D.C., United States, is one of the largest nonprofit scientific and educational organizations in the world. Founded in 1888, its interests include geography, archaeology, natural science, the promotion of environmental and historical cons",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Geographic_Society",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalassociationo",
+    "name": "National Association of Women Judges",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90903,
+    "lng": -77.03705,
+    "dist": 30.2,
+    "description": "National Association of Women Judges (NAWJ) is an American professional organization founded in 1979. Members are lawyers and women judges who are dedicated to preserving judicial independence to women, minorities and other historically disfavored groups while increasing the number and advancement o",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Association_of_Women_Judges",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalnetworktoend",
+    "name": "National Network to End Domestic Violence",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90903,
+    "lng": -77.03705,
+    "dist": 30.2,
+    "description": "The National Network to End Domestic Violence (NNEDV) is a 501(c)(3) not-for-profit organization founded in 1990, based in the District of Columbia. It is a network of state and territorial domestic violence coalitions, representing over 2,000 member organizations throughout the US. The National Net",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Network_to_End_Domestic_Violence",
+    "score": 0
+  },
+  {
+    "id": "wp:courtyardbymarriottw",
+    "name": "Courtyard by Marriott Washington, DC Dupont Circle Hotel",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9072,
+    "lng": -77.0396,
+    "dist": 30.4,
+    "description": "The Courtyard by Marriott Washington, DC Dupont Circle is a 143-room hotel, located at 1733 N Street Northwest, between Dupont Circle and Scott Circle in Washington, D.C.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Courtyard_by_Marriott_Washington%2C_DC_Dupont_Circle_Hotel",
+    "score": 0
+  },
+  {
+    "id": "wp:ctiaorganization",
+    "name": "CTIA (organization)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90906,
+    "lng": -77.03694,
+    "dist": 30.2,
+    "description": "CTIA is a trade association representing the wireless communications industry in the United States. The association was established in 1984 and is headquartered in Washington, D.C. It is a 501(c)(6) nonprofit membership organization, and represents wireless carriers and suppliers, and manufacturers ",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/CTIA_%28organization%29",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalmuseumofcath",
+    "name": "National Museum of Catholic Art and History",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90557,
+    "lng": -77.03903,
+    "dist": 30.4,
+    "description": "The National Museum of Catholic Art and History is a museum in Washington, D.C., focusing on Catholic art. It was formerly located in East Harlem, Manhattan, New York City.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Museum_of_Catholic_Art_and_History",
+    "score": 0
+  },
+  {
+    "id": "wp:universityclubofwash",
+    "name": "University Club of Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90492,
+    "lng": -77.03597,
+    "dist": 30.3,
+    "description": "The University Club of Washington, D.C., is an American private club in downtown Washington, D.C..",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/University_Club_of_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:foodwaterwatch",
+    "name": "Food & Water Watch",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90922,
+    "lng": -77.0375,
+    "dist": 30.2,
+    "description": "Food & Water Watch is a Washington, D.C.-based non-governmental organization group with an office also in Los Angeles, California, which focuses on corporate and government accountability relating to food, water, and corporate overreach. Resulting issue areas include stopping fossil fuels and fossil",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Food_%26_Water_Watch",
+    "score": 0
+  },
+  {
+    "id": "wp:elliottcoueshouse",
+    "name": "Elliott Coues House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90694,
+    "lng": -77.04,
+    "dist": 30.4,
+    "description": "The Elliott Coues House is a historic house at 1726 N Street NW, in the Dupont Circle neighborhood of Washington, D.C. Built about 1880, it was the home of 19th-century historian and ornithologist Elliott Coues (1842–99) from about 1887 until his death. Coues helped found the American Ornithologists",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elliott_Coues_House",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsofd",
+    "name": "List of ambassadors of Djibouti to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90534,
+    "lng": -77.03487,
+    "dist": 30.2,
+    "description": "The Djiboutian ambassador in Washington, D. C. is the official representative of the Government in Djibouti City to the Government of the United States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Djibouti_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:americancounciloftru",
+    "name": "American Council of Trustees and Alumni",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90534,
+    "lng": -77.0392,
+    "dist": 30.4,
+    "description": "The American Council of Trustees and Alumni (ACTA) is an American non-profit organization whose stated mission is to \"support liberal arts education, uphold high academic standards, safeguard the free exchange of ideas on campus, and ensure that the next generation receives a philosophically rich, h",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/American_Council_of_Trustees_and_Alumni",
+    "score": 0
+  },
+  {
+    "id": "wp:resourcesforthefutur",
+    "name": "Resources for the Future",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90944,
+    "lng": -77.0375,
+    "dist": 30.2,
+    "description": "Resources for the Future (RFF) is an American nonprofit organization, founded in 1952, that conducts independent research into environmental, energy, and natural resource issues, primarily via economics and other social sciences. Headquartered in Washington, D.C., RFF performs research around the wo",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Resources_for_the_Future",
+    "score": 0
+  },
+  {
+    "id": "wp:embassyofchilewashin",
+    "name": "Embassy of Chile, Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90808,
+    "lng": -77.03986,
+    "dist": 30.3,
+    "description": "The Embassy of Chile in Washington, D.C. is the diplomatic mission of the Republic of Chile to the United States. It is located at 1732 Massachusetts Avenue, Northwest, Washington, D.C., in the Embassy Row neighborhood.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Embassy_of_Chile%2C_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:russianambassadorsre",
+    "name": "Russian ambassador's residence in Washington, D.C.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90459,
+    "lng": -77.03616,
+    "dist": 30.3,
+    "description": "The Russian ambassador's residence in Washington, D.C. historically known as the Mrs. George Pullman House, is a Beaux-Arts building located at 1125 16th Street Northwest, Washington, D.C. in the Downtown neighborhood.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Russian_ambassador%27s_residence_in_Washington%2C_D.C.",
+    "score": 0
+  },
+  {
+    "id": "wp:cathedralofstmatthew",
+    "name": "Cathedral of St. Matthew the Apostle",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90611,
+    "lng": -77.04,
+    "dist": 30.4,
+    "description": "The Cathedral of St. Matthew the Apostle in Washington, D.C., is a Catholic cathedral, most commonly known as St.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cathedral_of_St._Matthew_the_Apostle",
+    "score": 0
+  },
+  {
+    "id": "wp:administrationbuildi",
+    "name": "Administration Building, Carnegie Institution of Washington",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90945,
+    "lng": -77.03624,
+    "dist": 30.1,
+    "description": "The Administration Building, Carnegie Institute of Washington is a Beaux-Arts style building designed by architects Carrere and Hastings, and located at 1530 P Street NW in Washington, D.C. It housed the Carnegie Institution for Science, a philanthropic scientific research organization founded in 19",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Administration_Building%2C_Carnegie_Institution_of_Washington",
+    "score": 0
+  },
+  {
+    "id": "wp:centerforanewamerica",
+    "name": "Center for a New American Security",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.905,
+    "lng": -77.035,
+    "dist": 30.2,
+    "description": "The Center for a New American Security (CNAS) is a think tank in Washington, D.C., specializing in United States national security issues, including terrorism, irregular warfare, the future of the U.S. military, the emergence of Asia as a global power, war games pitting the U.S. against the People's",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Center_for_a_New_American_Security",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsofs",
+    "name": "List of ambassadors of Somalia to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90494,
+    "lng": -77.03889,
+    "dist": 30.4,
+    "description": "The Somali Ambassador in Washington, D. C. is the official representative of the Government of in Mogadishu to the Government of the United States and Permanent Representative next the Headquarters of the United Nations.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Somalia_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:generalfederationofw",
+    "name": "General Federation of Women's Clubs Headquarters",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90694,
+    "lng": -77.04028,
+    "dist": 30.4,
+    "description": "The General Federation of Women's Clubs Headquarters, also known as the Miles Mansion, is located in Washington, D.C. Built as a private residence in 1875, it has served as the headquarters of GFWC since 1922. It was declared a National Historic Landmark in 1991 for its association with the federati",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/General_Federation_of_Women%27s_Clubs_Headquarters",
+    "score": 0
+  },
+  {
+    "id": "wp:bustofbernardoohiggi",
+    "name": "Bust of Bernardo O'Higgins (Washington, D.C.)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90825,
+    "lng": -77.03994,
+    "dist": 30.3,
+    "description": "An outdoor bust of Bernardo O'Higgins by Galvarino Ponce Morel is installed outside the Embassy of Chile, in the Dupont Circle neighborhood of Washington, D.C., United States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bust_of_Bernardo_O%27Higgins_%28Washington%2C_D.C.%29",
+    "score": 0
+  },
+  {
+    "id": "wp:listofambassadorsofc",
+    "name": "List of ambassadors of Chile to the United States",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90855,
+    "lng": -77.03991,
+    "dist": 30.3,
+    "description": "The Chilean ambassador in Washington, D.C. is the official representative of the Government in Santiago de Chile to the Government of the United States.",
+    "zone": "Washington DC Metro",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_ambassadors_of_Chile_to_the_United_States",
+    "score": 0
+  },
+  {
+    "id": "wp:bealldawsonhouse",
+    "name": "Beall–Dawson House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08417,
+    "lng": -77.15528,
+    "dist": 33.4,
+    "description": "The Beall–Dawson House is a historic home located in Rockville, Montgomery County, Maryland, United States. It is a 2+1⁄2-story Federal house, three bays wide by two bays deep, constructed of Flemish bond brick on the front facade and common bond elsewhere.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beall%E2%80%93Dawson_House",
+    "score": 0
+  },
+  {
+    "id": "wp:rockvilleacademy",
+    "name": "Rockville Academy",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.0825,
+    "lng": -77.155,
+    "dist": 33.3,
+    "description": "Rockville Academy was an state funded academy in Rockville, Maryland, founded in the 1800s.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rockville_Academy",
+    "score": 0
+  },
+  {
+    "id": "wp:stonestreetmuseumof1",
+    "name": "Stonestreet Museum of 19th Century Medicine",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.0846,
+    "lng": -77.15564,
+    "dist": 33.4,
+    "description": "Stonestreet Museum of 19th Century Medicine is a one-story mid-19th century wood-frame building displaying medical and pharmaceutical tools, furniture, and books from the 19th and early 20th centuries and managed by the Montgomery County Historical Society. It originally stood at Monroe Street and M",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stonestreet_Museum_of_19th_Century_Medicine",
+    "score": 0
+  },
+  {
+    "id": "wp:thespotfoodhall",
+    "name": "The Spot (food hall)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.0872,
+    "lng": -77.1525,
+    "dist": 33.2,
+    "description": "The Spot is a food hall in Rockville, Maryland serving Asian fusion cuisine. The food hall was founded in July 2018 by Edward Wong of Hong Kong and houses seven storefronts including Gong Cha, Cheers Cut, Mian, Poki DC, Momo Mochi Donut, Tekken Punch, Spot Bar, and Spot Grill.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Spot_%28food_hall%29",
+    "score": 0
+  },
+  {
+    "id": "wp:macharwashingtondc",
+    "name": "Machar (Washington, D.C.)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08533,
+    "lng": -77.14712,
+    "dist": 32.9,
+    "description": "Machar (Hebrew: מחר, lit. 'Tomorrow'), officially Machar, The Washington Congregation For Secular Humanistic Judaism, is a Humanistic Jewish congregation located in the metro area of Washington, D.C., in the United States. Affiliated with the Society for Humanistic Judaism, the non-theistic congrega",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Machar_%28Washington%2C_D.C.%29",
+    "score": 0
+  },
+  {
+    "id": "wp:westmontgomeryavenue",
+    "name": "West Montgomery Avenue Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08389,
+    "lng": -77.16139,
+    "dist": 33.7,
+    "description": "The West Montgomery Avenue Historic District is a national historic district located at Rockville, Montgomery County, Maryland. It is a residential area with single-family homes predominating.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/West_Montgomery_Avenue_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:binghambrewerhouse",
+    "name": "Bingham-Brewer House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08139,
+    "lng": -77.16083,
+    "dist": 33.7,
+    "description": "The Bingham-Brewer House is a historic home located at Rockville, Montgomery County, Maryland, United States. It is a two-story, Federal-style brick house, with a Flemish bind front facade, dating to 1821.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bingham-Brewer_House",
+    "score": 0
+  },
+  {
+    "id": "wp:friedafrommreichmann",
+    "name": "Frieda Fromm-Reichmann Cottage",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08306,
+    "lng": -77.16222,
+    "dist": 33.7,
+    "description": "The Frieda Fromm-Reichmann Cottage is a historic house located at 19 Thomas Street in Rockville, Montgomery County, Maryland. It was built in 1936 to house the residence and professional office of Frieda Fromm-Reichmann, one of the leading psychoanalysts at the Chestnut Lodge psychiatric hospital, o",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frieda_Fromm-Reichmann_Cottage",
+    "score": 0
+  },
+  {
+    "id": "wp:chestnutlodge",
+    "name": "Chestnut Lodge",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08481,
+    "lng": -77.16264,
+    "dist": 33.7,
+    "description": "Chestnut Lodge (formerly known as Woodlawn Hotel) was a historic building in Rockville, Maryland, United States, well known as a psychiatric institution. Located at 500 West Montgomery Avenue, it was a contributing property to the West Montgomery Avenue Historic District.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chestnut_Lodge",
+    "score": 0
+  },
+  {
+    "id": "wp:rockvilleparkhistori",
+    "name": "Rockville Park Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08194,
+    "lng": -77.13972,
+    "dist": 32.5,
+    "description": "The Rockville Park Historic District is a national historic district in Rockville, Montgomery County, Maryland. The neighborhood was platted in 1884 along the B&O Railroad Metropolitan Branch.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rockville_Park_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:newmarkcommons",
+    "name": "New Mark Commons",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.07583,
+    "lng": -77.15944,
+    "dist": 33.6,
+    "description": "New Mark Commons is a historic planned development in Rockville, Maryland. It consists of a residential area south of Maryland Avenue and east of Interstate 270, and is accessed via Potomac Valley Road and New Mark Esplanade.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Mark_Commons",
+    "score": 0
+  },
+  {
+    "id": "wp:dawsonfarm",
+    "name": "Dawson Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.07444,
+    "lng": -77.1425,
+    "dist": 32.7,
+    "description": "Dawson Farm, also known as \"Rocky Glen,\" is a historic property with two homes located at Rockville, Montgomery County, Maryland. The property contains two dwellings: the 1874, 2+1⁄2-story, frame Dawson Farmhouse and a large 2+1⁄2-story hip-roofed frame house dating to 1912.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dawson_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:wlxe",
+    "name": "WLXE",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.09722,
+    "lng": -77.15111,
+    "dist": 33.1,
+    "description": "WLXE is a radio station broadcasting on 1600 kHz in the medium wave AM band. Its studios and transmitters are located in Rockville, Maryland, and it serves the Washington metropolitan area.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WLXE",
+    "score": 0
+  },
+  {
+    "id": "wp:glenviewmansionrockv",
+    "name": "Glenview Mansion (Rockville)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08639,
+    "lng": -77.12917,
+    "dist": 31.9,
+    "description": "Glenview Mansion is a historic home and surrounding property located at Rockville, Montgomery County, Maryland. The house is a 1926 Neo-Classical Revival style house on 65 acres (260,000 m2) of landscaped ground.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Glenview_Mansion_%28Rockville%29",
+    "score": 0
+  },
+  {
+    "id": "wp:toweroaks",
+    "name": "Tower Oaks",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.0635,
+    "lng": -77.1491,
+    "dist": 33.1,
+    "description": "Tower Oaks is a 192-acre planned community in Rockville, Maryland.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tower_Oaks",
+    "score": 0
+  },
+  {
+    "id": "wp:latvianmuseum",
+    "name": "Latvian Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.08637,
+    "lng": -77.17913,
+    "dist": 34.6,
+    "description": "The Latvian Museum in Rockville, Maryland has as its mission the preservation and communication of Latvian history and culture and the history of Latvians in the United States. The Museum is housed in facilities that include the national headquarters of the American Latvian Association as well as th",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Latvian_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:baesystemsinc",
+    "name": "BAE Systems Inc.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.09472,
+    "lng": -77.17861,
+    "dist": 34.6,
+    "description": "BAE Systems Inc. (formerly BAE Systems North America) is an American company operating as an independent subsidiary of British multinational defense, security, and aerospace company BAE Systems plc.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/BAE_Systems_Inc.",
+    "score": 0
+  },
+  {
+    "id": "wp:redgatepark",
+    "name": "Red Gate Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.097,
+    "lng": -77.127,
+    "dist": 31.8,
+    "description": "RedGate Park is a wooded public park in suburban Rockville, Maryland, with over 131 acres of natural green space, situated between Maryland Route 28, parts of Rock Creek Regional Park, and Avery Road. It is administered by the Rockville, Maryland government as a public park and nature preserve.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Red_Gate_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:congressionalairport",
+    "name": "Congressional Airport",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.0611,
+    "lng": -77.12635,
+    "dist": 31.9,
+    "description": "Congressional Airport was a 40-acre (16 ha) airfield, located in what is now Rockville, Maryland, just outside Washington, D.C., used for the Civilian Pilot Training Program.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Congressional_Airport",
+    "score": 0
+  },
+  {
+    "id": "wp:bethsholomcongregati",
+    "name": "Beth Sholom Congregation and Talmud Torah",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.05111,
+    "lng": -77.16333,
+    "dist": 34.0,
+    "description": "Beth Sholom Congregation and Talmud Torah (abbreviated as BSCTT) is a Modern Orthodox synagogue on Seven Locks Road in Potomac, Maryland, in the United States. The largest Orthodox synagogue in the Washington metropolitan area, it is led by Rabbi Nissan Antine.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beth_Sholom_Congregation_and_Talmud_Torah",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatespharmaco",
+    "name": "United States Pharmacopeia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.06327,
+    "lng": -77.11557,
+    "dist": 31.3,
+    "description": "The United States Pharmacopeia (USP) is a pharmacopeia (compendium of drug information) for the United States published annually by the over 200-year old United States Pharmacopeial Convention (usually also called the USP), a nonprofit organization that owns the trademark and also owns the copyright",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Pharmacopeia",
+    "score": 0
+  },
+  {
+    "id": "wp:bnaiisraelcongregati",
+    "name": "B'nai Israel Congregation (Rockville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.05417,
+    "lng": -77.12801,
+    "dist": 32.1,
+    "description": "B'nai Israel Congregation is a Conservative Jewish egalitarian congregation and synagogue, located in Rockville, Maryland, in the United States. B'nai Israel's mission is to study in the Jewish tradition, worship God, commit to social action, and address the needs of the Jewish people locally, in Is",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/B%27nai_Israel_Congregation_%28Rockville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:lakebernardfrank",
+    "name": "Lake Bernard Frank",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.1063,
+    "lng": -77.1133,
+    "dist": 31.1,
+    "description": "Lake Bernard Frank (also Lake Frank), is a 54-acre (220,000 m2) reservoir on the North Branch of Rock Creek in Derwood, Maryland, U.S., just east of Rockville. In the late 1960s it was renamed after Bernard Frank, a wilderness activist and a co-founder of The Wilderness Society.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lake_Bernard_Frank",
+    "score": 0
+  },
+  {
+    "id": "wp:aspenhillmaryland",
+    "name": "Aspen Hill, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.09556,
+    "lng": -77.10528,
+    "dist": 30.6,
+    "description": "Aspen Hill is a census-designated place and an unincorporated area in Montgomery County, Maryland, United States. It is located 6 miles north of Washington D.C. Its population as of the 2020 census was 51,063.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aspen_Hill%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:wilkinsestate",
+    "name": "Wilkins Estate",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.06611,
+    "lng": -77.10833,
+    "dist": 30.9,
+    "description": "The Wilkins Estate is a historic estate in Rockville, Maryland, United States. It was built in 1916 by Robert Crew Wilkins, later an executive of the Wilkins Coffee Co.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wilkins_Estate",
+    "score": 0
+  },
+  {
+    "id": "wp:adventisthealthcares",
+    "name": "Adventist HealthCare Shady Grove Medical Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.09861,
+    "lng": -77.19889,
+    "dist": 35.7,
+    "description": "Adventist HealthCare Shady Grove Medical Center is a 266-licensed bed acute care facility located in Rockville, Maryland. Shady Grove Medical Center provides a range of health services to the community such as high-risk obstetrical care, cardiac and vascular care, oncology services, orthopedic care,",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Adventist_HealthCare_Shady_Grove_Medical_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:universitiesatshadyg",
+    "name": "Universities at Shady Grove",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.09394,
+    "lng": -77.20164,
+    "dist": 35.8,
+    "description": "The Universities at Shady Grove (USG) is a multi-university higher education center of the University System of Maryland for mid-career working professionals and non-traditional students. Degrees taught by the cooperative are conferred by the individual universities as opposed to it being conferred ",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Universities_at_Shady_Grove",
+    "score": 0
+  },
+  {
+    "id": "wp:lakeneedwood",
+    "name": "Lake Needwood",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.12124,
+    "lng": -77.12939,
+    "dist": 32.0,
+    "description": "Lake Needwood is a 75-acre (300,000 m2) reservoir in Derwood, Maryland, United States. Located east of Rockville, in the eastern part of Montgomery County, it is situated on Rock Creek.",
+    "zone": "Montgomery County MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lake_Needwood",
+    "score": 0
+  },
+  {
+    "id": "wp:westphaliamaryland",
+    "name": "Westphalia, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.84,
+    "lng": -76.82389,
+    "dist": 24.0,
+    "description": "Westphalia is a census-designated place in southern Prince George's County, Maryland, United States. The population of the CDP was 11,770 at the 2020 census.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Westphalia%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:jointbaseandrews",
+    "name": "Joint Base Andrews",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.81083,
+    "lng": -76.86694,
+    "dist": 27.0,
+    "description": "Joint Base Andrews (JBA) (IATA: ADW, ICAO: KADW, FAA LID: ADW) is a United States military facility located in Prince George's County, Maryland. The facility is under the jurisdiction of the United States Air Force (USAF) 316th Wing, Air Force District of Washington (AFDW).",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joint_Base_Andrews",
+    "score": 0
+  },
+  {
+    "id": "wp:andrewsairforcebase",
+    "name": "Andrews Air Force Base",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.81083,
+    "lng": -76.86694,
+    "dist": 27.0,
+    "description": "Andrews Air Force Base (Andrews AFB, AAFB) (IATA: ADW, ICAO: KADW, FAA LID: ADW) is the airfield portion of Joint Base Andrews, which is under the jurisdiction of the United States Air Force (USAF). In 2009, Andrews Air Force Base merged with Naval Air Facility Washington to form Joint Base Andrews.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Andrews_Air_Force_Base",
+    "score": 0
+  },
+  {
+    "id": "wp:navalairfacilitywash",
+    "name": "Naval Air Facility Washington",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.81083,
+    "lng": -76.86694,
+    "dist": 27.0,
+    "description": "Naval Air Facility Washington or NAF Washington is a United States Naval Reserve installation located near Camp Springs, Maryland. The facility was established at Andrews Air Force Base in 1958.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Naval_Air_Facility_Washington",
+    "score": 0
+  },
+  {
+    "id": "wp:melwoodpark",
+    "name": "Melwood Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8125,
+    "lng": -76.81694,
+    "dist": 25.2,
+    "description": "Melwood Park is a historic home located near Upper Marlboro in Prince George's County, Maryland, United States. It is a 2+1⁄2-story, Flemish bond brick structure, with Georgian details.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Melwood_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:forestvillemaryland",
+    "name": "Forestville, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.855,
+    "lng": -76.87528,
+    "dist": 25.1,
+    "description": "Forestville is an unincorporated area and census-designated place (CDP) in Prince George's County, Maryland, United States. Per the 2020 census, the population was 12,831.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Forestville%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:thecentreatforestvil",
+    "name": "The Centre at Forestville",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8475,
+    "lng": -76.88694,
+    "dist": 25.9,
+    "description": "The Centre at Forestville is an enclosed shopping mall located in Forestville, Maryland. It is anchored by JCPenney and Target.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Centre_at_Forestville",
+    "score": 0
+  },
+  {
+    "id": "wp:thecottageuppermarlb",
+    "name": "The Cottage (Upper Marlboro, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8225,
+    "lng": -76.79861,
+    "dist": 24.1,
+    "description": "The Cottage is a 19th-century plantation complex located near Upper Marlboro in Prince George's County, Maryland. The complex consists of the principal three-part plantation house with its grouping of domestic outbuildings and four tenant farms, scattered over 282 acres (114 ha).",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Cottage_%28Upper_Marlboro%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:clagettfarm",
+    "name": "Clagett Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.82222,
+    "lng": -76.79639,
+    "dist": 24.0,
+    "description": "Clagett Farm, once known as Navajo, is a 285-acre (1.15 km2) working farm located in Upper Marlboro, Maryland. It is owned and operated by the Chesapeake Bay Foundation.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clagett_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:malcolmgrowmedicalcl",
+    "name": "Malcolm Grow Medical Clinic",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.80667,
+    "lng": -76.89667,
+    "dist": 28.3,
+    "description": "Malcolm Grow Medical Clinics and Surgery Center is a United States Air Force medical treatment facility located on Joint Base Andrews Maryland and operated by the 11th Medical Group. The original facility designated U.S.A.F. Hospital Andrews opened in 1958 and was redesignated Malcolm Grow U.S.A.F. ",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Malcolm_Grow_Medical_Clinic",
+    "score": 0
+  },
+  {
+    "id": "wp:woodyardmaryland",
+    "name": "Woodyard, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.78583,
+    "lng": -76.84278,
+    "dist": 27.5,
+    "description": "Woodyard is an unincorporated community in Prince George's County, Maryland, United States.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodyard%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:concorddistrictheigh",
+    "name": "Concord (District Heights, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8775,
+    "lng": -76.86722,
+    "dist": 23.8,
+    "description": "Concord is a historic home located in District Heights, Prince George's County, Maryland. It is a 1790s 2+1⁄2-story Flemish bond brick house with a five-bay south facade, and a later two-part wing which stretches to the west.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Concord_%28District_Heights%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:hislordshipskindness",
+    "name": "His Lordship's Kindness",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77889,
+    "lng": -76.84278,
+    "dist": 27.9,
+    "description": "His Lordship's Kindness, also known as Poplar Hill, is a historic plantation estate on Woodyard Road east of Clinton, Maryland. It was built in the 1780s for Prince George's County planter Robert Darnall.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/His_Lordship%27s_Kindness",
+    "score": 0
+  },
+  {
+    "id": "wp:walkermillmaryland",
+    "name": "Walker Mill, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.87083,
+    "lng": -76.89139,
+    "dist": 25.1,
+    "description": "Walker Mill is an unincorporated area and census-designated place (CDP) in Prince George's County, Maryland, United States. Per the 2020 census, the population was 12,187.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Walker_Mill%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:queenslandmaryland",
+    "name": "Queensland, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.805,
+    "lng": -76.79111,
+    "dist": 24.8,
+    "description": "Queensland is a census-designated place south of Upper Marlboro, Maryland, United States. The population of the CDP was 2,191 at the 2020 census.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Queensland%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:campspringsmaryland",
+    "name": "Camp Springs, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8075,
+    "lng": -76.91806,
+    "dist": 29.1,
+    "description": "Camp Springs is an unincorporated area and census-designated place (CDP) in Prince George's County, Maryland, United States. The population was 22,734 at the 2020 census.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Camp_Springs%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:mountlubentia",
+    "name": "Mount Lubentia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88194,
+    "lng": -76.81639,
+    "dist": 21.6,
+    "description": "Mount Lubentia is a historic house located at Largo in Prince George's County, Maryland, United States. It is an elegantly detailed 2+1⁄2-story Georgian/Federal-style, Flemish bond brick house, probably built about 1760 and substantially renovated in the late 1790s, by Enoch Magruder and his son, De",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mount_Lubentia",
+    "score": 0
+  },
+  {
+    "id": "wp:princegeorgescommuni",
+    "name": "Prince George's Community College",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88861,
+    "lng": -76.82472,
+    "dist": 21.6,
+    "description": "Prince George's Community College (PGCC) is a public community college in Largo in Prince George's County, Maryland.",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prince_George%27s_Community_College",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalmaritimeinte",
+    "name": "National Maritime Intelligence-Integration Office",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.84889,
+    "lng": -76.93667,
+    "dist": 27.9,
+    "description": "The National Maritime Intelligence-Integration Office (NMIO) is a United States Navy entity which promotes and facilitates intelligence sharing between the Navy and various federal, state, and local authorities, private companies, and foreign governments. The NMIO was established in January 2009 by ",
+    "zone": "Prince George's County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Maritime_Intelligence-Integration_Office",
+    "score": 0
+  },
+  {
+    "id": "wp:charlessumnerpostno2",
+    "name": "Charles Sumner Post No. 25, Grand Army of the Republic",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20688,
+    "lng": -76.06521,
+    "dist": 26.1,
+    "description": "Charles Sumner Post #25, Grand Army of the Republic is a historic fraternal lodge building located in Chestertown, Kent County, Maryland. Named after Charles Sumner, it was constructed as a meeting hall about 1908 and is a two-story gable-front frame building, built on brick piers, with a rectangula",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Charles_Sumner_Post_No._25%2C_Grand_Army_of_the_Republic",
+    "score": 0
+  },
+  {
+    "id": "wp:hynsonringgoldhouse",
+    "name": "Hynson–Ringgold House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20678,
+    "lng": -76.06481,
+    "dist": 26.1,
+    "description": "The Hynson–Ringgold House, sometimes known as The Abbey, is the official residence of the president of Washington College. The building is in the Georgian style and is made entirely out of brick.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hynson%E2%80%93Ringgold_House",
+    "score": 0
+  },
+  {
+    "id": "wp:widehall",
+    "name": "Widehall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2075,
+    "lng": -76.06389,
+    "dist": 26.2,
+    "description": "Widehall is a historic and architecturally significant house in Chestertown, Kent County, Maryland. Built by Thomas Smyth III, 1769–1770, it is a contributing property in the Chestertown Historic District.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Widehall",
+    "score": 0
+  },
+  {
+    "id": "wp:dentonhousemaryland",
+    "name": "Denton House (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20806,
+    "lng": -76.06306,
+    "dist": 26.2,
+    "description": "The Denton House, also known as the Denton-Weeks House, the River House, and the Smyth-Letherbury House, is a historic residence at 107 Water Street in Chestertown, Maryland. It is a three-story brick building, with a five-bay front facade framed by corner pilasters with stone capitals.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Denton_House_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:bernicej",
+    "name": "Bernice J.",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20667,
+    "lng": -76.06333,
+    "dist": 26.2,
+    "description": "Bernice J. is a Chesapeake Bay skipjack, built in 1904 in Young's Creek, Virginia, by W. Thomas Young of Parksley, who also built Claude W. Somers. She is a 42-foot-long (13 m) two-sail bateau, or \"V\"-bottomed deadrise type of centerboard sloop, commonly referred to as a skipjack.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bernice_J.",
+    "score": 0
+  },
+  {
+    "id": "wp:radcliffemill",
+    "name": "Radcliffe Mill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21917,
+    "lng": -76.08028,
+    "dist": 25.6,
+    "description": "The Radcliffe Mill is a historic grist mill and related structures located in Chestertown, Kent County, Maryland, United States. It consists of a Mill Building, built in 1891; Grain Elevator, probably constructed around 1924; and Annex / Seed House.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Radcliffe_Mill",
+    "score": 0
+  },
+  {
+    "id": "wp:lauretum",
+    "name": "Lauretum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.21944,
+    "lng": -76.08556,
+    "dist": 25.3,
+    "description": "Lauretum is a historic home located at Chestertown, Kent County, Maryland, United States. It is a large, three story late Victorian stuccoed frame house built in 1881 for Chestertown lawyer Harrison W. Vickers (1845-1911).",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lauretum",
+    "score": 0
+  },
+  {
+    "id": "wp:chesterhall",
+    "name": "Chester Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20472,
+    "lng": -76.04528,
+    "dist": 27.1,
+    "description": "Chester Hall, also known as Rye Hall, is a historic home located at Chestertown, Queen Anne's County, Maryland, United States. It is a large brick Georgian / Federal style Flemish bond brick dwelling constructed in the 1790s.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chester_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:airyhill",
+    "name": "Airy Hill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.19278,
+    "lng": -76.09333,
+    "dist": 24.4,
+    "description": "Airy Hill is a historic home located near Chestertown, Kent County, Maryland, United States. It is a two-section dwelling consisting of a 1+1⁄2-story frame wing and a two-story Federal-style brick house.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Airy_Hill",
+    "score": 0
+  },
+  {
+    "id": "wp:mysterylogcanoe",
+    "name": "Mystery (log canoe)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.20806,
+    "lng": -76.03778,
+    "dist": 27.5,
+    "description": "The Mystery is a Chesapeake Bay log canoe, built in 1932, by Harry Sinclair in Oxford, Maryland. She measures 34'-7\" long, has a beam of 8'-81⁄2\" and has a centerboard.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mystery_%28log_canoe%29",
+    "score": 0
+  },
+  {
+    "id": "wp:godlingtonmanor",
+    "name": "Godlington Manor",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.17833,
+    "lng": -76.0575,
+    "dist": 26.0,
+    "description": "Godlington Manor is a historic home located near Chestertown, Kent County, Maryland, United States. It is a frame gambrel-roof structure with a long frame 1+1⁄2-story kitchen wing.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Godlington_Manor",
+    "score": 0
+  },
+  {
+    "id": "wp:islandimage",
+    "name": "Island Image",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.16972,
+    "lng": -76.06278,
+    "dist": 25.7,
+    "description": "The Island Image is a Chesapeake Bay log canoe, built in 1885 at Elliot's Island, Maryland, by Herman Jones and Isaac Moore. It is 29'-8½\" long with a beam of 5-10¼\", and has a straight, raking stem and a sharp stern.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Island_Image",
+    "score": 0
+  },
+  {
+    "id": "wp:langfordmaryland",
+    "name": "Langford, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.18833,
+    "lng": -76.14083,
+    "dist": 21.9,
+    "description": "Langford is an unincorporated community in Kent County, Maryland, United States. Langford is located along Maryland Route 446 on Broad Neck, 4.25 miles (6.84 km) west-southwest of Chestertown.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Langford%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:wortonmaryland",
+    "name": "Worton, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.27444,
+    "lng": -76.09222,
+    "dist": 26.4,
+    "description": "Worton is an unincorporated community and census-designated place (CDP) in Kent County, Maryland, United States. As of the 2010 census it had a population of 249.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Worton%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:kennersley",
+    "name": "Kennersley",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.14611,
+    "lng": -76.03278,
+    "dist": 27.0,
+    "description": "Kennersley is a historic home located at Church Hill, Queen Anne's County, Maryland. It is a large five-part Flemish bond brick house believed to date to the last quarter of the 18th century.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kennersley",
+    "score": 0
+  },
+  {
+    "id": "wp:clarksconveniency",
+    "name": "Clark's Conveniency",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.14083,
+    "lng": -76.12167,
+    "dist": 22.2,
+    "description": "Clark's Conveniency is a historic home located near Pomona, Kent County, Maryland, United States. It is a 1+1⁄2-story, early-18th-century brick house built in three sections: the main block and a wing on the east and west ends.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clark%27s_Conveniency",
+    "score": 0
+  },
+  {
+    "id": "wp:rewardtildensfarm",
+    "name": "Reward-Tilden's Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.15222,
+    "lng": -76.14417,
+    "dist": 21.2,
+    "description": "Reward-Tilden's Farm, or The Reward, is a historic home located near Chestertown, Kent County, Maryland. It is a three bay long, two bay deep, two story, brick dwelling which appears to have been constructed in the 1740s.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Reward-Tilden%27s_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:silverheellogcanoe",
+    "name": "Silver Heel (log canoe)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.12917,
+    "lng": -76.09722,
+    "dist": 23.5,
+    "description": "The Silver Heel is a Chesapeake Bay log canoe, built in 1902, in Kent County, Maryland by Eugene Thompson for John Wesley Dickinson. She is a 33'-113⁄4\" sailing log canoe in the racing fleet.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Silver_Heel_%28log_canoe%29",
+    "score": 0
+  },
+  {
+    "id": "wp:hopefulunity",
+    "name": "Hopeful Unity",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29389,
+    "lng": -76.07472,
+    "dist": 27.9,
+    "description": "Hopeful Unity is a historic house at 25789 Lambs Meadow Road in Worton, Maryland. It is a three-story brick building, three bays wide, with a 1+1⁄2-story kitchen ell.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hopeful_Unity",
+    "score": 0
+  },
+  {
+    "id": "wp:readbourne",
+    "name": "Readbourne",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.12722,
+    "lng": -76.09056,
+    "dist": 23.8,
+    "description": "Readbourne is a historic home on the Chester River located at Centreville, Queen Anne's County, Maryland, United States. It is a five-part Georgian brick house: the center block was built in the early 1730s; the south wing in 1791; and the north wing in 1948.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Readbourne",
+    "score": 0
+  },
+  {
+    "id": "wp:lynchmaryland",
+    "name": "Lynch, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.29528,
+    "lng": -76.06278,
+    "dist": 28.5,
+    "description": "Lynch is an unincorporated community in Kent County, Maryland, United States. Lynch is located along Maryland Route 561 at the crossing of the Maryland and Delaware Railroad, north of Chestertown.",
+    "zone": "Eastern Shore North",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lynch%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:eastonhistoricdistri",
+    "name": "Easton Historic District (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77194,
+    "lng": -76.07389,
+    "dist": 33.7,
+    "description": "The Easton Historic District is a historic district that covers most of the core of the town of Easton, Maryland. The town is the county seat of Talbot County.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Easton_Historic_District_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:academyartmuseum",
+    "name": "Academy Art Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77215,
+    "lng": -76.07407,
+    "dist": 33.7,
+    "description": "The Academy Art Museum is an art education and exhibition complex in Easton, Maryland. Its mission is to promote the knowledge, practice, and appreciation of the arts and to enhance cultural life on the Eastern Shore.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Academy_Art_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:avalontheatreeastonm",
+    "name": "Avalon Theatre (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77417,
+    "lng": -76.075,
+    "dist": 33.6,
+    "description": "The Avalon Theatre is a historic theater located in downtown Easton, Maryland. Originally built as a cinema in 1921, The Avalon was billed as the \"Showplace of the Eastern Shore.\" Today serves as the prime venue of the Mid-Shore area for performing arts, nationally and locally.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Avalon_Theatre_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:tidewaterinn",
+    "name": "Tidewater Inn",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77444,
+    "lng": -76.07472,
+    "dist": 33.6,
+    "description": "Tidewater Inn is a historic hotel in Easton, Talbot County, Maryland, United States. It is a Colonial Revival brick, hip-roofed, four-story hotel with flanking three-story wings and an addition on the north wing.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tidewater_Inn",
+    "score": 0
+  },
+  {
+    "id": "wp:trinitycathedraleast",
+    "name": "Trinity Cathedral (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77621,
+    "lng": -76.07056,
+    "dist": 33.6,
+    "description": "Trinity Cathedral is an Episcopal cathedral located in Easton, Maryland, United States. It is the seat of the Diocese of Easton.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trinity_Cathedral_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:thirdhavenmeetinghou",
+    "name": "Third Haven Meeting House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.76639,
+    "lng": -76.07694,
+    "dist": 33.9,
+    "description": "The Third Haven Meeting House is generally considered the oldest-surviving Friends meeting house of the Religious Society of Friends in America, and it is a cornerstone of Quaker history in Talbot County, Maryland.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Third_Haven_Meeting_House",
+    "score": 0
+  },
+  {
+    "id": "wp:wkhz",
+    "name": "WKHZ",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77039,
+    "lng": -76.08161,
+    "dist": 33.5,
+    "description": "WKHZ (1460 AM) is a radio station licensed to Easton, Maryland, United States. The station is owned by Bill Parris.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WKHZ",
+    "score": 0
+  },
+  {
+    "id": "wp:templebnaiisraeleast",
+    "name": "Temple B'nai Israel (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.74688,
+    "lng": -76.07222,
+    "dist": 35.0,
+    "description": "Temple B'nai Israel is a Reform Jewish synagogue, located at 7199 Tristan Drive, in Easton, Maryland, in the United States. It is the only synagogue on Maryland's upper Eastern Shore.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Temple_B%27nai_Israel_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:sethdemonstrationfor",
+    "name": "Seth Demonstration Forest",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature"
+    ],
+    "lat": 38.75139,
+    "lng": -76.03611,
+    "dist": 36.2,
+    "description": "Seth Demonstration Forest is a state forest in the state of Maryland.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Seth_Demonstration_Forest",
+    "score": 0
+  },
+  {
+    "id": "wp:ratcliffemanor",
+    "name": "Ratcliffe Manor",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.76233,
+    "lng": -76.11111,
+    "dist": 32.7,
+    "description": "Ratcliffe Manor, occasionally misspelled as \"Radcliffe Manor\", is a Georgian colonial home in Maryland completed around 1762 by Henry Hollyday. It gets its name from the \"Mannour of Ratcliffe\", which is one of the Maryland Eastern Shore's oldest land grants.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ratcliffe_Manor",
+    "score": 0
+  },
+  {
+    "id": "wp:oldbloomfield",
+    "name": "Old Bloomfield",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.76639,
+    "lng": -76.11833,
+    "dist": 32.3,
+    "description": "Old Bloomfield is a historic home at Easton, Talbot County, Maryland, United States. It is a large and sprawling structure constructed in three major sections: a 1+1⁄2-story, three bay brick section with a steeply pitched roof built about 1720; a 1+1⁄2-story frame addition on the southwest gable bui",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Old_Bloomfield",
+    "score": 0
+  },
+  {
+    "id": "wp:glebecreek",
+    "name": "Glebe Creek",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.79444,
+    "lng": -76.10833,
+    "dist": 31.3,
+    "description": "Glebe Creek is a stream in Talbot County, Maryland, in the United States. Glebe Creek derives its name from the glebe which owned it in Colonial Maryland.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Glebe_Creek",
+    "score": 0
+  },
+  {
+    "id": "wp:llandaffhouse",
+    "name": "Llandaff House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.73278,
+    "lng": -76.08944,
+    "dist": 35.0,
+    "description": "Llandaff House is a historic home in Easton, Talbot County, Maryland, United States. It is a 2+1⁄2-story irregular plan frame house built in 1877–78, in a combined Queen Anne and Eastlake style.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Llandaff_House",
+    "score": 0
+  },
+  {
+    "id": "wp:hosewellsbranch",
+    "name": "Hosewells Branch",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79123,
+    "lng": -76.02188,
+    "dist": 35.0,
+    "description": "Hosewells Branch is a stream in Talbot County, Maryland, running for about 1.8 miles (2.9 km) near the town of Easton at an average elevation of 12 feet (3.7 m). It flows into King's Creek, and thence into the Choptank River and Chesapeake Bay.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hosewells_Branch",
+    "score": 0
+  },
+  {
+    "id": "wp:myrtlegroveeastonmar",
+    "name": "Myrtle Grove (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.80417,
+    "lng": -76.11833,
+    "dist": 30.4,
+    "description": "Myrtle Grove is a historic home in Easton, Talbot County, Maryland. It consists of a frame section dating from the first half of the 18th century, a 1790 Flemish bond brick section, and a 1927 frame wing.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Myrtle_Grove_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:stjohnschapelofstmic",
+    "name": "St. John's Chapel of St. Michael's Parish",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79611,
+    "lng": -76.12861,
+    "dist": 30.4,
+    "description": "St. John's Chapel of St.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/St._John%27s_Chapel_of_St._Michael%27s_Parish",
+    "score": 0
+  },
+  {
+    "id": "wp:theanchorageeastonma",
+    "name": "The Anchorage (Easton, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79472,
+    "lng": -76.13028,
+    "dist": 30.4,
+    "description": "The Anchorage is a historic home in Easton, Talbot County, Maryland, United States. It is a five-part house with a large 2+1⁄2-story center section and small hyphens and wings.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Anchorage_%28Easton%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:victoriancorncribs",
+    "name": "Victorian Corn Cribs",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.78611,
+    "lng": -76.13639,
+    "dist": 30.6,
+    "description": "Victorian Corn Cribs are historic agricultural buildings at St. Michael's, Talbot County, Maryland.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Victorian_Corn_Cribs",
+    "score": 0
+  },
+  {
+    "id": "wp:kingscreekmaryland",
+    "name": "King's Creek (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79449,
+    "lng": -75.97989,
+    "dist": 36.6,
+    "description": "King's Creek is a stream in Talbot County, Maryland, running for about 6 miles (9.7 km). It flows into the Choptank River and thence into Chesapeake Bay.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/King%27s_Creek_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:newcombmaryland",
+    "name": "Newcomb, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.75361,
+    "lng": -76.17611,
+    "dist": 30.9,
+    "description": "Newcomb is an unincorporated community in Talbot County, Maryland, United States. Newcomb is located along Maryland Route 33 on the south bank of the Miles River, southeast of St.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Newcomb%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:royaloakmaryland",
+    "name": "Royal Oak, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.74222,
+    "lng": -76.17778,
+    "dist": 31.5,
+    "description": "Royal Oak is an unincorporated community in Talbot County, Maryland, United States. Royal Oak is located at the intersection of Maryland Route 329 and Bellevue Road, southeast of St.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Royal_Oak%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:otwelloxfordmaryland",
+    "name": "Otwell (Oxford, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.69861,
+    "lng": -76.13778,
+    "dist": 35.2,
+    "description": "Otwell is a historic home at Oxford, Talbot County, Maryland. It is a brick house composed of two major parts, the first constructed around 1720–1730, and the other part around 1800–1810.",
+    "zone": "Eastern Shore Central",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Otwell_%28Oxford%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:littleblackwaterrive",
+    "name": "Little Blackwater River (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.42083,
+    "lng": -76.09694,
+    "dist": 52.7,
+    "description": "The Little Blackwater River is a tributary of the Blackwater River located in Dorchester County, Maryland. The relatively shallow river is about 15 miles (24 km) long and is surrounded by farms.",
+    "zone": "Eastern Shore South",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Little_Blackwater_River_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:chicamacomicoriver",
+    "name": "Chicamacomico River",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.4279,
+    "lng": -75.9798,
+    "dist": 55.4,
+    "description": "The Chicamacomico River is a 16.3-mile-long (26.2 km) river in southern Maryland in the United States. It starts in northern Dorchester County and flows to the southwest ending within the Blackwater National Wildlife Refuge, approximately 152 feet (46 m) wide at its mouth on the east bank of the Tra",
+    "zone": "Eastern Shore South",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chicamacomico_River",
+    "score": 0
+  },
+  {
+    "id": "wp:transquakingriver",
+    "name": "Transquaking River",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.3692,
+    "lng": -76.0011,
+    "dist": 58.3,
+    "description": "The Transquaking River is a 23.2-mile-long (37.3 km) river on the southern part of the Eastern Shore of Maryland in the United States. It starts in northern Dorchester County and flows south-southwest ending just outside of the Blackwater National Wildlife Refuge, approximately 2,828 feet (862 m) wi",
+    "zone": "Eastern Shore South",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Transquaking_River",
+    "score": 0
+  },
+  {
+    "id": "wp:blackwaterrivermaryl",
+    "name": "Blackwater River (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.36,
+    "lng": -76.0075,
+    "dist": 58.7,
+    "description": "The Blackwater River is a 25.8-mile-long (41.5 km) saltwater river in Dorchester County, Maryland. It has many twists and bends and flows through Blackwater National Wildlife Refuge.",
+    "zone": "Eastern Shore South",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Blackwater_River_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:calvertpeninsula",
+    "name": "Calvert Peninsula",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.549,
+    "lng": -76.589,
+    "dist": 38.4,
+    "description": "The Calvert Peninsula is part of the Western Shore region of the U.S. state of Maryland. It extends about 25 miles (40 km) into Chesapeake Bay with the main bay providing its eastern border and the Patuxent River defining its western border.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Calvert_Peninsula",
+    "score": 0
+  },
+  {
+    "id": "wp:calverthealthmedical",
+    "name": "CalvertHealth Medical Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.55924,
+    "lng": -76.59702,
+    "dist": 37.8,
+    "description": "CalvertHealth in Prince Frederick, Maryland, is a non-profit community-owned hospital. There are over 200 active and consulting physicians on staff, representing over 40 medical specialties.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/CalvertHealth_Medical_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:lindenprincefrederic",
+    "name": "Linden (Prince Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.54,
+    "lng": -76.58778,
+    "dist": 39.1,
+    "description": "Linden is a historic home located at Prince Frederick, Calvert County, Maryland. It is a two-story frame house, conservatively Italianate in style built about 1868, with conservative Colonial Revival additions of about 1907.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Linden_%28Prince_Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:barstowmaryland",
+    "name": "Barstow, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.5272,
+    "lng": -76.61496,
+    "dist": 40.1,
+    "description": "Barstow is a small, rural unincorporated community located at the crossroads of MD 231, German Chapel Road, and Barstow Road in Calvert County, Maryland, United States, immediately west of Prince Frederick. The community maintains its own zip code of 20610.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Barstow%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:willowglenn",
+    "name": "Willow Glenn",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.54556,
+    "lng": -76.635,
+    "dist": 38.9,
+    "description": "Willow Glenn is a historic home located at Barstow, Calvert County, Maryland, United States. It is an impressive Georgian structure of grand proportions; constructed entirely of brick in Flemish bond with random glazed headers.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Willow_Glenn",
+    "score": 0
+  },
+  {
+    "id": "wp:cedarhillbarstowmary",
+    "name": "Cedar Hill (Barstow, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.5325,
+    "lng": -76.63278,
+    "dist": 39.8,
+    "description": "Cedar Hill is a historic home located on 75 acres (300,000 m2) at Barstow, Calvert County, Maryland, United States. It is one of the few remaining cruciform dwelling houses existing in Maryland, built in the 18th century that is typical of 17th-century architecture.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cedar_Hill_%28Barstow%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:cornehill",
+    "name": "Cornehill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.58889,
+    "lng": -76.55528,
+    "dist": 35.6,
+    "description": "Cornehill is a historic home located at Parran, Calvert County, Maryland, United States. It is a five-bay-long two-story Georgian brick house laid in Flemish bond with a steeply pitched gable roof with an exterior chimney at each gable end.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cornehill",
+    "score": 0
+  },
+  {
+    "id": "wp:battlecreekcypresssw",
+    "name": "Battle Creek Cypress Swamp",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.49444,
+    "lng": -76.59417,
+    "dist": 42.2,
+    "description": "Battle Creek Cypress Swamp (BCCS) is a forested wetland near Prince Frederick in Calvert County, Maryland, United States. It is one of the northernmost sites of naturally occurring bald cypress (Taxodium distichum) trees in North America, and the only large stand of the trees on the western shore of",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_Creek_Cypress_Swamp",
+    "score": 0
+  },
+  {
+    "id": "wp:parranmaryland",
+    "name": "Parran, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.60278,
+    "lng": -76.57028,
+    "dist": 34.7,
+    "description": "Parran is an unincorporated community located at the crossroads of MD 263, Cox Road, and Emmanuel Church Road in Calvert County, Maryland, United States. Cornehill was listed on the National Register of Historic Places in 1973.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Parran%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:daresbeachmaryland",
+    "name": "Dares Beach, Maryland",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.56167,
+    "lng": -76.51556,
+    "dist": 37.5,
+    "description": "Dares Beach is a residential unincorporated community located in Calvert County, Maryland, United States. Dares Beach is situated along the Chesapeake Bay.",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dares_Beach%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:adelinamaryland",
+    "name": "Adelina, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.48056,
+    "lng": -76.62139,
+    "dist": 43.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Adelina%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:portrepublicmaryland",
+    "name": "Port Republic, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.50083,
+    "lng": -76.52944,
+    "dist": 41.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Port_Republic%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:laveille",
+    "name": "La Veille",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.47583,
+    "lng": -76.59028,
+    "dist": 43.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/La_Veille",
+    "score": 0
+  },
+  {
+    "id": "wp:scientistscliffsmary",
+    "name": "Scientists Cliffs, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.5175,
+    "lng": -76.51333,
+    "dist": 40.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Scientists_Cliffs%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:maxwellhallpatuxentm",
+    "name": "Maxwell Hall (Patuxent, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.53444,
+    "lng": -76.70028,
+    "dist": 40.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maxwell_Hall_%28Patuxent%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:taneyplace",
+    "name": "Taney Place",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.46212,
+    "lng": -76.60535,
+    "dist": 44.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taney_Place",
+    "score": 0
+  },
+  {
+    "id": "wp:mutualmaryland",
+    "name": "Mutual, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.47083,
+    "lng": -76.54806,
+    "dist": 43.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mutual%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:holmesrunacres",
+    "name": "Holmes Run Acres",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.85,
+    "lng": -77.20833,
+    "dist": 40.2,
+    "description": "Holmes Run Acres is a community of 355 houses in Fairfax County, Virginia, in the Washington, D.C. suburbs. Nearly all of the neighborhood is within the Holmes Run Acres Historic District, listed on the National Register of Historic Places.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Holmes_Run_Acres",
+    "score": 0
+  },
+  {
+    "id": "wp:universityofnorthern",
+    "name": "University of Northern Virginia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.83186,
+    "lng": -77.20761,
+    "dist": 40.8,
+    "description": "The University of Northern Virginia (UNVA) was an unaccredited for-profit private undergraduate and graduate university in Annandale, Virginia. The university offered bachelors, Masters and doctoral degrees.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/University_of_Northern_Virginia",
+    "score": 0
+  },
+  {
+    "id": "wp:ossianhall",
+    "name": "Ossian Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.82556,
+    "lng": -77.21167,
+    "dist": 41.2,
+    "description": "Ossian Hall was an 18th-century plantation house in Annandale, Fairfax County, Virginia. Ossian Hall was one of three large residences, along with Oak Hill, and Ravensworth, owned by the Fitzhugh family in Fairfax County.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ossian_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:masonshill",
+    "name": "Mason's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.83658,
+    "lng": -77.16989,
+    "dist": 38.8,
+    "description": "Mason’s Hill is a geographic eminence located in Fairfax County, Virginia. Its summit rises to 397 feet (121 m) above sea level.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mason%27s_Hill",
+    "score": 0
+  },
+  {
+    "id": "wp:fountainoffaith",
+    "name": "Fountain of Faith",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.878,
+    "lng": -77.2004,
+    "dist": 39.0,
+    "description": "The Fountain of Faith is a monumental sculptural group by Carl Milles in Falls Church, Virginia. It is located in National Memorial Park, a large cemetery which also displays a colossal cast of Milles' Sunsinger sculpture.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fountain_of_Faith",
+    "score": 0
+  },
+  {
+    "id": "wp:jvsrestaurant",
+    "name": "JV's Restaurant",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.87033,
+    "lng": -77.175,
+    "dist": 38.0,
+    "description": "Founded in October 1947, JV's Restaurant is a Falls Church and Fairfax County, Virginia restaurant and live music venue. Located on Arlington Boulevard, Route 50, just west of Annandale Road, JV's has provided live music for more than four decades.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/JV%27s_Restaurant",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalmemorialpark",
+    "name": "National Memorial Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.87861,
+    "lng": -77.2025,
+    "dist": 39.1,
+    "description": "National Memorial Park is a cemetery in the Washington, D.C. suburb of Falls Church, Virginia. The cemetery is part of the National Funeral Home and National Memorial Park complex.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Memorial_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:wdcnld",
+    "name": "WDCN-LD",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8745,
+    "lng": -77.22322,
+    "dist": 40.3,
+    "description": "WDCN-LD (channel 6), branded Latino 104.1/87.7, is a low-power television station licensed to Fairfax, Virginia, United States, serving the Washington, D.C., metropolitan area. Owned by Signal Above LLC, WDCN-LD markets itself as a conventional FM radio station, broadcasting Spanish contemporary hit",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WDCN-LD",
+    "score": 0
+  },
+  {
+    "id": "wp:wjfkfm",
+    "name": "WJFK-FM",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.87456,
+    "lng": -77.22331,
+    "dist": 40.3,
+    "description": "WJFK-FM (106.7 MHz \"106-7 The Fan\") is a commercial radio station licensed to Manassas, Virginia, and serving the Washington metropolitan area. WJFK-FM airs a sports radio format and is owned and operated by Audacy, Inc.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WJFK-FM",
+    "score": 0
+  },
+  {
+    "id": "wp:theprovidenceplayers",
+    "name": "The Providence Players of Fairfax",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.87417,
+    "lng": -77.17361,
+    "dist": 37.8,
+    "description": "The Providence Players of Fairfax is a community theatre company based in Fairfax, Virginia that performs at the James Lee Community Center Theatre in Falls Church, Virginia. The theatre was founded in 1998 as the Mantua Players and performed their first production, You Can't Take It with You, at Ma",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Providence_Players_of_Fairfax",
+    "score": 0
+  },
+  {
+    "id": "wp:sleepyhollowvirginia",
+    "name": "Sleepy Hollow, Virginia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.86722,
+    "lng": -77.16472,
+    "dist": 37.6,
+    "description": "Sleepy Hollow is an unincorporated community in Fairfax County, Virginia, United States. Sleepy Hollow is 1.1 miles (1.8 km) south-southeast of Falls Church.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sleepy_Hollow%2C_Virginia",
+    "score": 0
+  },
+  {
+    "id": "wp:columbiacollegevirgi",
+    "name": "Columbia College (Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.878,
+    "lng": -77.231,
+    "dist": 40.6,
+    "description": "Columbia College is a private for-profit vocational college in Vienna, Virginia. It offers certificates and associate degrees.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Columbia_College_%28Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:wmzqfm",
+    "name": "WMZQ-FM",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.887,
+    "lng": -77.201,
+    "dist": 38.8,
+    "description": "WMZQ-FM (98.7 MHz) is a commercial FM radio station in Washington, D.C. owned by iHeartMedia, it has had a country music radio format since 1977. The station's studios and offices are on Rockville Pike in Rockville, Maryland, and its transmitter is on Tower Street in Falls Church, Virginia.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WMZQ-FM",
+    "score": 0
+  },
+  {
+    "id": "wp:wbigfm",
+    "name": "WBIG-FM",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88706,
+    "lng": -77.20053,
+    "dist": 38.8,
+    "description": "WBIG-FM (100.3 MHz), branded as Big 100, is a commercial radio station licensed to Washington, D.C. It has a classic rock radio format and is owned by iHeartMedia, Inc. The studios and offices are in Rockville, Maryland.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WBIG-FM",
+    "score": 0
+  },
+  {
+    "id": "wp:bigchimneys",
+    "name": "Big Chimneys",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88238,
+    "lng": -77.17482,
+    "dist": 37.7,
+    "description": "Big Chimneys Park is located in Falls Church, Virginia. It marks the site of a log house built in 1699.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Big_Chimneys",
+    "score": 0
+  },
+  {
+    "id": "wp:eakincommunitypark",
+    "name": "Eakin Community Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.85513,
+    "lng": -77.25063,
+    "dist": 42.2,
+    "description": "Eakin Community Park is a 57-acre (23 ha) county park in Fairfax County, Virginia. It is managed by the Fairfax County Park Authority.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eakin_Community_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:nationallegalandpoli",
+    "name": "National Legal and Policy Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.883,
+    "lng": -77.1687,
+    "dist": 37.3,
+    "description": "The National Legal and Policy Center (NLPC) is a conservative 501(c)(3) non-profit group that monitors and reports on the ethics of public officials, supporters of liberal causes, and labor unions in the United States. The Center files complaints with government agencies, legally challenges what the",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Legal_and_Policy_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:taylorstavern",
+    "name": "Taylor's Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8755,
+    "lng": -77.15778,
+    "dist": 37.0,
+    "description": "Taylor's Tavern was a significant outpost for Union Forces during the US Civil War. It was among the first locations in Virginia where the two opposing sides came into contact.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Taylor%27s_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:sevencornersshopping",
+    "name": "Seven Corners Shopping Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.86833,
+    "lng": -77.15203,
+    "dist": 37.0,
+    "description": "Seven Corners Shopping Center was the first major shopping center to open in suburban Washington, D.C. It is located in Seven Corners, Fairfax County, Virginia. At its opening in 1956, it was the largest regional shopping center in Virginia.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Seven_Corners_Shopping_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:cherryhillfarmhouse",
+    "name": "Cherry Hill Farmhouse",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88667,
+    "lng": -77.17278,
+    "dist": 37.4,
+    "description": "The Cherry Hill Farmhouse is a house museum in Falls Church, Virginia, United States. Built in 1845 in a Greek Revival architecture style, it belonged to wealthy farmer families until 1945, and in 1956 it became property of the City of Falls Church, which transformed it into a museum, as a historica",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cherry_Hill_Farmhouse",
+    "score": 0
+  },
+  {
+    "id": "wp:oakhillannandalevirg",
+    "name": "Oak Hill (Annandale, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.82083,
+    "lng": -77.24028,
+    "dist": 42.7,
+    "description": "Oak Hill in Annandale, Virginia, United States, is a Georgian style home built in 1790. It was listed on the National Register of Historic Places in 2004.",
+    "zone": "Northern Virginia",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oak_Hill_%28Annandale%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:johnmarshallsleedsma",
+    "name": "John Marshall's Leeds Manor Rural Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.89722,
+    "lng": -77.99917,
+    "dist": 80.0,
+    "description": "John Marshall's Leeds Manor Rural Historic District is a national historic district located near Markham, in Fauquier County, northeastern Virginia.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Marshall%27s_Leeds_Manor_Rural_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:markhamhistoricdistr",
+    "name": "Markham Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90583,
+    "lng": -77.99778,
+    "dist": 79.8,
+    "description": "Markham Historic District is a national historic district located at Markham, Fauquier County, Virginia. It encompasses 44 contributing buildings and 4 contributing sites in the rural villages of Farrowsville and Markham.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Markham_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:morvenmarkhamvirgini",
+    "name": "Morven (Markham, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.8725,
+    "lng": -77.9975,
+    "dist": 80.2,
+    "description": "Morven is a historic home located near Markham, Fauquier County, Virginia. The house consists of four one-to-two story, three-bay, gable-roofed houses dating from the late-18th to mid-19th centuries and in the Federal style.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Morven_%28Markham%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:yewhillrobertashbyst",
+    "name": "Yew Hill-Robert Ashby's Tavern-Shacklett's Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90389,
+    "lng": -77.92444,
+    "dist": 75.9,
+    "description": "Yew Hill-Robert Ashby's Tavern-Shacklett's Tavern, known before 1760 as \"Watts\" or \"Watts Ordinary\", is a historic inn and tavern located near Delaplane, Fauquier County, Virginia. The main house was built about 1760–1761, and is a 1+1⁄2-story, three-bay, Colonial-era frame structure.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yew_Hill-Robert_Ashby%27s_Tavern-Shacklett%27s_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:waiwfm",
+    "name": "WAIW (FM)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.95592,
+    "lng": -78.02414,
+    "dist": 80.6,
+    "description": "WAIW is a contemporary worship music formatted broadcast radio station licensed to Winchester, Virginia. WAIW is owned and operated by Educational Media Foundation.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WAIW_%28FM%29",
+    "score": 0
+  },
+  {
+    "id": "wp:ashleighdelaplanevir",
+    "name": "Ashleigh (Delaplane, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.9021,
+    "lng": -77.9187,
+    "dist": 75.7,
+    "description": "Ashleigh is a Greek Revival style house located in Fauquier County near Delaplane, Virginia. The one-story house was built in 1840 for Margaret Marshal, the granddaughter of John Marshall on a portion of the family's Oak Hill estate (not to be confused with the nearby James Monroe House named Oak Hi",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ashleigh_%28Delaplane%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:delaplanehistoricdis",
+    "name": "Delaplane Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.91583,
+    "lng": -77.92,
+    "dist": 75.5,
+    "description": "Delaplane Historic District is a national historic district located at Delaplane, Fauquier County, Virginia. The rural village of Delaplane was founded in 1852 around the Piedmont Station of the newly chartered Manassas Gap Railroad (originally to link the Alexandria and Orange Railroad with the lin",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Delaplane_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:humehistoricdistrict",
+    "name": "Hume Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.83194,
+    "lng": -77.99944,
+    "dist": 80.9,
+    "description": "Hume Historic District is a national historic district located at Hume, Fauquier County, Virginia. It encompasses 59 contributing buildings in the rural village of Hume.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hume_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:oakhilldelaplanevirg",
+    "name": "Oak Hill (Delaplane, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.88868,
+    "lng": -77.90338,
+    "dist": 75.0,
+    "description": "Oak Hill is an historic home of the Marshall family in Delaplane, Virginia and a working farm with a view of the Blue Ridge Mountains. It lies north of I-66, just east of the US-17/Delaplane exit from westbound I-66.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oak_Hill_%28Delaplane%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:woodsidedelaplanevir",
+    "name": "Woodside (Delaplane, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.90361,
+    "lng": -77.90167,
+    "dist": 74.7,
+    "description": "Woodside is a historic home located near Delaplane, Fauquier County, Virginia. The oldest section was built about 1800, and is located in the rear.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodside_%28Delaplane%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:crookedrunvalleyrura",
+    "name": "Crooked Run Valley Rural Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.96222,
+    "lng": -77.93889,
+    "dist": 76.0,
+    "description": "Crooked Run Valley Rural Historic District is a national historic district located near Paris, Fauquier County, Virginia. The district encompasses 386 contributing buildings, 27 contributing sites, and 21 contributing structures.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Crooked_Run_Valley_Rural_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:cromwellsrunruralhis",
+    "name": "Cromwell's Run Rural Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.96222,
+    "lng": -77.93889,
+    "dist": 76.0,
+    "description": "Cromwell's Run Rural Historic District is a national historic district located near Rectortown, Fauquier County, Virginia. The district encompasses 384 contributing buildings, 20 contributing sites, and 36 contributing structures.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cromwell%27s_Run_Rural_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:grichardthompsonwild",
+    "name": "G. Richard Thompson Wildlife Management Area",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98472,
+    "lng": -77.99194,
+    "dist": 78.7,
+    "description": "G. Richard Thompson Wildlife Management Area, one of the richest botanical areas of Virginia's Blue Ridge Mountains, is a 4,000-acre (16 km2) Wildlife Management Area (WMA) located primarily in Fauquier County, Virginia, with small encroachments into both Warren and Clarke Counties.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/G._Richard_Thompson_Wildlife_Management_Area",
+    "score": 0
+  },
+  {
+    "id": "wp:highknobblueridgevir",
+    "name": "High Knob (Blue Ridge, Virginia)",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8866,
+    "lng": -78.1119,
+    "dist": 86.1,
+    "description": "High Knob is a peak of the Blue Ridge Mountains in Warren and Fauquier counties, Virginia.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/High_Knob_%28Blue_Ridge%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:bellegrovedelaplanev",
+    "name": "Belle Grove (Delaplane, Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.98083,
+    "lng": -77.95389,
+    "dist": 76.7,
+    "description": "Belle Grove is a historic home and farm located near Delaplane, Fauquier County, Virginia. The manor house was built about 1812, and is a 2+1⁄2-story, five-bay, brick and stuccoed stone house in the Federal style.",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Belle_Grove_%28Delaplane%2C_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofmanassasgap",
+    "name": "Battle of Manassas Gap",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.914,
+    "lng": -78.114,
+    "dist": 85.8,
+    "description": "The Battle of Manassas Gap, also known as the Battle of Wapping Heights, took place on July 23, 1863, in Warren County, Virginia, at the conclusion of General Robert E. Lee's retreat back to Virginia in the final days of the Gettysburg campaign of the American Civil War. Union forces attempted to fo",
+    "zone": "Shenandoah & Western MD",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Manassas_Gap",
+    "score": 0
+  },
+  {
+    "id": "wp:johnbrownsfort",
+    "name": "John Brown's Fort",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32345,
+    "lng": -77.72989,
+    "dist": 65.8,
+    "description": "John Brown's Fort was initially built in 1848 for use as a guard and fire engine house by the federal Harpers Ferry Armory, in Harpers Ferry, Virginia (since 1863, West Virginia). An 1848 military report described the building as \"An engine and guard-house 35 1/2 x 24 feet, one story brick, covered ",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Brown%27s_Fort",
+    "score": 0
+  },
+  {
+    "id": "wp:johnbrownsraidonharp",
+    "name": "John Brown's raid on Harpers Ferry",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32306,
+    "lng": -77.73028,
+    "dist": 65.8,
+    "description": "From October 16th to 18th, 1859, American abolitionist John Brown attempted to initiate a slave revolt in Southern states by raiding an armory in Harpers Ferry, Virginia (now West Virginia). The raid is frequently cited as one of the primary causes of the American Civil War.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofharpersferry",
+    "name": "Battle of Harpers Ferry",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.3228,
+    "lng": -77.7302,
+    "dist": 65.8,
+    "description": "The Battle of Harpers Ferry was fought September 12–15, 1862, as part of the Maryland Campaign of the American Civil War. As Confederate Army General Robert E. Lee's Confederate army invaded Maryland, a portion of his army under Major General Thomas J. \"Stonewall\" Jackson surrounded, bombarded, and ",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Harpers_Ferry",
+    "score": 0
+  },
+  {
+    "id": "wp:shenandoahriver",
+    "name": "Shenandoah River",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.3226,
+    "lng": -77.72777,
+    "dist": 65.7,
+    "description": "The Shenandoah River is the principal tributary of the Potomac River, 55.6 miles (89.5 km) long with two forks approximately 100 miles (160 km) long each, in the U.S. states of Virginia and West Virginia. The river and its tributaries drain the central and lower Shenandoah Valley and the Page Valley",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shenandoah_River",
+    "score": 0
+  },
+  {
+    "id": "wp:storercollege",
+    "name": "Storer College",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32379,
+    "lng": -77.73541,
+    "dist": 66.1,
+    "description": "Storer College was a historically Black college in Harpers Ferry, West Virginia, United States, that operated from 1867 to 1955. A national icon for Black Americans, in the town where the 'end of American slavery began', as Frederick Douglass famously put it, it was a unique institution whose focus ",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Storer_College",
+    "score": 0
+  },
+  {
+    "id": "wp:lockwoodhouseharpers",
+    "name": "Lockwood House (Harpers Ferry)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32372,
+    "lng": -77.73542,
+    "dist": 66.1,
+    "description": "Lockwood House is a historic building in Harpers Ferry National Historical Park in Harpers Ferry in the U.S. state of West Virginia. Located on Camp Hill on Fillmore Street, the house is built of brick and stone in the Greek Revival and Italianate architectural styles.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lockwood_House_%28Harpers_Ferry%29",
+    "score": 0
+  },
+  {
+    "id": "wp:virginiusislandwestv",
+    "name": "Virginius Island, West Virginia",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32149,
+    "lng": -77.73916,
+    "dist": 66.3,
+    "description": "Virginius Island is a formerly inhabited island of some 12 acres (4.9 ha), on the Shenandoah River in Harpers Ferry, West Virginia. The island was created by the Shenandoah Canal, constructed by the Patowmack Company between 1806 and 1807, which separates it from the town of Harpers Ferry.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Virginius_Island%2C_West_Virginia",
+    "score": 0
+  },
+  {
+    "id": "wp:camphillwestvirginia",
+    "name": "Camp Hill (West Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32415,
+    "lng": -77.74106,
+    "dist": 66.4,
+    "description": "Camp Hill is a summit in Harpers Ferry, West Virginia, in the United States. With an elevation of 538 feet (164 m), Camp Hill is the 952nd highest summit in the state of West Virginia.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Camp_Hill_%28West_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:harpersferryhistoric",
+    "name": "Harpers Ferry Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32639,
+    "lng": -77.74139,
+    "dist": 66.5,
+    "description": "The Harpers Ferry Historic District comprises about one hundred historic structures in Harpers Ferry, West Virginia. The historic district includes the portions of the central town not included in Harpers Ferry National Historical Park, including large numbers of early 19th-century houses built by t",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Harpers_Ferry_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:potomacwatergap",
+    "name": "Potomac Water Gap",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32,
+    "lng": -77.72,
+    "dist": 65.2,
+    "description": "The Potomac Water Gap is a double water gap in the Blue Ridge Mountains, located at the intersection of the states of Virginia, West Virginia and Maryland, near Harpers Ferry. At 256 feet (78 m), it is the lowest crossing of the Blue Ridge Mountains.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Potomac_Water_Gap",
+    "score": 0
+  },
+  {
+    "id": "wp:leelongsworthhouse",
+    "name": "Lee-Longsworth House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32556,
+    "lng": -77.74694,
+    "dist": 66.7,
+    "description": "The Lee-Longsworth House in Bolivar, West Virginia, is an example of the transition from Georgian style architecture to the Federal style. It preserves significant features of interior woodwork, and is associated with the Lee family of Virginia.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lee-Longsworth_House",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofloudounheigh",
+    "name": "Battle of Loudoun Heights",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.31647,
+    "lng": -77.71682,
+    "dist": 65.0,
+    "description": "The Battle of Loudoun Heights was a small cavalry skirmish during the American Civil War between John Mosby's Rangers and Major Henry A. Cole's 1st Potomac Home Brigade Maryland Cavalry on January 10, 1864, in Loudoun County, Virginia. Cole's Cavalry successfully defended a night raid against their ",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Loudoun_Heights",
+    "score": 0
+  },
+  {
+    "id": "wp:pineyrunvirginia",
+    "name": "Piney Run (Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32,
+    "lng": -77.71,
+    "dist": 64.7,
+    "description": "Piney Run is a tributary of the Potomac River in Loudoun County, Virginia. The creek is the principal drainage of the upper Between the Hills valley in northwestern Loudoun County.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Piney_Run_%28Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:loudounheightsmounta",
+    "name": "Loudoun Heights (mountain)",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.30778,
+    "lng": -77.73861,
+    "dist": 66.0,
+    "description": "Loudoun Heights, sometimes referred to as Loudoun Mountain, is the first peak of the Blue Ridge Mountain south of the Potomac River in Loudoun County, Virginia and Jefferson County, West Virginia. The northwestern slope is part of Harpers Ferry National Historical Park.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Loudoun_Heights_%28mountain%29",
+    "score": 0
+  },
+  {
+    "id": "wp:allstadthouseandordi",
+    "name": "Allstadt House and Ordinary",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.31626,
+    "lng": -77.75568,
+    "dist": 67.0,
+    "description": "The Allstadt House and Ordinary was built about 1790 on land owned by the Lee family near Harpers Ferry, West Virginia, including Phillip Ludwell Lee, Richard Bland Lee and Henry Lee III. The house at the crossroads was sold to the Jacob Allstadt family of Berks County, Pennsylvania in 1811. Allstad",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Allstadt_House_and_Ordinary",
+    "score": 0
+  },
+  {
+    "id": "wp:bolivarheightsbattle",
+    "name": "Bolivar Heights Battlefield",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.32806,
+    "lng": -77.75806,
+    "dist": 67.3,
+    "description": "The Bolivar Heights Battlefield in Jefferson County, West Virginia, partly in the town of Bolivar, is an American Civil War battlefield which, – because of its strategic position overlooking Harpers Ferry, where the U.S. had an armory, and its placement at the head of the Shenandoah Valley – was the",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bolivar_Heights_Battlefield",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofbolivarheigh",
+    "name": "Battle of Bolivar Heights",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32361,
+    "lng": -77.76139,
+    "dist": 67.5,
+    "description": "The Battle of Bolivar Heights (October 16, 1861) was an early battle of the American Civil War. Bolivar Heights is a plateau which overlooks the towns of Harpers Ferry, West Virginia and Bolivar, West Virginia, then part of Virginia.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Bolivar_Heights",
+    "score": 0
+  },
+  {
+    "id": "wp:striderfarm",
+    "name": "Strider Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.33417,
+    "lng": -77.76528,
+    "dist": 67.8,
+    "description": "The Strider Farm was intimately involved in events concerning the American Civil War near Harpers Ferry, West Virginia. Located on a small hill just south of the Baltimore and Ohio Railroad line from Baltimore and Washington, D.C. to Martinsburg, West Virginia, the Strider farm was a strategic locat",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Strider_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:sweetrunstatepark",
+    "name": "Sweet Run State Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.2937,
+    "lng": -77.72505,
+    "dist": 65.1,
+    "description": "Sweet Run State Park is a state park in northern Loudoun County, Virginia, near Harper's Ferry, West Virginia. The park was dedicated on October 6, 2023 by Governor Glenn Youngkin.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sweet_Run_State_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:magnoliaplantationkn",
+    "name": "Magnolia Plantation (Knoxville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.34806,
+    "lng": -77.69333,
+    "dist": 64.3,
+    "description": "Magnolia Plantation, also known as the Boteler-Holder Farm, is a historic house and former slave plantation located at Knoxville, Washington County, Maryland, United States. It is a 2-story, five-bay-wide house built about 1835, with a 1+1⁄2-story three-bay rear addition, set on finely coursed local",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Magnolia_Plantation_%28Knoxville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:garrettsmillmaryland",
+    "name": "Garretts Mill, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.35333,
+    "lng": -77.68889,
+    "dist": 64.2,
+    "description": "Garretts Mill is an unincorporated community and census-designated place in Washington County, Maryland, United States. Its population was 234 as of the 2010 census.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Garretts_Mill%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:robertclagettfarm",
+    "name": "Robert Clagett Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.35167,
+    "lng": -77.68417,
+    "dist": 63.9,
+    "description": "The Robert Clagett Farm is a historic home and farm located at Knoxville, Washington County, Maryland, United States. The house is a one-story sandstone structure measuring three bays long by two bays deep in the Georgian-style.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_Clagett_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:knoxvillemaryland",
+    "name": "Knoxville, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.32694,
+    "lng": -77.66417,
+    "dist": 62.4,
+    "description": "Knoxville is an unincorporated community in Frederick and Washington counties, Maryland, United States. The Robert Clagett Farm and Magnolia Plantation are listed on the National Register of Historic Places.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Knoxville%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:kennedyfarmhouse",
+    "name": "Kennedy Farmhouse",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.37972,
+    "lng": -77.71556,
+    "dist": 66.1,
+    "description": "The Kennedy Farm is a National Historic Landmark property on Chestnut Grove Road in rural southern Washington County, Maryland. It is notable as the place where the radical abolitionist John Brown planned and began his raid on Harpers Ferry, Virginia (today West Virginia), in 1859.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kennedy_Farmhouse",
+    "score": 0
+  },
+  {
+    "id": "wp:yarrowsburgmaryland",
+    "name": "Yarrowsburg, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.37472,
+    "lng": -77.68417,
+    "dist": 64.3,
+    "description": "Yarrowsburg is an unincorporated community and census-designated place in Washington County, Maryland, United States. Its population was 133 as of the 2010 census.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yarrowsburg%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:lovettsvilleairdisas",
+    "name": "Lovettsville air disaster",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.27333,
+    "lng": -77.68472,
+    "dist": 62.7,
+    "description": "On August 31, 1940, Pennsylvania Central Airlines Flight 19, a new Douglas DC-3, was flying from Washington, D.C. to Detroit with a stopover in Pittsburgh. While the aircraft was flying near Lovettsville, Virginia at 6,000 feet (1,800 m) and approaching the West Virginia border, Flight 19 encountere",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lovettsville_air_disaster",
+    "score": 0
+  },
+  {
+    "id": "wp:rionhall",
+    "name": "Rion Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.30147,
+    "lng": -77.80536,
+    "dist": 69.4,
+    "description": "Rion Hall is a late Federal style house near Halltown, West Virginia, United States. Built in 1836, it consists of a three-story brick house with a two-story kitchen wing connected by a wood hyphen.",
+    "zone": "Harpers Ferry & Loudoun",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rion_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:hansonthomashouses",
+    "name": "Hanson-Thomas Houses",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.415,
+    "lng": -77.41,
+    "dist": 51.6,
+    "description": "Hanson-Thomas Houses were two adjoining historic homes located at Frederick, Frederick County, Maryland, United States. They were adjoining three-story, brick dwellings, with Federal-style details.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hanson-Thomas_Houses",
+    "score": 0
+  },
+  {
+    "id": "wp:frederickhistoricdis",
+    "name": "Frederick Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41472,
+    "lng": -77.41194,
+    "dist": 51.7,
+    "description": "The Frederick Historic District is a national historic district in Frederick, Maryland. The district encompasses the core of the city and contains a variety of residential, commercial, ecclesiastical, and industrial buildings dating from the late 18th century to 1941.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frederick_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:weinbergcenter",
+    "name": "Weinberg Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41402,
+    "lng": -77.41166,
+    "dist": 51.6,
+    "description": "The Weinberg Center is a 1,143-seat theater building located in Frederick, Maryland. It holds various showings of music, theater, films, studio screenings, conventions, weddings, business meetings, television and commercial location shoots and visual arts.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Weinberg_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:congregationkolamiof",
+    "name": "Congregation Kol Ami of Frederick",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41431,
+    "lng": -77.41347,
+    "dist": 51.7,
+    "description": "Congregation Kol Ami is a Reform Jewish congregation and synagogue in Frederick, Maryland, in the United States.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Congregation_Kol_Ami_of_Frederick",
+    "score": 0
+  },
+  {
+    "id": "wp:frederickarmory",
+    "name": "Frederick Armory",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.41667,
+    "lng": -77.41472,
+    "dist": 51.9,
+    "description": "The Frederick Armory is one of a series of similar armories built for the Maryland National Guard in the early 20th century. The building explicitly copies features of medieval fortifications, with crenelated blocks at either end of a buttressed drill hall.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frederick_Armory",
+    "score": 0
+  },
+  {
+    "id": "wp:hessianbarracks",
+    "name": "Hessian Barracks",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40903,
+    "lng": -77.40939,
+    "dist": 51.4,
+    "description": "Hessian Barracks, formerly known as Frederick Barracks, is an historic barracks building located in Frederick, Maryland. The State of Maryland contracted to build a barracks in the summer of 1777, but it was not completed until 1781.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hessian_Barracks",
+    "score": 0
+  },
+  {
+    "id": "wp:laboringsonsmemorial",
+    "name": "Laboring Sons Memorial Grounds",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42056,
+    "lng": -77.40694,
+    "dist": 51.6,
+    "description": "The Laboring Sons Memorial Grounds is a memorial ground in Frederick, Maryland located between 5th and 6th Street on Chapel Alley. The cemetery was established by the Laboring Sons Beneficial Society in 1851 as a cemetery for free blacks in the city.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Laboring_Sons_Memorial_Grounds",
+    "score": 0
+  },
+  {
+    "id": "wp:woodsborobankarena",
+    "name": "Woodsboro Bank Arena",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42417,
+    "lng": -77.41653,
+    "dist": 52.2,
+    "description": "Woodsboro Bank Arena is a sports venue in Frederick, Maryland on the campus of Hood College. It is home to Hood's volleyball and women's and men's basketball teams, and to the Frederick Flying Cows of 94x50 League.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodsboro_Bank_Arena",
+    "score": 0
+  },
+  {
+    "id": "wp:cullerlake",
+    "name": "Culler Lake",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.4175,
+    "lng": -77.42417,
+    "dist": 52.3,
+    "description": "Culler Lake is a man-made lake in Frederick, Maryland. The lake is used as part of stormwater management and it is also a gathering place for community recreation and it was restored and revitalized in 2016.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Culler_Lake",
+    "score": 0
+  },
+  {
+    "id": "wp:johncmotterhouse",
+    "name": "John C. Motter House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42722,
+    "lng": -77.41056,
+    "dist": 52.0,
+    "description": "The John C. Motter House is a Queen Anne style house built circa 1880, located in Frederick, Maryland. The 3½ story house features beveled corners with brick corbels.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_C._Motter_House",
+    "score": 0
+  },
+  {
+    "id": "wp:bethsholomcongregati",
+    "name": "Beth Sholom Congregation (Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.4278,
+    "lng": -77.40808,
+    "dist": 51.9,
+    "description": "Beth Sholom Congregation is a Conservative Jewish congregation and synagogue, located at 1011 North Market Street, in Frederick, Maryland, United States.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beth_Sholom_Congregation_%28Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:nymeofieldatharrygro",
+    "name": "Nymeo Field at Harry Grove Stadium",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40139,
+    "lng": -77.41333,
+    "dist": 51.4,
+    "description": "Nymeo Field at Harry Grove Stadium, located in Frederick, Maryland, is the home of the Frederick Keys, a Minor League Baseball team of the South Atlantic League. Opened in 1990, it seats 5,400 fans.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nymeo_Field_at_Harry_Grove_Stadium",
+    "score": 0
+  },
+  {
+    "id": "wp:jameskpwolfehouse",
+    "name": "James K.P. Wolfe House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43033,
+    "lng": -77.4104,
+    "dist": 52.0,
+    "description": "The James K.P. Wolfe House is a historic home in Frederick, Maryland. It is a two-story, frame, single hall plan, Victorian period farmhouse with Gothic Revival-style detailing.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/James_K.P._Wolfe_House",
+    "score": 0
+  },
+  {
+    "id": "wp:schifferstadtfrederi",
+    "name": "Schifferstadt (Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.42333,
+    "lng": -77.4275,
+    "dist": 52.7,
+    "description": "Schifferstadt, Also known as Scheifferstadt, is the oldest standing house in Frederick, Maryland. Built in 1758, it is one of the nation's finest examples of German-Georgian colonial architecture.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schifferstadt_%28Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:frederickmaryland",
+    "name": "Frederick, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43111,
+    "lng": -77.39722,
+    "dist": 51.4,
+    "description": "Frederick is a city in and the county seat of Frederick County, Maryland, United States. Frederick's population was 78,171 people as of the 2020 census, making it the second-largest incorporated city in Maryland behind Baltimore.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frederick%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:guilfordfrederickmar",
+    "name": "Guilford (Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.39543,
+    "lng": -77.41415,
+    "dist": 51.2,
+    "description": "Guilford is a large country farmhouse near Frederick, Maryland, built in 1809. Formerly the center of a 103-acre (0.42 km2) farm, the brick house retains many of its outbuildings despite its location in the middle of a suburban shopping and office development.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Guilford_%28Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:rosehillmanor",
+    "name": "Rose Hill Manor",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43639,
+    "lng": -77.40583,
+    "dist": 52.0,
+    "description": "Rose Hill Manor, now known as Rose Hill Manor Park & Children's Museum, is a historic home located at Frederick, Frederick County, Maryland. It is a 2+1⁄2-story brick house.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rose_Hill_Manor",
+    "score": 0
+  },
+  {
+    "id": "wp:lindengrovefrederick",
+    "name": "Linden Grove (Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40056,
+    "lng": -77.43361,
+    "dist": 52.3,
+    "description": "Linden Grove is a historic home located at Frederick, Frederick County, Maryland, United States. It is a 2+1⁄2-story, second-quarter-19th-century transitional Federal-Greek Revival Flemish bond brick house.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Linden_Grove_%28Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:onemillionlitertests",
+    "name": "One-Million-Liter Test Sphere",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43427,
+    "lng": -77.42903,
+    "dist": 53.1,
+    "description": "The One-Million-Liter Test Sphere—also known as the Test Sphere, the Horton Test Sphere, the Cloud Study Chamber, Building 527, and the \"Eight Ball\" (or \"8-ball\")—is a decommissioned biological warfare (BW) chamber and testing facility located on Fort Detrick, Maryland, US. It was constructed and ut",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/One-Million-Liter_Test_Sphere",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatesarmybiol",
+    "name": "United States Army Biological Warfare Laboratories",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43556,
+    "lng": -77.42722,
+    "dist": 53.0,
+    "description": "The U.S. Army Biological Warfare Laboratories (USBWL) was a suite of research laboratories and pilot plant centers operating at Camp (later Fort) Detrick, Maryland, United States, beginning in 1943 under the control of the U.S. Army Chemical Corps Research and Development Command. The USBWL undertoo",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Army_Biological_Warfare_Laboratories",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalbiodefensean",
+    "name": "National Biodefense Analysis and Countermeasures Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.4356,
+    "lng": -77.4272,
+    "dist": 53.0,
+    "description": "The National Biodefense Analysis and Countermeasures Center (NBACC) is a government biodefense research laboratory created by the U.S. Department of Homeland Security (DHS) and located at the sprawling biodefense campus at Fort Detrick in Frederick, MD, USA. The NBACC (pronounced EN-back) is the pri",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Biodefense_Analysis_and_Countermeasures_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:building470",
+    "name": "Building 470",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.43404,
+    "lng": -77.43095,
+    "dist": 53.1,
+    "description": "Building 470 — also called the Pilot Plant, or sometimes \"the Tower\", or \"Anthrax Tower\" — was a seven-story steel and brick building at Fort Detrick in Frederick, Maryland, United States, used in the small-scale production of biological warfare (BW) agents. The building, a Cold War era structure, w",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Building_470",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatesarmymedi",
+    "name": "United States Army Medical Research Institute of Infectious Diseases",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.438,
+    "lng": -77.4234,
+    "dist": 52.9,
+    "description": "The United States Army Medical Research Institute of Infectious Diseases (USAMRIID; ) is the United States Army's main institution and facility for defensive research into countermeasures against biological warfare. It is located on Fort Detrick, Maryland, near Washington, D.C., and is a subordinate",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Army_Medical_Research_Institute_of_Infectious_Diseases",
+    "score": 0
+  },
+  {
+    "id": "wp:prospecthallfrederic",
+    "name": "Prospect Hall (Frederick, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.40427,
+    "lng": -77.44055,
+    "dist": 52.8,
+    "description": "Prospect Hall is a historic mansion, built beginning around 1787 on what was known at the time as \"Red Hill\", the highest elevation in the area of Frederick, Maryland.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prospect_Hall_%28Frederick%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:carrollcreekmaryland",
+    "name": "Carroll Creek (Maryland)",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.42703,
+    "lng": -77.37977,
+    "dist": 50.5,
+    "description": "Carroll Creek is an 8.3-mile-long (13.4 km) tributary of the Monocacy River in Frederick County, Maryland. The headwaters of the creek are located on the eastern slopes of Catoctin Mountain, southeast of Gambrill State Park.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Carroll_Creek_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:francisscottkeymall",
+    "name": "Francis Scott Key Mall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.38278,
+    "lng": -77.40583,
+    "dist": 50.5,
+    "description": "Francis Scott Key Mall is an enclosed shopping mall in Frederick, Maryland, United States. Opened in 1978, it is anchored by JCPenney, Macy's, Value City Furniture, DSW, Ethan Allen, Barnes & Noble, and Dick's Sporting Goods.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Francis_Scott_Key_Mall",
+    "score": 0
+  },
+  {
+    "id": "wp:nallinfarmspringhous",
+    "name": "Nallin Farm Springhouse and Bank Barn",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.44722,
+    "lng": -77.415,
+    "dist": 52.8,
+    "description": "The Nallin Farm Springhouse and Bank Barn are closely associated with the Nallin Farm House on the grounds of Fort Detrick, Maryland, US. The barn is a good example of a fieldstone-built bank barn with a byre on the lower level and an earth ramp on the opposite side providing access to a haymow. The",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nallin_Farm_Springhouse_and_Bank_Barn",
+    "score": 0
+  },
+  {
+    "id": "wp:nallinfarmhouse",
+    "name": "Nallin Farm House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.44778,
+    "lng": -77.41417,
+    "dist": 52.7,
+    "description": "The Nallin Farm House and the related Nallin Farm Springhouse and Bank Barn are located on Fort Detrick at Frederick, Maryland. The Federal style brick farmhouse was built in stages between the 1780s and the 1830s and formerly served as the residence of the Fort Detrick commanding officer.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nallin_Farm_House",
+    "score": 0
+  },
+  {
+    "id": "wp:frederickcommunityco",
+    "name": "Frederick Community College",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.45222,
+    "lng": -77.4175,
+    "dist": 53.0,
+    "description": "Frederick Community College (FCC) is a public community college in Frederick, Maryland.",
+    "zone": "Frederick & Catoctin",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frederick_Community_College",
+    "score": 0
+  },
+  {
+    "id": "wp:adventuresportscente",
+    "name": "Adventure Sports Center International",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.546,
+    "lng": -79.372,
+    "dist": 154.7,
+    "description": "Adventure Sports Center International is an Olympic standard white water rafting and canoe/kayak slalom center located on the mountaintop above the Wisp Ski Resort at Deep Creek Lake, McHenry, Maryland, United States. In addition to serving as a venue for slalom races and training, the center offers",
+    "zone": "Deep Creek & Garrett County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Adventure_Sports_Center_International",
+    "score": 0
+  },
+  {
+    "id": "wp:hoyesmaryland",
+    "name": "Hoyes, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.59028,
+    "lng": -79.36944,
+    "dist": 155.2,
+    "description": "Hoyes is an unincorporated community in Garrett County, Maryland, United States. Hoyes is located on Maryland Route 42, 3.75 miles (6.04 km) southwest of Accident.",
+    "zone": "Deep Creek & Garrett County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hoyes%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:spruceknobsenecarock",
+    "name": "Spruce Knob–Seneca Rocks National Recreation Area",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.83389,
+    "lng": -79.36778,
+    "dist": 153.4,
+    "description": "Spruce Knob–Seneca Rocks National Recreation Area is a national recreation area in the Monongahela National Forest of eastern West Virginia. The national recreation area protects three prominent West Virginia landmarks: Spruce Knob, the highest point in West Virginia (and the highest of the Alleghen",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Spruce_Knob%E2%80%93Seneca_Rocks_National_Recreation_Area",
+    "score": 0
+  },
+  {
+    "id": "wp:siteshomestead",
+    "name": "Sites Homestead",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.83583,
+    "lng": -79.37389,
+    "dist": 153.7,
+    "description": "The Sites Homestead, also known as the Wayside Inn or the Sites Inn, is located near Seneca Rocks, West Virginia. The log house was built by Jacob Sites circa 1839 below the Seneca Rocks ridge.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sites_Homestead",
+    "score": 0
+  },
+  {
+    "id": "wp:boggsmill",
+    "name": "Boggs Mill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.81917,
+    "lng": -79.38583,
+    "dist": 154.5,
+    "description": "Boggs Mill is a historic grist mill located near Seneca Rocks, Pendleton County, West Virginia. It was built about 1830, and is a 3 1/2-story, rectangular, gable front building.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boggs_Mill",
+    "score": 0
+  },
+  {
+    "id": "wp:potomachighlands",
+    "name": "Potomac Highlands",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.86667,
+    "lng": -79.36667,
+    "dist": 153.0,
+    "description": "The Potomac Highlands of West Virginia ( ), or simply the Potomac Highlands, centers on five West Virginian counties (Grant, Hampshire, Hardy, Mineral, and Pendleton) in the upper Potomac River watershed in the western portion of the state's eastern panhandle, bordering Maryland and Virginia. Becaus",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Potomac_Highlands",
+    "score": 0
+  },
+  {
+    "id": "wp:millcreeknorthforkso",
+    "name": "Mill Creek (North Fork South Branch Potomac River tributary)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.78789,
+    "lng": -79.40671,
+    "dist": 155.9,
+    "description": "Mill Creek is a 5.3-mile-long (8.5 km) tributary stream of the North Fork South Branch Potomac River in Pendleton County, West Virginia. Mill Creek rises on the western flanks of North Fork Mountain (3412 feet/1040 m) and from there, flows north through Germany Valley.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mill_Creek_%28North_Fork_South_Branch_Potomac_River_tributary%29",
+    "score": 0
+  },
+  {
+    "id": "wp:hellholecave",
+    "name": "Hellhole (cave)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.771,
+    "lng": -79.378,
+    "dist": 154.6,
+    "description": "Hellhole is a large and deep pit cave in Germany Valley of eastern West Virginia. It is the seventh longest cave in the United States and is home to almost half of the world's population of Virginia big-eared bats.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hellhole_%28cave%29",
+    "score": 0
+  },
+  {
+    "id": "wp:germanyvalley",
+    "name": "Germany Valley",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.765,
+    "lng": -79.39,
+    "dist": 155.3,
+    "description": "Germany Valley is a scenic upland valley high in the Allegheny Mountains of eastern West Virginia originally settled by German (including Pennsylvania Dutch) farmers in the mid-18th century. It is today a part of the Spruce Knob–Seneca Rocks National Recreation Area of the Monongahela National Fores",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Germany_Valley",
+    "score": 0
+  },
+  {
+    "id": "wp:senecacavernswestvir",
+    "name": "Seneca Caverns (West Virginia)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.76344,
+    "lng": -79.3886,
+    "dist": 155.2,
+    "description": "Seneca Caverns is a karst show cave in Germany Valley near Riverton, West Virginia, USA. It has been commercially presented since 1930. The largest room inside the cave is the Teter Hall, which is 60 feet tall by 60 feet wide in some areas.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Seneca_Caverns_%28West_Virginia%29",
+    "score": 0
+  },
+  {
+    "id": "wp:smokeholecanyon",
+    "name": "Smoke Hole Canyon",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.85965,
+    "lng": -79.28445,
+    "dist": 148.7,
+    "description": "Smoke Hole Canyon — traditionally called The Smoke Holes and later simply Smoke Hole — is a rugged 20 miles (32 km) long gorge carved by the South Branch Potomac River in the Allegheny Mountains of eastern West Virginia, United States. The area is rather isolated and remote with parts accessible onl",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Smoke_Hole_Canyon",
+    "score": 0
+  },
+  {
+    "id": "wp:cunninghamhevenerhou",
+    "name": "Cunningham-Hevener House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77778,
+    "lng": -79.28472,
+    "dist": 149.5,
+    "description": "Cunningham-Hevener House is a historic home located at Upper Tract, Pendleton County, West Virginia. It was built about 1880, and is a two-story, T-shaped Greek Revival / Italian Villa style masonry dwelling.",
+    "zone": "WV Highlands",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cunningham-Hevener_House",
+    "score": 0
+  },
+  {
+    "id": "wp:gallery30",
+    "name": "Gallery 30",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.83121,
+    "lng": -77.22996,
+    "dist": 62.5,
+    "description": "Gallery 30 is an American fine art and craft gallery located in Gettysburg, Pennsylvania, United States. Gallery 30 has occupied two historic buildings in downtown Gettysburg, and its ownership has been active in the local community since the gallery's opening in 1979.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gallery_30",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgpennsylvan",
+    "name": "Gettysburg, Pennsylvania",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.82833,
+    "lng": -77.23222,
+    "dist": 62.4,
+    "description": "Gettysburg (; locally ) is a borough in Adams County, Pennsylvania, United States, and its county seat. As of the 2020 census, the borough had a population of 7,106 people.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg%2C_Pennsylvania",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgmicropolit",
+    "name": "Gettysburg micropolitan area",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.83051,
+    "lng": -77.23338,
+    "dist": 62.6,
+    "description": "The Gettysburg, PA Micropolitan Statistical Area is a small urban area of southern Pennsylvania. Adams County makes up the entire statistical area.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_micropolitan_area",
+    "score": 0
+  },
+  {
+    "id": "wp:thefarnsworthhousein",
+    "name": "The Farnsworth House Inn",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.82565,
+    "lng": -77.23127,
+    "dist": 62.2,
+    "description": "The Farnsworth House Inn is a bed and breakfast and tourist attraction located in Gettysburg, Pennsylvania. The building is purported to be haunted, which the business uses in its promotional literature.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Farnsworth_House_Inn",
+    "score": 0
+  },
+  {
+    "id": "wp:pennsylvaniahallgett",
+    "name": "Pennsylvania Hall (Gettysburg, Pennsylvania)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.835,
+    "lng": -77.23472,
+    "dist": 62.9,
+    "description": "Pennsylvania Hall (Penn Hall, Old Dorm) is the Gettysburg College central administrative building and the college's oldest building. Designed in 1835 by John Cresson Trautwine, it was built in 1838 as a \"temple-style edifice with four columns in the portico\".",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pennsylvania_Hall_%28Gettysburg%2C_Pennsylvania%29",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalhomesteadatg",
+    "name": "National Homestead at Gettysburg",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.82228,
+    "lng": -77.23092,
+    "dist": 62.0,
+    "description": "The National Homestead at Gettysburg (located at 777 Baltimore Street) was the Gettysburg Orphanage, and a widows home, which opened in October 1866 (incorporated March 22, 1867) on the Gettysburg Battlefield along Baltimore Street on the north foot of Cemetery Hill.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Homestead_at_Gettysburg",
+    "score": 0
+  },
+  {
+    "id": "wp:dobbinhousetavern",
+    "name": "Dobbin House Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.82222,
+    "lng": -77.23306,
+    "dist": 62.1,
+    "description": "The Dobbin House Tavern, known also as Dobbin House, on 89 Steinwehr Avenue in Gettysburg, Pennsylvania is a tavern which is listed on the National Register of Historic Places. It was established in 1776, making it the oldest standing structure in the town limits of Gettysburg.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dobbin_House_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:friendtofriendmasoni",
+    "name": "Friend to Friend Masonic Memorial",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.82097,
+    "lng": -77.23181,
+    "dist": 62.0,
+    "description": "The Friend to Friend Masonic Memorial is a Gettysburg Battlefield monument depicting the \"Armistead-Bingham incident\" in which Union Army Captain Henry H. Bingham assisted wounded Confederate Brigadier General Lewis Addison Armistead. Both men were Freemasons.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Friend_to_Friend_Masonic_Memorial",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysblackdivide",
+    "name": "Gettys-Black divide",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.83688,
+    "lng": -77.22153,
+    "dist": 62.5,
+    "description": "The Gettys-Black divide is the primary drainage divide of Cumberland Township, Adams County, Pennsylvania; extending from the mouth of Stevens Creek southward past Samuel Gettys' 1761 tavern ~7 miles to the mouth of Plum Run at the dam site for Robert Black's 1798 Mill. From a ridge within the Getty",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettys-Black_divide",
+    "score": 0
+  },
+  {
+    "id": "wp:soldiersnationalmonu",
+    "name": "Soldiers' National Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81977,
+    "lng": -77.23122,
+    "dist": 61.9,
+    "description": "The Soldiers' National Monument is a Gettysburg Battlefield memorial which is located at the central point of Gettysburg National Cemetery. It honors the battle's soldiers and tells an allegory of \"peace and plenty under freedom … following a heroic struggle.\" In addition to an inscription with the ",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Soldiers%27_National_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:sheadshouse",
+    "name": "Sheads House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.834,
+    "lng": -77.24283,
+    "dist": 63.1,
+    "description": "The Sheads House, also known as Oak Ridge Seminary, is an historic home that is located in Gettysburg in Adams County, Pennsylvania, United States. It was listed on the National Register of Historic Places in 1976.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sheads_House",
+    "score": 0
+  },
+  {
+    "id": "wp:1938gettysburgreunio",
+    "name": "1938 Gettysburg reunion",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.8395,
+    "lng": -77.2366,
+    "dist": 63.2,
+    "description": "The 1938 Gettysburg reunion was an encampment of American Civil War veterans on the Gettysburg Battlefield for the 75th anniversary of the Battle of Gettysburg. The gathering included approximately 25 veterans of the battle with a further 1,359 Federal and 486 Confederate attendees out of the 8,000 ",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/1938_Gettysburg_reunion",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgarmory",
+    "name": "Gettysburg Armory",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.82694,
+    "lng": -77.24389,
+    "dist": 62.7,
+    "description": "The Gettysburg Armory is a former National Guard armory which is located in Gettysburg, Adams County, Pennsylvania, United States. It was listed on the National Register of Historic Places in 1990.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Armory",
+    "score": 0
+  },
+  {
+    "id": "wp:lutherantheologicals",
+    "name": "Lutheran Theological Seminary at Gettysburg",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.83162,
+    "lng": -77.24433,
+    "dist": 63.0,
+    "description": "The Lutheran Theological Seminary at Gettysburg (Gettysburg Seminary) was a seminary of the Evangelical Lutheran Church in America (ELCA) in Gettysburg, Pennsylvania, United States. It was one of seven ELCA seminaries, one of the three seminaries in the Eastern Cluster of Lutheran Seminaries, and a ",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lutheran_Theological_Seminary_at_Gettysburg",
+    "score": 0
+  },
+  {
+    "id": "wp:schmuckerhall",
+    "name": "Schmucker Hall",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.83194,
+    "lng": -77.24472,
+    "dist": 63.0,
+    "description": "Schmucker Hall is an American Civil War site listed on the National Register of Historic Places in Adams County, Pennsylvania, that was constructed as the original Gettysburg Theological Seminary building. Used as both a Union and Confederate hospital during the 1863 Battle of Gettysburg, the facili",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schmucker_Hall",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofgettysburgfi",
+    "name": "Battle of Gettysburg, first day",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.818,
+    "lng": -77.2325,
+    "dist": 61.8,
+    "description": "The first day of the Battle of Gettysburg during the American Civil War took place on July 1, 1863, and began as an engagement between isolated units of the Army of Northern Virginia under Confederate General Robert E. Lee and the Army of the Potomac under Union Maj. Gen.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg%2C_first_day",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgrostrum",
+    "name": "Gettysburg Rostrum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81786,
+    "lng": -77.23191,
+    "dist": 61.8,
+    "description": "The Gettysburg Rostrum is a brick speaker's stand located at Gettysburg National Cemetery. It was Identified in 1908 as the location of the Gettysburg Address.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Rostrum",
+    "score": 0
+  },
+  {
+    "id": "wp:culpshill",
+    "name": "Culp's Hill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.8201,
+    "lng": -77.2203,
+    "dist": 61.6,
+    "description": "Culp's Hill, which is about 3⁄4 mi (1,200 m) south of the center of Gettysburg, Pennsylvania, played a prominent role in the Battle of Gettysburg. It consists of two rounded peaks, separated by a narrow saddle.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Culp%27s_Hill",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgnationalmu",
+    "name": "Gettysburg National Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81772,
+    "lng": -77.23303,
+    "dist": 61.8,
+    "description": "The Gettysburg National Museum was a Gettysburg Battlefield visitor attraction on the south border of the Gettysburg borough. Established by George D. Rosensteel after working at his uncle's 1888 Round Top Museum, the facility had an interpretive Battle of Gettysburg map using incandescent lights an",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_National_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:wget",
+    "name": "WGET",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.84175,
+    "lng": -77.22331,
+    "dist": 62.9,
+    "description": "WGET (1320 AM) is a commercial radio station. Owned by Forever Media, it is licensed to Gettysburg, Pennsylvania.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WGET",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgnationalto",
+    "name": "Gettysburg National Tower",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81675,
+    "lng": -77.22839,
+    "dist": 61.6,
+    "description": "The Gettysburg National Tower was a 307-foot (94 m) hyperboloid observation tower that overlooked the Gettysburg National Military Park and Gettysburg, Pennsylvania, from 1974 to 2000. The privately owned tower attracted many of the battlefield's visitors, who paid a fee to access its observation de",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_National_Tower",
+    "score": 0
+  },
+  {
+    "id": "wp:seminaryridge",
+    "name": "Seminary Ridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.82361,
+    "lng": -77.24528,
+    "dist": 62.6,
+    "description": "Seminary Ridge is a dendritic ridge that served as an area of military engagements during the Battle of Gettysburg, the bloodiest battle of the American Civil War, which was fought between July 1 and July 3, 1863 in and around Gettysburg, Pennsylvania.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Seminary_Ridge",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgbattlefiel",
+    "name": "Gettysburg Battlefield Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81639,
+    "lng": -77.23028,
+    "dist": 61.7,
+    "description": "Gettysburg Battlefield Historic District is a district of contributing properties and over 1000 historic contributing structures and 315 historic buildings, located in Adams County, Pennsylvania, United States. The district was added to the National Register of Historic Places on March 19, 1975.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Battlefield_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:cycloramabuildingget",
+    "name": "Cyclorama Building (Gettysburg)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81578,
+    "lng": -77.23414,
+    "dist": 61.8,
+    "description": "The Cyclorama Building was a modernist concrete and glass Mission 66 building in Gettysburg, Pennsylvania, United States. It was dedicated November 19, 1962, by the National Park Service (NPS) to serve as a Gettysburg Battlefield visitor center, to exhibit the 1883 Paul Philippoteaux Battle of Getty",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cyclorama_Building_%28Gettysburg%29",
+    "score": 0
+  },
+  {
+    "id": "wp:brianfarm",
+    "name": "Brian Farm",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81547,
+    "lng": -77.23517,
+    "dist": 61.8,
+    "description": "The Brian Farm is an American Civil War area of the Gettysburg Battlefield used during the Pickett's Charge. On January 23, 2004, the farm's buildings, Boundary Stone Wall, and ID tablet were designated historic district contributing structures after the tract was used for the 1918 Camp Colt and oth",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brian_Farm",
+    "score": 0
+  },
+  {
+    "id": "wp:11thmississippiinfan",
+    "name": "11th Mississippi Infantry Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81964,
+    "lng": -77.24707,
+    "dist": 62.4,
+    "description": "The 11th Mississippi Infantry Statue is a Gettysburg Battlefield memorial commemorating a Confederate regiment with a bronze sculpture of a flagbearer of the 11th Mississippi Infantry Regiment.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/11th_Mississippi_Infantry_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:theangle",
+    "name": "The Angle",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81343,
+    "lng": -77.2364,
+    "dist": 61.7,
+    "description": "The Angle (Bloody Angle colloq.) is a Gettysburg Battlefield area which includes the 1863 Copse of Trees used as the target landmark for Pickett's Charge, the 1892 monument that marks the high-water mark of the Confederacy, a rock wall, and several other Battle of Gettysburg monuments.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Angle",
+    "score": 0
+  },
+  {
+    "id": "wp:northcarolinastatemo",
+    "name": "North Carolina State Monument (Gettysburg, Pennsylvania)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81833,
+    "lng": -77.24726,
+    "dist": 62.3,
+    "description": "The North Carolina Monument is a North Carolina memorial of the American Civil War commemorating the 32 Carolina regiments in action at the Battle of Gettysburg. The monument is a public artwork by American sculptor Gutzon Borglum located on Seminary Ridge, West Confederate Avenue, in the Gettysburg",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_State_Monument_%28Gettysburg%2C_Pennsylvania%29",
+    "score": 0
+  },
+  {
+    "id": "wp:72ndpennsylvaniainfa",
+    "name": "72nd Pennsylvania Infantry Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.813,
+    "lng": -77.23628,
+    "dist": 61.7,
+    "description": "The 72nd Pennsylvania Infantry Monument is an 1891 statuary memorial on the Gettysburg Battlefield. It is located on Cemetery Ridge, by The Angle and the copse of trees, where Union forces – including the 72nd Pennsylvania Infantry – beat back Confederate forces engaged in Pickett's Charge.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/72nd_Pennsylvania_Infantry_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:mcphersonridge",
+    "name": "McPherson Ridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.837,
+    "lng": -77.2514,
+    "dist": 63.5,
+    "description": "McPherson Ridge is a landform used for military engagements during the 1863 Battle of Gettysburg, when the I Corps of the Union Army had a headquarters on the ridge and was defeated by the Confederate division of Major General Henry Heth. The ridge has terrain above ~530 ft (160 m) and is almost ent",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/McPherson_Ridge",
+    "score": 0
+  },
+  {
+    "id": "wp:highwatermarkoftheco",
+    "name": "High-water mark of the Confederacy",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.8125,
+    "lng": -77.23583,
+    "dist": 61.7,
+    "description": "The high-water mark of the Confederacy or high tide of the Confederacy refers to an area on Cemetery Ridge near Gettysburg, Pennsylvania, marking the furthest point reached by Confederate forces during Pickett's Charge on July 3, 1863. Similar to a high water mark of water, the term is a reference t",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/High-water_mark_of_the_Confederacy",
+    "score": 0
+  },
+  {
+    "id": "wp:highwatermarkofthere",
+    "name": "High Water Mark of the Rebellion Monument",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81245,
+    "lng": -77.23572,
+    "dist": 61.6,
+    "description": "The High Water Mark of the Rebellion Monument is a Gettysburg Battlefield memorial which identifies the Confederate Army of Northern Virginia units of the infantry attack on the Battle of Gettysburg, third day, with a large bronze tablet, as well as the Union Army of the Potomac's \"respective troops",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/High_Water_Mark_of_the_Rebellion_Monument",
+    "score": 0
+  },
+  {
+    "id": "wp:pickettscharge",
+    "name": "Pickett's Charge",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.8126,
+    "lng": -77.2366,
+    "dist": 61.7,
+    "description": "Pickett's Charge was an infantry assault on July 3, 1863, during the Battle of Gettysburg. It was ordered by Confederate General Robert E. Lee as part of his plan to break through Union lines and achieve a decisive victory in the North.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pickett%27s_Charge",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofgettysburg",
+    "name": "Battle of Gettysburg",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81139,
+    "lng": -77.22583,
+    "dist": 61.3,
+    "description": "The Battle of Gettysburg (locally ) (July 1–3, 1863) was fought in the American Civil War between the Union and Confederate armies in and around Gettysburg, Pennsylvania. The battle, won by the Union, is widely considered the Civil War's turning point, leading to an ultimate victory of the Union and",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgmuseumandv",
+    "name": "Gettysburg Museum and Visitor Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81139,
+    "lng": -77.22583,
+    "dist": 61.3,
+    "description": "The Gettysburg Museum and Visitor Center is a Gettysburg National Military Park facility, with a museum about the American Civil War, the 1884 Gettysburg Cyclorama, and the tour center for licensed Battlefield Guides and for buses to see the Gettysburg Battlefield and Eisenhower National Historic Si",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Museum_and_Visitor_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgbattlefiel",
+    "name": "Gettysburg Battlefield",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81139,
+    "lng": -77.22583,
+    "dist": 61.3,
+    "description": "The Gettysburg Battlefield is the area of the July 1–3, 1863, military engagements of the Battle of Gettysburg in and around Gettysburg, Pennsylvania. Locations of military engagements extend from the 4-acre (1.6 ha) site of the first shot at Knoxlyn Ridge on the west of the borough, to East Cavalry",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Battlefield",
+    "score": 0
+  },
+  {
+    "id": "wp:gettysburgcyclorama",
+    "name": "Gettysburg Cyclorama",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81139,
+    "lng": -77.22583,
+    "dist": 61.3,
+    "description": "The Battle of Gettysburg, also known as the Gettysburg Cyclorama, is a cyclorama painting by the French artist Paul Philippoteaux depicting Pickett's Charge, the climactic Confederate attack on the Union forces during the Battle of Gettysburg on July 3, 1863. After being commissioned by Chicago inve",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gettysburg_Cyclorama",
+    "score": 0
+  },
+  {
+    "id": "wp:battleofgettysburgse",
+    "name": "Battle of Gettysburg, second day",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.81124,
+    "lng": -77.22487,
+    "dist": 61.2,
+    "description": "During the second day of the Battle of Gettysburg (July 2, 1863) Confederate Gen. Robert E. Lee attempted to capitalize on his first day's accomplishments.",
+    "zone": "Gettysburg & Adams County",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg%2C_second_day",
+    "score": 0
+  },
+  {
+    "id": "wp:klejgrangemaryland",
+    "name": "Klej Grange, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.09778,
+    "lng": -75.45444,
+    "dist": 90.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Klej_Grange%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:pocomokestateforest",
+    "name": "Pocomoke State Forest",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.13278,
+    "lng": -75.43278,
+    "dist": 89.6,
+    "description": "Pocomoke State Forest is a state forest of Maryland that lies on both banks of the Pocomoke River in Worcester County. The portion north of the Pocomoke lies between Dividing and Nassawango Creeks.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pocomoke_State_Forest",
+    "score": 0
+  },
+  {
+    "id": "wp:pocomokeriverstatepa",
+    "name": "Pocomoke River State Park",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.12472,
+    "lng": -75.48972,
+    "dist": 88.0,
+    "description": "Pocomoke River State Park is a Maryland state park lying on both banks of the Pocomoke River between Snow Hill and Pocomoke City in Worcester County, Maryland. The park comprises two areas within Pocomoke State Forest: Shad Landing on the south bank of the river and Milburn Landing on the north bank",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pocomoke_River_State_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:girdletreebarnesbank",
+    "name": "Girdletree Barnes Bank",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.09378,
+    "lng": -75.39757,
+    "dist": 92.9,
+    "description": "The Girdletree Barnes Bank is located on Snow Hill Road (Route 12) between Snow Hill and Stockton, Girdletree, Maryland, United States. The bank includes a walk-in vault and antique teller cages.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Girdletree_Barnes_Bank",
+    "score": 0
+  },
+  {
+    "id": "wp:pocomokeriverwildlif",
+    "name": "Pocomoke River Wildlife Management Area",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature"
+    ],
+    "lat": 38.10111,
+    "lng": -75.50417,
+    "dist": 88.8,
+    "description": "The Pocomoke River Wildlife Management Area is a state-run nature reserve found on the southern banks of the Pocomoke River in Worcester County, Maryland. The Pocomoke River WMA encompasses an area of 1,016 acres (4.11 km2) that is a combination of farmland, woodlands and wetlands situated in the cy",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pocomoke_River_Wildlife_Management_Area",
+    "score": 0
+  },
+  {
+    "id": "wp:goodwillmaryland",
+    "name": "Goodwill, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.07056,
+    "lng": -75.49167,
+    "dist": 90.9,
+    "description": "Goodwill is an unincorporated community five miles (8 km) east of Pocomoke City in Worcester County, Maryland, United States, located at 38°4′14″N 75°29′30″W. Originally called Davis Crossroads, or simply Crossroads, Goodwill grew at the crossing of the roads leading from Mattapony Landing on the Po",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Goodwill%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:stocktonmaryland",
+    "name": "Stockton, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.05722,
+    "lng": -75.41667,
+    "dist": 94.2,
+    "description": "Stockton is a census-designated place (CDP) in Worcester County, Maryland, United States. The population was 92 at the 2010 census.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stockton%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:eavaughnwildlifemana",
+    "name": "E.A. Vaughn Wildlife Management Area",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.0775,
+    "lng": -75.38028,
+    "dist": 94.4,
+    "description": "E.A. Vaughn Wildlife Management Area is a state wildlife management area (WMA) of Maryland that consists of two separate parcels of land on Chincoteague Bay in Worcester County, between the villages of Girdletree and Stockton. From the 1940s to the 1960s, E.A. Vaughn WMA was a game farm where a numb",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/E.A._Vaughn_Wildlife_Management_Area",
+    "score": 0
+  },
+  {
+    "id": "wp:nunsgreen",
+    "name": "Nun's Green",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.13028,
+    "lng": -75.3825,
+    "dist": 91.6,
+    "description": "Nun's Green is a small 18th-century plantation house located in Snow Hill, Maryland, US, one of fourteen remaining structures from that era in Worcester County. It exhibits a characteristic three-part layout, with a main block joined by a lower hyphen to a kitchen block in the rear.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nun%27s_Green",
+    "score": 0
+  },
+  {
+    "id": "wp:nassawangocreek",
+    "name": "Nassawango Creek",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.16,
+    "lng": -75.423,
+    "dist": 88.6,
+    "description": "Nassawango Creek (locally or ) is a stream in the U.S. state of Maryland; it is the largest tributary of the Pocomoke River, located on the Delmarva Peninsula. Older variations on the same name include Nassanongo, Naseongo, Nassiongo, and Nassiungo, meaning \"[ground] between [the streams]\".",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nassawango_Creek",
+    "score": 0
+  },
+  {
+    "id": "wp:dividingcreekpocomok",
+    "name": "Dividing Creek (Pocomoke River tributary)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.08972,
+    "lng": -75.54111,
+    "dist": 88.2,
+    "description": "Dividing Creek is a 19.1-mile-long (30.7 km) tributary of the Pocomoke River on the Delmarva Peninsula. It rises in Wicomico County, Maryland, and forms the boundary between Somerset and Worcester counties.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dividing_Creek_%28Pocomoke_River_tributary%29",
+    "score": 0
+  },
+  {
+    "id": "wp:wbbxfm",
+    "name": "WBBX (FM)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.07678,
+    "lng": -75.53797,
+    "dist": 89.0,
+    "description": "WBBX (106.1 MHz) is an FM radio station broadcasting an oldies format. Licensed to Pocomoke City, Maryland, United States, the station is owned by Vinco Media LLC (Vince Klepac).",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WBBX_%28FM%29",
+    "score": 0
+  },
+  {
+    "id": "wp:boxironmaryland",
+    "name": "Boxiron, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.115,
+    "lng": -75.34917,
+    "dist": 93.6,
+    "description": "Boxiron is an unincorporated community in Worcester County, Maryland, United States. Boxiron is located at the intersection of Boxiron and Cherrix Lanes, southeast of Snow Hill.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boxiron%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:jamesmartinhousesnow",
+    "name": "James Martin House (Snow Hill, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.17083,
+    "lng": -75.39472,
+    "dist": 89.1,
+    "description": "The James Martin House, built c. 1790, is the only remaining representative of a gambrel-roof timber frame dwelling on the lower Eastern Shore of Maryland.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/James_Martin_House_%28Snow_Hill%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:chanceford",
+    "name": "Chanceford",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.17278,
+    "lng": -75.39667,
+    "dist": 88.9,
+    "description": "Chanceford is an 18th-century building in Maryland located at 209, West Federal Street, Snow Hill, Worcester County, Maryland. It is an early example of a neo-classical temple-fronted dwelling on the Eastern Shore of Maryland.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chanceford",
+    "score": 0
+  },
+  {
+    "id": "wp:governorjohnwaltersm",
+    "name": "Governor John Walter Smith House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.17306,
+    "lng": -75.39472,
+    "dist": 89.0,
+    "description": "The Governor John Walter Smith House is a historic home located at Snow Hill, Worcester County, Maryland. It is an unusually large and elaborate example of the Queen Anne style of domestic architecture.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Governor_John_Walter_Smith_House",
+    "score": 0
+  },
+  {
+    "id": "wp:juliaapurnellmuseum",
+    "name": "Julia A. Purnell Museum",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.17556,
+    "lng": -75.39694,
+    "dist": 88.8,
+    "description": "The Julia A. Purnell Museum is located at 208 West Market Street, Snow Hill, Maryland, United States. The building that houses the museum was originally the St.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Julia_A._Purnell_Museum",
+    "score": 0
+  },
+  {
+    "id": "wp:samuelgunnhouse",
+    "name": "Samuel Gunn House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.17556,
+    "lng": -75.39611,
+    "dist": 88.8,
+    "description": "The Samuel Gunn House is a historic house in Snow Hill, Worcester County, Maryland. Built around 1780, it is one of the oldest and best preserved of the 18th century Georgian town dwellings in Worcester County.",
+    "zone": "Assateague & Lower Shore",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Gunn_House",
+    "score": 0
+  },
+  {
+    "id": "wp:womanschristiantempe",
+    "name": "Woman's Christian Temperance Union Fountain",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.71667,
+    "lng": -75.07611,
+    "dist": 82.8,
+    "description": "Woman's Christian Temperance Union Fountain is a historic temperance fountain located at Rehoboth Beach, Sussex County, Delaware. It was erected by the Woman's Christian Temperance Union in 1929 to commemorate the 50th anniversary of the Delaware branch of the organization.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woman%27s_Christian_Temperance_Union_Fountain",
+    "score": 0
+  },
+  {
+    "id": "wp:funlandrehobothbeach",
+    "name": "Funland, Rehoboth Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.71481,
+    "lng": -75.07623,
+    "dist": 82.8,
+    "description": "Funland is a small family owned amusement park in Rehoboth Beach, Delaware. It has 18 rides, as well as midway games, and an arcade.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Funland%2C_Rehoboth_Beach",
+    "score": 0
+  },
+  {
+    "id": "wp:petermarshhouse",
+    "name": "Peter Marsh House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.725,
+    "lng": -75.08639,
+    "dist": 82.1,
+    "description": "Peter Marsh House, also known as The Homestead, is a historic home located in Henlopen Acres, just north of Rehoboth Beach, Sussex County, Delaware. The original house was built in the mid-18th century and consists of the 2+1⁄2-story, two-bay, main section and 1+1⁄2-story, three-bay kitchen wing.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peter_Marsh_House",
+    "score": 0
+  },
+  {
+    "id": "wp:silverlakerehobothbe",
+    "name": "Silver Lake (Rehoboth Beach, Delaware)",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.70611,
+    "lng": -75.07778,
+    "dist": 83.0,
+    "description": "Silver Lake is part of a pair of freshwater lakes including Lake Comegys in Rehoboth, Sussex County, Delaware. The two lakes were formed by receding glaciers, and now serves as a bird refuge.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Silver_Lake_%28Rehoboth_Beach%2C_Delaware%29",
+    "score": 0
+  },
+  {
+    "id": "wp:northshoresdelaware",
+    "name": "North Shores, Delaware",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.73611,
+    "lng": -75.08444,
+    "dist": 81.9,
+    "description": "North Shores is an unincorporated community in Sussex County, Delaware, United States. North Shores is located along the Atlantic Ocean north of Henlopen Acres and Rehoboth Beach and south of Cape Henlopen State Park.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/North_Shores%2C_Delaware",
+    "score": 0
+  },
+  {
+    "id": "wp:doddhomestead",
+    "name": "Dodd Homestead",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.71694,
+    "lng": -75.11111,
+    "dist": 81.0,
+    "description": "Dodd Homestead was a historic home and farmstead located near Rehoboth Beach, Sussex County, Delaware. It was a modified L-shaped, wood-frame dwelling, the earliest portion of which dated to about 1830.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dodd_Homestead",
+    "score": 0
+  },
+  {
+    "id": "wp:junctionandbreakwate",
+    "name": "Junction and Breakwater Trail",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.73389,
+    "lng": -75.11167,
+    "dist": 80.6,
+    "description": "The Junction and Breakwater Trail is a 6-mile (9.7 km) long rail trail located on the southwestern side of Cape Henlopen State Park connecting Lewes and Rehoboth Beach, Delaware, United States. It is the third rail trail built in Delaware and it is the longest in the state.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Junction_and_Breakwater_Trail",
+    "score": 0
+  },
+  {
+    "id": "wp:indianbeachdelaware",
+    "name": "Indian Beach, Delaware",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.68556,
+    "lng": -75.07333,
+    "dist": 83.7,
+    "description": "Indian Beach is an unincorporated community in Sussex County, Delaware, United States. Indian Beach is located on the Atlantic Ocean and Delaware Route 1, south of Dewey Beach.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indian_Beach%2C_Delaware",
+    "score": 0
+  },
+  {
+    "id": "wp:lewesandrehobothcana",
+    "name": "Lewes and Rehoboth Canal",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.7575,
+    "lng": -75.10944,
+    "dist": 80.2,
+    "description": "The Lewes and Rehoboth Canal is a canal in Sussex County, Delaware, which connects the Broadkill River and the Delaware Bay to Rehoboth Bay. It forms a portion of the Intracoastal Waterway.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lewes_and_Rehoboth_Canal",
+    "score": 0
+  },
+  {
+    "id": "wp:capehenlopen",
+    "name": "Cape Henlopen",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77148,
+    "lng": -75.0955,
+    "dist": 80.6,
+    "description": "Cape Henlopen is the southern cape of the Delaware Bay along the Atlantic coast of the United States. It lies in the state of Delaware, near the town of Lewes, where the Delaware Bay meets the Atlantic Ocean.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cape_Henlopen",
+    "score": 0
+  },
+  {
+    "id": "wp:hmsbraak1795",
+    "name": "HMS Braak (1795)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.776,
+    "lng": -75.0639,
+    "dist": 82.2,
+    "description": "HMS Braak was an 18-gun brig-sloop of the Royal Navy. She was launched at Rotterdam in 1781 and initially served with the Dutch Republic.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/HMS_Braak_%281795%29",
+    "score": 0
+  },
+  {
+    "id": "wp:fortmiles",
+    "name": "Fort Miles",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77722,
+    "lng": -75.08694,
+    "dist": 81.0,
+    "description": "Fort Miles was a United States Army World War II installation located on Cape Henlopen near Lewes, Delaware. Although funds to build the fort were approved in 1934, it was 1938 before construction began on the fort.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fort_Miles",
+    "score": 0
+  },
+  {
+    "id": "wp:rehobothbay",
+    "name": "Rehoboth Bay",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.66408,
+    "lng": -75.1045,
+    "dist": 82.7,
+    "description": "Rehoboth Bay is a body of water in Sussex County, Delaware. It is connected to the Broadkill River by the Lewes and Rehoboth Canal.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rehoboth_Bay",
+    "score": 0
+  },
+  {
+    "id": "wp:carpenterscornerdela",
+    "name": "Carpenters Corner, Delaware",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.7425,
+    "lng": -75.15028,
+    "dist": 78.4,
+    "description": "Carpenters Corner, Delaware is a village two miles south of Lewes and four miles northwest of Rehoboth Beach in Sussex County, at 38°44′30″N 75°09′00″W. The village is located on Delaware Route 1, and is named for two prosperous dairy farmers.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Carpenters_Corner%2C_Delaware",
+    "score": 0
+  },
+  {
+    "id": "wp:colemanhouselewesdel",
+    "name": "Coleman House (Lewes, Delaware)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77,
+    "lng": -75.14194,
+    "dist": 78.3,
+    "description": "Coleman House is a historic home located at Lewes, Sussex County, Delaware. It dates to about 1815, and consists of a two-story, three-bay, frame main section with 1+1⁄2-story, frame wing.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coleman_House_%28Lewes%2C_Delaware%29",
+    "score": 0
+  },
+  {
+    "id": "wp:capehenlopenbeacon",
+    "name": "Cape Henlopen Beacon",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79028,
+    "lng": -75.08056,
+    "dist": 81.0,
+    "description": "The Cape Henlopen Beacon was a lighthouse built to mark the point of the cape, supplementing Cape Henlopen Light just to the south. It was decommissioned in 1884 and demolished.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cape_Henlopen_Beacon",
+    "score": 0
+  },
+  {
+    "id": "wp:coldavidhallhouse",
+    "name": "Col. David Hall House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77389,
+    "lng": -75.13854,
+    "dist": 78.4,
+    "description": "Col. David Hall House is a historic home located at Lewes, Sussex County, Delaware.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Col._David_Hall_House",
+    "score": 0
+  },
+  {
+    "id": "wp:beebehealthcare",
+    "name": "Beebe Healthcare",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.7717,
+    "lng": -75.1428,
+    "dist": 78.2,
+    "description": "Beebe Healthcare is a healthcare system serving Sussex County in southern Delaware in the United States. Its primary facility is Beebe Medical Center, a hospital in Lewes.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beebe_Healthcare",
+    "score": 0
+  },
+  {
+    "id": "wp:zwaanendaelcolony",
+    "name": "Zwaanendael Colony",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.775,
+    "lng": -75.1394,
+    "dist": 78.3,
+    "description": "Zwaanendael or Swaanendael was a short-lived Dutch colonial settlement in Delaware. It was built in 1631.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zwaanendael_Colony",
+    "score": 0
+  },
+  {
+    "id": "wp:wescoatscornerdelawa",
+    "name": "Wescoats Corner, Delaware",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.75167,
+    "lng": -75.16444,
+    "dist": 77.5,
+    "description": "Wescoats Corner is an unincorporated community in Sussex County, Delaware, United States. Wescoats Corner is located at the intersection of U.S. Route 9 Business and Wescoats Corner Road, southwest of Lewes.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wescoats_Corner%2C_Delaware",
+    "score": 0
+  },
+  {
+    "id": "wp:ryvesholthouse",
+    "name": "Ryves Holt House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77592,
+    "lng": -75.14099,
+    "dist": 78.2,
+    "description": "Ryves Holt House (1680) is purportedly the oldest surviving house in the U.S. state of Delaware. It is located at 218 Second Street in Lewes, Delaware.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ryves_Holt_House",
+    "score": 0
+  },
+  {
+    "id": "wp:leweshistoricdistric",
+    "name": "Lewes Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77472,
+    "lng": -75.14278,
+    "dist": 78.1,
+    "description": "Lewes Historic District is a national historic district located at Lewes, Sussex County, Delaware. The district includes 122 contributing buildings and 6 contributing sites encompassing most of the 17th-century town of Lewes, together with part of Pilot Town.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lewes_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstateslightshi",
+    "name": "United States lightship Overfalls (LV-118)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77792,
+    "lng": -75.14111,
+    "dist": 78.2,
+    "description": "Lightship Overfalls (LV-118) (later renumbered WAL-539) was the last lightvessel constructed for the United States Lighthouse Service before the Service became part of the United States Coast Guard. She is currently preserved in Lewes, Delaware as a museum ship.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_lightship_Overfalls_%28LV-118%29",
+    "score": 0
+  },
+  {
+    "id": "wp:lewestransitcenter",
+    "name": "Lewes Transit Center",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.7477,
+    "lng": -75.1695,
+    "dist": 77.3,
+    "description": "The Lewes Transit Center is a park and ride lot and bus terminal owned by the Delaware Department of Transportation (DelDOT) that is located near the Five Points intersection southwest of the city of Lewes in Sussex County, Delaware. The transit center serves DART First State buses, with service pro",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lewes_Transit_Center",
+    "score": 0
+  },
+  {
+    "id": "wp:shipcarpentersquare",
+    "name": "Shipcarpenter Square",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77608,
+    "lng": -75.14479,
+    "dist": 78.0,
+    "description": "Shipcarpenter Square is an historic residential neighborhood located in Lewes, Delaware. The neighborhood has well-preserved Colonial and Victorian-era houses, said to provide a bucolic setting and charm to the seaside community while preserving the architectural heritage of the region.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shipcarpenter_Square",
+    "score": 0
+  },
+  {
+    "id": "wp:delawarebreakwaterea",
+    "name": "Delaware Breakwater East End Light",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79717,
+    "lng": -75.1,
+    "dist": 79.9,
+    "description": "The Delaware Breakwater East End Light is a lighthouse located on the inner Delaware Breakwater in the Delaware Bay, just off the coast of Cape Henlopen and the town of Lewes, Delaware.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Delaware_Breakwater_East_End_Light",
+    "score": 0
+  },
+  {
+    "id": "wp:delawarebreakwater",
+    "name": "Delaware Breakwater",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79778,
+    "lng": -75.10833,
+    "dist": 79.5,
+    "description": "The Delaware Breakwater is a set of breakwaters east of Lewes, Delaware on Cape Henlopen that form Lewes Harbor. They were listed on the National Register of Historic Places on December 12, 1976.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Delaware_Breakwater",
+    "score": 0
+  },
+  {
+    "id": "wp:williamrussellhousel",
+    "name": "William Russell House (Lewes, Delaware)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77944,
+    "lng": -75.15083,
+    "dist": 77.6,
+    "description": "William Russell House, also known as the Russell Farmhouse, is a historic home located at Lewes, Sussex County, Delaware. It was built in 1803, and is two-story, three-bay, double-pile, side-hall, frame house.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/William_Russell_House_%28Lewes%2C_Delaware%29",
+    "score": 0
+  },
+  {
+    "id": "wp:maullhouse",
+    "name": "Maull House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.78028,
+    "lng": -75.15111,
+    "dist": 77.6,
+    "description": "Maull House, also known as the Thomas Maull House, is a historic home located at Lewes, Sussex County, Delaware. It dates to about 1730, and is a 1+1⁄2-story, with attic, cypress sheathed frame dwelling with a gambrel roof.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maull_House",
+    "score": 0
+  },
+  {
+    "id": "wp:norwoodhouse",
+    "name": "Norwood House",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.74639,
+    "lng": -75.18,
+    "dist": 76.8,
+    "description": "Norwood House is a historic home located near Lewes, Sussex County, Delaware. It was built about 1850, and is two-story, three-bay, single-pile, frame house.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Norwood_House",
+    "score": 0
+  },
+  {
+    "id": "wp:nationalharborofrefu",
+    "name": "National Harbor of Refuge and Delaware Breakwater Harbor Historic District",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.79972,
+    "lng": -75.1075,
+    "dist": 79.5,
+    "description": "The National Harbor of Refuge and Delaware Breakwater Historic District encompasses a series of seacoast breakwaters behind Cape Henlopen, Delaware, built between 1828 and 1898 to establish a shipping haven on a coastline that lacked safe harbors. The Harbor of Refuge is at the mouth of the Delaware",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/National_Harbor_of_Refuge_and_Delaware_Breakwater_Harbor_Historic_District",
+    "score": 0
+  },
+  {
+    "id": "wp:pagancreekdike",
+    "name": "Pagan Creek Dike",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.77111,
+    "lng": -75.16472,
+    "dist": 77.1,
+    "description": "Pagan Creek Dike is a historic causeway located at Lewes, Sussex County, Delaware. It is about 700 feet (213.36 m) long, nine to ten feet (2.74 m – 3.05 meters) wide at the top, constructed of clay and loam piled atop a sand footing, which rests on marsh mud.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pagan_Creek_Dike",
+    "score": 0
+  },
+  {
+    "id": "wp:capehenlopenstatepar",
+    "name": "Cape Henlopen State Park",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.80317,
+    "lng": -75.09463,
+    "dist": 80.1,
+    "description": "Cape Henlopen State Park is a Delaware state park on 5,450 acres (2,210 ha) on Cape Henlopen in Sussex County, Delaware, United States. William Penn made the beaches of Cape Henlopen one of the first public lands established in what has become the United States in 1682 with the declaration that Cape",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cape_Henlopen_State_Park",
+    "score": 0
+  },
+  {
+    "id": "wp:ussgallupsp694",
+    "name": "USS Gallup (SP-694)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.805,
+    "lng": -75.088,
+    "dist": 80.4,
+    "description": "The first USS Gallup (SP-694), ex-Annie E. Gallup, was a United States Navy minesweeper commissioned in 1917 and lost in 1918. Gallup was built as the commercial \"menhaden fisherman\"-type steam fishing trawler Annie E. Gallup at Fall River, Massachusetts, in 1878.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/USS_Gallup_%28SP-694%29",
+    "score": 0
+  },
+  {
+    "id": "wp:fishersparadise",
+    "name": "Fisher's Paradise",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 38.78361,
+    "lng": -75.15722,
+    "dist": 77.2,
+    "description": "Fisher's Paradise, also known as Paradise Point , is a historic home located near Lewes, Sussex County, Delaware. The main house dates to about 1780, and is a 2+1⁄2-story, three-bay, wood frame dwelling sheathed in cedar shingles.",
+    "zone": "Delaware Beaches",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fisher%27s_Paradise",
+    "score": 0
+  },
+  {
+    "id": "wp:susquehannariver",
+    "name": "Susquehanna River",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.54306,
+    "lng": -76.07556,
+    "dist": 39.0,
+    "description": "The Susquehanna River ( SUSS-kwə-HAN-ə; Lenape: Siskëwahane) is a major river located in the Mid-Atlantic region of the United States, crossing three lower Northeast states (New York, Pennsylvania and Maryland). At 444 miles (715 km) long, it is the longest river on the East Coast of the United Stat",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Susquehanna_River",
+    "score": 0
+  },
+  {
+    "id": "wp:perrypointmansionhou",
+    "name": "Perry Point Mansion House and Mill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.54944,
+    "lng": -76.07083,
+    "dist": 39.5,
+    "description": "The Perry Point Mansion House and grist Mill is a national historic district at Perry Point, Cecil County, Maryland, United States. It is a 2+1⁄2-story, center-passage brick house covered with gray stucco.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Perry_Point_Mansion_House_and_Mill",
+    "score": 0
+  },
+  {
+    "id": "wp:raidonhavredegrace",
+    "name": "Raid on Havre de Grace",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.54068,
+    "lng": -76.08468,
+    "dist": 38.6,
+    "description": "The Raid on Havre de Grace was a seaborne raid that took place on 3 May 1813 during the broader War of 1812. A squadron of the British Royal Navy under Rear Admiral George Cockburn attacked the town of Havre de Grace, Maryland, at the mouth of the Susquehanna River.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Raid_on_Havre_de_Grace",
+    "score": 0
+  },
+  {
+    "id": "wp:fishingbatterylight",
+    "name": "Fishing Battery Light",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.495,
+    "lng": -76.083,
+    "dist": 36.2,
+    "description": "Fishing Battery Light was the last lighthouse constructed in Maryland by John Donahoo. While still standing, it has been supplanted by a steel tower which stands adjacent to it.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fishing_Battery_Light",
+    "score": 0
+  },
+  {
+    "id": "wp:statueofernestburke",
+    "name": "Statue of Ernest Burke",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.53836,
+    "lng": -76.09011,
+    "dist": 38.3,
+    "description": "A statue of Ernest Burke is a statue of Havre de Grace, Maryland-born baseball player Ernest Burke (1924–2004). It was created by sculptor Austen Brantley and was erected in Havre de Grace's Millard Tydings Memorial Park in 2021.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Statue_of_Ernest_Burke",
+    "score": 0
+  },
+  {
+    "id": "wp:susquehannarivernati",
+    "name": "Susquehanna River National Wildlife Refuge",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.49444,
+    "lng": -76.08333,
+    "dist": 36.2,
+    "description": "Susquehanna River National Wildlife Refuge is located on a small island 3.79 acres (15,300 m2) in size located at the mouth of the Susquehanna River in Harford County, Maryland. It is a satellite refuge managed by Blackwater National Wildlife Refuge.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Susquehanna_River_National_Wildlife_Refuge",
+    "score": 0
+  },
+  {
+    "id": "wp:marthalewisskipjack",
+    "name": "Martha Lewis (skipjack)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.53806,
+    "lng": -76.09167,
+    "dist": 38.2,
+    "description": "Martha Lewis is a Chesapeake Bay skipjack built in 1955. Her home port is Havre de Grace, Harford County, Maryland.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Martha_Lewis_%28skipjack%29",
+    "score": 0
+  },
+  {
+    "id": "wp:hirschresidence",
+    "name": "Hirsch Residence",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.53972,
+    "lng": -76.09417,
+    "dist": 38.2,
+    "description": "Hirsch Residence is a historic home located at Havre de Grace, Harford County, Maryland. The house was built between 1969 and 1970, and is a one-story, mid-century modern, single-family dwelling.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hirsch_Residence",
+    "score": 0
+  },
+  {
+    "id": "wp:rodgerstavern",
+    "name": "Rodgers Tavern",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.55722,
+    "lng": -76.07833,
+    "dist": 39.7,
+    "description": "Rodgers Tavern, also known as Stevenson's Tavern, is a historic hotel located at Perryville, Cecil County, Maryland, United States. It is a mid-18th-century, two-story stone structure with a basement.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rodgers_Tavern",
+    "score": 0
+  },
+  {
+    "id": "wp:woodlandsperryvillem",
+    "name": "Woodlands (Perryville, Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.57,
+    "lng": -76.0575,
+    "dist": 41.1,
+    "description": "Woodlands is a historic home located at Perryville, Cecil County, Maryland, United States. It appears to have been constructed in two principal periods: the original 2+1⁄2-story section built between 1810 and 1820 of stuccoed stone and a 1+1⁄2-story rear kitchen wing; and two bays of stuccoed brick,",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodlands_%28Perryville%2C_Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:southernterminalsusq",
+    "name": "Southern Terminal, Susquehanna and Tidewater Canal",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.55667,
+    "lng": -76.09472,
+    "dist": 39.1,
+    "description": "The Southern Terminal, Susquehanna and Tidewater Canal is a national historic district at Havre de Grace, Harford County, Maryland, United States. Located along the western bank of the Susquehanna River near its mouth at the Chesapeake Bay, it includes the Lock Master's House, the canal's outlet loc",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Southern_Terminal%2C_Susquehanna_and_Tidewater_Canal",
+    "score": 0
+  },
+  {
+    "id": "wp:redpointmaryland",
+    "name": "Red Point, Maryland",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.52845,
+    "lng": -75.98078,
+    "dist": 41.7,
+    "description": "Red Point is an unincorporated community located just off Maryland Route 272 south of North East, Maryland, United States. It is near Elk Neck State Park, where the North East River enters Chesapeake Bay.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Red_Point%2C_Maryland",
+    "score": 0
+  },
+  {
+    "id": "wp:garrettislandmarylan",
+    "name": "Garrett Island (Maryland)",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.56511,
+    "lng": -76.08884,
+    "dist": 39.8,
+    "description": "Garrett Island is an island located in Cecil County, Maryland, 1.8 miles (2.9 km) from the mouth of the Susquehanna River, directly west of Perryville and north of Havre de Grace. It is managed by the U.S. Fish and Wildlife Service as part of the Blackwater National Wildlife Refuge.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Garrett_Island_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:principiofurnace",
+    "name": "Principio Furnace",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.57722,
+    "lng": -76.03639,
+    "dist": 42.2,
+    "description": "Principio Furnace and village is in Cecil County, Maryland, 4 miles (6.4 km) northeast of Havre de Grace. The Principio Iron Works were started here in 1719 by Joseph Farmer with British capital and an ironmaster, John England.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Principio_Furnace",
+    "score": 0
+  },
+  {
+    "id": "wp:northeastriver",
+    "name": "North East River",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.55,
+    "lng": -75.98333,
+    "dist": 42.6,
+    "description": "The North East River is a tributary of the Chesapeake Bay in Maryland. Entirely tidal, it extends for about 5.0 miles (8.0 km) from the town of North East southwest past Charlestown to the main body of Chesapeake Bay between Carpenter's Point and Red Point.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/North_East_River",
+    "score": 0
+  },
+  {
+    "id": "wp:wxcyfm",
+    "name": "WXCY-FM",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.565,
+    "lng": -76.102,
+    "dist": 39.3,
+    "description": "WXCY-FM (103.7 FM) is a radio station in Havre de Grace, Maryland. Owned by Forever Media, it broadcasts a country music format serving the I-95 corridor from Wilmington, Delaware, to Baltimore, Maryland.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/WXCY-FM",
+    "score": 0
+  },
+  {
+    "id": "wp:ballisticresearchlab",
+    "name": "Ballistic Research Laboratory",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.47556,
+    "lng": -76.11139,
+    "dist": 34.2,
+    "description": "The Ballistic Research Laboratory (BRL) was a research facility under the U.S. Army Ordnance Corps and later the U.S. Army Materiel Command that specialized in ballistics as well as vulnerability and lethality analysis. Situated at Aberdeen Proving Ground, Maryland, BRL served as a major Army center",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ballistic_Research_Laboratory",
+    "score": 0
+  },
+  {
+    "id": "wp:spesutieisland",
+    "name": "Spesutie Island",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.45595,
+    "lng": -76.07662,
+    "dist": 34.5,
+    "description": "Spesutie Island is a 1,500-acre (610 ha) island located in a Chesapeake Bay in Harford County, Maryland, United States. It lies 5.5 miles (8.9 km) southeast of Aberdeen, Maryland.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Spesutie_Island",
+    "score": 0
+  },
+  {
+    "id": "wp:elkneckpeninsula",
+    "name": "Elk Neck Peninsula",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.49927,
+    "lng": -75.96703,
+    "dist": 40.8,
+    "description": "Elk Neck Peninsula is in Cecil County, Maryland, between the towns of Elkton and North East, Maryland. Native American and colonial travelers often canoed or sailed up the Chesapeake Bay to Elkton, where the Elk River became unnavigable, and then walked or took some form of surface transportation to",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elk_Neck_Peninsula",
+    "score": 0
+  },
+  {
+    "id": "wp:bullerockgolfcourse",
+    "name": "Bulle Rock Golf Course",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.542,
+    "lng": -76.133,
+    "dist": 37.1,
+    "description": "Bulle Rock Golf Course is a golf course in the eastern United States, located in Havre de Grace, Maryland. It is named for Bulle Rock, the first thoroughbred racehorse brought to America.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bulle_Rock_Golf_Course",
+    "score": 0
+  },
+  {
+    "id": "wp:aberdeenprovinggroun",
+    "name": "Aberdeen Proving Ground",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.475,
+    "lng": -76.125,
+    "dist": 33.7,
+    "description": "Aberdeen Proving Ground (APG) is a United States Army facility that neighbors Aberdeen and Edgewood, Maryland. Aberdeen Proving Ground was formed in 1917 to provide the Army with sufficient land for testing its munitions and equipment.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aberdeen_Proving_Ground",
+    "score": 0
+  },
+  {
+    "id": "wp:sionhill",
+    "name": "Sion Hill",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.565,
+    "lng": -76.12861,
+    "dist": 38.5,
+    "description": "Sion Hill is a National Historic Landmark in Havre de Grace, Maryland, notable as an example of high-style Federal architecture and as the home of a family of prominent officers of the United States Navy. Work began at Sion Hill around 1785 for the Rev.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sion_Hill",
+    "score": 0
+  },
+  {
+    "id": "wp:indianqueentavernand",
+    "name": "Indian Queen Tavern and Black's Store",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.57417,
+    "lng": -75.9775,
+    "dist": 44.0,
+    "description": "Indian Queen Tavern and Black's Store is a historic hotel and store complex located at Charlestown, Cecil County, Maryland, USA. It consists of two mid-18th century structures: Black's Store, originally the Red Lyon Inn, and the Indian Queen Tavern, later called Hotel. The two taverns and their rema",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indian_Queen_Tavern_and_Black%27s_Store",
+    "score": 0
+  },
+  {
+    "id": "wp:hollywoodcasinoperry",
+    "name": "Hollywood Casino Perryville",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.59639,
+    "lng": -76.07278,
+    "dist": 42.0,
+    "description": "Hollywood Casino Perryville is a casino in Perryville, Maryland, owned by Gaming and Leisure Properties (GLP) and operated by Penn Entertainment. It was the first casino to open in the state on September 17, 2010.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hollywood_Casino_Perryville",
+    "score": 0
+  },
+  {
+    "id": "wp:swansbury",
+    "name": "Swansbury",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.52167,
+    "lng": -76.15306,
+    "dist": 35.3,
+    "description": "Swansbury is a historic home and complex located at Aberdeen, Harford County, Maryland, United States. The buildings are clustered together near the center of the 86.78-acre (351,200 m2) forested property.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swansbury",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatesarmycomb",
+    "name": "United States Army Combat Capabilities Development Command",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.47345,
+    "lng": -76.14084,
+    "dist": 33.1,
+    "description": "The Combat Capabilities Development Command, (DEVCOM, aka CCDC) (formerly the United States Army Research, Development, and Engineering Command (RDECOM)) is a subordinate command of the US Army Futures and Concepts Command under the US Army Transformation and Training Command. RDECOM was tasked with",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Army_Combat_Capabilities_Development_Command",
+    "score": 0
+  },
+  {
+    "id": "wp:unitedstatesarmymate",
+    "name": "United States Army Materiel Systems Analysis Activity",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.47345,
+    "lng": -76.14084,
+    "dist": 33.1,
+    "description": "United States Army Materiel Systems Analysis Activity (AMSAA) is an analysis organization of the United States Army. AMSAA's overall goal is to provide soldiers with the best U.S. Army materiel possible.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/United_States_Army_Materiel_Systems_Analysis_Activity",
+    "score": 0
+  },
+  {
+    "id": "wp:elkrivermaryland",
+    "name": "Elk River (Maryland)",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.44111,
+    "lng": -75.99972,
+    "dist": 36.9,
+    "description": "The Elk River is a tidal tributary of the Chesapeake Bay on the Eastern Shore of Maryland and on the northern edge of the Delmarva Peninsula. It is about 15 miles (24 km) long.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Elk_River_%28Maryland%29",
+    "score": 0
+  },
+  {
+    "id": "wp:havredegracepolicede",
+    "name": "Havre De Grace Police Department",
+    "type": "gems",
+    "tags": [
+      "gems",
+      "weird"
+    ],
+    "lat": 39.51152,
+    "lng": -76.16449,
+    "dist": 34.4,
+    "description": "The Havre De Grace Police Department (HDGPD) is a full-service agency servicing the incorporated municipality of Havre De Grace, Maryland. Established in 1981, HDGPD is Havre De Grace's primary law enforcement agency.",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "source": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Havre_De_Grace_Police_Department",
+    "score": 0
+  }
+];
