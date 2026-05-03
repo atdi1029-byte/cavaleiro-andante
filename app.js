@@ -696,14 +696,14 @@ ${extras.length
 }
 
 const TYPE_FALLBACK_PHOTO = {
-  waterfall: 'https://images.unsplash.com/photo-1554629947-334ff61d85dc?w=700&h=400&q=80&auto=format&fit=crop',
-  water:     'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&h=400&q=80&auto=format&fit=crop',
+  waterfall: 'https://images.unsplash.com/photo-1442186343767-0b41ba7fdc97?w=700&h=400&q=80&auto=format&fit=crop',
+  water:     'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=700&h=400&q=80&auto=format&fit=crop',
   trail:     'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=700&h=400&q=80&auto=format&fit=crop',
   hike:      'https://images.unsplash.com/photo-1551632811-561732d1e306?w=700&h=400&q=80&auto=format&fit=crop',
   park:      'https://images.unsplash.com/photo-1448375240586-882707db888b?w=700&h=400&q=80&auto=format&fit=crop',
   gems:      'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&h=400&q=80&auto=format&fit=crop',
   viewpoint: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=700&h=400&q=80&auto=format&fit=crop',
-  run:       'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=700&h=400&q=80&auto=format&fit=crop',
+  run:       'https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=700&h=400&q=80&auto=format&fit=crop',
 };
 
 function fetchWikiPhoto(name, type) {
@@ -806,24 +806,37 @@ function useCurrentLocation() {
 
   navigator.geolocation.getCurrentPosition(
     pos => {
-      currentLoc = {
-        lat:   pos.coords.latitude,
-        lng:   pos.coords.longitude,
-        label: 'Current Location'
-      };
-      document.getElementById('location-text').textContent =
-        'Current Location';
+      const lat = pos.coords.latitude;
+      const lng = pos.coords.longitude;
+      currentLoc = { lat, lng, label: 'Current Location' };
+      // Reverse geocode to get a readable name
+      fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json`)
+        .then(r => r.json())
+        .then(d => {
+          const city = d.address?.city || d.address?.town || d.address?.village || d.address?.county || 'Current Location';
+          const state = d.address?.state_code || d.address?.state || '';
+          const label = state ? `${city}, ${state}` : city;
+          currentLoc.label = label;
+          document.getElementById('location-text').textContent = '📍 ' + label;
+        })
+        .catch(() => {
+          document.getElementById('location-text').textContent = '📍 Current Location';
+        });
+      document.getElementById('location-text').textContent = '📍 Locating…';
       btn.textContent = 'Use Home';
       btn.disabled    = false;
       btn.onclick     = useHomeLocation;
       loadPlaces();
     },
-    () => {
-      alert('Could not get your location. Using home base.');
+    err => {
+      const msg = err.code === 1
+        ? 'Location access denied. Please allow location in browser settings.'
+        : 'Could not get your location. Try again.';
+      alert(msg);
       btn.textContent = 'Use My Location';
       btn.disabled    = false;
     },
-    { timeout: 10000 }
+    { timeout: 10000, enableHighAccuracy: false }
   );
 }
 

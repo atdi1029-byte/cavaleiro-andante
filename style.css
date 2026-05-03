@@ -335,15 +335,16 @@ body {
 
 #discover-bar {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  gap: 8px;
   padding: 8px 14px;
-  gap: 10px;
   border-bottom: 1px solid var(--border);
 }
 .dist-pills {
   display: flex;
   gap: 6px;
+  flex-wrap: wrap;
 }
 .dist-pill {
   padding: 5px 12px;
