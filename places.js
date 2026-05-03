@@ -42655,5 +42655,78 @@ const SWEPT_PLACES = [
     "osmType": "node",
     "osmId": 7534018364,
     "score": 0
+  },
+  {
+    "id": "sw:occoquanhistoricdist",
+    "name": "Occoquan Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.68387,
+    "lng": -77.26063,
+    "dist": 48.7,
+    "description": "Elevation: 2m · Historic: district",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356599818,
+    "score": 0
+  },
+  {
+    "id": "sw:cliftonhistoricdistr",
+    "name": "Clifton Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.78033,
+    "lng": -77.38664,
+    "dist": 51.0,
+    "description": "Elevation: 60m · Historic: district",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356600462,
+    "score": 0
+  },
+  {
+    "id": "sw:bullrunspecialevents",
+    "name": "Bull Run Special Events Center",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.81646,
+    "lng": -77.46604,
+    "dist": 53.9,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 490460320,
+    "score": 0
+  },
+  {
+    "id": "sw:civilwarmonumentsign",
+    "name": "Civil War Monument - Signal Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.7531,
+    "lng": -77.43825,
+    "dist": 54.3,
+    "description": "Historic: memorial",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1341412835,
+    "score": 0
   }
 ];
