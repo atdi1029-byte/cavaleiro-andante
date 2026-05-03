@@ -114,7 +114,8 @@ const SK = {
   taste:     'ca_taste',
   favorites: 'ca_favorites',
   visited:   'ca_visited',
-  bad:       'ca_bad'
+  bad:       'ca_bad',
+  hidden:    'ca_hidden'
 };
 
 // ================================================
@@ -210,6 +211,15 @@ function toggleVisited(id, tagsJson) {
   rerenderCard(id);
 }
 
+function hidePlace(id) {
+  const hidden = loadSet(SK.hidden);
+  hidden.add(id);
+  saveSet(SK.hidden, hidden);
+  const el = document.querySelector(`.place-card[data-id="${id}"]`);
+  if (el) el.remove();
+  closeModal();
+}
+
 function toggleBad(id, tagsJson) {
   const tags = JSON.parse(tagsJson);
   const bad  = loadSet(SK.bad);
@@ -285,6 +295,7 @@ function getPlaceTags(t) {
 
 function matchesFilter(p) {
   if (p.dist > maxDist) return false;
+  if (loadSet(SK.hidden).has(p.id)) return false;
   if (activeFilter === 'all')  return p.type !== 'other';
   if (activeFilter === 'hike') return p.type === 'trail'
     || p.tags.includes('hiking');
@@ -494,8 +505,8 @@ function cardHtml(p) {
         onclick="toggleVisited('${p.id}','${tagsJson}')">
         ${isVis ? '✓' : '○'}
       </button>
-      <button class="action-btn ${isBad ? 'act-bad' : ''}" title="Not for me"
-        onclick="toggleBad('${p.id}','${tagsJson}')">✕</button>
+      <button class="action-btn" title="Hide"
+        onclick="hidePlace('${p.id}')">✕</button>
     </div>
   </div>
 </div>`.trim();
@@ -659,7 +670,11 @@ ${extras.length
   </button>
   <button class="modal-action-btn mbtn-bad"
     onclick="toggleBad('${id}','${tagsJson}')">
-    ✗ Not For Me
+    👎 Not For Me
+  </button>
+  <button class="modal-action-btn mbtn-hide"
+    onclick="hidePlace('${id}')">
+    — Hide
   </button>
 </div>
 <a class="modal-maps-btn"

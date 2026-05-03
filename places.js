@@ -17054,5 +17054,5696 @@ const SWEPT_PLACES = [
     "osmType": "relation",
     "osmId": 18000819,
     "score": 0
+  },
+  {
+    "id": "sw:northbobshilloverloo",
+    "name": "North Bob's Hill Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.59672,
+    "lng": -77.45434,
+    "dist": 59.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 321186808,
+    "score": 0
+  },
+  {
+    "id": "sw:southbobshilloverloo",
+    "name": "South Bob's Hill Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.59511,
+    "lng": -77.4552,
+    "dist": 59.8,
+    "description": "View across the valley of Frederick Municipal Forest, and beyond.",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 321186813,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardrock",
+    "name": "Buzzard Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.31093,
+    "lng": -77.69221,
+    "dist": 63.7,
+    "description": "Elevation: 349m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356575877,
+    "score": 0
+  },
+  {
+    "id": "sw:whiterock",
+    "name": "White Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.30482,
+    "lng": -77.69777,
+    "dist": 63.8,
+    "description": "Elevation: 346m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583945,
+    "score": 0
+  },
+  {
+    "id": "sw:baldmountain",
+    "name": "Bald Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.21816,
+    "lng": -77.56916,
+    "dist": 56.0,
+    "description": "Elevation: 235m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586548,
+    "score": 0
+  },
+  {
+    "id": "sw:annapolisrock",
+    "name": "Annapolis Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55837,
+    "lng": -77.59871,
+    "dist": 65.0,
+    "description": "Elevation: 538m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238080,
+    "score": 0
+  },
+  {
+    "id": "sw:blackrock",
+    "name": "Black Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.58981,
+    "lng": -77.47763,
+    "dist": 60.6,
+    "description": "Elevation: 526m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238205,
+    "score": 0
+  },
+  {
+    "id": "sw:hawkshill",
+    "name": "Hawks Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.40121,
+    "lng": -77.70833,
+    "dist": 66.1,
+    "description": "Elevation: 287m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238970,
+    "score": 0
+  },
+  {
+    "id": "sw:laurelhill",
+    "name": "Laurel Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.52538,
+    "lng": -77.30276,
+    "dist": 50.4,
+    "description": "Elevation: 163m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239173,
+    "score": 0
+  },
+  {
+    "id": "sw:millerhill",
+    "name": "Miller Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51402,
+    "lng": -77.51885,
+    "dist": 59.8,
+    "description": "Elevation: 416m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239383,
+    "score": 0
+  },
+  {
+    "id": "sw:pineknob",
+    "name": "Pine Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54208,
+    "lng": -77.59654,
+    "dist": 64.4,
+    "description": "Elevation: 518m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239864,
+    "score": 0
+  },
+  {
+    "id": "sw:pinerock",
+    "name": "Pine Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.31521,
+    "lng": -77.53117,
+    "dist": 55.4,
+    "description": "Elevation: 346m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239868,
+    "score": 0
+  },
+  {
+    "id": "sw:pineymountain",
+    "name": "Piney Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.66204,
+    "lng": -77.4236,
+    "dist": 61.2,
+    "description": "Elevation: 524m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239907,
+    "score": 0
+  },
+  {
+    "id": "sw:salamanderrock",
+    "name": "Salamander Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.57618,
+    "lng": -77.48801,
+    "dist": 60.5,
+    "description": "Elevation: 562m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240404,
+    "score": 0
+  },
+  {
+    "id": "sw:blackhill",
+    "name": "Black Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.1872,
+    "lng": -77.29836,
+    "dist": 41.4,
+    "description": "Elevation: 148m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241470,
+    "score": 0
+  },
+  {
+    "id": "sw:bobshill",
+    "name": "Bob's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.60009,
+    "lng": -77.46161,
+    "dist": 60.3,
+    "description": "Elevation: 535m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241474,
+    "score": 0
+  },
+  {
+    "id": "sw:catrock",
+    "name": "Cat Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61615,
+    "lng": -77.44877,
+    "dist": 60.4,
+    "description": "Elevation: 476m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241491,
+    "score": 0
+  },
+  {
+    "id": "sw:catoctinmountain",
+    "name": "Catoctin Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.6485,
+    "lng": -77.46627,
+    "dist": 62.4,
+    "description": "Elevation: 572m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241493,
+    "score": 0
+  },
+  {
+    "id": "sw:chimneyrock",
+    "name": "Chimney Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.62907,
+    "lng": -77.43281,
+    "dist": 60.2,
+    "description": "Elevation: 432m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241498,
+    "score": 0
+  },
+  {
+    "id": "sw:highknob",
+    "name": "High Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.46242,
+    "lng": -77.49531,
+    "dist": 57.1,
+    "description": "Elevation: 472m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241541,
+    "score": 0
+  },
+  {
+    "id": "sw:jiggerhill",
+    "name": "Jigger Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.42858,
+    "lng": -77.49708,
+    "dist": 56.2,
+    "description": "Elevation: 341m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241551,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandheights",
+    "name": "Maryland Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.34107,
+    "lng": -77.71642,
+    "dist": 65.4,
+    "description": "Elevation: 444m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241571,
+    "score": 0
+  },
+  {
+    "id": "sw:monumentknob",
+    "name": "Monument Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50066,
+    "lng": -77.62277,
+    "dist": 64.4,
+    "description": "Elevation: 468m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241577,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgehill",
+    "name": "Ridge Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.43566,
+    "lng": -77.49554,
+    "dist": 56.3,
+    "description": "Elevation: 373m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241611,
+    "score": 0
+  },
+  {
+    "id": "sw:redhill",
+    "name": "Red Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.45316,
+    "lng": -77.70027,
+    "dist": 66.9,
+    "description": "Elevation: 318m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253040,
+    "score": 0
+  },
+  {
+    "id": "sw:wevertoncliffs",
+    "name": "Weverton Cliffs",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.33202,
+    "lng": -77.67652,
+    "dist": 63.2,
+    "description": "Elevation: 119m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253104,
+    "score": 0
+  },
+  {
+    "id": "sw:whiterocks",
+    "name": "White Rocks",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.2829,
+    "lng": -77.39893,
+    "dist": 48.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 453535766,
+    "score": 0
+  },
+  {
+    "id": "sw:lambsknoll",
+    "name": "Lambs Knoll",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.44833,
+    "lng": -77.62687,
+    "dist": 63.1,
+    "description": "Elevation: 536m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1025322704,
+    "score": 0
+  },
+  {
+    "id": "sw:cunninghamfalls",
+    "name": "Cunningham Falls",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.6317,
+    "lng": -77.47023,
+    "dist": 61.9,
+    "description": "view of the Cunningham Falls",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1197847116,
+    "score": 0
+  },
+  {
+    "id": "sw:olddamwaterfall",
+    "name": "Old Dam Waterfall",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.44961,
+    "lng": -77.73,
+    "dist": 68.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1443407542,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarloafmountain",
+    "name": "Sugarloaf Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.26248,
+    "lng": -77.39323,
+    "dist": 47.3,
+    "description": "Elevation: 387m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1772554971,
+    "score": 0
+  },
+  {
+    "id": "sw:middletownoverlook",
+    "name": "Middletown Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.46195,
+    "lng": -77.49629,
+    "dist": 57.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1814778707,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickoverlook",
+    "name": "Frederick Overlook ",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.46379,
+    "lng": -77.49466,
+    "dist": 57.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2108389618,
+    "score": 0
+  },
+  {
+    "id": "sw:thurmontvista",
+    "name": "Thurmont Vista",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.64573,
+    "lng": -77.43882,
+    "dist": 61.1,
+    "description": "Elevation: 457m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2411783149,
+    "score": 0
+  },
+  {
+    "id": "sw:georgiansoverlook",
+    "name": "Georgians Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.44914,
+    "lng": -77.73014,
+    "dist": 68.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3055225778,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfrock",
+    "name": "Wolf Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.63394,
+    "lng": -77.43766,
+    "dist": 60.6,
+    "description": "Elevation: 427m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3633459062,
+    "score": 0
+  },
+  {
+    "id": "sw:westview",
+    "name": "West View",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.26019,
+    "lng": -77.39769,
+    "dist": 47.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4147758292,
+    "score": 0
+  },
+  {
+    "id": "sw:eastview",
+    "name": "East View",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.26043,
+    "lng": -77.38951,
+    "dist": 47.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4184591582,
+    "score": 0
+  },
+  {
+    "id": "sw:stonefort",
+    "name": "Stone Fort",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.34132,
+    "lng": -77.71623,
+    "dist": 65.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4241896014,
+    "score": 0
+  },
+  {
+    "id": "sw:shockrock",
+    "name": "Shock Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.30961,
+    "lng": -77.53423,
+    "dist": 55.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4308120469,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacoverlook",
+    "name": "Potomac Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.25869,
+    "lng": -77.39809,
+    "dist": 47.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4949826684,
+    "score": 0
+  },
+  {
+    "id": "sw:northfrederickviewpo",
+    "name": "North Frederick Viewpoint",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.4698,
+    "lng": -77.4943,
+    "dist": 57.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5648592035,
+    "score": 0
+  },
+  {
+    "id": "sw:blueridgesummitvista",
+    "name": "Blue Ridge Summit Vista",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.64958,
+    "lng": -77.45179,
+    "dist": 61.9,
+    "description": "Elevation: 463m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7928977868,
+    "score": 0
+  },
+  {
+    "id": "sw:hogrock",
+    "name": "Hog Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.64289,
+    "lng": -77.45852,
+    "dist": 61.9,
+    "description": "Elevation: 491m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7928977877,
+    "score": 0
+  },
+  {
+    "id": "sw:mccormackoverlook",
+    "name": "McCormack Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.26554,
+    "lng": -77.3924,
+    "dist": 47.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10824719042,
+    "score": 0
+  },
+  {
+    "id": "sw:furnacemountain",
+    "name": "Furnace Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.26454,
+    "lng": -77.5536,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373852163,
+    "score": 0
+  },
+  {
+    "id": "sw:shorthill",
+    "name": "Short Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.53593,
+    "lng": -77.63332,
+    "dist": 65.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373918202,
+    "score": 0
+  },
+  {
+    "id": "sw:pointofrocksoverlook",
+    "name": "Point of Rocks Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.27516,
+    "lng": -77.54409,
+    "dist": 55.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13281957701,
+    "score": 0
+  },
+  {
+    "id": "sw:carrolltonpark",
+    "name": "Carrollton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40287,
+    "lng": -77.42312,
+    "dist": 51.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 130100166,
+    "score": 0
+  },
+  {
+    "id": "sw:staleypark",
+    "name": "Staley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42816,
+    "lng": -77.40907,
+    "dist": 51.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 130100373,
+    "score": 0
+  },
+  {
+    "id": "sw:fredericktownevillag",
+    "name": "Fredericktowne Village Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43164,
+    "lng": -77.39428,
+    "dist": 51.3,
+    "description": "Elevation: 84m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 130100764,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacyvillagepark",
+    "name": "Monocacy Village Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42884,
+    "lng": -77.40052,
+    "dist": 51.5,
+    "description": "Elevation: 86m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 130100765,
+    "score": 0
+  },
+  {
+    "id": "sw:rosehillmanorpark",
+    "name": "Rose Hill Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43815,
+    "lng": -77.4053,
+    "dist": 52.0,
+    "description": "Elevation: 92m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 130286716,
+    "score": 0
+  },
+  {
+    "id": "sw:templehallfarmregion",
+    "name": "Temple Hall Farm Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17963,
+    "lng": -77.52455,
+    "dist": 53.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 151181362,
+    "score": 0
+  },
+  {
+    "id": "sw:luckettscommunitypar",
+    "name": "Lucketts Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21203,
+    "lng": -77.53405,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 151895866,
+    "score": 0
+  },
+  {
+    "id": "sw:urbanadistrictpark",
+    "name": "Urbana District Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33683,
+    "lng": -77.36474,
+    "dist": 47.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 163388152,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgeroadrecreationa",
+    "name": "Ridge Road Recreational Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20941,
+    "lng": -77.24466,
+    "dist": 38.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 166547986,
+    "score": 0
+  },
+  {
+    "id": "sw:watkinspark",
+    "name": "Watkins Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3773,
+    "lng": -77.14636,
+    "dist": 37.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 169793333,
+    "score": 0
+  },
+  {
+    "id": "sw:dowdensordinarypark",
+    "name": "Dowden's Ordinary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23661,
+    "lng": -77.27791,
+    "dist": 40.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 194027353,
+    "score": 0
+  },
+  {
+    "id": "sw:townsquarepark",
+    "name": "Town Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27481,
+    "lng": -77.6393,
+    "dist": 60.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 198982522,
+    "score": 0
+  },
+  {
+    "id": "sw:luckettscommunitycen",
+    "name": "Lucketts Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21512,
+    "lng": -77.53334,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 232394704,
+    "score": 0
+  },
+  {
+    "id": "sw:collegeestatespark",
+    "name": "College Estates Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43383,
+    "lng": -77.41743,
+    "dist": 52.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 253026559,
+    "score": 0
+  },
+  {
+    "id": "sw:boonsborohistoricalp",
+    "name": "Boonsboro Historical Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51441,
+    "lng": -77.65739,
+    "dist": 66.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 272810543,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainrockspringpa",
+    "name": "Fountain Rock Spring Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47534,
+    "lng": -77.36843,
+    "dist": 51.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 281306035,
+    "score": 0
+  },
+  {
+    "id": "sw:walkersvillecommunit",
+    "name": "Walkersville Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47869,
+    "lng": -77.36652,
+    "dist": 51.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 281436437,
+    "score": 0
+  },
+  {
+    "id": "sw:copperoakspark",
+    "name": "Copper Oaks Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53563,
+    "lng": -77.30834,
+    "dist": 51.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 284731614,
+    "score": 0
+  },
+  {
+    "id": "sw:woodsbororegionalpar",
+    "name": "Woodsboro Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53178,
+    "lng": -77.30507,
+    "dist": 50.7,
+    "description": "Elevation: 134m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 284731617,
+    "score": 0
+  },
+  {
+    "id": "sw:eastendpark",
+    "name": "East End Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.61578,
+    "lng": -77.39837,
+    "dist": 58.2,
+    "description": "Elevation: 147m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 285016887,
+    "score": 0
+  },
+  {
+    "id": "sw:baughmansbabeepark",
+    "name": "Baughmans Babee Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41064,
+    "lng": -77.42085,
+    "dist": 52.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 304321781,
+    "score": 0
+  },
+  {
+    "id": "sw:catoctinpark",
+    "name": "Catoctin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41144,
+    "lng": -77.42565,
+    "dist": 52.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 304321782,
+    "score": 0
+  },
+  {
+    "id": "sw:southendpark",
+    "name": "South End Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40883,
+    "lng": -77.42291,
+    "dist": 52.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 304321783,
+    "score": 0
+  },
+  {
+    "id": "sw:thurmontpark",
+    "name": "Thurmont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.62242,
+    "lng": -77.41543,
+    "dist": 59.2,
+    "description": "Elevation: 159m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 311407866,
+    "score": 0
+  },
+  {
+    "id": "sw:riverwalkpark",
+    "name": "Riverwalk Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43267,
+    "lng": -77.38833,
+    "dist": 51.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200227,
+    "score": 0
+  },
+  {
+    "id": "sw:ambermeadowspark",
+    "name": "Amber Meadows Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44964,
+    "lng": -77.41094,
+    "dist": 52.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200228,
+    "score": 0
+  },
+  {
+    "id": "sw:carrollcreekpark",
+    "name": "Carroll Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41416,
+    "lng": -77.40616,
+    "dist": 51.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200229,
+    "score": 0
+  },
+  {
+    "id": "sw:ballengercreekpark",
+    "name": "Ballenger Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38259,
+    "lng": -77.44988,
+    "dist": 52.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200230,
+    "score": 0
+  },
+  {
+    "id": "sw:braddockheightspark",
+    "name": "Braddock Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4173,
+    "lng": -77.50137,
+    "dist": 56.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200232,
+    "score": 0
+  },
+  {
+    "id": "sw:brunswickcitypark",
+    "name": "Brunswick City Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31099,
+    "lng": -77.61822,
+    "dist": 59.8,
+    "description": "Elevation: 111m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200233,
+    "score": 0
+  },
+  {
+    "id": "sw:buckeystowncommunity",
+    "name": "Buckeystown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32664,
+    "lng": -77.41633,
+    "dist": 49.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200234,
+    "score": 0
+  },
+  {
+    "id": "sw:clerestorypark",
+    "name": "Clerestory Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46027,
+    "lng": -77.39196,
+    "dist": 52.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200235,
+    "score": 0
+  },
+  {
+    "id": "sw:creagerstownpark",
+    "name": "Creagerstown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56587,
+    "lng": -77.35326,
+    "dist": 54.2,
+    "description": "Elevation: 92m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200236,
+    "score": 0
+  },
+  {
+    "id": "sw:eylerroadrecreationa",
+    "name": "Eyler Road Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63456,
+    "lng": -77.40247,
+    "dist": 59.1,
+    "description": "Elevation: 174m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200239,
+    "score": 0
+  },
+  {
+    "id": "sw:grovepark",
+    "name": "Grove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40885,
+    "lng": -77.39686,
+    "dist": 50.8,
+    "description": "Elevation: 84m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200241,
+    "score": 0
+  },
+  {
+    "id": "sw:harrytgreagermemoria",
+    "name": "Harry T Greager Memorial Athletic Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40752,
+    "lng": -77.40603,
+    "dist": 51.2,
+    "description": "Elevation: 91m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200242,
+    "score": 0
+  },
+  {
+    "id": "sw:heritagefarmpark",
+    "name": "Heritage Farm Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50118,
+    "lng": -77.34673,
+    "dist": 51.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200243,
+    "score": 0
+  },
+  {
+    "id": "sw:hillstreetpark",
+    "name": "Hill Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41263,
+    "lng": -77.4481,
+    "dist": 53.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200244,
+    "score": 0
+  },
+  {
+    "id": "sw:kemptowncommunitypar",
+    "name": "Kemptown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33365,
+    "lng": -77.23638,
+    "dist": 40.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200246,
+    "score": 0
+  },
+  {
+    "id": "sw:lakecoventrypark",
+    "name": "Lake Coventry Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42648,
+    "lng": -77.45581,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200247,
+    "score": 0
+  },
+  {
+    "id": "sw:libertytowncommunity",
+    "name": "Libertytown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47913,
+    "lng": -77.23745,
+    "dist": 45.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200248,
+    "score": 0
+  },
+  {
+    "id": "sw:littleleaguepark",
+    "name": "Little League Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42795,
+    "lng": -77.40483,
+    "dist": 51.7,
+    "description": "Elevation: 91m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200249,
+    "score": 0
+  },
+  {
+    "id": "sw:loatspark",
+    "name": "Loats Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40213,
+    "lng": -77.41368,
+    "dist": 51.4,
+    "description": "Elevation: 97m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200250,
+    "score": 0
+  },
+  {
+    "id": "sw:loysstationpark",
+    "name": "Loys Station Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60877,
+    "lng": -77.35265,
+    "dist": 56.0,
+    "description": "Elevation: 109m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200251,
+    "score": 0
+  },
+  {
+    "id": "sw:maryvalepark",
+    "name": "Maryvale Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41247,
+    "lng": -77.42781,
+    "dist": 52.4,
+    "description": "Elevation: 96m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200252,
+    "score": 0
+  },
+  {
+    "id": "sw:mccurdyfield",
+    "name": "McCurdy Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41001,
+    "lng": -77.42287,
+    "dist": 52.1,
+    "description": "Elevation: 98m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200254,
+    "score": 0
+  },
+  {
+    "id": "sw:middletownrecreation",
+    "name": "Middletown Recreational Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43973,
+    "lng": -77.54439,
+    "dist": 58.8,
+    "description": "Elevation: 177m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200255,
+    "score": 0
+  },
+  {
+    "id": "sw:monarchridgepark",
+    "name": "Monarch Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4087,
+    "lng": -77.46514,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200257,
+    "score": 0
+  },
+  {
+    "id": "sw:newmarketcommunitypa",
+    "name": "New Market Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38275,
+    "lng": -77.26608,
+    "dist": 43.7,
+    "description": "Elevation: 148m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200258,
+    "score": 0
+  },
+  {
+    "id": "sw:overlookparkcityoffr",
+    "name": "Overlook Park (City Of Frederick)",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40632,
+    "lng": -77.44016,
+    "dist": 52.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200259,
+    "score": 0
+  },
+  {
+    "id": "sw:pinecliffpark",
+    "name": "Pinecliff Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.39071,
+    "lng": -77.37495,
+    "dist": 49.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200260,
+    "score": 0
+  },
+  {
+    "id": "sw:rivermistparkcityoff",
+    "name": "Rivermist Park (City Of Frederick)",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44687,
+    "lng": -77.37224,
+    "dist": 50.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200263,
+    "score": 0
+  },
+  {
+    "id": "sw:rockyridgepark",
+    "name": "Rocky Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60938,
+    "lng": -77.32005,
+    "dist": 54.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200264,
+    "score": 0
+  },
+  {
+    "id": "sw:roddyroadpark",
+    "name": "Roddy Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63992,
+    "lng": -77.39805,
+    "dist": 59.2,
+    "description": "Elevation: 145m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200265,
+    "score": 0
+  },
+  {
+    "id": "sw:kidwilerparkatroseda",
+    "name": "Kidwiler Park at Rosedale",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42805,
+    "lng": -77.42532,
+    "dist": 52.7,
+    "description": "Hours: dawn-22:00",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200266,
+    "score": 0
+  },
+  {
+    "id": "sw:sagnerpark",
+    "name": "Sagner Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41058,
+    "lng": -77.40096,
+    "dist": 51.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200267,
+    "score": 0
+  },
+  {
+    "id": "sw:urbanacommunitypark",
+    "name": "Urbana Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3278,
+    "lng": -77.36145,
+    "dist": 46.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200271,
+    "score": 0
+  },
+  {
+    "id": "sw:walkersvillewatershe",
+    "name": "Walkersville Watershed",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47969,
+    "lng": -77.27972,
+    "dist": 47.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200272,
+    "score": 0
+  },
+  {
+    "id": "sw:whittierlakepark",
+    "name": "Whittier Lake Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45526,
+    "lng": -77.44887,
+    "dist": 54.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200273,
+    "score": 0
+  },
+  {
+    "id": "sw:willowdalerockcreekw",
+    "name": "Willowdale, Rock Creek & Waterford Parks",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42266,
+    "lng": -77.44108,
+    "dist": 53.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200274,
+    "score": 0
+  },
+  {
+    "id": "sw:myersvillecommunityp",
+    "name": "Myersville Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51336,
+    "lng": -77.56663,
+    "dist": 62.0,
+    "description": "Elevation: 209m · Hours: sunrise-sunset",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200275,
+    "score": 0
+  },
+  {
+    "id": "sw:jeaneonufryparkatcla",
+    "name": "Jeane Onufry Park at Clarksburg Village",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22457,
+    "lng": -77.24407,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 350463729,
+    "score": 0
+  },
+  {
+    "id": "sw:squarecornerpark",
+    "name": "Square Corner Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31304,
+    "lng": -77.62661,
+    "dist": 60.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 358986594,
+    "score": 0
+  },
+  {
+    "id": "sw:clarksburglocalpark",
+    "name": "Clarksburg Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22542,
+    "lng": -77.26405,
+    "dist": 40.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 369529061,
+    "score": 0
+  },
+  {
+    "id": "sw:clarkmontlocalpark",
+    "name": "Clarkmont Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22159,
+    "lng": -77.29097,
+    "dist": 41.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791233,
+    "score": 0
+  },
+  {
+    "id": "sw:clarksburgtriangleur",
+    "name": "Clarksburg Triangle Urban Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24048,
+    "lng": -77.28048,
+    "dist": 41.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791254,
+    "score": 0
+  },
+  {
+    "id": "sw:dickersonlocalpark",
+    "name": "Dickerson Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21775,
+    "lng": -77.42161,
+    "dist": 48.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791279,
+    "score": 0
+  },
+  {
+    "id": "sw:kingslocalpark",
+    "name": "Kings Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24564,
+    "lng": -77.27615,
+    "dist": 41.0,
+    "description": "Elevation: 193m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791408,
+    "score": 0
+  },
+  {
+    "id": "sw:waterslandinglocalpa",
+    "name": "Waters Landing Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.19519,
+    "lng": -77.27554,
+    "dist": 40.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791694,
+    "score": 0
+  },
+  {
+    "id": "sw:woodfieldlocalpark",
+    "name": "Woodfield Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26023,
+    "lng": -77.18528,
+    "dist": 36.5,
+    "description": "Elevation: 195m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791715,
+    "score": 0
+  },
+  {
+    "id": "sw:arorahillslocalpark",
+    "name": "Arora Hills Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23714,
+    "lng": -77.24112,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374880104,
+    "score": 0
+  },
+  {
+    "id": "sw:uticapark",
+    "name": "Utica Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5187,
+    "lng": -77.40349,
+    "dist": 54.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 405766288,
+    "score": 0
+  },
+  {
+    "id": "sw:tributepark",
+    "name": "Tribute Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.2223,
+    "lng": -77.28696,
+    "dist": 41.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 411055986,
+    "score": 0
+  },
+  {
+    "id": "sw:pointofrocks",
+    "name": "Point of Rocks",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27821,
+    "lng": -77.53668,
+    "dist": 55.0,
+    "description": "Elevation: 81m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 412592415,
+    "score": 0
+  },
+  {
+    "id": "sw:greenhillpark",
+    "name": "Green Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31129,
+    "lng": -77.47126,
+    "dist": 52.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 412592960,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacyriverpark",
+    "name": "Monocacy River Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36626,
+    "lng": -77.40509,
+    "dist": 50.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 420128654,
+    "score": 0
+  },
+  {
+    "id": "sw:catoctinwildlifepres",
+    "name": "Catoctin Wildlife Preserve & Zoo",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.58935,
+    "lng": -77.42855,
+    "dist": 58.4,
+    "description": "Elevation: 174m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 420401992,
+    "score": 0
+  },
+  {
+    "id": "sw:railroadviewpark",
+    "name": "Railroad View Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3119,
+    "lng": -77.62534,
+    "dist": 60.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 431486709,
+    "score": 0
+  },
+  {
+    "id": "sw:railroadpark",
+    "name": "Railroad Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.31222,
+    "lng": -77.62803,
+    "dist": 60.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 433205962,
+    "score": 0
+  },
+  {
+    "id": "sw:marketsquarecommunit",
+    "name": "Market Square Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4501,
+    "lng": -77.39695,
+    "dist": 52.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 435036923,
+    "score": 0
+  },
+  {
+    "id": "sw:derrssquarepark",
+    "name": "Derrs Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44869,
+    "lng": -77.37563,
+    "dist": 50.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 435172903,
+    "score": 0
+  },
+  {
+    "id": "sw:bakerpark",
+    "name": "Baker Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41955,
+    "lng": -77.42156,
+    "dist": 52.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 435662343,
+    "score": 0
+  },
+  {
+    "id": "sw:mullinixpark",
+    "name": "Mullinix Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41281,
+    "lng": -77.41475,
+    "dist": 51.7,
+    "description": "Elevation: 87m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 435662344,
+    "score": 0
+  },
+  {
+    "id": "sw:brunswickheightspark",
+    "name": "Brunswick Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32281,
+    "lng": -77.6267,
+    "dist": 60.4,
+    "description": "Elevation: 133m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 436147446,
+    "score": 0
+  },
+  {
+    "id": "sw:arborsquarepark",
+    "name": "Arbor Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46162,
+    "lng": -77.38918,
+    "dist": 52.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 440538359,
+    "score": 0
+  },
+  {
+    "id": "sw:palatinepark",
+    "name": "Palatine Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46035,
+    "lng": -77.38305,
+    "dist": 51.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 440606712,
+    "score": 0
+  },
+  {
+    "id": "sw:unionbridgecommunity",
+    "name": "Union Bridge Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5663,
+    "lng": -77.16948,
+    "dist": 46.6,
+    "description": "Elevation: 157m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 440836069,
+    "score": 0
+  },
+  {
+    "id": "sw:bikepark",
+    "name": "Bike Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42921,
+    "lng": -77.40303,
+    "dist": 51.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 445745064,
+    "score": 0
+  },
+  {
+    "id": "sw:tottenhampark",
+    "name": "Tottenham Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34707,
+    "lng": -77.33622,
+    "dist": 46.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 466294326,
+    "score": 0
+  },
+  {
+    "id": "sw:prospectpark",
+    "name": "Prospect Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38005,
+    "lng": -77.15616,
+    "dist": 38.4,
+    "description": "Elevation: 219m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469216311,
+    "score": 0
+  },
+  {
+    "id": "sw:kingsbrookpark",
+    "name": "Kingsbrook Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37988,
+    "lng": -77.42699,
+    "dist": 51.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469551315,
+    "score": 0
+  },
+  {
+    "id": "sw:woodlandpark",
+    "name": "Woodland Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.61542,
+    "lng": -77.40292,
+    "dist": 58.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 470019355,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacynationalbatt",
+    "name": "Monocacy National Battlefield - Worthington Farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35531,
+    "lng": -77.40296,
+    "dist": 49.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 476966346,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacynationalbatt",
+    "name": "Monocacy National Battlefield - Thomas Farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.36163,
+    "lng": -77.39342,
+    "dist": 49.3,
+    "description": "Historic: battlefield",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 476966347,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacynationalbatt",
+    "name": "Monocacy National Battlefield - Best Farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3711,
+    "lng": -77.39787,
+    "dist": 49.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 476966348,
+    "score": 0
+  },
+  {
+    "id": "sw:wilesbranchparkathle",
+    "name": "Wiles Branch Park Athletic Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44084,
+    "lng": -77.56031,
+    "dist": 59.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 533809800,
+    "score": 0
+  },
+  {
+    "id": "sw:wilesbranchpark",
+    "name": "Wiles Branch Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44558,
+    "lng": -77.55609,
+    "dist": 59.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 533809801,
+    "score": 0
+  },
+  {
+    "id": "sw:twinarchcrossingpark",
+    "name": "Twin Arch Crossing Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.36587,
+    "lng": -77.13041,
+    "dist": 36.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 543896410,
+    "score": 0
+  },
+  {
+    "id": "sw:schleypark",
+    "name": "Schley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41873,
+    "lng": -77.419,
+    "dist": 52.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544861538,
+    "score": 0
+  },
+  {
+    "id": "sw:mechanicstownsquarep",
+    "name": "Mechanicstown Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.62389,
+    "lng": -77.41168,
+    "dist": 59.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 552442005,
+    "score": 0
+  },
+  {
+    "id": "sw:iceplantpark",
+    "name": "Ice Plant Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.62411,
+    "lng": -77.40912,
+    "dist": 59.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 552449414,
+    "score": 0
+  },
+  {
+    "id": "sw:creagerstowncommunit",
+    "name": "Creagerstown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56413,
+    "lng": -77.35166,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555001203,
+    "score": 0
+  },
+  {
+    "id": "sw:vestpocketpark",
+    "name": "Vest Pocket Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37947,
+    "lng": -77.15025,
+    "dist": 38.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 559092164,
+    "score": 0
+  },
+  {
+    "id": "sw:towngreenpark",
+    "name": "Town Green Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27566,
+    "lng": -77.64155,
+    "dist": 60.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 562325945,
+    "score": 0
+  },
+  {
+    "id": "sw:mcfaddenpark",
+    "name": "McFadden Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42925,
+    "lng": -77.30488,
+    "dist": 47.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 581754156,
+    "score": 0
+  },
+  {
+    "id": "sw:summerfieldpark",
+    "name": "Summerfield Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40469,
+    "lng": -77.29601,
+    "dist": 45.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 582304087,
+    "score": 0
+  },
+  {
+    "id": "sw:oldnationalpikedistr",
+    "name": "Old National Pike District Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37858,
+    "lng": -77.22889,
+    "dist": 41.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 582380824,
+    "score": 0
+  },
+  {
+    "id": "sw:lakelinganorediscgol",
+    "name": "Lake Linganore Disc Golf Course",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.4183,
+    "lng": -77.30983,
+    "dist": 46.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 582382348,
+    "score": 0
+  },
+  {
+    "id": "sw:unglesbeepark",
+    "name": "Unglesbee Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.48648,
+    "lng": -77.23848,
+    "dist": 46.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 583526669,
+    "score": 0
+  },
+  {
+    "id": "sw:doubsmeadowpark",
+    "name": "Doub's Meadow Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50784,
+    "lng": -77.56161,
+    "dist": 61.6,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 584912571,
+    "score": 0
+  },
+  {
+    "id": "sw:cabinbranchamphithea",
+    "name": "Cabin Branch Amphitheater",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22255,
+    "lng": -77.2895,
+    "dist": 41.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 590170214,
+    "score": 0
+  },
+  {
+    "id": "sw:ashleyhillspark",
+    "name": "Ashley Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50214,
+    "lng": -77.56103,
+    "dist": 61.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 591839533,
+    "score": 0
+  },
+  {
+    "id": "sw:eastwestpark",
+    "name": "East West Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38352,
+    "lng": -77.16404,
+    "dist": 38.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 611311359,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahsquarepark",
+    "name": "Shenandoah Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33365,
+    "lng": -77.64249,
+    "dist": 61.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 613469086,
+    "score": 0
+  },
+  {
+    "id": "sw:thegreen",
+    "name": "The \"Green\"",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23719,
+    "lng": -77.50648,
+    "dist": 52.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 648852189,
+    "score": 0
+  },
+  {
+    "id": "sw:braveheartpark",
+    "name": "Braveheart Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34014,
+    "lng": -77.32861,
+    "dist": 45.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652870584,
+    "score": 0
+  },
+  {
+    "id": "sw:spicebushgreenspace",
+    "name": "Spicebush Greenspace",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33633,
+    "lng": -77.34211,
+    "dist": 46.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652871689,
+    "score": 0
+  },
+  {
+    "id": "sw:oldspringgreenspace",
+    "name": "Old Spring Green Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33762,
+    "lng": -77.33771,
+    "dist": 46.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652871759,
+    "score": 0
+  },
+  {
+    "id": "sw:broadstonegreenspace",
+    "name": "Broadstone Green Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34586,
+    "lng": -77.34782,
+    "dist": 46.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652881375,
+    "score": 0
+  },
+  {
+    "id": "sw:carriagehillgreenspa",
+    "name": "Carriage Hill Green Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34488,
+    "lng": -77.34112,
+    "dist": 46.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652881524,
+    "score": 0
+  },
+  {
+    "id": "sw:belvederegreenspace",
+    "name": "Belvedere Green Space",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34514,
+    "lng": -77.33963,
+    "dist": 46.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652881549,
+    "score": 0
+  },
+  {
+    "id": "sw:villagesofurbanabish",
+    "name": "Villages of Urbana - Bishopgate Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34599,
+    "lng": -77.33619,
+    "dist": 46.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652882523,
+    "score": 0
+  },
+  {
+    "id": "sw:villagesofurbanaetha",
+    "name": "Villages of Urbana - Ethan Ridge Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34558,
+    "lng": -77.33358,
+    "dist": 46.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 652882774,
+    "score": 0
+  },
+  {
+    "id": "sw:thegreatfrederickfai",
+    "name": "The Great Frederick Fair",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.4129,
+    "lng": -77.39496,
+    "dist": 50.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 65240163,
+    "score": 0
+  },
+  {
+    "id": "sw:renomonument",
+    "name": "Reno Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47057,
+    "lng": -77.61701,
+    "dist": 63.2,
+    "description": "Elevation: 323m · Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 83601415,
+    "score": 0
+  },
+  {
+    "id": "sw:p",
+    "name": "P",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.35432,
+    "lng": -77.16771,
+    "dist": 38.1,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 263637433,
+    "score": 0
+  },
+  {
+    "id": "sw:taylorstownhistoricd",
+    "name": "Taylorstown Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25467,
+    "lng": -77.57459,
+    "dist": 56.7,
+    "description": "Elevation: 91m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597652,
+    "score": 0
+  },
+  {
+    "id": "sw:warcorrespondentsmem",
+    "name": "War Correspondents Memorial Arch",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40575,
+    "lng": -77.63926,
+    "dist": 62.7,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240652,
+    "score": 0
+  },
+  {
+    "id": "sw:mountairyhistoricdis",
+    "name": "Mount Airy Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.37705,
+    "lng": -77.15415,
+    "dist": 38.2,
+    "description": "Elevation: 232m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358247267,
+    "score": 0
+  },
+  {
+    "id": "sw:brunswickhistoricdis",
+    "name": "Brunswick Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3126,
+    "lng": -77.62193,
+    "dist": 60.0,
+    "description": "Elevation: 96m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358251346,
+    "score": 0
+  },
+  {
+    "id": "sw:newmarkethistoricdis",
+    "name": "New Market Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.38316,
+    "lng": -77.27082,
+    "dist": 43.9,
+    "description": "Elevation: 165m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358251403,
+    "score": 0
+  },
+  {
+    "id": "sw:buckeystownhistoricd",
+    "name": "Buckeystown Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33399,
+    "lng": -77.43221,
+    "dist": 50.7,
+    "description": "Elevation: 80m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358251442,
+    "score": 0
+  },
+  {
+    "id": "sw:doubsmillhistoricdis",
+    "name": "Doubs Mill Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.57899,
+    "lng": -77.65555,
+    "dist": 68.3,
+    "description": "Elevation: 146m · Historic: district",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358252971,
+    "score": 0
+  },
+  {
+    "id": "sw:11connecticutvolunte",
+    "name": "11 Connecticut Volunteers",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4503,
+    "lng": -77.72949,
+    "dist": 68.3,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 480573391,
+    "score": 0
+  },
+  {
+    "id": "sw:jugmonument",
+    "name": "Jug Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40475,
+    "lng": -77.3832,
+    "dist": 50.0,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1073958068,
+    "score": 0
+  },
+  {
+    "id": "sw:oldcottage",
+    "name": "Old Cottage",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50531,
+    "lng": -77.48137,
+    "dist": 57.8,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2014597232,
+    "score": 0
+  },
+  {
+    "id": "sw:parrsspringmarker",
+    "name": "Parr's Spring Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.35442,
+    "lng": -77.16802,
+    "dist": 38.1,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3654558009,
+    "score": 0
+  },
+  {
+    "id": "sw:pumpkincannon",
+    "name": "Pumpkin Cannon",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.59005,
+    "lng": -77.37962,
+    "dist": 56.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3782625913,
+    "score": 0
+  },
+  {
+    "id": "sw:pennsylvaniamonument",
+    "name": "Pennsylvania Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.361,
+    "lng": -77.38711,
+    "dist": 49.0,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4201093190,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandmonument",
+    "name": "Maryland Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37638,
+    "lng": -77.39701,
+    "dist": 49.9,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4201097981,
+    "score": 0
+  },
+  {
+    "id": "sw:uniteddaughtersofthe",
+    "name": "United Daughters of the Confederacy Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37644,
+    "lng": -77.39704,
+    "dist": 49.9,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4201097982,
+    "score": 0
+  },
+  {
+    "id": "sw:10thvermontmonument",
+    "name": "10th Vermont Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36037,
+    "lng": -77.38731,
+    "dist": 49.0,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4201098147,
+    "score": 0
+  },
+  {
+    "id": "sw:14thnewjerseyvolunte",
+    "name": "14th New Jersey Volunteer Infantry Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3707,
+    "lng": -77.39258,
+    "dist": 49.5,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4201098148,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeandohioaqu",
+    "name": "Chesapeake and Ohio Aqueduct Across the Monocacy River",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2246,
+    "lng": -77.42652,
+    "dist": 48.5,
+    "description": "Historic: marker",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328522932,
+    "score": 0
+  },
+  {
+    "id": "sw:damascus",
+    "name": "Damascus",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28787,
+    "lng": -77.20198,
+    "dist": 38.0,
+    "description": "Historic: marker",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328524779,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonsfarm",
+    "name": "Washington's Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19813,
+    "lng": -77.42867,
+    "dist": 48.4,
+    "description": "Historic: marker",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4328549049,
+    "score": 0
+  },
+  {
+    "id": "sw:nc13thinfantrymemori",
+    "name": "NC 13th Infantry Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46764,
+    "lng": -77.61776,
+    "dist": 63.2,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4789345624,
+    "score": 0
+  },
+  {
+    "id": "sw:williammckinleycoffe",
+    "name": "William McKinley Coffee Break Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44922,
+    "lng": -77.73297,
+    "dist": 68.4,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5248121296,
+    "score": 0
+  },
+  {
+    "id": "sw:earlspicnicspot",
+    "name": "Earl's Picnic Spot",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27461,
+    "lng": -77.29555,
+    "dist": 42.5,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6088275003,
+    "score": 0
+  },
+  {
+    "id": "sw:gumspringsmemorial",
+    "name": "Gum Springs Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31318,
+    "lng": -77.61745,
+    "dist": 59.8,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6443796271,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbridgeeastabutmen",
+    "name": "Jug Bridge East Abutment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39884,
+    "lng": -77.36575,
+    "dist": 49.0,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6970397790,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbridgewestabutmen",
+    "name": "Jug Bridge West Abutment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39929,
+    "lng": -77.36688,
+    "dist": 49.0,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6970397806,
+    "score": 0
+  },
+  {
+    "id": "sw:monumenttotheunknown",
+    "name": "Monument to the Unknown Confederate Soldiers",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40288,
+    "lng": -77.41681,
+    "dist": 51.6,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7663211629,
+    "score": 0
+  },
+  {
+    "id": "sw:monumenttogenroberte",
+    "name": "Monument to Gen. Robert E. Lee",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.46443,
+    "lng": -77.72819,
+    "dist": 68.6,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501947969,
+    "score": 0
+  },
+  {
+    "id": "sw:burialmonument",
+    "name": "Burial Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41721,
+    "lng": -77.41399,
+    "dist": 51.8,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8736833539,
+    "score": 0
+  },
+  {
+    "id": "sw:tencommandments",
+    "name": "Ten Commandments",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41718,
+    "lng": -77.41401,
+    "dist": 51.8,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8736833540,
+    "score": 0
+  },
+  {
+    "id": "sw:vietnamwarmemorial",
+    "name": "Vietnam War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41706,
+    "lng": -77.41447,
+    "dist": 51.9,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8736843079,
+    "score": 0
+  },
+  {
+    "id": "sw:koreanwarveteransmem",
+    "name": "Korean War Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41743,
+    "lng": -77.41444,
+    "dist": 51.9,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8736843082,
+    "score": 0
+  },
+  {
+    "id": "sw:laboringsonsmemorial",
+    "name": "Laboring Sons Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42074,
+    "lng": -77.40714,
+    "dist": 51.6,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9217457025,
+    "score": 0
+  },
+  {
+    "id": "sw:walkersvillesouthern",
+    "name": "Walkersville Southern Railroad",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.48525,
+    "lng": -77.35578,
+    "dist": 51.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780230419,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 34",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37021,
+    "lng": -77.21662,
+    "dist": 40.9,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780713448,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 31",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36448,
+    "lng": -77.16121,
+    "dist": 38.1,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780824994,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 28",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34705,
+    "lng": -77.11118,
+    "dist": 35.2,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780842337,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 37",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38324,
+    "lng": -77.26743,
+    "dist": 43.8,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780854407,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 39",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38829,
+    "lng": -77.3039,
+    "dist": 45.7,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780854414,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 35",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37695,
+    "lng": -77.23126,
+    "dist": 41.8,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780861048,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 33",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36834,
+    "lng": -77.19807,
+    "dist": 40.0,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780861049,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 36",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38185,
+    "lng": -77.24896,
+    "dist": 42.8,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780865655,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 38",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38469,
+    "lng": -77.28578,
+    "dist": 44.7,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780881589,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 41",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39553,
+    "lng": -77.33996,
+    "dist": 47.6,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780895164,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 44",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40938,
+    "lng": -77.39175,
+    "dist": 50.5,
+    "description": "Historic: milestone",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9780903719,
+    "score": 0
+  },
+  {
+    "id": "sw:munfordsbrigadeandma",
+    "name": "Munford's Brigade and Mahone's Brigade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39724,
+    "lng": -77.6354,
+    "dist": 62.3,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9914293881,
+    "score": 0
+  },
+  {
+    "id": "sw:goldstarfamiliesmemo",
+    "name": "Gold Star Families Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25962,
+    "lng": -77.64326,
+    "dist": 60.4,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10311338819,
+    "score": 0
+  },
+  {
+    "id": "sw:beallhomestead",
+    "name": "Beall Homestead",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28272,
+    "lng": -77.27407,
+    "dist": 41.5,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10989750171,
+    "score": 0
+  },
+  {
+    "id": "sw:thehodsonmemorial",
+    "name": "The Hodson Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42373,
+    "lng": -77.41765,
+    "dist": 52.2,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11114868518,
+    "score": 0
+  },
+  {
+    "id": "sw:theclairemccardellpr",
+    "name": "The Claire McCardell Project",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41278,
+    "lng": -77.40456,
+    "dist": 51.2,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12648480661,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialplaquetothep",
+    "name": "Memorial Plaque to the Provisional Army of the United States of America",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.37998,
+    "lng": -77.71475,
+    "dist": 66.0,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12658508609,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickcounty",
+    "name": "Frederick County",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33021,
+    "lng": -77.66939,
+    "dist": 62.8,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12669143553,
+    "score": 0
+  },
+  {
+    "id": "sw:goodloeebyron",
+    "name": "Goodloe E Byron",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33206,
+    "lng": -77.6766,
+    "dist": 63.2,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12669143554,
+    "score": 0
+  },
+  {
+    "id": "sw:stonewallregiment",
+    "name": "Stonewall Regiment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47079,
+    "lng": -77.6172,
+    "dist": 63.2,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12771152196,
+    "score": 0
+  },
+  {
+    "id": "sw:covid19memorial",
+    "name": "COVID-19 Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.5236,
+    "lng": -77.40038,
+    "dist": 54.7,
+    "description": "Historic: memorial",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13161251661,
+    "score": 0
+  },
+  {
+    "id": "sw:ironmastershouse",
+    "name": "Ironmaster's House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.5821,
+    "lng": -77.43427,
+    "dist": 58.4,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 29199707,
+    "score": 0
+  },
+  {
+    "id": "sw:roddyroad",
+    "name": "Roddy Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.64087,
+    "lng": -77.39374,
+    "dist": 59.1,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 52960184,
+    "score": 0
+  },
+  {
+    "id": "sw:bennieshillroad",
+    "name": "Bennies Hill Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40957,
+    "lng": -77.56969,
+    "dist": 59.3,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 168354008,
+    "score": 0
+  },
+  {
+    "id": "sw:poffenbergerroad",
+    "name": "Poffenberger Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38173,
+    "lng": -77.57137,
+    "dist": 58.8,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 168354023,
+    "score": 0
+  },
+  {
+    "id": "sw:eastalco",
+    "name": "Eastalco",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33001,
+    "lng": -77.47517,
+    "dist": 52.8,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 274920051,
+    "score": 0
+  },
+  {
+    "id": "sw:lambsknollfiretower",
+    "name": "Lambs Knoll Fire Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.44837,
+    "lng": -77.62695,
+    "dist": 63.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278264961,
+    "score": 0
+  },
+  {
+    "id": "sw:ampowellhatcheryfish",
+    "name": "A.M. Powell Hatchery Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.59132,
+    "lng": -77.63835,
+    "dist": 68.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278310058,
+    "score": 0
+  },
+  {
+    "id": "sw:brownsvillepondfishm",
+    "name": "Brownsville Pond Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38127,
+    "lng": -77.66247,
+    "dist": 63.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278357417,
+    "score": 0
+  },
+  {
+    "id": "sw:brunswickpondfishman",
+    "name": "Brunswick Pond Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.33464,
+    "lng": -77.61278,
+    "dist": 59.9,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278357420,
+    "score": 0
+  },
+  {
+    "id": "sw:mcclellanslookupfire",
+    "name": "McClellan's Lookup Fire Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.45189,
+    "lng": -77.69731,
+    "dist": 66.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 278357426,
+    "score": 0
+  },
+  {
+    "id": "sw:urbanalakefishmanage",
+    "name": "Urbana Lake Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.29872,
+    "lng": -77.34295,
+    "dist": 45.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948853,
+    "score": 0
+  },
+  {
+    "id": "sw:middletownwatershed",
+    "name": "Middletown Watershed",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.46664,
+    "lng": -77.50188,
+    "dist": 57.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200256,
+    "score": 0
+  },
+  {
+    "id": "sw:monocacyaqueduct",
+    "name": "Monocacy Aqueduct",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22388,
+    "lng": -77.45212,
+    "dist": 49.9,
+    "description": "Historic: aqueduct",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 370579951,
+    "score": 0
+  },
+  {
+    "id": "sw:bennettcreekconserva",
+    "name": "Bennett Creek Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.30279,
+    "lng": -77.2084,
+    "dist": 38.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791204,
+    "score": 0
+  },
+  {
+    "id": "sw:boydslocalpark",
+    "name": "Boyds Local Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.18012,
+    "lng": -77.31507,
+    "dist": 42.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791218,
+    "score": 0
+  },
+  {
+    "id": "sw:bucklodgebranchstrea",
+    "name": "Bucklodge Branch Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.17363,
+    "lng": -77.34595,
+    "dist": 43.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791226,
+    "score": 0
+  },
+  {
+    "id": "sw:cabinbranchstreamval",
+    "name": "Cabin Branch Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.21686,
+    "lng": -77.29108,
+    "dist": 41.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791234,
+    "score": 0
+  },
+  {
+    "id": "sw:littlebennettcreekst",
+    "name": "Little Bennett Creek Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.26784,
+    "lng": -77.2436,
+    "dist": 39.7,
+    "description": "Little Bennett Creek Stream Valley Park remains undeveloped for active recreation.",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791430,
+    "score": 0
+  },
+  {
+    "id": "sw:northpointneighborho",
+    "name": "North Point Neighborhood Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.31921,
+    "lng": -77.20967,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791515,
+    "score": 0
+  },
+  {
+    "id": "sw:oakridgeconservation",
+    "name": "Oak Ridge Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.28049,
+    "lng": -77.22111,
+    "dist": 38.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791522,
+    "score": 0
+  },
+  {
+    "id": "sw:tenmilecreekconserva",
+    "name": "Ten Mile Creek Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22538,
+    "lng": -77.32757,
+    "dist": 43.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791659,
+    "score": 0
+  },
+  {
+    "id": "sw:watershousespecialpa",
+    "name": "Waters House Special Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.20664,
+    "lng": -77.25955,
+    "dist": 39.5,
+    "description": "This 3.9-acre park consists of a house and farm structures that span more than 100 years of Montgomery County's agricultural and equine racing history.",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 374791691,
+    "score": 0
+  },
+  {
+    "id": "sw:strongmansion",
+    "name": "Strong Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25514,
+    "lng": -77.39555,
+    "dist": 47.3,
+    "description": "Historic: manor",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 413456289,
+    "score": 0
+  },
+  {
+    "id": "sw:frankbentzpondfishma",
+    "name": "Frank Bentz Pond Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.62115,
+    "lng": -77.42494,
+    "dist": 59.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 420339287,
+    "score": 0
+  },
+  {
+    "id": "sw:blackrockhotel",
+    "name": "Black Rock Hotel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57724,
+    "lng": -77.58851,
+    "dist": 65.2,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 422042140,
+    "score": 0
+  },
+  {
+    "id": "sw:woodbrookcooperative",
+    "name": "Woodbrook Cooperative Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38744,
+    "lng": -77.09152,
+    "dist": 35.7,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 423519327,
+    "score": 0
+  },
+  {
+    "id": "sw:wormansmillhistoricr",
+    "name": "Worman's Mill Historic Ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45883,
+    "lng": -77.38423,
+    "dist": 51.7,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 450886455,
+    "score": 0
+  },
+  {
+    "id": "sw:doubsmill",
+    "name": "Doubs Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57836,
+    "lng": -77.65456,
+    "dist": 68.3,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 467620377,
+    "score": 0
+  },
+  {
+    "id": "sw:catoctinaqueduct",
+    "name": "Catoctin Aqueduct",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31107,
+    "lng": -77.56858,
+    "dist": 57.2,
+    "description": "Historic: aqueduct",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 478148171,
+    "score": 0
+  },
+  {
+    "id": "sw:lock26woodslock",
+    "name": "Lock 26: Wood's Lock",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19077,
+    "lng": -77.47133,
+    "dist": 50.6,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487234021,
+    "score": 0
+  },
+  {
+    "id": "sw:lock27",
+    "name": "Lock 27",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic",
+      "historic"
+    ],
+    "lat": 39.21608,
+    "lng": -77.45791,
+    "dist": 50.1,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487234022,
+    "score": 0
+  },
+  {
+    "id": "sw:lock28",
+    "name": "Lock 28",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28163,
+    "lng": -77.54778,
+    "dist": 55.7,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487238515,
+    "score": 0
+  },
+  {
+    "id": "sw:lock29",
+    "name": "Lock 29",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30646,
+    "lng": -77.55839,
+    "dist": 56.6,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487238516,
+    "score": 0
+  },
+  {
+    "id": "sw:lock30",
+    "name": "Lock 30",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.31142,
+    "lng": -77.63008,
+    "dist": 60.4,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487238517,
+    "score": 0
+  },
+  {
+    "id": "sw:lock31",
+    "name": "Lock 31",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32936,
+    "lng": -77.68065,
+    "dist": 63.3,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 487238518,
+    "score": 0
+  },
+  {
+    "id": "sw:lockhouse31",
+    "name": "Lockhouse 31",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32956,
+    "lng": -77.68055,
+    "dist": 63.3,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 488766582,
+    "score": 0
+  },
+  {
+    "id": "sw:dahlgrenchapel",
+    "name": "Dahlgren Chapel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4845,
+    "lng": -77.61893,
+    "dist": 63.7,
+    "description": "Historic: church",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 691763283,
+    "score": 0
+  },
+  {
+    "id": "sw:westwoodmansion",
+    "name": "Westwood Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25387,
+    "lng": -77.39684,
+    "dist": 47.4,
+    "description": "Historic: manor",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 707893202,
+    "score": 0
+  },
+  {
+    "id": "sw:1887barnruins",
+    "name": "1887 Barn ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40674,
+    "lng": -77.63972,
+    "dist": 62.8,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 759882048,
+    "score": 0
+  },
+  {
+    "id": "sw:worldwar1",
+    "name": "World War 1",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4896,
+    "lng": -77.69548,
+    "dist": 67.6,
+    "description": "Historic: monument",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 792368126,
+    "score": 0
+  },
+  {
+    "id": "sw:antietamnationalbatt",
+    "name": "Antietam National Battlefield",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.46775,
+    "lng": -77.73599,
+    "dist": 69.0,
+    "description": "Elevation: 146m · Hours: sunrise-sunset · Fee: yes · Historic: battlefield",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 817549824,
+    "score": 0
+  },
+  {
+    "id": "sw:hamburglookouttower",
+    "name": "Hamburg Lookout Tower",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.50958,
+    "lng": -77.47607,
+    "dist": 57.7,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 917217525,
+    "score": 0
+  },
+  {
+    "id": "sw:darbystore",
+    "name": "Darby Store",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.17957,
+    "lng": -77.41302,
+    "dist": 47.4,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 936926377,
+    "score": 0
+  },
+  {
+    "id": "sw:worthingtonhouse",
+    "name": "Worthington House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36145,
+    "lng": -77.40202,
+    "dist": 49.8,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1061518300,
+    "score": 0
+  },
+  {
+    "id": "sw:kennedyfarm",
+    "name": "Kennedy Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38,
+    "lng": -77.71515,
+    "dist": 66.0,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1062557581,
+    "score": 0
+  },
+  {
+    "id": "sw:davidmoodycabin",
+    "name": "David Moody Cabin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.24934,
+    "lng": -77.41203,
+    "dist": 48.1,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1167403088,
+    "score": 0
+  },
+  {
+    "id": "sw:norwoodtobaccobarn",
+    "name": "Norwood Tobacco Barn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27826,
+    "lng": -77.28586,
+    "dist": 42.0,
+    "description": "Historic: ruins",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1173504987,
+    "score": 0
+  },
+  {
+    "id": "sw:hyattstownmill",
+    "name": "Hyattstown Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27972,
+    "lng": -77.31184,
+    "dist": 43.4,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1209637751,
+    "score": 0
+  },
+  {
+    "id": "sw:winderbournemansion",
+    "name": "Winderbourne Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18349,
+    "lng": -77.30546,
+    "dist": 41.7,
+    "description": "Historic: manor",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1222738805,
+    "score": 0
+  },
+  {
+    "id": "sw:hopewellbarn",
+    "name": "Hopewell Barn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.5257,
+    "lng": -77.17127,
+    "dist": 44.8,
+    "description": "Historic: building",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1382401809,
+    "score": 0
+  },
+  {
+    "id": "sw:snookfamilyfarmhouse",
+    "name": "Snook Family Farmhouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51555,
+    "lng": -77.40229,
+    "dist": 54.5,
+    "description": "Historic: house",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1432137686,
+    "score": 0
+  },
+  {
+    "id": "sw:audreycarrollaudubon",
+    "name": "Audrey Carroll Audubon Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.41995,
+    "lng": -77.20518,
+    "dist": 42.0,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1491095419,
+    "score": 0
+  },
+  {
+    "id": "sw:fredarchibaldaudubon",
+    "name": "Fred Archibald Audubon Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.39983,
+    "lng": -77.28201,
+    "dist": 45.0,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1491095793,
+    "score": 0
+  },
+  {
+    "id": "sw:cunninghamfallsstate",
+    "name": "Cunningham Falls State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.58943,
+    "lng": -77.45481,
+    "dist": 59.6,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3225393,
+    "score": 0
+  },
+  {
+    "id": "sw:islandsofthepotomacw",
+    "name": "Islands of the Potomac Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.30975,
+    "lng": -77.93012,
+    "dist": 76.1,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3697467,
+    "score": 0
+  },
+  {
+    "id": "sw:southmountainstatepa",
+    "name": "South Mountain State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.52378,
+    "lng": -77.60782,
+    "dist": 64.3,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3697614,
+    "score": 0
+  },
+  {
+    "id": "sw:civilwarrailtrail",
+    "name": "Civil War Rail Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.47404,
+    "lng": -77.6941,
+    "dist": 67.1,
+    "description": "Property owned by the state of Maryland, features an abandoned railway. The proposed trail over the railway would be known as the Civil War Rail Trail or the Weverton Roxbury Corridor Rail Trail.",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3698815,
+    "score": 0
+  },
+  {
+    "id": "sw:gambrillstatepark",
+    "name": "Gambrill State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.47538,
+    "lng": -77.49268,
+    "dist": 57.3,
+    "description": "Elevation: 468m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4208943,
+    "score": 0
+  },
+  {
+    "id": "sw:hoylesmillconservati",
+    "name": "Hoyles Mill Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.16279,
+    "lng": -77.32057,
+    "dist": 42.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4209449,
+    "score": 0
+  },
+  {
+    "id": "sw:appalachiannationals",
+    "name": "Appalachian National Scenic Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.58625,
+    "lng": -77.58191,
+    "dist": 65.2,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4237276,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickcitywatersh",
+    "name": "Frederick City Watershed",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.53088,
+    "lng": -77.47907,
+    "dist": 58.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4433255,
+    "score": 0
+  },
+  {
+    "id": "sw:blackhillregionalpar",
+    "name": "Black Hill Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.20035,
+    "lng": -77.2996,
+    "dist": 41.6,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575315,
+    "score": 0
+  },
+  {
+    "id": "sw:bucklodgeconservatio",
+    "name": "Bucklodge Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.23052,
+    "lng": -77.33436,
+    "dist": 43.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575324,
+    "score": 0
+  },
+  {
+    "id": "sw:greatsenecastreamval",
+    "name": "Great Seneca Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22254,
+    "lng": -77.18853,
+    "dist": 36.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575346,
+    "score": 0
+  },
+  {
+    "id": "sw:littlesenecagreenway",
+    "name": "Little Seneca Greenway Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.18903,
+    "lng": -77.29286,
+    "dist": 41.1,
+    "description": "The Little Seneca Greenway Stream Valley Park has 282 undeveloped acres. Montgomery Parks began to acquire the land in 1969.",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575363,
+    "score": 0
+  },
+  {
+    "id": "sw:northgermantowngreen",
+    "name": "North Germantown Greenway Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.20576,
+    "lng": -77.24406,
+    "dist": 38.7,
+    "description": "Elevation: 131m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575380,
+    "score": 0
+  },
+  {
+    "id": "sw:tenmilecreekgreenway",
+    "name": "Ten Mile Creek Greenway Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22135,
+    "lng": -77.31081,
+    "dist": 42.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575409,
+    "score": 0
+  },
+  {
+    "id": "sw:wildcatbranchstreamv",
+    "name": "Wildcat Branch Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22782,
+    "lng": -77.22015,
+    "dist": 37.8,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5575422,
+    "score": 0
+  },
+  {
+    "id": "sw:woodstockequestrianp",
+    "name": "Woodstock Equestrian Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.18724,
+    "lng": -77.42607,
+    "dist": 48.2,
+    "description": "Special",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5576756,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeandohiocan",
+    "name": "Chesapeake and Ohio Canal National Historical Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking",
+      "historic"
+    ],
+    "lat": 39.30112,
+    "lng": -77.9159,
+    "dist": 75.2,
+    "description": "Elevation: 60m · Hours: sunrise-sunset open · Fee: no · Historic: heritage",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6077602,
+    "score": 0
+  },
+  {
+    "id": "sw:greenbrierstatepark",
+    "name": "Greenbrier State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.53464,
+    "lng": -77.62672,
+    "dist": 65.6,
+    "description": "Elevation: 317m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6166865,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonmonumentst",
+    "name": "Washington Monument State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.49958,
+    "lng": -77.62496,
+    "dist": 64.4,
+    "description": "Elevation: 424m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6186011,
+    "score": 0
+  },
+  {
+    "id": "sw:catoctinmountainpark",
+    "name": "Catoctin Mountain Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.65596,
+    "lng": -77.4611,
+    "dist": 62.5,
+    "description": "Fee: no",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6248126,
+    "score": 0
+  },
+  {
+    "id": "sw:harpersferrynational",
+    "name": "Harpers Ferry National Historical Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking",
+      "historic"
+    ],
+    "lat": 39.31148,
+    "lng": -77.73069,
+    "dist": 65.7,
+    "description": "Historic: yes",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6311355,
+    "score": 0
+  },
+  {
+    "id": "sw:hagerstownwatershed",
+    "name": "Hagerstown Watershed",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.65848,
+    "lng": -77.52866,
+    "dist": 65.5,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9072393,
+    "score": 0
+  },
+  {
+    "id": "sw:hagerstownedgemontre",
+    "name": "Hagerstown Edgemont Reservoir",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.65627,
+    "lng": -77.54212,
+    "dist": 66.0,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12585676,
+    "score": 0
+  },
+  {
+    "id": "sw:southmountainstateba",
+    "name": "South Mountain State Battlefield",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking",
+      "historic"
+    ],
+    "lat": 39.45163,
+    "lng": -77.62613,
+    "dist": 63.2,
+    "description": "Historic: battlefield",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12585677,
+    "score": 0
+  },
+  {
+    "id": "sw:magruderbranchstream",
+    "name": "Magruder Branch Stream Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.26048,
+    "lng": -77.20401,
+    "dist": 37.5,
+    "description": "Elevation: 144m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13038917,
+    "score": 0
+  },
+  {
+    "id": "sw:darbystoreculturalpa",
+    "name": "Darby Store Cultural Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.18164,
+    "lng": -77.41223,
+    "dist": 47.4,
+    "description": "",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13249360,
+    "score": 0
+  },
+  {
+    "id": "sw:dickersonconservatio",
+    "name": "Dickerson Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.19877,
+    "lng": -77.46442,
+    "dist": 50.3,
+    "description": "Elevation: 90m",
+    "zone": "Frederick & Catoctin",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13249370,
+    "score": 0
   }
 ];
