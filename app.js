@@ -239,45 +239,34 @@ function distanceMiles(lat1, lng1, lat2, lng2) {
 // ================================================
 
 function buildQuery(lat, lng, r) {
-  return `
-[out:json][timeout:40];
-(
-  node["natural"="waterfall"](around:${r},${lat},${lng});
-  way["natural"="water"]["name"](around:${r},${lat},${lng});
-  node["natural"="beach"]["name"](around:${r},${lat},${lng});
-  way["leisure"="park"]["name"](around:${r},${lat},${lng});
-  relation["leisure"="park"]["name"](around:${r},${lat},${lng});
-  way["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});
-  relation["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});
-  relation["boundary"="national_park"]["name"](around:${r},${lat},${lng});
-  relation["route"="hiking"]["name"](around:${r},${lat},${lng});
-  node["tourism"="viewpoint"]["name"](around:${r},${lat},${lng});
-  node["tourism"="attraction"]["name"](around:${r},${lat},${lng});
-  node["historic"]["name"](around:${r},${lat},${lng});
-  way["historic"]["name"](around:${r},${lat},${lng});
-);
-out center 400;
-`.trim();
+  // Compact single-line query keeps URL short for GET requests
+  return `[out:json][timeout:40];(node["natural"="waterfall"](around:${r},${lat},${lng});way["natural"="water"]["name"](around:${r},${lat},${lng});way["leisure"="park"]["name"](around:${r},${lat},${lng});relation["leisure"="park"]["name"](around:${r},${lat},${lng});way["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});relation["leisure"="nature_reserve"]["name"](around:${r},${lat},${lng});relation["boundary"="national_park"]["name"](around:${r},${lat},${lng});relation["route"="hiking"]["name"](around:${r},${lat},${lng});node["tourism"="viewpoint"]["name"](around:${r},${lat},${lng});node["tourism"="attraction"]["name"](around:${r},${lat},${lng});node["historic"]["name"](around:${r},${lat},${lng}););out center 400;`;
 }
 
 async function fetchOverpass(lat, lng) {
   const query = buildQuery(lat, lng, RADIUS_M);
-  // Overpass requires application/x-www-form-urlencoded with data= prefix
-  const body  = 'data=' + encodeURIComponent(query);
+
+  // Try each endpoint with a 45s timeout
   for (const url of OVERPASS_ENDPOINTS) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 45000);
     try {
-      const res = await fetch(url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body
+      // Use GET with query as URL param — most reliable from browsers
+      const encoded = encodeURIComponent(query);
+      const res = await fetch(`${url}?data=${encoded}`, {
+        signal: controller.signal
       });
+      clearTimeout(timer);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return await res.json();
+      const data = await res.json();
+      console.log(`Overpass returned ${data.elements?.length ?? 0} elements`);
+      return data;
     } catch (e) {
+      clearTimeout(timer);
       console.warn(`Overpass ${url} failed:`, e.message);
     }
   }
-  throw new Error('All Overpass endpoints failed. Check connection.');
+  throw new Error('Could not reach Overpass API. Check your connection.');
 }
 
 function parseResults(data, userLat, userLng) {
