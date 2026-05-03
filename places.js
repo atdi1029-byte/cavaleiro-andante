@@ -3409,9 +3409,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bestgate",
     "name": "Bestgate",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.99177,
@@ -3427,9 +3427,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wickesmemorialhistor",
     "name": "Wickes Memorial Historical Marker",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.01933,
@@ -3464,9 +3464,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:herndonmonument",
     "name": "Herndon Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.9823,
@@ -3482,9 +3482,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:shiplaphouse",
     "name": "Shiplap House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97862,
@@ -3500,9 +3500,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chanceboatyard",
     "name": "Chance Boatyard",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97337,
@@ -3518,9 +3518,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97936,
@@ -3536,9 +3536,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwariimemorial",
     "name": "World War II Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.998,
@@ -3554,9 +3554,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tripolimonument",
     "name": "Tripoli Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98311,
@@ -3572,9 +3572,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:mexicanwarmidshipmen",
     "name": "Mexican War Midshipmen's Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98157,
@@ -3590,9 +3590,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williemccoolmemorial",
     "name": "Willie McCool Memorial Marker",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.99723,
@@ -3608,9 +3608,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kuntakintealexhaleym",
     "name": "Kunta Kinte - Alex Haley Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97762,
@@ -3626,9 +3626,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:frenchmonument",
     "name": "French Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98414,
@@ -3644,9 +3644,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:libertybellreplica",
     "name": "Liberty Bell Replica",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98099,
@@ -3662,9 +3662,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:worldwarimemorial",
     "name": "World War I Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98117,
@@ -3680,9 +3680,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ptolemystone",
     "name": "Ptolemy Stone",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98213,
@@ -3698,9 +3698,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:watermansmonument",
     "name": "Waterman's Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.96855,
@@ -3716,9 +3716,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:stillonpatrol",
     "name": "Still on Patrol",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.9813,
@@ -3734,9 +3734,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:foremastoftheussmain",
     "name": "Foremast of the USS Maine",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98088,
@@ -3752,9 +3752,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:tecumseh",
     "name": "Tecumseh",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98222,
@@ -3770,9 +3770,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:annearundelacademybo",
     "name": "Anne Arundel Academy Boarding House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.05541,
@@ -3788,9 +3788,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:foundedin1830",
     "name": "founded in 1830",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97809,
@@ -3806,9 +3806,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:elvatonstation",
     "name": "Elvaton Station",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems"
+      "weird"
     ],
     "lat": 39.12076,
     "lng": -76.5881,
@@ -3823,9 +3823,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:kimwoodfarmhouse",
     "name": "Kimwood Farm House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.04673,
@@ -3841,9 +3841,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:drmartinlutherkingjr",
     "name": "Dr. Martin Luther King, Jr. Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.04912,
@@ -3859,9 +3859,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialgardenplaque",
     "name": "Memorial Garden Plaque 1",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.08712,
@@ -3877,9 +3877,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:memorialgardenplaque",
     "name": "Memorial Garden Plaque 2",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.08707,
@@ -3895,9 +3895,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:louisgoldstein",
     "name": "Louis Goldstein",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98066,
@@ -3913,9 +3913,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:baronjohanndekalb",
     "name": "Baron Johann DeKalb",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97857,
@@ -3931,9 +3931,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:guardiansofthefirsta",
     "name": "Guardians of the First Amendment Memorial",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97638,
@@ -3949,9 +3949,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:m60",
     "name": "M60",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98565,
@@ -3967,9 +3967,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ussmarylandmemorialb",
     "name": "USS Maryland Memorial & Bell",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97847,
@@ -3985,9 +3985,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:submarinemonument",
     "name": "Submarine Monument",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98124,
@@ -4003,9 +4003,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:belvoirmanor",
     "name": "Belvoir Manor",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.01887,
@@ -4021,9 +4021,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:beverlyzimmerman",
     "name": "Beverly Zimmerman",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.16363,
@@ -4039,9 +4039,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:wishingrock",
     "name": "Wishing Rock",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.12244,
@@ -4057,9 +4057,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:lafayettesencampment",
     "name": "Lafayette's Encampment",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97153,
@@ -4075,9 +4075,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:howardsinheritance",
     "name": "Howard's Inheritance",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.99596,
@@ -4093,9 +4093,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:bricehouse",
     "name": "Brice House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97929,
@@ -4111,9 +4111,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:chaselloydhouse",
     "name": "Chase-Lloyd House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98109,
@@ -4129,9 +4129,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:linthicumwalks",
     "name": "Linthicum Walks",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.99919,
@@ -4207,9 +4207,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:historiclondontownan",
     "name": "Historic London Town and Gardens",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.94047,
@@ -4225,9 +4225,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:sandypointmansion",
     "name": "Sandy Point Mansion",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.01444,
@@ -4443,9 +4443,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:captainsalemaveryhou",
     "name": "Captain Salem Avery House Museum",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.84955,
@@ -4461,9 +4461,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:williambrownhouse",
     "name": "William Brown House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.94145,
@@ -4479,9 +4479,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thomaspointshoalligh",
     "name": "Thomas Point Shoal Light",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.89896,
@@ -4497,9 +4497,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:batteryhartshorne",
     "name": "Battery Hartshorne",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 39.16619,
@@ -4515,9 +4515,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:f4aphantomii",
     "name": "F-4A Phantom II",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98766,
@@ -4533,9 +4533,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:melfordhouse",
     "name": "Melford House",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.95981,
@@ -4731,9 +4731,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:highisland",
     "name": "High Island",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.88405,
@@ -4769,9 +4769,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial Columns",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97936,
@@ -4787,9 +4787,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:thurgoodmarshallmemo",
     "name": "Thurgood Marshall Memorial Circle",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.97934,
@@ -4845,9 +4845,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:f14atomcat",
     "name": "F-14A Tomcat",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98728,
@@ -4863,9 +4863,9 @@ const SWEPT_PLACES = [
   {
     "id": "sw:ea6bgrowler",
     "name": "EA-6B Growler",
-    "type": "gems",
+    "type": "weird",
     "tags": [
-      "gems",
+      "weird",
       "historic"
     ],
     "lat": 38.98745,
@@ -5339,6 +5339,7113 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:scottsrunfalls",
+    "name": "Scott's Run Falls",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.9677,
+    "lng": -77.20241,
+    "dist": 37.1,
+    "description": "Waterfall at confluence of Scott's Run and Potomac River",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 305547037,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfallsoverlook",
+    "name": "Great Falls Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99673,
+    "lng": -77.25198,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 310726457,
+    "score": 0
+  },
+  {
+    "id": "sw:munsonhill",
+    "name": "Munson Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.85983,
+    "lng": -77.14554,
+    "dist": 36.9,
+    "description": "Elevation: 112m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581998,
+    "score": 0
+  },
+  {
+    "id": "sw:shootershill",
+    "name": "Shooters Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81067,
+    "lng": -77.07081,
+    "dist": 35.2,
+    "description": "Elevation: 44m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582096,
+    "score": 0
+  },
+  {
+    "id": "sw:uptonhill",
+    "name": "Upton Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.87418,
+    "lng": -77.1465,
+    "dist": 36.5,
+    "description": "Elevation: 125m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582165,
+    "score": 0
+  },
+  {
+    "id": "sw:freedomhill",
+    "name": "Freedom Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92317,
+    "lng": -77.24304,
+    "dist": 40.1,
+    "description": "Elevation: 140m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583580,
+    "score": 0
+  },
+  {
+    "id": "sw:gantthill",
+    "name": "Gantt Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92543,
+    "lng": -77.23281,
+    "dist": 39.5,
+    "description": "Elevation: 156m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583592,
+    "score": 0
+  },
+  {
+    "id": "sw:minorshill",
+    "name": "Minor's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9034,
+    "lng": -77.15843,
+    "dist": 36.3,
+    "description": "Elevation: 140m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583715,
+    "score": 0
+  },
+  {
+    "id": "sw:mountdaniel",
+    "name": "Mount Daniel",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89761,
+    "lng": -77.18248,
+    "dist": 37.6,
+    "description": "Elevation: 144m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583723,
+    "score": 0
+  },
+  {
+    "id": "sw:prospecthill",
+    "name": "Prospect Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.96761,
+    "lng": -77.23804,
+    "dist": 38.9,
+    "description": "Elevation: 105m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583777,
+    "score": 0
+  },
+  {
+    "id": "sw:mackeyshill",
+    "name": "Mackeys Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89983,
+    "lng": -77.08026,
+    "dist": 32.5,
+    "description": "Elevation: 52m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356586824,
+    "score": 0
+  },
+  {
+    "id": "sw:prouthill",
+    "name": "Prout Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88122,
+    "lng": -77.19248,
+    "dist": 38.6,
+    "description": "Elevation: 137m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356600737,
+    "score": 0
+  },
+  {
+    "id": "sw:huntinghill",
+    "name": "Hunting Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.08483,
+    "lng": -77.19804,
+    "dist": 35.6,
+    "description": "Elevation: 156m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241546,
+    "score": 0
+  },
+  {
+    "id": "sw:baldeaglehill",
+    "name": "Bald Eagle Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.82178,
+    "lng": -77.0102,
+    "dist": 32.2,
+    "description": "Elevation: 51m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358954693,
+    "score": 0
+  },
+  {
+    "id": "sw:hickeyhill",
+    "name": "Hickey Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91261,
+    "lng": -76.9572,
+    "dist": 26.3,
+    "description": "Elevation: 39m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358954846,
+    "score": 0
+  },
+  {
+    "id": "sw:hooverhill",
+    "name": "Hoover Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93872,
+    "lng": -76.97053,
+    "dist": 26.1,
+    "description": "Elevation: 56m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358954864,
+    "score": 0
+  },
+  {
+    "id": "sw:mounthamilton",
+    "name": "Mount Hamilton",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.90872,
+    "lng": -76.97525,
+    "dist": 27.3,
+    "description": "Elevation: 72m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358954915,
+    "score": 0
+  },
+  {
+    "id": "sw:goodhopehill",
+    "name": "Good Hope Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86789,
+    "lng": -76.96247,
+    "dist": 28.2,
+    "description": "Elevation: 84m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955366,
+    "score": 0
+  },
+  {
+    "id": "sw:jacksonhill",
+    "name": "Jackson Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92483,
+    "lng": -77.04692,
+    "dist": 30.2,
+    "description": "Elevation: 45m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955689,
+    "score": 0
+  },
+  {
+    "id": "sw:georgetownheights",
+    "name": "Georgetown Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91456,
+    "lng": -77.07914,
+    "dist": 32.1,
+    "description": "Elevation: 55m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957281,
+    "score": 0
+  },
+  {
+    "id": "sw:petershill",
+    "name": "Peters Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.8948,
+    "lng": -77.05121,
+    "dist": 31.3,
+    "description": "Elevation: 28m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957287,
+    "score": 0
+  },
+  {
+    "id": "sw:linneanhill",
+    "name": "Linnean Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93621,
+    "lng": -77.04998,
+    "dist": 30.0,
+    "description": "Elevation: 44m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957305,
+    "score": 0
+  },
+  {
+    "id": "sw:camphill",
+    "name": "Camp Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9215,
+    "lng": -77.06692,
+    "dist": 31.3,
+    "description": "Elevation: 85m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957347,
+    "score": 0
+  },
+  {
+    "id": "sw:fishingshore",
+    "name": "Fishing Shore",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.91122,
+    "lng": -77.09692,
+    "dist": 33.0,
+    "description": "Elevation: 6m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957526,
+    "score": 0
+  },
+  {
+    "id": "sw:mountalto",
+    "name": "Mount Alto",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92372,
+    "lng": -77.0747,
+    "dist": 31.6,
+    "description": "Elevation: 107m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358957912,
+    "score": 0
+  },
+  {
+    "id": "sw:mountsaintsepulchre",
+    "name": "Mount Saint Sepulchre",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93761,
+    "lng": -76.98498,
+    "dist": 26.8,
+    "description": "Elevation: 56m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958152,
+    "score": 0
+  },
+  {
+    "id": "sw:roundhill",
+    "name": "Round Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92622,
+    "lng": -76.98859,
+    "dist": 27.3,
+    "description": "Elevation: 61m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958784,
+    "score": 0
+  },
+  {
+    "id": "sw:barnardhill",
+    "name": "Barnard Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93872,
+    "lng": -76.97025,
+    "dist": 26.1,
+    "description": "Elevation: 54m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958825,
+    "score": 0
+  },
+  {
+    "id": "sw:bunkerhill",
+    "name": "Bunker Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93539,
+    "lng": -76.98831,
+    "dist": 27.0,
+    "description": "Elevation: 71m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958833,
+    "score": 0
+  },
+  {
+    "id": "sw:leeshill",
+    "name": "Lees Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91344,
+    "lng": -77.06553,
+    "dist": 31.4,
+    "description": "Elevation: 63m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358959958,
+    "score": 0
+  },
+  {
+    "id": "sw:pointreno",
+    "name": "Point Reno",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.95194,
+    "lng": -77.07611,
+    "dist": 30.9,
+    "description": "Elevation: 123m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358962015,
+    "score": 0
+  },
+  {
+    "id": "sw:stubblefieldfalls",
+    "name": "Stubblefield Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.96887,
+    "lng": -77.19526,
+    "dist": 36.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 447978327,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfalls",
+    "name": "Great Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.99769,
+    "lng": -77.25287,
+    "dist": 39.3,
+    "description": "Elevation: 39m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 508029576,
+    "score": 0
+  },
+  {
+    "id": "sw:freedomparkviewpoint",
+    "name": "Freedom Park Viewpoint",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.89461,
+    "lng": -77.06947,
+    "dist": 32.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 581234968,
+    "score": 0
+  },
+  {
+    "id": "sw:overlook1",
+    "name": "Overlook 1",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.98019,
+    "lng": -77.23534,
+    "dist": 38.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 662618209,
+    "score": 0
+  },
+  {
+    "id": "sw:overlook2",
+    "name": "Overlook 2",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.97956,
+    "lng": -77.23654,
+    "dist": 38.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 662618210,
+    "score": 0
+  },
+  {
+    "id": "sw:stubblefieldfallsove",
+    "name": "Stubblefield Falls Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.96704,
+    "lng": -77.19581,
+    "dist": 36.8,
+    "description": "Elevation: 59m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 765274579,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfallsoverlook1",
+    "name": "Great Falls Overlook 1",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99643,
+    "lng": -77.25354,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 879247849,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfallsoverlook3",
+    "name": "Great Falls Overlook 3",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99518,
+    "lng": -77.25284,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1299136237,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfallsoverlook2",
+    "name": "Great Falls Overlook 2",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.99593,
+    "lng": -77.2533,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1299136239,
+    "score": 0
+  },
+  {
+    "id": "sw:11",
+    "name": "11",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75084,
+    "lng": -77.10414,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271780,
+    "score": 0
+  },
+  {
+    "id": "sw:3",
+    "name": "3",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75659,
+    "lng": -77.10079,
+    "dist": 38.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271781,
+    "score": 0
+  },
+  {
+    "id": "sw:13",
+    "name": "13",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75186,
+    "lng": -77.10288,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271784,
+    "score": 0
+  },
+  {
+    "id": "sw:15",
+    "name": "15",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75512,
+    "lng": -77.10253,
+    "dist": 38.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271786,
+    "score": 0
+  },
+  {
+    "id": "sw:7",
+    "name": "7",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75192,
+    "lng": -77.10615,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271787,
+    "score": 0
+  },
+  {
+    "id": "sw:4",
+    "name": "4",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75654,
+    "lng": -77.10102,
+    "dist": 38.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271788,
+    "score": 0
+  },
+  {
+    "id": "sw:2",
+    "name": "2",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75615,
+    "lng": -77.09959,
+    "dist": 38.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271789,
+    "score": 0
+  },
+  {
+    "id": "sw:1",
+    "name": "1",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75643,
+    "lng": -77.09892,
+    "dist": 38.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271792,
+    "score": 0
+  },
+  {
+    "id": "sw:14",
+    "name": "14",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75231,
+    "lng": -77.10222,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271793,
+    "score": 0
+  },
+  {
+    "id": "sw:10",
+    "name": "10",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75035,
+    "lng": -77.10418,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271794,
+    "score": 0
+  },
+  {
+    "id": "sw:8",
+    "name": "8",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75106,
+    "lng": -77.10671,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271795,
+    "score": 0
+  },
+  {
+    "id": "sw:9",
+    "name": "9",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.7501,
+    "lng": -77.10539,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271796,
+    "score": 0
+  },
+  {
+    "id": "sw:5",
+    "name": "5",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75552,
+    "lng": -77.1026,
+    "dist": 38.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271798,
+    "score": 0
+  },
+  {
+    "id": "sw:12",
+    "name": "12",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75132,
+    "lng": -77.10421,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271800,
+    "score": 0
+  },
+  {
+    "id": "sw:6",
+    "name": "6",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75519,
+    "lng": -77.1037,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1450271801,
+    "score": 0
+  },
+  {
+    "id": "sw:observationplatform",
+    "name": "Observation Platform",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.75169,
+    "lng": -77.10627,
+    "dist": 39.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1454533237,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonaqueductob",
+    "name": "Washington Aqueduct Observation Platform",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.00097,
+    "lng": -77.24872,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1507363822,
+    "score": 0
+  },
+  {
+    "id": "sw:basinoverlook",
+    "name": "Basin Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.69097,
+    "lng": -77.15477,
+    "dist": 43.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1527605600,
+    "score": 0
+  },
+  {
+    "id": "sw:1963tower",
+    "name": "1963 tower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.96849,
+    "lng": -77.34051,
+    "dist": 44.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1843417945,
+    "score": 0
+  },
+  {
+    "id": "sw:1964tower",
+    "name": "1964 tower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.96745,
+    "lng": -77.34091,
+    "dist": 44.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1843417982,
+    "score": 0
+  },
+  {
+    "id": "sw:elephantoverlook",
+    "name": "Elephant Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.93072,
+    "lng": -77.0523,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3545060034,
+    "score": 0
+  },
+  {
+    "id": "sw:pandaoverlook",
+    "name": "Panda Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.93076,
+    "lng": -77.05238,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3545060035,
+    "score": 0
+  },
+  {
+    "id": "sw:lowndeshill",
+    "name": "Lowndes Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93889,
+    "lng": -76.92992,
+    "dist": 24.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4174024616,
+    "score": 0
+  },
+  {
+    "id": "sw:viewingarea",
+    "name": "Viewing area",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.73984,
+    "lng": -77.25885,
+    "dist": 46.4,
+    "description": "Good viewing area for pictures",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4543910742,
+    "score": 0
+  },
+  {
+    "id": "sw:oldpostofficetower",
+    "name": "Old Post Office Tower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.89443,
+    "lng": -77.02759,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5191784803,
+    "score": 0
+  },
+  {
+    "id": "sw:rockcreekview",
+    "name": "Rock Creek view",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.98009,
+    "lng": -77.04263,
+    "dist": 28.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5292515423,
+    "score": 0
+  },
+  {
+    "id": "sw:overlook",
+    "name": "Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.87297,
+    "lng": -77.00164,
+    "dist": 29.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8459178600,
+    "score": 0
+  },
+  {
+    "id": "sw:bigrock",
+    "name": "Big Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.01856,
+    "lng": -76.99538,
+    "dist": 25.5,
+    "description": "Scenic overlook of Northwest Branch",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8911996770,
+    "score": 0
+  },
+  {
+    "id": "sw:paintbranch",
+    "name": "Paint Branch",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.98152,
+    "lng": -76.92062,
+    "dist": 22.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10118898121,
+    "score": 0
+  },
+  {
+    "id": "sw:collegeparkairport",
+    "name": "College Park Airport",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.97736,
+    "lng": -76.91861,
+    "dist": 22.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10118898123,
+    "score": 0
+  },
+  {
+    "id": "sw:spyhill",
+    "name": "Spy Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86912,
+    "lng": -77.1377,
+    "dist": 36.3,
+    "description": "Elevation: 114m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12241613500,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalharborstoneh",
+    "name": "National Harbor Stonehenge Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.78326,
+    "lng": -77.01752,
+    "dist": 34.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12553000159,
+    "score": 0
+  },
+  {
+    "id": "sw:providencepark",
+    "name": "Providence Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88377,
+    "lng": -77.00279,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 4721369,
+    "score": 0
+  },
+  {
+    "id": "sw:jamesmarxallveterans",
+    "name": "James Marx All Veterans Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81366,
+    "lng": -77.11681,
+    "dist": 37.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 22819052,
+    "score": 0
+  },
+  {
+    "id": "sw:laplatabeach",
+    "name": "La Plata Beach",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.99256,
+    "lng": -76.94495,
+    "dist": 23.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23579568,
+    "score": 0
+  },
+  {
+    "id": "sw:greatfallsnikepark",
+    "name": "Great Falls Nike Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.99126,
+    "lng": -77.32661,
+    "dist": 43.2,
+    "description": "Elevation: 117m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 25504868,
+    "score": 0
+  },
+  {
+    "id": "sw:senatepark",
+    "name": "Senate Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89346,
+    "lng": -77.00891,
+    "dist": 29.4,
+    "description": "Elevation: 16m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26629195,
+    "score": 0
+  },
+  {
+    "id": "sw:japaneseamericanmemo",
+    "name": "Japanese American Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.89445,
+    "lng": -77.01033,
+    "dist": 29.4,
+    "description": "Elevation: 10m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26629459,
+    "score": 0
+  },
+  {
+    "id": "sw:alexandriaafricaname",
+    "name": "Alexandria African American Heritage Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.80131,
+    "lng": -77.05941,
+    "dist": 35.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308488,
+    "score": 0
+  },
+  {
+    "id": "sw:beachpark",
+    "name": "Beach Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81322,
+    "lng": -77.06706,
+    "dist": 35.0,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308858,
+    "score": 0
+  },
+  {
+    "id": "sw:windmillhillpark",
+    "name": "Windmill Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79901,
+    "lng": -77.04145,
+    "dist": 34.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308936,
+    "score": 0
+  },
+  {
+    "id": "sw:shipyardpark",
+    "name": "Shipyard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79997,
+    "lng": -77.04034,
+    "dist": 34.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308944,
+    "score": 0
+  },
+  {
+    "id": "sw:founderspark",
+    "name": "Founders Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.80758,
+    "lng": -77.03903,
+    "dist": 34.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308970,
+    "score": 0
+  },
+  {
+    "id": "sw:oronocobaypark",
+    "name": "Oronoco Bay Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81109,
+    "lng": -77.03908,
+    "dist": 33.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308986,
+    "score": 0
+  },
+  {
+    "id": "sw:rivergatecitypark",
+    "name": "Rivergate City Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81286,
+    "lng": -77.03813,
+    "dist": 33.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27308995,
+    "score": 0
+  },
+  {
+    "id": "sw:tidelockpark",
+    "name": "Tide Lock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81529,
+    "lng": -77.03847,
+    "dist": 33.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27309022,
+    "score": 0
+  },
+  {
+    "id": "sw:ewaldpark",
+    "name": "Ewald Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81155,
+    "lng": -77.10844,
+    "dist": 36.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27311195,
+    "score": 0
+  },
+  {
+    "id": "sw:interiorpark",
+    "name": "Interior Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8111,
+    "lng": -77.05297,
+    "dist": 34.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27311754,
+    "score": 0
+  },
+  {
+    "id": "sw:arlingtonridgepark",
+    "name": "Arlington Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking",
+      "historic"
+    ],
+    "lat": 38.88954,
+    "lng": -77.06912,
+    "dist": 32.3,
+    "description": "Hours: Mo-Su 06:00-24:00 · Historic: heritage",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27314162,
+    "score": 0
+  },
+  {
+    "id": "sw:dawsonterracepark",
+    "name": "Dawson Terrace Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89988,
+    "lng": -77.08254,
+    "dist": 32.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28307408,
+    "score": 0
+  },
+  {
+    "id": "sw:centralcourtyard",
+    "name": "Central Courtyard",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87097,
+    "lng": -77.05593,
+    "dist": 32.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28315757,
+    "score": 0
+  },
+  {
+    "id": "sw:maurypark",
+    "name": "Maury Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88148,
+    "lng": -77.10201,
+    "dist": 34.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28317055,
+    "score": 0
+  },
+  {
+    "id": "sw:11thstreetpark",
+    "name": "11th Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8866,
+    "lng": -77.09116,
+    "dist": 33.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28317128,
+    "score": 0
+  },
+  {
+    "id": "sw:zitkalaapark",
+    "name": "Zitkala-Ša Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88142,
+    "lng": -77.09398,
+    "dist": 33.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28317239,
+    "score": 0
+  },
+  {
+    "id": "sw:rockyrunpark",
+    "name": "Rocky Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88698,
+    "lng": -77.08717,
+    "dist": 33.3,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28317281,
+    "score": 0
+  },
+  {
+    "id": "sw:gatewaypark",
+    "name": "Gateway Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8987,
+    "lng": -77.07221,
+    "dist": 32.2,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28317315,
+    "score": 0
+  },
+  {
+    "id": "sw:cavaliertrailpark",
+    "name": "Cavalier Trail Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88065,
+    "lng": -77.17962,
+    "dist": 38.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 29655755,
+    "score": 0
+  },
+  {
+    "id": "sw:silasburkepark",
+    "name": "Silas Burke Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79324,
+    "lng": -77.26767,
+    "dist": 44.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 37765680,
+    "score": 0
+  },
+  {
+    "id": "sw:ericfriedheimquadran",
+    "name": "Eric Friedheim Quadrangle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93721,
+    "lng": -77.08791,
+    "dist": 31.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 38110181,
+    "score": 0
+  },
+  {
+    "id": "sw:thebeach",
+    "name": "The Beach",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93643,
+    "lng": -77.08993,
+    "dist": 32.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 38134365,
+    "score": 0
+  },
+  {
+    "id": "sw:fairviewpark",
+    "name": "Fairview Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.00118,
+    "lng": -77.03003,
+    "dist": 27.6,
+    "description": "Elevation: 95m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 38745010,
+    "score": 0
+  },
+  {
+    "id": "sw:woodsidepark",
+    "name": "Woodside Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.99956,
+    "lng": -77.03301,
+    "dist": 27.7,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 39241829,
+    "score": 0
+  },
+  {
+    "id": "sw:logancircle",
+    "name": "Logan Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90965,
+    "lng": -77.02962,
+    "dist": 29.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964672,
+    "score": 0
+  },
+  {
+    "id": "sw:jamescreekmarina",
+    "name": "James Creek Marina",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86442,
+    "lng": -77.01376,
+    "dist": 30.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964686,
+    "score": 0
+  },
+  {
+    "id": "sw:victimsofcommunismme",
+    "name": "Victims of Communism Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.89852,
+    "lng": -77.01191,
+    "dist": 29.3,
+    "description": "Elevation: 11m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964691,
+    "score": 0
+  },
+  {
+    "id": "sw:rabautpark",
+    "name": "Rabaut Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9267,
+    "lng": -77.03704,
+    "dist": 29.7,
+    "description": "Elevation: 60m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964709,
+    "score": 0
+  },
+  {
+    "id": "sw:chinatownpark",
+    "name": "Chinatown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90111,
+    "lng": -77.01938,
+    "dist": 29.6,
+    "description": "Hours: 24/7 · Dogs: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964724,
+    "score": 0
+  },
+  {
+    "id": "sw:towncenterpark",
+    "name": "Town Center Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.879,
+    "lng": -77.01572,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964741,
+    "score": 0
+  },
+  {
+    "id": "sw:chevychasecircle",
+    "name": "Chevy Chase Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.96762,
+    "lng": -77.07715,
+    "dist": 30.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964747,
+    "score": 0
+  },
+  {
+    "id": "sw:longfellowpark",
+    "name": "Longfellow Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90595,
+    "lng": -77.04149,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964756,
+    "score": 0
+  },
+  {
+    "id": "sw:jamesmonroepark",
+    "name": "James Monroe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90109,
+    "lng": -77.04543,
+    "dist": 30.8,
+    "description": "Elevation: 22m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964784,
+    "score": 0
+  },
+  {
+    "id": "sw:federaltrianglepark",
+    "name": "Federal Triangle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89237,
+    "lng": -77.01932,
+    "dist": 29.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964806,
+    "score": 0
+  },
+  {
+    "id": "sw:unionstationplaza",
+    "name": "Union Station Plaza",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.89652,
+    "lng": -77.00653,
+    "dist": 29.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964850,
+    "score": 0
+  },
+  {
+    "id": "sw:dalecarliaparkway",
+    "name": "Dalecarlia Parkway",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94905,
+    "lng": -77.10016,
+    "dist": 32.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964853,
+    "score": 0
+  },
+  {
+    "id": "sw:thompsonsboatcenter",
+    "name": "Thompson's Boat Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90053,
+    "lng": -77.05826,
+    "dist": 31.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964867,
+    "score": 0
+  },
+  {
+    "id": "sw:rockcreekpotomacpark",
+    "name": "Rock Creek & Potomac Parkway",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90929,
+    "lng": -77.05452,
+    "dist": 31.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964871,
+    "score": 0
+  },
+  {
+    "id": "sw:witherspoonpark",
+    "name": "Witherspoon Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90713,
+    "lng": -77.04178,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964878,
+    "score": 0
+  },
+  {
+    "id": "sw:sheridancircle",
+    "name": "Sheridan Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91216,
+    "lng": -77.05066,
+    "dist": 30.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964882,
+    "score": 0
+  },
+  {
+    "id": "sw:brycepark",
+    "name": "Bryce Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92801,
+    "lng": -77.07256,
+    "dist": 31.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964883,
+    "score": 0
+  },
+  {
+    "id": "sw:thomascircle",
+    "name": "Thomas Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90565,
+    "lng": -77.03195,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964887,
+    "score": 0
+  },
+  {
+    "id": "sw:scottcircle",
+    "name": "Scott Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90725,
+    "lng": -77.03653,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964893,
+    "score": 0
+  },
+  {
+    "id": "sw:westmorelandcircle",
+    "name": "Westmoreland Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94893,
+    "lng": -77.10097,
+    "dist": 32.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964907,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinsquare",
+    "name": "Franklin Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90193,
+    "lng": -77.03079,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964909,
+    "score": 0
+  },
+  {
+    "id": "sw:fortbunkerhillpark",
+    "name": "Fort Bunker Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9354,
+    "lng": -76.98759,
+    "dist": 27.0,
+    "description": "Elevation: 66m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964940,
+    "score": 0
+  },
+  {
+    "id": "sw:mcphersonsquare",
+    "name": "McPherson Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90193,
+    "lng": -77.0341,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964961,
+    "score": 0
+  },
+  {
+    "id": "sw:montrosepark",
+    "name": "Montrose Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91429,
+    "lng": -77.0605,
+    "dist": 31.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964965,
+    "score": 0
+  },
+  {
+    "id": "sw:fortdavispark",
+    "name": "Fort Davis Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86678,
+    "lng": -76.95098,
+    "dist": 27.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964973,
+    "score": 0
+  },
+  {
+    "id": "sw:rigowalledpark",
+    "name": "Rigo Walled Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9039,
+    "lng": -77.01857,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964975,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtoncirclepark",
+    "name": "Washington Circle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90254,
+    "lng": -77.05011,
+    "dist": 31.0,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964978,
+    "score": 0
+  },
+  {
+    "id": "sw:fortcirclepark",
+    "name": "Fort Circle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90505,
+    "lng": -76.94848,
+    "dist": 26.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964985,
+    "score": 0
+  },
+  {
+    "id": "sw:oxonrunparkway",
+    "name": "Oxon Run Parkway",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.83956,
+    "lng": -76.98119,
+    "dist": 30.2,
+    "description": "Elevation: 23m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964996,
+    "score": 0
+  },
+  {
+    "id": "sw:grantcircle",
+    "name": "Grant Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94312,
+    "lng": -77.01926,
+    "dist": 28.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41964998,
+    "score": 0
+  },
+  {
+    "id": "sw:forttottenpark",
+    "name": "Fort Totten Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94887,
+    "lng": -77.00518,
+    "dist": 27.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965017,
+    "score": 0
+  },
+  {
+    "id": "sw:stantonpark",
+    "name": "Stanton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.89358,
+    "lng": -76.99951,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965021,
+    "score": 0
+  },
+  {
+    "id": "sw:burkepark",
+    "name": "Burke Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90398,
+    "lng": -77.02758,
+    "dist": 29.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965037,
+    "score": 0
+  },
+  {
+    "id": "sw:anacostiaparksection",
+    "name": "Anacostia Park, Section F",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.89339,
+    "lng": -76.961,
+    "dist": 27.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965044,
+    "score": 0
+  },
+  {
+    "id": "sw:marionpark",
+    "name": "Marion Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88296,
+    "lng": -76.99953,
+    "dist": 29.3,
+    "description": "Elevation: 22m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965067,
+    "score": 0
+  },
+  {
+    "id": "sw:meridianhillmalcolmx",
+    "name": "Meridian Hill/Malcolm X Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92123,
+    "lng": -77.03559,
+    "dist": 29.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965077,
+    "score": 0
+  },
+  {
+    "id": "sw:raingardenbythecivil",
+    "name": "Rain Garden by the Civil War Nurses Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90571,
+    "lng": -77.04054,
+    "dist": 30.5,
+    "description": "Elevation: 17m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965084,
+    "score": 0
+  },
+  {
+    "id": "sw:klinglevalleypark",
+    "name": "Klingle Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93085,
+    "lng": -77.05925,
+    "dist": 30.6,
+    "description": "Elevation: 74m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965091,
+    "score": 0
+  },
+  {
+    "id": "sw:robertemmetpark",
+    "name": "Robert Emmet Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91391,
+    "lng": -77.05285,
+    "dist": 30.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965096,
+    "score": 0
+  },
+  {
+    "id": "sw:fortslocumpark",
+    "name": "Fort Slocum Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.96002,
+    "lng": -77.0139,
+    "dist": 27.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965097,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardpointpark",
+    "name": "Buzzard Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86481,
+    "lng": -77.01107,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965102,
+    "score": 0
+  },
+  {
+    "id": "sw:muhlenbergpark",
+    "name": "Muhlenberg Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95365,
+    "lng": -77.06937,
+    "dist": 30.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965124,
+    "score": 0
+  },
+  {
+    "id": "sw:shermancircle",
+    "name": "Sherman Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94733,
+    "lng": -77.02188,
+    "dist": 28.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965132,
+    "score": 0
+  },
+  {
+    "id": "sw:hancockpark",
+    "name": "Hancock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88606,
+    "lng": -77.02299,
+    "dist": 30.3,
+    "description": "Elevation: 8m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965138,
+    "score": 0
+  },
+  {
+    "id": "sw:anacostiaparksection",
+    "name": "Anacostia Park Section D",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.8733,
+    "lng": -76.98272,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965166,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickdouglasshom",
+    "name": "Frederick Douglass Home",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86276,
+    "lng": -76.9851,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965168,
+    "score": 0
+  },
+  {
+    "id": "sw:fortbayardpark",
+    "name": "Fort Bayard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95556,
+    "lng": -77.09161,
+    "dist": 31.6,
+    "description": "Elevation: 101m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965175,
+    "score": 0
+  },
+  {
+    "id": "sw:southwestwaterfrontp",
+    "name": "Southwest Waterfront Park - East",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87376,
+    "lng": -77.01906,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965208,
+    "score": 0
+  },
+  {
+    "id": "sw:judiciarysquare",
+    "name": "Judiciary Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.89673,
+    "lng": -77.01755,
+    "dist": 29.7,
+    "description": "Elevation: 12m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965212,
+    "score": 0
+  },
+  {
+    "id": "sw:unionsquare",
+    "name": "Union Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88977,
+    "lng": -77.01381,
+    "dist": 29.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965225,
+    "score": 0
+  },
+  {
+    "id": "sw:lincolnpark",
+    "name": "Lincoln Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.88979,
+    "lng": -76.98992,
+    "dist": 28.6,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965236,
+    "score": 0
+  },
+  {
+    "id": "sw:dupontcircle",
+    "name": "Dupont Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90965,
+    "lng": -77.04344,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965262,
+    "score": 0
+  },
+  {
+    "id": "sw:oldstonehousegarden",
+    "name": "Old Stone House Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.9057,
+    "lng": -77.06029,
+    "dist": 31.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965279,
+    "score": 0
+  },
+  {
+    "id": "sw:edwardjkellypark",
+    "name": "Edward J. Kelly Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89465,
+    "lng": -77.0459,
+    "dist": 31.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965280,
+    "score": 0
+  },
+  {
+    "id": "sw:folgerpark",
+    "name": "Folger Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.88467,
+    "lng": -77.00279,
+    "dist": 29.4,
+    "description": "Elevation: 22m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965294,
+    "score": 0
+  },
+  {
+    "id": "sw:farragutsquare",
+    "name": "Farragut Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.90194,
+    "lng": -77.03897,
+    "dist": 30.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965301,
+    "score": 0
+  },
+  {
+    "id": "sw:towncenterparksouthw",
+    "name": "Town Center Park, Southwest Duck Pond",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87885,
+    "lng": -77.01937,
+    "dist": 30.4,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965304,
+    "score": 0
+  },
+  {
+    "id": "sw:anacostiaparksection",
+    "name": "Anacostia Park, Section C",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.86743,
+    "lng": -76.99631,
+    "dist": 29.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965329,
+    "score": 0
+  },
+  {
+    "id": "sw:anacostiaparksection",
+    "name": "Anacostia Park, Section E",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.87861,
+    "lng": -76.97048,
+    "dist": 28.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965333,
+    "score": 0
+  },
+  {
+    "id": "sw:fortstevenspark",
+    "name": "Fort Stevens Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.96436,
+    "lng": -77.02919,
+    "dist": 28.3,
+    "description": "Elevation: 97m · Historic: fort",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 41965357,
+    "score": 0
+  },
+  {
+    "id": "sw:virginiahighlandspar",
+    "name": "Virginia Highlands Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.85938,
+    "lng": -77.06142,
+    "dist": 33.0,
+    "description": "Hours: sunrise-22:00",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 44508488,
+    "score": 0
+  },
+  {
+    "id": "sw:darkstarpark",
+    "name": "Dark Star Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89311,
+    "lng": -77.07151,
+    "dist": 32.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45270308,
+    "score": 0
+  },
+  {
+    "id": "sw:rhodesidegreenpark",
+    "name": "Rhodeside Green Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.89259,
+    "lng": -77.07934,
+    "dist": 32.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45279457,
+    "score": 0
+  },
+  {
+    "id": "sw:madisonmanorpark",
+    "name": "Madison Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88229,
+    "lng": -77.14973,
+    "dist": 36.4,
+    "description": "Elevation: 78m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45302157,
+    "score": 0
+  },
+  {
+    "id": "sw:olneymanorpark",
+    "name": "Olney Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.12599,
+    "lng": -77.06999,
+    "dist": 28.8,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47315901,
+    "score": 0
+  },
+  {
+    "id": "sw:southeastolneypark",
+    "name": "Southeast Olney Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14386,
+    "lng": -77.06364,
+    "dist": 28.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47318201,
+    "score": 0
+  },
+  {
+    "id": "sw:millcreektownepark",
+    "name": "Mill Creek Towne Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.14219,
+    "lng": -77.15077,
+    "dist": 33.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47461729,
+    "score": 0
+  },
+  {
+    "id": "sw:virginiaavenuepark",
+    "name": "Virginia Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87751,
+    "lng": -76.9927,
+    "dist": 29.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207258,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeythicket",
+    "name": "Turkey Thicket",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9379,
+    "lng": -76.99235,
+    "dist": 27.2,
+    "description": "Elevation: 38m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207259,
+    "score": 0
+  },
+  {
+    "id": "sw:noyespark",
+    "name": "Noyes Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92583,
+    "lng": -76.99168,
+    "dist": 27.5,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207260,
+    "score": 0
+  },
+  {
+    "id": "sw:baldeaglerecreationc",
+    "name": "Bald Eagle Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.81819,
+    "lng": -77.0101,
+    "dist": 32.3,
+    "description": "Elevation: 49m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207262,
+    "score": 0
+  },
+  {
+    "id": "sw:congressheightsrecre",
+    "name": "Congress Heights Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.84245,
+    "lng": -76.99664,
+    "dist": 30.7,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207263,
+    "score": 0
+  },
+  {
+    "id": "sw:fortgreble",
+    "name": "Fort Greble",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.82722,
+    "lng": -77.01455,
+    "dist": 32.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207264,
+    "score": 0
+  },
+  {
+    "id": "sw:eastcornerboundaryst",
+    "name": "East Corner Boundary Stone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89286,
+    "lng": -76.90937,
+    "dist": 24.9,
+    "description": "Historic: boundary stone",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 75405297,
+    "score": 0
+  },
+  {
+    "id": "sw:northcornerboundarym",
+    "name": "North Corner Boundary Marker of the Original District of Columbia",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.99597,
+    "lng": -77.04097,
+    "dist": 28.2,
+    "description": "Historic: boundary stone",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 75405965,
+    "score": 0
+  },
+  {
+    "id": "sw:capitolhill",
+    "name": "Capitol Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.889,
+    "lng": -77.00025,
+    "dist": 29.1,
+    "description": "Elevation: 27m · Historic: heritage",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 158502198,
+    "score": 0
+  },
+  {
+    "id": "sw:westcornerstone",
+    "name": "West Cornerstone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89325,
+    "lng": -77.17228,
+    "dist": 37.2,
+    "description": "Historic: boundary stone",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 263656662,
+    "score": 0
+  },
+  {
+    "id": "sw:nationallawenforceme",
+    "name": "National Law Enforcement Officers Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89676,
+    "lng": -77.01755,
+    "dist": 29.7,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 306012833,
+    "score": 0
+  },
+  {
+    "id": "sw:columbarium",
+    "name": "Columbarium",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87584,
+    "lng": -77.06102,
+    "dist": 32.4,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 310423792,
+    "score": 0
+  },
+  {
+    "id": "sw:bayevacastle",
+    "name": "Bay-Eva Castle",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90074,
+    "lng": -77.08151,
+    "dist": 32.6,
+    "description": "Historic: ruins",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 310856934,
+    "score": 0
+  },
+  {
+    "id": "sw:tomboftheunknownsold",
+    "name": "Tomb of the Unknown Soldier",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87639,
+    "lng": -77.07225,
+    "dist": 32.9,
+    "description": "Elevation: 53m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582211,
+    "score": 0
+  },
+  {
+    "id": "sw:cityoffairfaxhistori",
+    "name": "City of Fairfax Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.84611,
+    "lng": -77.30687,
+    "dist": 45.2,
+    "description": "Elevation: 132m · Historic: district",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356599862,
+    "score": 0
+  },
+  {
+    "id": "sw:alexandriahistoricdi",
+    "name": "Alexandria Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.80514,
+    "lng": -77.04693,
+    "dist": 34.4,
+    "description": "Elevation: 11m · Historic: district",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356601041,
+    "score": 0
+  },
+  {
+    "id": "sw:pallotticollege",
+    "name": "Pallotti College",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97076,
+    "lng": -76.97537,
+    "dist": 25.4,
+    "description": "Elevation: 34m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358245442,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalparkseminary",
+    "name": "National Park Seminary",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.01188,
+    "lng": -77.05669,
+    "dist": 28.8,
+    "description": "Elevation: 98m · Historic: school",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358252085,
+    "score": 0
+  },
+  {
+    "id": "sw:mountrainierhistoric",
+    "name": "Mount Rainier Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.94139,
+    "lng": -76.96241,
+    "dist": 25.6,
+    "description": "Elevation: 24m · Historic: district",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253374,
+    "score": 0
+  },
+  {
+    "id": "sw:saintceciliachapelru",
+    "name": "Saint Cecilia Chapel (ruin)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9715,
+    "lng": -76.97609,
+    "dist": 25.4,
+    "description": "Elevation: 34m · Historic: ruins",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358253416,
+    "score": 0
+  },
+  {
+    "id": "sw:hayesseniorwellnessc",
+    "name": "Hayes Senior Wellness Center",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90274,
+    "lng": -76.99921,
+    "dist": 28.6,
+    "description": "Elevation: 13m · Hours: Mo-Fr 08:00-16:00 · Historic: school",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358954843,
+    "score": 0
+  },
+  {
+    "id": "sw:americanlegionfreedo",
+    "name": "American Legion Freedom Bell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89657,
+    "lng": -77.00653,
+    "dist": 29.1,
+    "description": "Liberty Bell replica · Elevation: 16m · Hours: 24/7 · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955061,
+    "score": 0
+  },
+  {
+    "id": "sw:generaljosedesanmart",
+    "name": "General Jose de San Martin Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89501,
+    "lng": -77.04524,
+    "dist": 31.0,
+    "description": "Elevation: 12m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955106,
+    "score": 0
+  },
+  {
+    "id": "sw:hahnemannmonument",
+    "name": "Hahnemann Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90725,
+    "lng": -77.0357,
+    "dist": 30.2,
+    "description": "Elevation: 23m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955131,
+    "score": 0
+  },
+  {
+    "id": "sw:homeopathichospital",
+    "name": "Homeopathic Hospital",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90595,
+    "lng": -77.01414,
+    "dist": 29.2,
+    "description": "Elevation: 24m · Historic: hospital",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955181,
+    "score": 0
+  },
+  {
+    "id": "sw:bernardodegalvez",
+    "name": "Bernardo de Galvez",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89569,
+    "lng": -77.04857,
+    "dist": 31.2,
+    "description": "Elevation: 16m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955217,
+    "score": 0
+  },
+  {
+    "id": "sw:janeadelanoandthenur",
+    "name": "Jane A Delano and the Nurses Who Died in Service in World War I",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89494,
+    "lng": -77.04078,
+    "dist": 30.8,
+    "description": "Elevation: 9m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955682,
+    "score": 0
+  },
+  {
+    "id": "sw:56signersofthedeclar",
+    "name": "56 Signers of the Declaration of Independence Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89109,
+    "lng": -77.04287,
+    "dist": 31.0,
+    "description": "Elevation: 4m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955985,
+    "score": 0
+  },
+  {
+    "id": "sw:medlinkhospitalandnu",
+    "name": "Medlink Hospital and Nursing Center",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89236,
+    "lng": -76.99552,
+    "dist": 28.8,
+    "description": "Elevation: 24m · Historic: hospital",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358955997,
+    "score": 0
+  },
+  {
+    "id": "sw:redcrossmenandwomenk",
+    "name": "Red Cross Men and Women Killed in Service",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8947,
+    "lng": -77.04078,
+    "dist": 30.8,
+    "description": "Elevation: 7m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958055,
+    "score": 0
+  },
+  {
+    "id": "sw:queenisabellaimemori",
+    "name": "Queen Isabella I Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89286,
+    "lng": -77.03967,
+    "dist": 30.8,
+    "description": "Elevation: 5m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958085,
+    "score": 0
+  },
+  {
+    "id": "sw:jamescardinalgibbons",
+    "name": "James Cardinal Gibbons Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9314,
+    "lng": -77.0362,
+    "dist": 29.5,
+    "description": "Elevation: 62m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958094,
+    "score": 0
+  },
+  {
+    "id": "sw:guglielmomarconistat",
+    "name": "Guglielmo Marconi Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93042,
+    "lng": -77.03675,
+    "dist": 29.5,
+    "description": "Elevation: 61m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958097,
+    "score": 0
+  },
+  {
+    "id": "sw:andrewjacksondowning",
+    "name": "Andrew Jackson Downing Urn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8884,
+    "lng": -77.0254,
+    "dist": 30.3,
+    "description": "Elevation: 9m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958267,
+    "score": 0
+  },
+  {
+    "id": "sw:japaneselantern",
+    "name": "Japanese Lantern",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88656,
+    "lng": -77.04137,
+    "dist": 31.1,
+    "description": "Elevation: 1m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958274,
+    "score": 0
+  },
+  {
+    "id": "sw:theliberatorsimonbol",
+    "name": "The Liberator Simon Bolivar Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89313,
+    "lng": -77.04203,
+    "dist": 30.9,
+    "description": "Elevation: 6m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958520,
+    "score": 0
+  },
+  {
+    "id": "sw:henrywadsworthlongfe",
+    "name": "Henry Wadsworth Longfellow Statue",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.90586,
+    "lng": -77.04151,
+    "dist": 30.5,
+    "description": "Elevation: 18m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958523,
+    "score": 0
+  },
+  {
+    "id": "sw:generaljosegervasioa",
+    "name": "General Jose Gervasio Artigas Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89232,
+    "lng": -77.0415,
+    "dist": 30.9,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958532,
+    "score": 0
+  },
+  {
+    "id": "sw:benitojuarezmemorial",
+    "name": "Benito Juarez Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89877,
+    "lng": -77.05365,
+    "dist": 31.3,
+    "description": "Elevation: 11m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958541,
+    "score": 0
+  },
+  {
+    "id": "sw:tuburculosishospital",
+    "name": "Tuburculosis Hospital",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.94289,
+    "lng": -77.03525,
+    "dist": 29.1,
+    "description": "Elevation: 56m · Historic: hospital",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958798,
+    "score": 0
+  },
+  {
+    "id": "sw:josephdarlingtonmemo",
+    "name": "Joseph Darlington Memorial Fountain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89526,
+    "lng": -77.01848,
+    "dist": 29.7,
+    "description": "Elevation: 16m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958861,
+    "score": 0
+  },
+  {
+    "id": "sw:waylandseminary",
+    "name": "Wayland Seminary",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.92152,
+    "lng": -77.03545,
+    "dist": 29.7,
+    "description": "Elevation: 60m · Historic: school",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358958865,
+    "score": 0
+  },
+  {
+    "id": "sw:alberteinsteinmemori",
+    "name": "Albert Einstein Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8924,
+    "lng": -77.04844,
+    "dist": 31.3,
+    "description": "Elevation: 6m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358959416,
+    "score": 0
+  },
+  {
+    "id": "sw:peacecross",
+    "name": "Peace Cross",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.92913,
+    "lng": -77.07181,
+    "dist": 31.3,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358959493,
+    "score": 0
+  },
+  {
+    "id": "sw:almastemple",
+    "name": "Almas Temple",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.90278,
+    "lng": -77.03132,
+    "dist": 30.1,
+    "description": "Elevation: 22m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358959871,
+    "score": 0
+  },
+  {
+    "id": "sw:khalilgibranmemorial",
+    "name": "Khalil Gibran Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.92048,
+    "lng": -77.06136,
+    "dist": 31.0,
+    "description": "Elevation: 55m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960207,
+    "score": 0
+  },
+  {
+    "id": "sw:johnericssonnational",
+    "name": "John Ericsson National Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88667,
+    "lng": -77.05018,
+    "dist": 31.5,
+    "description": "Elevation: 3m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960222,
+    "score": 0
+  },
+  {
+    "id": "sw:cubanamericanfriends",
+    "name": "Cuban American Friendship Urn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87854,
+    "lng": -77.03827,
+    "dist": 31.2,
+    "description": "Elevation: 3m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960227,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonarealawenf",
+    "name": "Washington Area Law Enforcement Officers Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89567,
+    "lng": -77.01748,
+    "dist": 29.7,
+    "description": "Elevation: 15m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960229,
+    "score": 0
+  },
+  {
+    "id": "sw:jeanmonnetplaque",
+    "name": "Jean Monnet Plaque",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89674,
+    "lng": -77.03267,
+    "dist": 30.4,
+    "description": "Elevation: 6m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960237,
+    "score": 0
+  },
+  {
+    "id": "sw:juliawardhowememoria",
+    "name": "Julia Ward Howe Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.92345,
+    "lng": -77.02164,
+    "dist": 29.0,
+    "description": "Elevation: 55m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960246,
+    "score": 0
+  },
+  {
+    "id": "sw:justicewilliamodougl",
+    "name": "Justice William O Douglas Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90421,
+    "lng": -77.05946,
+    "dist": 31.4,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960260,
+    "score": 0
+  },
+  {
+    "id": "sw:122ndnewyorkvoluntee",
+    "name": "122nd New York Volunteer Mounment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97088,
+    "lng": -77.02695,
+    "dist": 28.0,
+    "description": "Elevation: 90m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960283,
+    "score": 0
+  },
+  {
+    "id": "sw:25thnewyorkvolunteer",
+    "name": "25th New York Volunteer Cavelry Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97079,
+    "lng": -77.02696,
+    "dist": 28.0,
+    "description": "Elevation: 90m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960285,
+    "score": 0
+  },
+  {
+    "id": "sw:98thpennsylvaniavolu",
+    "name": "98th Pennsylvania Volunteer Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97084,
+    "lng": -77.02695,
+    "dist": 28.0,
+    "description": "Elevation: 90m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960287,
+    "score": 0
+  },
+  {
+    "id": "sw:adamsmemorial",
+    "name": "Adams Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.94739,
+    "lng": -77.01031,
+    "dist": 27.8,
+    "description": "Elevation: 83m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960290,
+    "score": 0
+  },
+  {
+    "id": "sw:petermuhlenbergmemor",
+    "name": "Peter Muhlenberg Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.95357,
+    "lng": -77.06949,
+    "dist": 30.6,
+    "description": "Elevation: 99m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960292,
+    "score": 0
+  },
+  {
+    "id": "sw:africanamericancivil",
+    "name": "African American Civil War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91654,
+    "lng": -77.02597,
+    "dist": 29.4,
+    "description": "Elevation: 27m · Historic: monument",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960294,
+    "score": 0
+  },
+  {
+    "id": "sw:airmailmarker",
+    "name": "Air Mail Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88162,
+    "lng": -77.04375,
+    "dist": 31.4,
+    "description": "Elevation: 3m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960297,
+    "score": 0
+  },
+  {
+    "id": "sw:allhallowsguildtrave",
+    "name": "All Hallows Guild Traveling Carousel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93039,
+    "lng": -77.07026,
+    "dist": 31.2,
+    "description": "Elevation: 115m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960302,
+    "score": 0
+  },
+  {
+    "id": "sw:williamfrederickalle",
+    "name": "William Frederick Allen",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89749,
+    "lng": -77.00663,
+    "dist": 29.1,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960304,
+    "score": 0
+  },
+  {
+    "id": "sw:veteransofforeignwar",
+    "name": "Veterans of Foreign Wars Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89233,
+    "lng": -77.00329,
+    "dist": 29.1,
+    "description": "Elevation: 27m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960348,
+    "score": 0
+  },
+  {
+    "id": "sw:150thohionationalgua",
+    "name": "150th Ohio National Guard Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97091,
+    "lng": -77.02694,
+    "dist": 28.0,
+    "description": "Elevation: 90m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960361,
+    "score": 0
+  },
+  {
+    "id": "sw:josececiliodelvallem",
+    "name": "Jose Cecilio del Valle Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89339,
+    "lng": -77.03998,
+    "dist": 30.8,
+    "description": "Elevation: 6m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960366,
+    "score": 0
+  },
+  {
+    "id": "sw:daguerrememorial",
+    "name": "Daguerre Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89762,
+    "lng": -77.02213,
+    "dist": 29.8,
+    "description": "Elevation: 15m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960371,
+    "score": 0
+  },
+  {
+    "id": "sw:kossuthlajos",
+    "name": "Kossuth Lajos",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91049,
+    "lng": -77.04503,
+    "dist": 30.5,
+    "description": "Elevation: 28m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960376,
+    "score": 0
+  },
+  {
+    "id": "sw:libertybellmemorial",
+    "name": "Liberty Bell Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.89761,
+    "lng": -77.03359,
+    "dist": 30.4,
+    "description": "Elevation: 12m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960378,
+    "score": 0
+  },
+  {
+    "id": "sw:samueldgrossmemorial",
+    "name": "Samuel D Gross Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90706,
+    "lng": -77.0347,
+    "dist": 30.1,
+    "description": "Elevation: 24m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960393,
+    "score": 0
+  },
+  {
+    "id": "sw:sonnybono",
+    "name": "Sonny Bono",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90848,
+    "lng": -77.04472,
+    "dist": 30.6,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960420,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeandohiocan",
+    "name": "Chesapeake and Ohio Canal Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90436,
+    "lng": -77.06293,
+    "dist": 31.6,
+    "description": "Elevation: 17m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358960425,
+    "score": 0
+  },
+  {
+    "id": "sw:grantroadhistoricdis",
+    "name": "Grant Road Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.94732,
+    "lng": -77.07858,
+    "dist": 31.2,
+    "description": "Elevation: 118m · Historic: district",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358961124,
+    "score": 0
+  },
+  {
+    "id": "sw:twinoaks",
+    "name": "Twin Oaks",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93212,
+    "lng": -77.06313,
+    "dist": 30.8,
+    "description": "Hours: Mo-Fr 09:00-17:00",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367141729,
+    "score": 0
+  },
+  {
+    "id": "sw:macarthurtheater",
+    "name": "MacArthur Theater",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9167,
+    "lng": -77.0955,
+    "dist": 32.8,
+    "description": "Historic: theatre",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367142907,
+    "score": 0
+  },
+  {
+    "id": "sw:mountvernontheater",
+    "name": "Mount Vernon Theater",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9028,
+    "lng": -77.02452,
+    "dist": 29.8,
+    "description": "Elevation: 21m · Historic: theatre",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143105,
+    "score": 0
+  },
+  {
+    "id": "sw:bronaughbibblibbeyho",
+    "name": "Bronaugh-Bibb-Libbey House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9081,
+    "lng": -77.06932,
+    "dist": 31.8,
+    "description": "Elevation: 41m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143679,
+    "score": 0
+  },
+  {
+    "id": "sw:bussardnewmanhouse",
+    "name": "Bussard-Newman House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90844,
+    "lng": -77.06914,
+    "dist": 31.8,
+    "description": "Elevation: 39m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143681,
+    "score": 0
+  },
+  {
+    "id": "sw:thomasparrothouse",
+    "name": "Thomas Parrot House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90844,
+    "lng": -77.0697,
+    "dist": 31.8,
+    "description": "Elevation: 37m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143693,
+    "score": 0
+  },
+  {
+    "id": "sw:thesevenbuildings",
+    "name": "The Seven Buildings",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90048,
+    "lng": -77.04381,
+    "dist": 30.8,
+    "description": "Elevation: 21m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143953,
+    "score": 0
+  },
+  {
+    "id": "sw:herronmoxleyhouse",
+    "name": "Herron-Moxley House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90985,
+    "lng": -77.06932,
+    "dist": 31.7,
+    "description": "Elevation: 44m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367143986,
+    "score": 0
+  },
+  {
+    "id": "sw:forestglenhistoricra",
+    "name": "Forest Glen Historic Railroad Station",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.01458,
+    "lng": -77.05606,
+    "dist": 28.7,
+    "description": "Elevation: 93m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367799278,
+    "score": 0
+  },
+  {
+    "id": "sw:fairfaxcountygovernm",
+    "name": "Fairfax County Government Offices",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.95203,
+    "lng": -77.33942,
+    "dist": 44.5,
+    "description": "Elevation: 116m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367989386,
+    "score": 0
+  },
+  {
+    "id": "sw:freemanhousehistoric",
+    "name": "Freeman House Historic Site",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.90339,
+    "lng": -77.26514,
+    "dist": 41.6,
+    "description": "Elevation: 108m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367997329,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandmine",
+    "name": "Maryland Mine",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.99533,
+    "lng": -77.23231,
+    "dist": 38.2,
+    "description": "Elevation: 116m",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 369003344,
+    "score": 0
+  },
+  {
+    "id": "sw:rockofthemarne",
+    "name": "Rock of the Marne",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87677,
+    "lng": -77.0738,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 453542780,
+    "score": 0
+  },
+  {
+    "id": "sw:challengerspaceshutt",
+    "name": "Challenger Space Shuttle Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87675,
+    "lng": -77.07404,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 453542784,
+    "score": 0
+  },
+  {
+    "id": "sw:iranrescuemissionmem",
+    "name": "Iran Rescue Mission Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87676,
+    "lng": -77.07401,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 453542787,
+    "score": 0
+  },
+  {
+    "id": "sw:columbiaspaceshuttle",
+    "name": "Columbia Space Shuttle Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87677,
+    "lng": -77.07397,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 453542795,
+    "score": 0
+  },
+  {
+    "id": "sw:ussmaine",
+    "name": "USS Maine",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87651,
+    "lng": -77.07471,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 454393596,
+    "score": 0
+  },
+  {
+    "id": "sw:titanicmonument",
+    "name": "Titanic Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87189,
+    "lng": -77.0193,
+    "dist": 30.6,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 472673838,
+    "score": 0
+  },
+  {
+    "id": "sw:wallabyyard",
+    "name": "Wallaby yard",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93074,
+    "lng": -77.04884,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495375309,
+    "score": 0
+  },
+  {
+    "id": "sw:butterflygarden",
+    "name": "Butterfly Garden",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.92997,
+    "lng": -77.04711,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495421217,
+    "score": 0
+  },
+  {
+    "id": "sw:lesserkudu",
+    "name": "Lesser Kudu",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93171,
+    "lng": -77.05313,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495552485,
+    "score": 0
+  },
+  {
+    "id": "sw:abyssiniangroundhorn",
+    "name": "Abyssinian Ground Hornbill",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93161,
+    "lng": -77.05301,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495552486,
+    "score": 0
+  },
+  {
+    "id": "sw:grevyszebra",
+    "name": "Grevy's Zebra",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.9313,
+    "lng": -77.05315,
+    "dist": 30.3,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495556224,
+    "score": 0
+  },
+  {
+    "id": "sw:redbelliedturtle",
+    "name": "Red-Bellied Turtle",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93021,
+    "lng": -77.04757,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495881933,
+    "score": 0
+  },
+  {
+    "id": "sw:westernlowlandgorill",
+    "name": "Western Lowland Gorilla",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.93007,
+    "lng": -77.0483,
+    "dist": 30.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 495884092,
+    "score": 0
+  },
+  {
+    "id": "sw:maryrandolph",
+    "name": "Mary Randolph",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88186,
+    "lng": -77.07223,
+    "dist": 32.7,
+    "description": "The grave of Mary Randolph, the wife of David Meade Randolph, and first person known to be buried at Arlington National Cemetery. · Elevation: 63m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 504696842,
+    "score": 0
+  },
+  {
+    "id": "sw:pierrecharleslenfant",
+    "name": "Pierre Charles L'Enfant",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8811,
+    "lng": -77.07228,
+    "dist": 32.8,
+    "description": "Elevation: 71m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 504696846,
+    "score": 0
+  },
+  {
+    "id": "sw:roberttoddlincoln",
+    "name": "Robert Todd Lincoln",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88299,
+    "lng": -77.06965,
+    "dist": 32.6,
+    "description": "Elevation: 44.346313m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 504897846,
+    "score": 0
+  },
+  {
+    "id": "sw:september11memorial",
+    "name": "September 11 Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87346,
+    "lng": -77.06091,
+    "dist": 32.5,
+    "description": "Elevation: 9.97925m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 511968970,
+    "score": 0
+  },
+  {
+    "id": "sw:jessebrown",
+    "name": "Jesse Brown",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88364,
+    "lng": -77.06889,
+    "dist": 32.5,
+    "description": "The United States Secretary of Veterans Affairs · Elevation: 22.7167m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 514081188,
+    "score": 0
+  },
+  {
+    "id": "sw:lieutenantgeneraltim",
+    "name": "Lieutenant General Timothy Maude",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88362,
+    "lng": -77.06884,
+    "dist": 32.5,
+    "description": "Elevation: 21.515m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 514087816,
+    "score": 0
+  },
+  {
+    "id": "sw:williamhowardtaft",
+    "name": "William Howard Taft",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88365,
+    "lng": -77.06933,
+    "dist": 32.5,
+    "description": "Elevation: 27.5232m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 514087817,
+    "score": 0
+  },
+  {
+    "id": "sw:mcclellangate",
+    "name": "McClellan Gate",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8788,
+    "lng": -77.06715,
+    "dist": 32.6,
+    "description": "Historic: monument",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 515303981,
+    "score": 0
+  },
+  {
+    "id": "sw:ussserpensmonument",
+    "name": "USS Serpens Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87402,
+    "lng": -77.06869,
+    "dist": 32.8,
+    "description": "Elevation: 35.213745m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 515463132,
+    "score": 0
+  },
+  {
+    "id": "sw:robertpearyjosephine",
+    "name": "Robert Peary &Josephine Diebitsch Peary",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8706,
+    "lng": -77.06848,
+    "dist": 32.9,
+    "description": "Elevation: 46.99m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 515470803,
+    "score": 0
+  },
+  {
+    "id": "sw:matthewhenson",
+    "name": "Matthew Henson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87064,
+    "lng": -77.06847,
+    "dist": 32.9,
+    "description": "Elevation: 46.989868m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 515470808,
+    "score": 0
+  },
+  {
+    "id": "sw:unitedstatescoastgua",
+    "name": "United States Coast Guard Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87089,
+    "lng": -77.06827,
+    "dist": 32.9,
+    "description": "Elevation: 43.384766m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 515470809,
+    "score": 0
+  },
+  {
+    "id": "sw:sirjohndill",
+    "name": "Sir John Dill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88082,
+    "lng": -77.06981,
+    "dist": 32.6,
+    "description": "Elevation: 29.6863m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 516602763,
+    "score": 0
+  },
+  {
+    "id": "sw:325thgliderregiment",
+    "name": "325th Glider Regiment",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87863,
+    "lng": -77.06979,
+    "dist": 32.7,
+    "description": "Elevation: 27.2828m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589751,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndinfantry",
+    "name": "2nd Infantry",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87903,
+    "lng": -77.07339,
+    "dist": 32.9,
+    "description": "Elevation: 44.3463m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589756,
+    "score": 0
+  },
+  {
+    "id": "sw:11thairbornedivision",
+    "name": "11th Airborne Division",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87906,
+    "lng": -77.07162,
+    "dist": 32.8,
+    "description": "Elevation: 38.0977m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589764,
+    "score": 0
+  },
+  {
+    "id": "sw:airborne50thannivers",
+    "name": "Airborne - 50th Anniversary",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87916,
+    "lng": -77.07163,
+    "dist": 32.8,
+    "description": "Elevation: 39.2993m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589793,
+    "score": 0
+  },
+  {
+    "id": "sw:83rdinfantry",
+    "name": "83rd Infantry",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87925,
+    "lng": -77.07355,
+    "dist": 32.9,
+    "description": "Elevation: 47.4705m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589798,
+    "score": 0
+  },
+  {
+    "id": "sw:82ndairborne",
+    "name": "82nd Airborne",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87875,
+    "lng": -77.07022,
+    "dist": 32.7,
+    "description": "Elevation: 29.2056m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589803,
+    "score": 0
+  },
+  {
+    "id": "sw:koreanwarpow",
+    "name": "Korean War - POW",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8791,
+    "lng": -77.07246,
+    "dist": 32.8,
+    "description": "Elevation: 39.7799m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589841,
+    "score": 0
+  },
+  {
+    "id": "sw:chinaburmaindiaveter",
+    "name": "China-Burma-India Veterans",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87875,
+    "lng": -77.07009,
+    "dist": 32.7,
+    "description": "Elevation: 27.5232m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589857,
+    "score": 0
+  },
+  {
+    "id": "sw:militarychaplains",
+    "name": "Military Chaplains",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87904,
+    "lng": -77.07071,
+    "dist": 32.7,
+    "description": "Elevation: 35.4541m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589864,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofthebulgememo",
+    "name": "Battle of the Bulge Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87496,
+    "lng": -77.07558,
+    "dist": 33.1,
+    "description": "Elevation: 55.1609m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589871,
+    "score": 0
+  },
+  {
+    "id": "sw:majorwalterreed",
+    "name": "Major Walter Reed",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87374,
+    "lng": -77.07109,
+    "dist": 32.9,
+    "description": "Elevation: 51.7964m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589892,
+    "score": 0
+  },
+  {
+    "id": "sw:nursesmemorial",
+    "name": "Nurses Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87486,
+    "lng": -77.07485,
+    "dist": 33.1,
+    "description": "Elevation: 54.6803m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589907,
+    "score": 0
+  },
+  {
+    "id": "sw:williampittkellogg",
+    "name": "William Pitt Kellogg",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87349,
+    "lng": -77.07329,
+    "dist": 33.1,
+    "description": "Elevation: 54.1996m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 564589927,
+    "score": 0
+  },
+  {
+    "id": "sw:lindaweinermemorial",
+    "name": "Linda Weiner Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97998,
+    "lng": -77.0965,
+    "dist": 31.4,
+    "description": "Elevation: 109.234741m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 569889527,
+    "score": 0
+  },
+  {
+    "id": "sw:arlingtoncountypeace",
+    "name": "Arlington County Peace Officer Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89019,
+    "lng": -77.08328,
+    "dist": 33.0,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 575128563,
+    "score": 0
+  },
+  {
+    "id": "sw:fscottfitzgerald",
+    "name": "F. Scott Fitzgerald",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.08206,
+    "lng": -77.1454,
+    "dist": 32.8,
+    "description": "Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 599159791,
+    "score": 0
+  },
+  {
+    "id": "sw:oldgreenbelttheatre",
+    "name": "Old Greenbelt Theatre",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.00139,
+    "lng": -76.87613,
+    "dist": 19.7,
+    "description": "Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 625893890,
+    "score": 0
+  },
+  {
+    "id": "sw:princegeorgesequestr",
+    "name": "Prince George's Equestrian Center",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.81079,
+    "lng": -76.74661,
+    "dist": 23.2,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 671553243,
+    "score": 0
+  },
+  {
+    "id": "sw:oldgreyhoundbustermi",
+    "name": "Old Greyhound Bus Terminal",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90062,
+    "lng": -77.02749,
+    "dist": 30.0,
+    "description": "Historic: building",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 738194958,
+    "score": 0
+  },
+  {
+    "id": "sw:williamjosephbrennan",
+    "name": "William Joseph Brennan, Jr.",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88195,
+    "lng": -77.07061,
+    "dist": 32.6,
+    "description": "Elevation: 44.346313m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746875962,
+    "score": 0
+  },
+  {
+    "id": "sw:haroldandrewblackmun",
+    "name": "Harold Andrew Blackmun",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88191,
+    "lng": -77.07061,
+    "dist": 32.6,
+    "description": "Elevation: 44.346313m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746875963,
+    "score": 0
+  },
+  {
+    "id": "sw:rupertvancehartke",
+    "name": "Rupert Vance Hartke",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88231,
+    "lng": -77.0705,
+    "dist": 32.6,
+    "description": "Elevation: 41.942871m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876008,
+    "score": 0
+  },
+  {
+    "id": "sw:williamodouglas",
+    "name": "William O. Douglas",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88204,
+    "lng": -77.07075,
+    "dist": 32.6,
+    "description": "Elevation: 43.865479m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876009,
+    "score": 0
+  },
+  {
+    "id": "sw:warrenearlburger",
+    "name": "Warren Earl Burger",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88199,
+    "lng": -77.07058,
+    "dist": 32.6,
+    "description": "Elevation: 43.865479m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876011,
+    "score": 0
+  },
+  {
+    "id": "sw:roughridersmonument",
+    "name": "Rough Riders Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87542,
+    "lng": -77.07599,
+    "dist": 33.1,
+    "description": "Elevation: 66.937012m · Historic: monument",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876115,
+    "score": 0
+  },
+  {
+    "id": "sw:williamhrehnquist",
+    "name": "William H. Rehnquist",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88224,
+    "lng": -77.07037,
+    "dist": 32.6,
+    "description": "Elevation: 42.423584m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876133,
+    "score": 0
+  },
+  {
+    "id": "sw:thurgoodmarshall",
+    "name": "Thurgood Marshall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88192,
+    "lng": -77.07061,
+    "dist": 32.6,
+    "description": "Elevation: 44.346313m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876143,
+    "score": 0
+  },
+  {
+    "id": "sw:koreanwarmemorialben",
+    "name": "Korean War Memorial Bench",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87709,
+    "lng": -77.0731,
+    "dist": 32.9,
+    "description": "Elevation: 59.486816m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876149,
+    "score": 0
+  },
+  {
+    "id": "sw:potterstewart",
+    "name": "Potter Stewart",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88194,
+    "lng": -77.07061,
+    "dist": 32.6,
+    "description": "Elevation: 43.865479m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876493,
+    "score": 0
+  },
+  {
+    "id": "sw:johnwingateweeks",
+    "name": "John Wingate Weeks",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88193,
+    "lng": -77.07046,
+    "dist": 32.6,
+    "description": "Elevation: 42.663818m · Historic: tomb",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 746876769,
+    "score": 0
+  },
+  {
+    "id": "sw:galleryoh",
+    "name": "Gallery O/H",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.90036,
+    "lng": -76.98646,
+    "dist": 28.1,
+    "description": "",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 775709507,
+    "score": 0
+  },
+  {
+    "id": "sw:flagpole",
+    "name": "Flag Pole",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9652,
+    "lng": -77.19521,
+    "dist": 36.8,
+    "description": "Elevation: 77.5114746m · Historic: yes",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 778507629,
+    "score": 0
+  },
+  {
+    "id": "sw:burlingdefenders",
+    "name": "Burling Defenders",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9658,
+    "lng": -77.2016,
+    "dist": 37.1,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 778609837,
+    "score": 0
+  },
+  {
+    "id": "sw:benjaminbannekersw9i",
+    "name": "Benjamin Banneker: SW-9 Intermediate Boundary Stone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88252,
+    "lng": -77.15889,
+    "dist": 36.9,
+    "description": "Historic: boundary stone",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 879249381,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonolddominio",
+    "name": "Washington & Old Dominion Caboose",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87308,
+    "lng": -77.13259,
+    "dist": 35.9,
+    "description": "Hours: Sa 11:00-17:00, Su 13:00-17:00, PH 11:00-17:00 \"Memorial Day Weekend Through Labor Day\" · Historic: railway car",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 899260216,
+    "score": 0
+  },
+  {
+    "id": "sw:oliverisleysewardsta",
+    "name": "Olive Risley Seward Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88642,
+    "lng": -76.99822,
+    "dist": 29.1,
+    "description": "Elevation: 25m · Historic: statue",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 925554780,
+    "score": 0
+  },
+  {
+    "id": "sw:mohandaskgandhistatu",
+    "name": "Mohandas K. Gandhi Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91103,
+    "lng": -77.04698,
+    "dist": 30.6,
+    "description": "Elevation: 25m · Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1275851634,
+    "score": 0
+  },
+  {
+    "id": "sw:georgemasonmemorial",
+    "name": "George Mason Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87946,
+    "lng": -77.03893,
+    "dist": 31.2,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1334066898,
+    "score": 0
+  },
+  {
+    "id": "sw:lummi911healingpole",
+    "name": "Lummi 9/11 Healing Pole",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88033,
+    "lng": -76.97986,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1819089463,
+    "score": 0
+  },
+  {
+    "id": "sw:arsenalmonument",
+    "name": "Arsenal Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8815,
+    "lng": -76.98053,
+    "dist": 28.5,
+    "description": "Historic: memorial",
+    "zone": "Washington DC Metro",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1824476398,
+    "score": 0
+  },
+  {
+    "id": "sw:nokeshill",
+    "name": "Nokes Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.02249,
+    "lng": -77.40288,
+    "dist": 47.0,
+    "description": "Elevation: 100m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356605152,
+    "score": 0
+  },
+  {
+    "id": "sw:blackhill",
+    "name": "Black Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.1872,
+    "lng": -77.29836,
+    "dist": 41.4,
+    "description": "Elevation: 148m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241470,
+    "score": 0
+  },
+  {
+    "id": "sw:overlookrockhigh",
+    "name": "Overlook rock, high",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.05697,
+    "lng": -77.32753,
+    "dist": 42.7,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3513113248,
+    "score": 0
+  },
+  {
+    "id": "sw:overlookrocklower",
+    "name": "Overlook rock, lower",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.05761,
+    "lng": -77.32918,
+    "dist": 42.8,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3513113251,
+    "score": 0
+  },
+  {
+    "id": "sw:gwenthompsonbriarpat",
+    "name": "Gwen Thompson Briar Patch Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.01688,
+    "lng": -77.38806,
+    "dist": 46.2,
+    "description": "Elevation: 88m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 43599063,
+    "score": 0
+  },
+  {
+    "id": "sw:olneyfamilyneighborh",
+    "name": "Olney Family Neighborhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17216,
+    "lng": -77.07255,
+    "dist": 29.3,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45153919,
+    "score": 0
+  },
+  {
+    "id": "sw:greenwoodpark",
+    "name": "Greenwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.16237,
+    "lng": -77.06467,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45194255,
+    "score": 0
+  },
+  {
+    "id": "sw:longwoodpark",
+    "name": "Longwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17416,
+    "lng": -77.06111,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45211509,
+    "score": 0
+  },
+  {
+    "id": "sw:olneysquarepark",
+    "name": "Olney Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15861,
+    "lng": -77.08335,
+    "dist": 29.7,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47318702,
+    "score": 0
+  },
+  {
+    "id": "sw:olneyboysandgirlscom",
+    "name": "Olney Boys and Girls Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.17272,
+    "lng": -77.09086,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 47441332,
+    "score": 0
+  },
+  {
+    "id": "sw:claudemoorepark",
+    "name": "Claude Moore Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.01535,
+    "lng": -77.40565,
+    "dist": 47.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48160950,
+    "score": 0
+  },
+  {
+    "id": "sw:wstreetpark",
+    "name": "W Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91973,
+    "lng": -77.09361,
+    "dist": 32.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207279,
+    "score": 0
+  },
+  {
+    "id": "sw:hardy",
+    "name": "Hardy",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90942,
+    "lng": -77.08452,
+    "dist": 32.5,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207280,
+    "score": 0
+  },
+  {
+    "id": "sw:palisadespark",
+    "name": "Palisades Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92506,
+    "lng": -77.10467,
+    "dist": 33.0,
+    "description": "Elevation: 70m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207282,
+    "score": 0
+  },
+  {
+    "id": "sw:powellrecreationcent",
+    "name": "Powell Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93034,
+    "lng": -77.03556,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207301,
+    "score": 0
+  },
+  {
+    "id": "sw:frenchstreetpark",
+    "name": "French Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91355,
+    "lng": -77.02577,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207302,
+    "score": 0
+  },
+  {
+    "id": "sw:francispark",
+    "name": "Francis Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90704,
+    "lng": -77.05384,
+    "dist": 31.1,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207304,
+    "score": 0
+  },
+  {
+    "id": "sw:dukeellingtonpark",
+    "name": "Duke Ellington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90577,
+    "lng": -77.04691,
+    "dist": 30.8,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207305,
+    "score": 0
+  },
+  {
+    "id": "sw:sonnybonopark",
+    "name": "Sonny Bono Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90848,
+    "lng": -77.04474,
+    "dist": 30.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207306,
+    "score": 0
+  },
+  {
+    "id": "sw:rosepark",
+    "name": "Rose Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90835,
+    "lng": -77.05477,
+    "dist": 31.1,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207309,
+    "score": 0
+  },
+  {
+    "id": "sw:steadparkrecreationc",
+    "name": "Stead Park Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91022,
+    "lng": -77.03758,
+    "dist": 30.2,
+    "description": "Elevation: 24m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207310,
+    "score": 0
+  },
+  {
+    "id": "sw:bookhillpark",
+    "name": "Book Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91295,
+    "lng": -77.06588,
+    "dist": 31.5,
+    "description": "Elevation: 63m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207313,
+    "score": 0
+  },
+  {
+    "id": "sw:walterpiercepark",
+    "name": "Walter Pierce Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92415,
+    "lng": -77.04609,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207314,
+    "score": 0
+  },
+  {
+    "id": "sw:stoddertrecreationce",
+    "name": "Stoddert Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92309,
+    "lng": -77.07793,
+    "dist": 31.8,
+    "description": "Elevation: 93m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207316,
+    "score": 0
+  },
+  {
+    "id": "sw:guymasonrecreationce",
+    "name": "Guy Mason Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92174,
+    "lng": -77.07144,
+    "dist": 31.5,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207317,
+    "score": 0
+  },
+  {
+    "id": "sw:macombrecreationcent",
+    "name": "Macomb Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9339,
+    "lng": -77.06739,
+    "dist": 31.0,
+    "description": "Elevation: 96m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207321,
+    "score": 0
+  },
+  {
+    "id": "sw:tstreetpark",
+    "name": "T Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91537,
+    "lng": -77.03825,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207327,
+    "score": 0
+  },
+  {
+    "id": "sw:unitypark",
+    "name": "Unity Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92324,
+    "lng": -77.04163,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207331,
+    "score": 0
+  },
+  {
+    "id": "sw:annhugheshargrovepar",
+    "name": "Ann Hughes Hargrove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91944,
+    "lng": -77.04474,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207332,
+    "score": 0
+  },
+  {
+    "id": "sw:mitchellpark",
+    "name": "Mitchell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91449,
+    "lng": -77.0498,
+    "dist": 30.6,
+    "description": "Elevation: 48m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207335,
+    "score": 0
+  },
+  {
+    "id": "sw:lamontpark",
+    "name": "Lamont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93172,
+    "lng": -77.03864,
+    "dist": 29.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207338,
+    "score": 0
+  },
+  {
+    "id": "sw:19thlamontpark",
+    "name": "19th & Lamont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93149,
+    "lng": -77.04453,
+    "dist": 29.9,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207339,
+    "score": 0
+  },
+  {
+    "id": "sw:brentwoodpark",
+    "name": "Brentwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90832,
+    "lng": -76.99586,
+    "dist": 28.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207346,
+    "score": 0
+  },
+  {
+    "id": "sw:garrison",
+    "name": "Garrison",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91326,
+    "lng": -77.02846,
+    "dist": 29.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207348,
+    "score": 0
+  },
+  {
+    "id": "sw:floridaavenuepark",
+    "name": "Florida Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91222,
+    "lng": -77.01293,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207352,
+    "score": 0
+  },
+  {
+    "id": "sw:shawrecreationcenter",
+    "name": "Shaw Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91162,
+    "lng": -77.02639,
+    "dist": 29.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207355,
+    "score": 0
+  },
+  {
+    "id": "sw:7thandnstpark",
+    "name": "7th and N St Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90685,
+    "lng": -77.02122,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207357,
+    "score": 0
+  },
+  {
+    "id": "sw:johnfkennedyrecreati",
+    "name": "John F Kennedy Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.90913,
+    "lng": -77.02091,
+    "dist": 29.4,
+    "description": "Elevation: 56m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207358,
+    "score": 0
+  },
+  {
+    "id": "sw:newjerseyandostreetp",
+    "name": "New Jersey and O Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9082,
+    "lng": -77.01642,
+    "dist": 29.2,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207359,
+    "score": 0
+  },
+  {
+    "id": "sw:girardstreetpark",
+    "name": "Girard Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92483,
+    "lng": -77.03444,
+    "dist": 29.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207360,
+    "score": 0
+  },
+  {
+    "id": "sw:edgewoodrecreationce",
+    "name": "Edgewood Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92467,
+    "lng": -77.00243,
+    "dist": 28.0,
+    "description": "Elevation: 49m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207361,
+    "score": 0
+  },
+  {
+    "id": "sw:harrisonrecreationce",
+    "name": "Harrison Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91782,
+    "lng": -77.03054,
+    "dist": 29.6,
+    "description": "Elevation: 32m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207362,
+    "score": 0
+  },
+  {
+    "id": "sw:kclewisrecreationcen",
+    "name": "K.C. Lewis Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92003,
+    "lng": -77.01598,
+    "dist": 28.8,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207363,
+    "score": 0
+  },
+  {
+    "id": "sw:bannekerrecreationce",
+    "name": "Banneker Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92247,
+    "lng": -77.02325,
+    "dist": 29.1,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207364,
+    "score": 0
+  },
+  {
+    "id": "sw:14thandgirardpark",
+    "name": "14th and Girard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92553,
+    "lng": -77.03198,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207368,
+    "score": 0
+  },
+  {
+    "id": "sw:14thoaktrianglepark",
+    "name": "14th & Oak Triangle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93395,
+    "lng": -77.03298,
+    "dist": 29.3,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207370,
+    "score": 0
+  },
+  {
+    "id": "sw:hobarttwinspark",
+    "name": "Hobart Twins Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.92759,
+    "lng": -77.02496,
+    "dist": 29.0,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207371,
+    "score": 0
+  },
+  {
+    "id": "sw:11thandmonroepark",
+    "name": "11th and Monroe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93283,
+    "lng": -77.02884,
+    "dist": 29.1,
+    "description": "Dogs: yes",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207373,
+    "score": 0
+  },
+  {
+    "id": "sw:harrythomasseniorrec",
+    "name": "Harry Thomas Senior Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91446,
+    "lng": -77.00719,
+    "dist": 28.6,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207384,
+    "score": 0
+  },
+  {
+    "id": "sw:chevychaserecreation",
+    "name": "Chevy Chase Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.96396,
+    "lng": -77.08141,
+    "dist": 30.9,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207391,
+    "score": 0
+  },
+  {
+    "id": "sw:earledouglasspark",
+    "name": "Earle Douglass Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95741,
+    "lng": -77.07499,
+    "dist": 30.8,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207403,
+    "score": 0
+  },
+  {
+    "id": "sw:foresthillspark",
+    "name": "Forest Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95021,
+    "lng": -77.06503,
+    "dist": 30.4,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207415,
+    "score": 0
+  },
+  {
+    "id": "sw:crestwoodtrianglepar",
+    "name": "Crestwood Triangle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94439,
+    "lng": -77.04159,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207419,
+    "score": 0
+  },
+  {
+    "id": "sw:lafayettepointerpark",
+    "name": "Lafayette-Pointer Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.96751,
+    "lng": -77.068,
+    "dist": 30.2,
+    "description": "Elevation: 110m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207432,
+    "score": 0
+  },
+  {
+    "id": "sw:pinehurstcircle",
+    "name": "Pinehurst Circle",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9758,
+    "lng": -77.06624,
+    "dist": 29.9,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207438,
+    "score": 0
+  },
+  {
+    "id": "sw:rudolph",
+    "name": "Rudolph",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95388,
+    "lng": -77.01476,
+    "dist": 27.8,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207442,
+    "score": 0
+  },
+  {
+    "id": "sw:petworthrecreationce",
+    "name": "Petworth Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94113,
+    "lng": -77.024,
+    "dist": 28.6,
+    "description": "Elevation: 60m",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207446,
+    "score": 0
+  },
+  {
+    "id": "sw:petworthmeditationga",
+    "name": "Petworth Meditation Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.93733,
+    "lng": -77.02944,
+    "dist": 29.0,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207447,
+    "score": 0
+  },
+  {
+    "id": "sw:upshurpark",
+    "name": "Upshur Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.94347,
+    "lng": -77.0318,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207451,
+    "score": 0
+  },
+  {
+    "id": "sw:hamiltonpark",
+    "name": "Hamilton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95262,
+    "lng": -77.03114,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207461,
+    "score": 0
+  },
+  {
+    "id": "sw:herndonhistoricdistr",
+    "name": "Herndon Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.96988,
+    "lng": -77.38557,
+    "dist": 46.6,
+    "description": "Elevation: 109m · Historic: district",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356600585,
+    "score": 0
+  },
+  {
+    "id": "sw:gaithersburglatitude",
+    "name": "Gaithersburg Latitude Observatory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.13666,
+    "lng": -77.1987,
+    "dist": 35.7,
+    "description": "Historic: monument",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1595591463,
+    "score": 0
+  },
+  {
+    "id": "sw:argonnecross",
+    "name": "Argonne Cross",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87156,
+    "lng": -77.07559,
+    "dist": 33.2,
+    "description": "Historic: memorial",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1827748225,
+    "score": 0
+  },
+  {
+    "id": "sw:generalgeorgecmarsha",
+    "name": "General George C. Marshall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87699,
+    "lng": -77.07037,
+    "dist": 32.8,
+    "description": "Historic: tomb",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1962752250,
+    "score": 0
+  },
+  {
+    "id": "sw:admiralgracehopper",
+    "name": "Admiral Grace Hopper",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87756,
+    "lng": -77.06578,
+    "dist": 32.6,
+    "description": "Historic: tomb",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1962752259,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialgarden",
+    "name": "Memorial Garden",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.95338,
+    "lng": -77.14334,
+    "dist": 34.3,
+    "description": "Historic: memorial",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1967356122,
+    "score": 0
+  },
+  {
+    "id": "sw:nathanhalestatue",
+    "name": "Nathan Hale Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9523,
+    "lng": -77.14254,
+    "dist": 34.3,
+    "description": "Historic: monument",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1967356123,
+    "score": 0
+  },
+  {
+    "id": "sw:americansecondline",
+    "name": "American Second Line",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93404,
+    "lng": -76.95247,
+    "dist": 25.3,
+    "description": "Historic: marker",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2045974431,
+    "score": 0
+  },
+  {
+    "id": "sw:bladensburgduelinggr",
+    "name": "Bladensburg Dueling Grounds",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93408,
+    "lng": -76.95247,
+    "dist": 25.3,
+    "description": "Historic: marker",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2045974432,
+    "score": 0
+  },
+  {
+    "id": "sw:veteransmemorial",
+    "name": "Veteran's Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.96317,
+    "lng": -76.93433,
+    "dist": 23.6,
+    "description": "Historic: memorial",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2079258845,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofbladensburg",
+    "name": "Battle of Bladensburg",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93811,
+    "lng": -76.94115,
+    "dist": 24.7,
+    "description": "Historic: battlefield",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2277323159,
+    "score": 0
+  },
+  {
+    "id": "sw:samuelgompersstatute",
+    "name": "Samuel Gompers Statute",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90401,
+    "lng": -77.02651,
+    "dist": 29.8,
+    "description": "Historic: memorial",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2295945027,
+    "score": 0
+  },
+  {
+    "id": "sw:majorgeneraljamesbmc",
+    "name": "Major General James B. McPherson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90196,
+    "lng": -77.03411,
+    "dist": 30.3,
+    "description": "Elevation: 20m · Historic: memorial",
+    "zone": "Montgomery County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2316449632,
+    "score": 0
+  },
+  {
     "id": "sw:chestnuthill",
     "name": "Chestnut Hill",
     "type": "hike",
@@ -5711,25 +12818,6 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:prospecthill",
-    "name": "Prospect Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.3298,
-    "lng": -76.6455,
-    "dist": 16.7,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5928354905,
-    "score": 0
-  },
-  {
     "id": "sw:quarryoverlook",
     "name": "Quarry Overlook",
     "type": "viewpoint",
@@ -5945,24 +13033,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 9809648266,
-    "score": 0
-  },
-  {
-    "id": "sw:elephantoverlook",
-    "name": "Elephant Overlook",
-    "type": "viewpoint",
-    "tags": [
-      "viewpoint",
-      "scenic"
-    ],
-    "lat": 39.32374,
-    "lng": -76.64116,
-    "dist": 16.3,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9988520613,
     "score": 0
   },
   {
@@ -7014,42 +14084,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "way",
     "osmId": 84972505,
-    "score": 0
-  },
-  {
-    "id": "sw:unionsquare",
-    "name": "Union Square",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.28691,
-    "lng": -76.6416,
-    "dist": 13.9,
-    "description": "Elevation: 30m",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 85585339,
-    "score": 0
-  },
-  {
-    "id": "sw:franklinsquare",
-    "name": "Franklin Square",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.29029,
-    "lng": -76.63894,
-    "dist": 14.1,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 85585348,
     "score": 0
   },
   {
@@ -8711,2485 +15745,6 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:aquilarandallmonumen",
-    "name": "Aquila Randall Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27326,
-    "lng": -76.46963,
-    "dist": 12.2,
-    "description": "Elevation: 4m · Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358242057,
-    "score": 0
-  },
-  {
-    "id": "sw:barrecirclehistoricd",
-    "name": "Barre Circle Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28483,
-    "lng": -76.62747,
-    "dist": 13.5,
-    "description": "Elevation: 13m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248599,
-    "score": 0
-  },
-  {
-    "id": "sw:butchershillhistoric",
-    "name": "Butchers Hill Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29177,
-    "lng": -76.58747,
-    "dist": 13.3,
-    "description": "Elevation: 37m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248611,
-    "score": 0
-  },
-  {
-    "id": "sw:cathedralhillhistori",
-    "name": "Cathedral Hill Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.294,
-    "lng": -76.61552,
-    "dist": 13.9,
-    "description": "Elevation: 31m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248618,
-    "score": 0
-  },
-  {
-    "id": "sw:charlesvillageabellh",
-    "name": "Charles Village-Abell Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32344,
-    "lng": -76.61469,
-    "dist": 15.8,
-    "description": "Elevation: 65m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248619,
-    "score": 0
-  },
-  {
-    "id": "sw:dickeyvillehistoricd",
-    "name": "Dickeyville Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.3154,
-    "lng": -76.70387,
-    "dist": 17.2,
-    "description": "Elevation: 77m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248634,
-    "score": 0
-  },
-  {
-    "id": "sw:eutawmadisonapartmen",
-    "name": "Eutaw-Madison Apartment House Historic District",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "historic"
-    ],
-    "lat": 39.314,
-    "lng": -76.63719,
-    "dist": 15.5,
-    "description": "Elevation: 73m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248640,
-    "score": 0
-  },
-  {
-    "id": "sw:federalhillhistoricd",
-    "name": "Federal Hill Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27929,
-    "lng": -76.60913,
-    "dist": 12.8,
-    "description": "Elevation: 14m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248644,
-    "score": 0
-  },
-  {
-    "id": "sw:fellspointhistoricdi",
-    "name": "Fells Point Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28258,
-    "lng": -76.59329,
-    "dist": 12.8,
-    "description": "Elevation: 2m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248646,
-    "score": 0
-  },
-  {
-    "id": "sw:franklinsquarehistor",
-    "name": "Franklin Square Historic District",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "historic"
-    ],
-    "lat": 39.28993,
-    "lng": -76.63937,
-    "dist": 14.1,
-    "description": "Elevation: 33m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248659,
-    "score": 0
-  },
-  {
-    "id": "sw:littlemontgomerystre",
-    "name": "Little Montgomery Street Historic District",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "historic"
-    ],
-    "lat": 39.28011,
-    "lng": -76.61636,
-    "dist": 13.0,
-    "description": "Elevation: 6m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248711,
-    "score": 0
-  },
-  {
-    "id": "sw:unionsquarehollinsma",
-    "name": "Union Square-Hollins Market Historic District",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "historic"
-    ],
-    "lat": 39.28761,
-    "lng": -76.63858,
-    "dist": 13.9,
-    "description": "Elevation: 25m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248791,
-    "score": 0
-  },
-  {
-    "id": "sw:ellicottcityhistoric",
-    "name": "Ellicott City Historic District",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.26776,
-    "lng": -76.79649,
-    "dist": 18.1,
-    "description": "Elevation: 61m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358248948,
-    "score": 0
-  },
-  {
-    "id": "sw:oldgouchercollegebui",
-    "name": "Old Goucher College Buildings",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31598,
-    "lng": -76.61632,
-    "dist": 15.3,
-    "description": "Elevation: 43m · Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358249955,
-    "score": 0
-  },
-  {
-    "id": "sw:ridgelysdelighthisto",
-    "name": "Ridgelys Delight Historic District",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "historic"
-    ],
-    "lat": 39.28483,
-    "lng": -76.62497,
-    "dist": 13.4,
-    "description": "Elevation: 12m · Historic: district",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358249970,
-    "score": 0
-  },
-  {
-    "id": "sw:armisteadmonument",
-    "name": "Armistead Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28024,
-    "lng": -76.60812,
-    "dist": 12.8,
-    "description": "Elevation: 13m · Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358254185,
-    "score": 0
-  },
-  {
-    "id": "sw:marylandlinemonument",
-    "name": "Maryland Line Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30565,
-    "lng": -76.61882,
-    "dist": 14.7,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 369907237,
-    "score": 0
-  },
-  {
-    "id": "sw:craighillchannellowe",
-    "name": "Craighill Channel Lower Range Rear Light",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.22903,
-    "lng": -76.3944,
-    "dist": 11.4,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 968360686,
-    "score": 0
-  },
-  {
-    "id": "sw:koreanwarmemorial",
-    "name": "Korean War Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2775,
-    "lng": -76.57353,
-    "dist": 12.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1039630720,
-    "score": 0
-  },
-  {
-    "id": "sw:battleofnorthpoint",
-    "name": "Battle of North Point",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27903,
-    "lng": -76.48684,
-    "dist": 12.4,
-    "description": "Historic: battlefield",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1114578455,
-    "score": 0
-  },
-  {
-    "id": "sw:toddsinheritance",
-    "name": "Todd's Inheritance",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.21395,
-    "lng": -76.43802,
-    "dist": 9.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1193111362,
-    "score": 0
-  },
-  {
-    "id": "sw:oldbaltimorecitynwco",
-    "name": "Old Baltimore City NW Cornerstone",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.34028,
-    "lng": -76.68912,
-    "dist": 18.3,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1228325863,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalroadmilemark",
-    "name": "National Road Mile Marker 3",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28127,
-    "lng": -76.67367,
-    "dist": 14.4,
-    "description": "Historic: milestone",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1228782012,
-    "score": 0
-  },
-  {
-    "id": "sw:edmundswell",
-    "name": "Edmunds Well",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.3221,
-    "lng": -76.64921,
-    "dist": 16.3,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1232705670,
-    "score": 0
-  },
-  {
-    "id": "sw:garrettbridge",
-    "name": "Garrett Bridge",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32567,
-    "lng": -76.65082,
-    "dist": 16.6,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1233509810,
-    "score": 0
-  },
-  {
-    "id": "sw:morrisfountain",
-    "name": "Morris Fountain",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32543,
-    "lng": -76.65049,
-    "dist": 16.5,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1233509830,
-    "score": 0
-  },
-  {
-    "id": "sw:silverspringsite",
-    "name": "Silver Spring (Site)",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32612,
-    "lng": -76.64671,
-    "dist": 16.5,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1235945454,
-    "score": 0
-  },
-  {
-    "id": "sw:martinluthermonument",
-    "name": "Martin Luther Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32762,
-    "lng": -76.58887,
-    "dist": 15.7,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1270758186,
-    "score": 0
-  },
-  {
-    "id": "sw:policememorial",
-    "name": "Police Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.40012,
-    "lng": -76.60738,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1272176771,
-    "score": 0
-  },
-  {
-    "id": "sw:firememorial",
-    "name": "Fire Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.40083,
-    "lng": -76.60727,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1272176961,
-    "score": 0
-  },
-  {
-    "id": "sw:spanishamericanwarme",
-    "name": "Spanish-American War Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29459,
-    "lng": -76.57939,
-    "dist": 13.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1291303422,
-    "score": 0
-  },
-  {
-    "id": "sw:fallswayfountain",
-    "name": "Fallsway Fountain",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30333,
-    "lng": -76.61178,
-    "dist": 14.4,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1292299524,
-    "score": 0
-  },
-  {
-    "id": "sw:methodistmeetinghous",
-    "name": "Methodist Meeting House Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2819,
-    "lng": -76.4929,
-    "dist": 12.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1305527550,
-    "score": 0
-  },
-  {
-    "id": "sw:baltimorecityfratern",
-    "name": "Baltimore City Fraternal Order of Police Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29041,
-    "lng": -76.60585,
-    "dist": 13.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1313503951,
-    "score": 0
-  },
-  {
-    "id": "sw:watsonmonument",
-    "name": "Watson Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31104,
-    "lng": -76.6257,
-    "dist": 15.1,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1313588076,
-    "score": 0
-  },
-  {
-    "id": "sw:simnbolvar",
-    "name": "Simón Bolívar",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.34353,
-    "lng": -76.62163,
-    "dist": 17.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1346384804,
-    "score": 0
-  },
-  {
-    "id": "sw:goldstarmothersmemor",
-    "name": "Gold Star Mothers Memorial Flagstaff",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.287,
-    "lng": -76.57704,
-    "dist": 12.9,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1471599817,
-    "score": 0
-  },
-  {
-    "id": "sw:samuelsmithmonument",
-    "name": "Samuel Smith Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2802,
-    "lng": -76.60838,
-    "dist": 12.8,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1696272869,
-    "score": 0
-  },
-  {
-    "id": "sw:vietnamveteransmemor",
-    "name": "Vietnam Veterans Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.4007,
-    "lng": -76.60623,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1728229061,
-    "score": 0
-  },
-  {
-    "id": "sw:furnace",
-    "name": "Furnace",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.45069,
-    "lng": -76.58631,
-    "dist": 24.1,
-    "description": "Historic: ruins",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1762326515,
-    "score": 0
-  },
-  {
-    "id": "sw:stmaryscollegeformer",
-    "name": "St. Mary's College, former",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.25059,
-    "lng": -76.76602,
-    "dist": 16.1,
-    "description": "Historic: ruins",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1766784622,
-    "score": 0
-  },
-  {
-    "id": "sw:camdenyardsmemorialw",
-    "name": "Camden Yards Memorial Wall",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28203,
-    "lng": -76.6206,
-    "dist": 13.2,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 1966866733,
-    "score": 0
-  },
-  {
-    "id": "sw:chapinaharrisbust",
-    "name": "Chapin A. Harris Bust",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32483,
-    "lng": -76.6211,
-    "dist": 16.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2044048055,
-    "score": 0
-  },
-  {
-    "id": "sw:remingtonwymanservic",
-    "name": "Remington-Wyman Servicemen Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32669,
-    "lng": -76.62367,
-    "dist": 16.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2044048155,
-    "score": 0
-  },
-  {
-    "id": "sw:sidneylaniermonument",
-    "name": "Sidney Lanier Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.33123,
-    "lng": -76.61816,
-    "dist": 16.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2044048564,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalroadmilemark",
-    "name": "National Road Mile Marker 10",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.26794,
-    "lng": -76.79492,
-    "dist": 18.0,
-    "description": "Historic: milestone",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2108934845,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalroadmilemark",
-    "name": "National Road Mile Marker 6",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27313,
-    "lng": -76.72697,
-    "dist": 15.6,
-    "description": "Historic: milestone",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2108934846,
-    "score": 0
-  },
-  {
-    "id": "sw:williamwallacemonume",
-    "name": "William Wallace Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31736,
-    "lng": -76.64134,
-    "dist": 15.8,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2198902596,
-    "score": 0
-  },
-  {
-    "id": "sw:richardwagnermemoria",
-    "name": "Richard Wagner Memorial Bust",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32133,
-    "lng": -76.64576,
-    "dist": 16.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2198902932,
-    "score": 0
-  },
-  {
-    "id": "sw:pulaskimonument",
-    "name": "Pulaski Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28717,
-    "lng": -76.57706,
-    "dist": 12.9,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2289898433,
-    "score": 0
-  },
-  {
-    "id": "sw:starspangledbannerce",
-    "name": "Star Spangled Banner Centennial Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28994,
-    "lng": -76.58356,
-    "dist": 13.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2289898434,
-    "score": 0
-  },
-  {
-    "id": "sw:taurusstatueremnant",
-    "name": "Taurus Statue Remnant",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29057,
-    "lng": -76.58304,
-    "dist": 13.2,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2289898435,
-    "score": 0
-  },
-  {
-    "id": "sw:wheelmonument",
-    "name": "Wheel Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28147,
-    "lng": -76.61583,
-    "dist": 13.0,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2356341498,
-    "score": 0
-  },
-  {
-    "id": "sw:towsontigerstatue",
-    "name": "Towson Tiger Statue",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.39241,
-    "lng": -76.60554,
-    "dist": 20.3,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2436043852,
-    "score": 0
-  },
-  {
-    "id": "sw:williamdonaldshaefer",
-    "name": "William Donald Shaefer Statue",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28435,
-    "lng": -76.61224,
-    "dist": 13.2,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2502382373,
-    "score": 0
-  },
-  {
-    "id": "sw:giantpineapple",
-    "name": "Giant Pineapple",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27208,
-    "lng": -76.65701,
-    "dist": 13.4,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2719645095,
-    "score": 0
-  },
-  {
-    "id": "sw:columbusobelisk",
-    "name": "Columbus Obelisk",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.33634,
-    "lng": -76.57452,
-    "dist": 16.2,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2776518545,
-    "score": 0
-  },
-  {
-    "id": "sw:thepassage",
-    "name": "The Passage",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.40037,
-    "lng": -76.60585,
-    "dist": 20.9,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2806889204,
-    "score": 0
-  },
-  {
-    "id": "sw:harryjeanetteweinber",
-    "name": "Harry & Jeanette Weinberg",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29301,
-    "lng": -76.56737,
-    "dist": 13.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 2961992939,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalkatymemorial",
-    "name": "National Katyń Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28318,
-    "lng": -76.60161,
-    "dist": 12.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 3432393558,
-    "score": 0
-  },
-  {
-    "id": "sw:billieholidaymonumen",
-    "name": "Billie Holiday Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30118,
-    "lng": -76.63203,
-    "dist": 14.6,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 3492315593,
-    "score": 0
-  },
-  {
-    "id": "sw:homelessofbaltimorec",
-    "name": "Homeless of Baltimore County",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.401,
-    "lng": -76.60642,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 3630158001,
-    "score": 0
-  },
-  {
-    "id": "sw:northamptonfurnace",
-    "name": "Northampton Furnace",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.43658,
-    "lng": -76.58821,
-    "dist": 23.2,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4430858130,
-    "score": 0
-  },
-  {
-    "id": "sw:blacksoldiersstatue",
-    "name": "Black Soldiers Statue",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29091,
-    "lng": -76.61009,
-    "dist": 13.6,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4503373520,
-    "score": 0
-  },
-  {
-    "id": "sw:severnteacklewallism",
-    "name": "Severn Teackle Wallis Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29759,
-    "lng": -76.61426,
-    "dist": 14.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4590244509,
-    "score": 0
-  },
-  {
-    "id": "sw:georgepeabodymonumen",
-    "name": "George Peabody Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29756,
-    "lng": -76.61504,
-    "dist": 14.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4590244510,
-    "score": 0
-  },
-  {
-    "id": "sw:marquisdelafayettemo",
-    "name": "Marquis de Lafayette Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29721,
-    "lng": -76.61564,
-    "dist": 14.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4590244511,
-    "score": 0
-  },
-  {
-    "id": "sw:johneagerhowardmonum",
-    "name": "John Eager Howard Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2984,
-    "lng": -76.61572,
-    "dist": 14.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4590244512,
-    "score": 0
-  },
-  {
-    "id": "sw:georgewashingtonbice",
-    "name": "George Washington Bicentennial Marker",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29422,
-    "lng": -76.61558,
-    "dist": 13.9,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4590260242,
-    "score": 0
-  },
-  {
-    "id": "sw:hammanncostinwwimeda",
-    "name": "Hammann-Costin WWI Medal of Honor Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.3046,
-    "lng": -76.62104,
-    "dist": 14.6,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4725167483,
-    "score": 0
-  },
-  {
-    "id": "sw:columbusmonument",
-    "name": "Columbus Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31942,
-    "lng": -76.64189,
-    "dist": 16.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4753852913,
-    "score": 0
-  },
-  {
-    "id": "sw:devotion",
-    "name": "Devotion",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.283,
-    "lng": -76.64811,
-    "dist": 13.8,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4868729510,
-    "score": 0
-  },
-  {
-    "id": "sw:marylandspacegrantob",
-    "name": "Maryland Space Grant Observatory",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.33179,
-    "lng": -76.62327,
-    "dist": 16.5,
-    "description": "Historic: observatory",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4960141081,
-    "score": 0
-  },
-  {
-    "id": "sw:orlinskygrovemarker",
-    "name": "Orlinsky Grove Marker",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32639,
-    "lng": -76.5701,
-    "dist": 15.5,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 4962943325,
-    "score": 0
-  },
-  {
-    "id": "sw:dumbartonfarmpillar",
-    "name": "Dumbarton Farm Pillar",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.37578,
-    "lng": -76.61923,
-    "dist": 19.3,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5183873923,
-    "score": 0
-  },
-  {
-    "id": "sw:fountainatcharlespla",
-    "name": "Fountain at Charles Plaza",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.29064,
-    "lng": -76.61602,
-    "dist": 13.6,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5258545703,
-    "score": 0
-  },
-  {
-    "id": "sw:johnmifflinhoodmonum",
-    "name": "John Mifflin Hood Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29267,
-    "lng": -76.61372,
-    "dist": 13.7,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5515718332,
-    "score": 0
-  },
-  {
-    "id": "sw:josmartmonument",
-    "name": "José Martí Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29411,
-    "lng": -76.59401,
-    "dist": 13.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5579499294,
-    "score": 0
-  },
-  {
-    "id": "sw:oldstreetcarbridgeab",
-    "name": "Old Streetcar Bridge Abutment",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.31642,
-    "lng": -76.69631,
-    "dist": 17.1,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5608320333,
-    "score": 0
-  },
-  {
-    "id": "sw:fountainatcharlescen",
-    "name": "Fountain at Charles Center",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.29063,
-    "lng": -76.61561,
-    "dist": 13.6,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5744155022,
-    "score": 0
-  },
-  {
-    "id": "sw:shieldofbaltimorecit",
-    "name": "Shield of Baltimore City",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.29097,
-    "lng": -76.6162,
-    "dist": 13.7,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5744173168,
-    "score": 0
-  },
-  {
-    "id": "sw:mountainpassspring",
-    "name": "Mountain Pass Spring",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32639,
-    "lng": -76.64392,
-    "dist": 16.5,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5928349753,
-    "score": 0
-  },
-  {
-    "id": "sw:jameslridgelymonumen",
-    "name": "James L. Ridgely Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29604,
-    "lng": -76.6422,
-    "dist": 14.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 5931490190,
-    "score": 0
-  },
-  {
-    "id": "sw:koreavietnamwarmemor",
-    "name": "Korea-Vietnam War Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30886,
-    "lng": -76.47522,
-    "dist": 14.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6020047197,
-    "score": 0
-  },
-  {
-    "id": "sw:lestweforget",
-    "name": "Lest We Forget",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30885,
-    "lng": -76.47415,
-    "dist": 14.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6020047198,
-    "score": 0
-  },
-  {
-    "id": "sw:operationenduringfre",
-    "name": "Operation Enduring Freedom Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.4007,
-    "lng": -76.60632,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6206224051,
-    "score": 0
-  },
-  {
-    "id": "sw:mainstreetballroom",
-    "name": "Main Street Ballroom",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.26752,
-    "lng": -76.79996,
-    "dist": 18.2,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6501070388,
-    "score": 0
-  },
-  {
-    "id": "sw:thegoodshepherd",
-    "name": "The Good Shepherd",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32801,
-    "lng": -76.60145,
-    "dist": 15.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6515689972,
-    "score": 0
-  },
-  {
-    "id": "sw:baltimorecityfirefig",
-    "name": "Baltimore City Fire Fighters Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29146,
-    "lng": -76.60923,
-    "dist": 13.6,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6515787063,
-    "score": 0
-  },
-  {
-    "id": "sw:fortholabirdmemorial",
-    "name": "Fort Holabird Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.26497,
-    "lng": -76.51334,
-    "dist": 11.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6540324043,
-    "score": 0
-  },
-  {
-    "id": "sw:veteransmemorial",
-    "name": "Veterans Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.25823,
-    "lng": -76.52337,
-    "dist": 10.7,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6577102979,
-    "score": 0
-  },
-  {
-    "id": "sw:mccollumpoint",
-    "name": "McCollum Point",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2899,
-    "lng": -76.39779,
-    "dist": 14.8,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6721109594,
-    "score": 0
-  },
-  {
-    "id": "sw:warof1812bombrack",
-    "name": "War of 1812 Bomb & Rack",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28887,
-    "lng": -76.61194,
-    "dist": 13.5,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6762955376,
-    "score": 0
-  },
-  {
-    "id": "sw:latrobemonument",
-    "name": "Latrobe Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29172,
-    "lng": -76.59386,
-    "dist": 13.4,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6849017868,
-    "score": 0
-  },
-  {
-    "id": "sw:thomaswildeymonument",
-    "name": "Thomas Wildey Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.29328,
-    "lng": -76.59396,
-    "dist": 13.5,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6849064322,
-    "score": 0
-  },
-  {
-    "id": "sw:boyslatinathletichal",
-    "name": "Boys' Latin Athletic Hall of Fame Plaque",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.37288,
-    "lng": -76.63551,
-    "dist": 19.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6981571414,
-    "score": 0
-  },
-  {
-    "id": "sw:lebrunscoachesfieldp",
-    "name": "Lebrun's Coaches Field Plaque",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.37194,
-    "lng": -76.63598,
-    "dist": 19.3,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6981589480,
-    "score": 0
-  },
-  {
-    "id": "sw:boyslatinlacrossenat",
-    "name": "Boys' Latin lacrosse national championship years",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.37255,
-    "lng": -76.63526,
-    "dist": 19.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 6981589522,
-    "score": 0
-  },
-  {
-    "id": "sw:historyplaquesofwinn",
-    "name": "History Plaques of Winners",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28418,
-    "lng": -76.49437,
-    "dist": 12.6,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7131844176,
-    "score": 0
-  },
-  {
-    "id": "sw:foundation",
-    "name": "Foundation",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.24937,
-    "lng": -76.77497,
-    "dist": 16.4,
-    "description": "Historic: ruins",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7248082593,
-    "score": 0
-  },
-  {
-    "id": "sw:caldwellfield",
-    "name": "Caldwell Field",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28327,
-    "lng": -76.51548,
-    "dist": 12.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7450040965,
-    "score": 0
-  },
-  {
-    "id": "sw:theunitywall",
-    "name": "The Unity Wall",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31231,
-    "lng": -76.61168,
-    "dist": 15.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7472578438,
-    "score": 0
-  },
-  {
-    "id": "sw:haeminleeburialsite",
-    "name": "Hae Min Lee Burial Site",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.30179,
-    "lng": -76.69936,
-    "dist": 16.3,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7515423328,
-    "score": 0
-  },
-  {
-    "id": "sw:waterwheel",
-    "name": "Water Wheel",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.30288,
-    "lng": -76.69464,
-    "dist": 16.2,
-    "description": "Hours: sunrise-sunset",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7515423329,
-    "score": 0
-  },
-  {
-    "id": "sw:marylandsonsmonument",
-    "name": "Maryland Sons Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2807,
-    "lng": -76.67509,
-    "dist": 14.4,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7663191350,
-    "score": 0
-  },
-  {
-    "id": "sw:sparrowspoint",
-    "name": "Sparrows Point",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.24306,
-    "lng": -76.45576,
-    "dist": 10.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7722427898,
-    "score": 0
-  },
-  {
-    "id": "sw:calripkensenior",
-    "name": "Cal Ripken Senior",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32944,
-    "lng": -76.60146,
-    "dist": 16.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7806724895,
-    "score": 0
-  },
-  {
-    "id": "sw:memorialfieldatthey",
-    "name": "Memorial Field at the Y",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32946,
-    "lng": -76.60149,
-    "dist": 16.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7806724896,
-    "score": 0
-  },
-  {
-    "id": "sw:conradinkreutzermonu",
-    "name": "Conradin Kreutzer Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28828,
-    "lng": -76.58385,
-    "dist": 13.0,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7833984131,
-    "score": 0
-  },
-  {
-    "id": "sw:rogersbastioncannon",
-    "name": "Rogers Bastion Cannon",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28986,
-    "lng": -76.58372,
-    "dist": 13.1,
-    "description": "Historic: cannon",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7840961095,
-    "score": 0
-  },
-  {
-    "id": "sw:dunlogginmanor",
-    "name": "Dunloggin Manor",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.25833,
-    "lng": -76.83643,
-    "dist": 19.4,
-    "description": "Historic: manor",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7850665528,
-    "score": 0
-  },
-  {
-    "id": "sw:baltimoreharrisburge",
-    "name": "Baltimore-Harrisburg Expressway",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.42423,
-    "lng": -76.63788,
-    "dist": 22.8,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 7975206477,
-    "score": 0
-  },
-  {
-    "id": "sw:thirdandlastcountyal",
-    "name": "Third and Last County Almshouse",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.46015,
-    "lng": -76.62796,
-    "dist": 25.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8095295335,
-    "score": 0
-  },
-  {
-    "id": "sw:defenderstrailsign",
-    "name": "Defender's Trail Sign",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28341,
-    "lng": -76.49065,
-    "dist": 12.6,
-    "description": "Historic: wayside shrine",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8191533699,
-    "score": 0
-  },
-  {
-    "id": "sw:captainjohnsmithmark",
-    "name": "Captain John Smith Marker",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.22779,
-    "lng": -76.72962,
-    "dist": 13.5,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8539633813,
-    "score": 0
-  },
-  {
-    "id": "sw:mapaoverpass",
-    "name": "Ma & Pa Overpass",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.39848,
-    "lng": -76.60309,
-    "dist": 20.7,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8731261473,
-    "score": 0
-  },
-  {
-    "id": "sw:fellspoint",
-    "name": "Fells Point",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28199,
-    "lng": -76.59296,
-    "dist": 12.7,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8739519331,
-    "score": 0
-  },
-  {
-    "id": "sw:americanpsychoanalyt",
-    "name": "American Psychoanalytic Association",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.2983,
-    "lng": -76.61597,
-    "dist": 14.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8914830130,
-    "score": 0
-  },
-  {
-    "id": "sw:wiseavenuebridge",
-    "name": "Wise Avenue Bridge",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.26095,
-    "lng": -76.47669,
-    "dist": 11.3,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8929221947,
-    "score": 0
-  },
-  {
-    "id": "sw:kellyavebridge",
-    "name": "Kelly Ave Bridge",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.36718,
-    "lng": -76.64891,
-    "dist": 19.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8929236142,
-    "score": 0
-  },
-  {
-    "id": "sw:fortgarrison",
-    "name": "Fort Garrison",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.399,
-    "lng": -76.70769,
-    "dist": 22.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8929368565,
-    "score": 0
-  },
-  {
-    "id": "sw:rodgersbastion",
-    "name": "Rodgers Bastion",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28986,
-    "lng": -76.58372,
-    "dist": 13.1,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8929646251,
-    "score": 0
-  },
-  {
-    "id": "sw:guthmemorialgateway",
-    "name": "Guth Memorial Gateway",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.40907,
-    "lng": -76.60008,
-    "dist": 21.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8947215754,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalroadmilemark",
-    "name": "National Road Mile Marker 11",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.26978,
-    "lng": -76.81223,
-    "dist": 18.8,
-    "description": "Historic: milestone",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8977161672,
-    "score": 0
-  },
-  {
-    "id": "sw:nationalroadmilemark",
-    "name": "National Road Mile Marker 12",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.27271,
-    "lng": -76.83006,
-    "dist": 19.7,
-    "description": "Historic: milestone",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8977161675,
-    "score": 0
-  },
-  {
-    "id": "sw:thomaspalermo",
-    "name": "Thomas Palermo",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.36691,
-    "lng": -76.63435,
-    "dist": 19.0,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8985808489,
-    "score": 0
-  },
-  {
-    "id": "sw:chrisstrail",
-    "name": "Chris's Trail",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.467,
-    "lng": -76.59129,
-    "dist": 25.3,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8988190520,
-    "score": 0
-  },
-  {
-    "id": "sw:established1926",
-    "name": "Established 1926",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.39692,
-    "lng": -76.57926,
-    "dist": 20.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9062858322,
-    "score": 0
-  },
-  {
-    "id": "sw:harveyjburnsjrmemori",
-    "name": "Harvey J. Burns, Jr. Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.31997,
-    "lng": -76.63461,
-    "dist": 15.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9142686897,
-    "score": 0
-  },
-  {
-    "id": "sw:homewood",
-    "name": "Homewood",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.32949,
-    "lng": -76.61801,
-    "dist": 16.2,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9159403603,
-    "score": 0
-  },
-  {
-    "id": "sw:thomaspumphreyhouse",
-    "name": "Thomas Pumphrey House",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.19491,
-    "lng": -76.62691,
-    "dist": 8.0,
-    "description": "Historic: yes",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9160963312,
-    "score": 0
-  },
-  {
-    "id": "sw:rowlandcirclespectro",
-    "name": "Rowland Circle Spectrograph",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.33153,
-    "lng": -76.62288,
-    "dist": 16.4,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9169562427,
-    "score": 0
-  },
-  {
-    "id": "sw:cloverhill",
-    "name": "Clover Hill",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.3334,
-    "lng": -76.61788,
-    "dist": 16.5,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9191915208,
-    "score": 0
-  },
-  {
-    "id": "sw:courttowers",
-    "name": "Court Towers",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.40112,
-    "lng": -76.60748,
-    "dist": 20.9,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9216918851,
-    "score": 0
-  },
-  {
-    "id": "sw:reflectionsworldwari",
-    "name": "Reflections World War II Memorial",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30406,
-    "lng": -76.62174,
-    "dist": 14.6,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9239126302,
-    "score": 0
-  },
-  {
-    "id": "sw:theflame",
-    "name": "The Flame",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.28806,
-    "lng": -76.60834,
-    "dist": 13.3,
-    "description": "Historic: memorial",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9239283761,
-    "score": 0
-  },
-  {
-    "id": "sw:slomanmonument",
-    "name": "Sloman Monument",
-    "type": "weird",
-    "tags": [
-      "weird",
-      "historic"
-    ],
-    "lat": 39.30998,
-    "lng": -76.70734,
-    "dist": 17.0,
-    "description": "Historic: monument",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9253792773,
-    "score": 0
-  },
-  {
-    "id": "sw:pearsonfloristwhereb",
-    "name": "Pearson florist (where Bodie buys flowers)",
-    "type": "weird",
-    "tags": [
-      "weird"
-    ],
-    "lat": 39.31094,
-    "lng": -76.61666,
-    "dist": 15.0,
-    "description": "",
-    "zone": "Baltimore City",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 9450767417,
-    "score": 0
-  },
-  {
     "id": "sw:clarksvilleenvironme",
     "name": "Clarksville Environmental Area",
     "type": "viewpoint",
@@ -11368,78 +15923,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 6754720987,
-    "score": 0
-  },
-  {
-    "id": "sw:olneyfamilyneighborh",
-    "name": "Olney Family Neighborhood Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.17216,
-    "lng": -77.07255,
-    "dist": 29.3,
-    "description": "",
-    "zone": "Howard County MD",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 45153919,
-    "score": 0
-  },
-  {
-    "id": "sw:greenwoodpark",
-    "name": "Greenwood Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.16237,
-    "lng": -77.06467,
-    "dist": 28.7,
-    "description": "",
-    "zone": "Howard County MD",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 45194255,
-    "score": 0
-  },
-  {
-    "id": "sw:longwoodpark",
-    "name": "Longwood Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.17416,
-    "lng": -77.06111,
-    "dist": 28.7,
-    "description": "",
-    "zone": "Howard County MD",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 45211509,
-    "score": 0
-  },
-  {
-    "id": "sw:southeastolneypark",
-    "name": "Southeast Olney Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 39.14386,
-    "lng": -77.06364,
-    "dist": 28.5,
-    "description": "",
-    "zone": "Howard County MD",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 47318201,
     "score": 0
   },
   {
@@ -13550,6 +18033,80 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:dickeyvillehistoricd",
+    "name": "Dickeyville Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3154,
+    "lng": -76.70387,
+    "dist": 17.2,
+    "description": "Elevation: 77m · Historic: district",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248634,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinsquarehistor",
+    "name": "Franklin Square Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28993,
+    "lng": -76.63937,
+    "dist": 14.1,
+    "description": "Elevation: 33m · Historic: district",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248659,
+    "score": 0
+  },
+  {
+    "id": "sw:unionsquarehollinsma",
+    "name": "Union Square-Hollins Market Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.28761,
+    "lng": -76.63858,
+    "dist": 13.9,
+    "description": "Elevation: 25m · Historic: district",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248791,
+    "score": 0
+  },
+  {
+    "id": "sw:ellicottcityhistoric",
+    "name": "Ellicott City Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26776,
+    "lng": -76.79649,
+    "dist": 18.1,
+    "description": "Elevation: 61m · Historic: district",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248948,
+    "score": 0
+  },
+  {
     "id": "sw:oldsavagedamgates",
     "name": "Old Savage Dam Gates",
     "type": "weird",
@@ -13587,6 +18144,96 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:oldbaltimorecitynwco",
+    "name": "Old Baltimore City NW Cornerstone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.34028,
+    "lng": -76.68912,
+    "dist": 18.3,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1228325863,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 3",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.28127,
+    "lng": -76.67367,
+    "dist": 14.4,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1228782012,
+    "score": 0
+  },
+  {
+    "id": "sw:stmaryscollegeformer",
+    "name": "St. Mary's College, former",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25059,
+    "lng": -76.76602,
+    "dist": 16.1,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1766784622,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 10",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26794,
+    "lng": -76.79492,
+    "dist": 18.0,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2108934845,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 6",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27313,
+    "lng": -76.72697,
+    "dist": 15.6,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2108934846,
+    "score": 0
+  },
+  {
     "id": "sw:oldquarryworks",
     "name": "Old Quarry Works",
     "type": "weird",
@@ -13602,6 +18249,24 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 2156957223,
+    "score": 0
+  },
+  {
+    "id": "sw:giantpineapple",
+    "name": "Giant Pineapple",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27208,
+    "lng": -76.65701,
+    "dist": 13.4,
+    "description": "Historic: monument",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2719645095,
     "score": 0
   },
   {
@@ -13659,6 +18324,76 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:devotion",
+    "name": "Devotion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.283,
+    "lng": -76.64811,
+    "dist": 13.8,
+    "description": "Historic: memorial",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4868729510,
+    "score": 0
+  },
+  {
+    "id": "sw:oldstreetcarbridgeab",
+    "name": "Old Streetcar Bridge Abutment",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.31642,
+    "lng": -76.69631,
+    "dist": 17.1,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5608320333,
+    "score": 0
+  },
+  {
+    "id": "sw:mainstreetballroom",
+    "name": "Main Street Ballroom",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.26752,
+    "lng": -76.79996,
+    "dist": 18.2,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6501070388,
+    "score": 0
+  },
+  {
+    "id": "sw:foundation",
+    "name": "Foundation",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.24937,
+    "lng": -76.77497,
+    "dist": 16.4,
+    "description": "Historic: ruins",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7248082593,
+    "score": 0
+  },
+  {
     "id": "sw:coreywalter",
     "name": "Corey Walter",
     "type": "weird",
@@ -13677,6 +18412,94 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:haeminleeburialsite",
+    "name": "Hae Min Lee Burial Site",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.30179,
+    "lng": -76.69936,
+    "dist": 16.3,
+    "description": "",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7515423328,
+    "score": 0
+  },
+  {
+    "id": "sw:waterwheel",
+    "name": "Water Wheel",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.30288,
+    "lng": -76.69464,
+    "dist": 16.2,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7515423329,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandsonsmonument",
+    "name": "Maryland Sons Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2807,
+    "lng": -76.67509,
+    "dist": 14.4,
+    "description": "Historic: monument",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7663191350,
+    "score": 0
+  },
+  {
+    "id": "sw:dunlogginmanor",
+    "name": "Dunloggin Manor",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25833,
+    "lng": -76.83643,
+    "dist": 19.4,
+    "description": "Historic: manor",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7850665528,
+    "score": 0
+  },
+  {
+    "id": "sw:captainjohnsmithmark",
+    "name": "Captain John Smith Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22779,
+    "lng": -76.72962,
+    "dist": 13.5,
+    "description": "Historic: monument",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8539633813,
+    "score": 0
+  },
+  {
     "id": "sw:granitenationalhisto",
     "name": "Granite National Historic District",
     "type": "weird",
@@ -13692,6 +18515,24 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 8768483235,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 11",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26978,
+    "lng": -76.81223,
+    "dist": 18.8,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161672,
     "score": 0
   },
   {
@@ -13731,6 +18572,24 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:nationalroadmilemark",
+    "name": "National Road Mile Marker 12",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.27271,
+    "lng": -76.83006,
+    "dist": 19.7,
+    "description": "Historic: milestone",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8977161675,
+    "score": 0
+  },
+  {
     "id": "sw:scottscoveatrockygor",
     "name": "Scott’s Cove at Rocky Gorge Reservoir",
     "type": "weird",
@@ -13745,6 +18604,42 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 9000025017,
+    "score": 0
+  },
+  {
+    "id": "sw:thomaspumphreyhouse",
+    "name": "Thomas Pumphrey House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.19491,
+    "lng": -76.62691,
+    "dist": 8.0,
+    "description": "Historic: yes",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9160963312,
+    "score": 0
+  },
+  {
+    "id": "sw:slomanmonument",
+    "name": "Sloman Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30998,
+    "lng": -76.70734,
+    "dist": 17.0,
+    "description": "Historic: monument",
+    "zone": "Howard County MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9253792773,
     "score": 0
   },
   {
@@ -15525,6 +20420,5988 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
+    "id": "sw:mitchellbluff",
+    "name": "Mitchell Bluff",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.22428,
+    "lng": -76.2394,
+    "dist": 17.8,
+    "description": "Elevation: 0m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239399,
+    "score": 0
+  },
+  {
+    "id": "sw:daveshill",
+    "name": "Daves Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.33344,
+    "lng": -75.9155,
+    "dist": 36.7,
+    "description": "Elevation: 19m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241504,
+    "score": 0
+  },
+  {
+    "id": "sw:conquestbeach",
+    "name": "Conquest Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.09678,
+    "lng": -76.12606,
+    "dist": 21.9,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244358,
+    "score": 0
+  },
+  {
+    "id": "sw:harrysoverlook",
+    "name": "Harry's Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.34005,
+    "lng": -76.37049,
+    "dist": 18.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7530771515,
+    "score": 0
+  },
+  {
+    "id": "sw:ironpoint",
+    "name": "Iron Point",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.34612,
+    "lng": -76.36656,
+    "dist": 19.0,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7530771568,
+    "score": 0
+  },
+  {
+    "id": "sw:miamibeach",
+    "name": "Miami Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.30598,
+    "lng": -76.36997,
+    "dist": 16.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 83068925,
+    "score": 0
+  },
+  {
+    "id": "sw:sudlersvillepark",
+    "name": "Sudlersville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.18579,
+    "lng": -75.85351,
+    "dist": 36.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 107400798,
+    "score": 0
+  },
+  {
+    "id": "sw:roundtoppark",
+    "name": "Roundtop Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.21608,
+    "lng": -76.02146,
+    "dist": 28.5,
+    "description": "Elevation: 4m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 195771983,
+    "score": 0
+  },
+  {
+    "id": "sw:wyeoakstatepark",
+    "name": "Wye Oak State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.9401,
+    "lng": -76.08432,
+    "dist": 26.6,
+    "description": "Elevation: 13m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930093,
+    "score": 0
+  },
+  {
+    "id": "sw:pinkneypark",
+    "name": "Pinkney Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22453,
+    "lng": -75.91376,
+    "dist": 34.2,
+    "description": "Elevation: 18m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 412812730,
+    "score": 0
+  },
+  {
+    "id": "sw:slabbypark",
+    "name": "Slabby Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15091,
+    "lng": -75.8102,
+    "dist": 38.9,
+    "description": "Elevation: 21m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 412812731,
+    "score": 0
+  },
+  {
+    "id": "sw:4hclubpark",
+    "name": "4-H Club Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.02894,
+    "lng": -76.11643,
+    "dist": 23.0,
+    "description": "Elevation: 19m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 445530000,
+    "score": 0
+  },
+  {
+    "id": "sw:route18park",
+    "name": "Route 18 Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.02912,
+    "lng": -76.10936,
+    "dist": 23.3,
+    "description": "Elevation: 19m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 445530004,
+    "score": 0
+  },
+  {
+    "id": "sw:wilmerpark",
+    "name": "Wilmer Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20519,
+    "lng": -76.06604,
+    "dist": 26.0,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469524653,
+    "score": 0
+  },
+  {
+    "id": "sw:fountainpark",
+    "name": "Fountain Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20954,
+    "lng": -76.06665,
+    "dist": 26.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548366766,
+    "score": 0
+  },
+  {
+    "id": "sw:wortonregionalpark",
+    "name": "Worton Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27884,
+    "lng": -76.08843,
+    "dist": 26.7,
+    "description": "Elevation: 23m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548367423,
+    "score": 0
+  },
+  {
+    "id": "sw:riverfrontgarden",
+    "name": "Riverfront Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20662,
+    "lng": -76.06433,
+    "dist": 26.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548437727,
+    "score": 0
+  },
+  {
+    "id": "sw:marydelcommunitypark",
+    "name": "Marydel Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.11282,
+    "lng": -75.75259,
+    "dist": 41.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 550006986,
+    "score": 0
+  },
+  {
+    "id": "sw:rockypointpark",
+    "name": "Rocky Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.25411,
+    "lng": -76.41186,
+    "dist": 12.3,
+    "description": "Elevation: 7m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 556353423,
+    "score": 0
+  },
+  {
+    "id": "sw:ferrypark",
+    "name": "Ferry Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13709,
+    "lng": -76.25662,
+    "dist": 15.0,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 556821047,
+    "score": 0
+  },
+  {
+    "id": "sw:miamibeachpark",
+    "name": "Miami Beach Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.30659,
+    "lng": -76.37302,
+    "dist": 16.5,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 556858155,
+    "score": 0
+  },
+  {
+    "id": "sw:chestertownhistorica",
+    "name": "Chestertown Historical Monuments",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20899,
+    "lng": -76.06614,
+    "dist": 26.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 572204424,
+    "score": 0
+  },
+  {
+    "id": "sw:millstreampark",
+    "name": "Millstream Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.04119,
+    "lng": -76.07283,
+    "dist": 25.1,
+    "description": "Elevation: 4m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 588990580,
+    "score": 0
+  },
+  {
+    "id": "sw:millstreamtrail",
+    "name": "Millstream Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.04643,
+    "lng": -76.07392,
+    "dist": 25.0,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 588990948,
+    "score": 0
+  },
+  {
+    "id": "sw:ewingpondpark",
+    "name": "Ewing Pond Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.96039,
+    "lng": -76.19149,
+    "dist": 20.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 617091928,
+    "score": 0
+  },
+  {
+    "id": "sw:kinnairdspointdrive",
+    "name": "Kinnairds Point Drive",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33236,
+    "lng": -76.13164,
+    "dist": 26.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 644263167,
+    "score": 0
+  },
+  {
+    "id": "sw:skipperspointrecreat",
+    "name": "Skipper's Point Recreational Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40761,
+    "lng": -76.28108,
+    "dist": 25.0,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 644714851,
+    "score": 0
+  },
+  {
+    "id": "sw:toalpark",
+    "name": "Toal Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35473,
+    "lng": -75.87418,
+    "dist": 39.3,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647542566,
+    "score": 0
+  },
+  {
+    "id": "sw:edesvillepark",
+    "name": "Edesville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.15584,
+    "lng": -76.20845,
+    "dist": 17.8,
+    "description": "Elevation: 6m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647547366,
+    "score": 0
+  },
+  {
+    "id": "sw:galenatownpark",
+    "name": "Galena Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.34272,
+    "lng": -75.88168,
+    "dist": 38.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647550970,
+    "score": 0
+  },
+  {
+    "id": "sw:rollingroadpark",
+    "name": "Rolling Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22168,
+    "lng": -76.0598,
+    "dist": 26.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647551915,
+    "score": 0
+  },
+  {
+    "id": "sw:stillpondstationpark",
+    "name": "Still Pond Station Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.33587,
+    "lng": -76.13113,
+    "dist": 26.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647556615,
+    "score": 0
+  },
+  {
+    "id": "sw:bettertonbeachpark",
+    "name": "Betterton Beach Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.37063,
+    "lng": -76.06332,
+    "dist": 31.2,
+    "description": "Elevation: 1m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647561035,
+    "score": 0
+  },
+  {
+    "id": "sw:bettertonbeach",
+    "name": "Betterton Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.37131,
+    "lng": -76.06348,
+    "dist": 31.2,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647561038,
+    "score": 0
+  },
+  {
+    "id": "sw:baysidelandingpark",
+    "name": "Bayside Landing Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13506,
+    "lng": -76.24768,
+    "dist": 15.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647565047,
+    "score": 0
+  },
+  {
+    "id": "sw:oliverbeachhomeowner",
+    "name": "Oliver Beach Homeowners Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3735,
+    "lng": -76.33835,
+    "dist": 21.4,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 692848639,
+    "score": 0
+  },
+  {
+    "id": "sw:bettertoncommunitypa",
+    "name": "Betterton Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.3635,
+    "lng": -76.0617,
+    "dist": 31.0,
+    "description": "Elevation: 23m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 704556318,
+    "score": 0
+  },
+  {
+    "id": "sw:rockhallciviccenter",
+    "name": "Rock Hall Civic Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13365,
+    "lng": -76.2356,
+    "dist": 16.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 705117719,
+    "score": 0
+  },
+  {
+    "id": "sw:templevillecommunity",
+    "name": "Templeville Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.13563,
+    "lng": -75.76649,
+    "dist": 41.2,
+    "description": "Elevation: 20m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 740993958,
+    "score": 0
+  },
+  {
+    "id": "sw:robvanarypark",
+    "name": "Rob Vanary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26039,
+    "lng": -75.84329,
+    "dist": 38.5,
+    "description": "Elevation: 7m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 749139545,
+    "score": 0
+  },
+  {
+    "id": "sw:ceciltonpark",
+    "name": "Cecilton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40565,
+    "lng": -75.86045,
+    "dist": 41.6,
+    "description": "Elevation: 22m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 749321691,
+    "score": 0
+  },
+  {
+    "id": "sw:willoughbybeachlaunc",
+    "name": "Willoughby Beach Launching Ramp",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43484,
+    "lng": -76.24914,
+    "dist": 27.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 799003035,
+    "score": 0
+  },
+  {
+    "id": "sw:kingstownpark",
+    "name": "Kings Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.20544,
+    "lng": -76.05477,
+    "dist": 26.6,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 976766833,
+    "score": 0
+  },
+  {
+    "id": "sw:villageatchestertown",
+    "name": "Village At Chestertown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22851,
+    "lng": -76.06486,
+    "dist": 26.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1181925527,
+    "score": 0
+  },
+  {
+    "id": "sw:hopefellowshippark",
+    "name": "Hope Fellowship Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23154,
+    "lng": -76.0723,
+    "dist": 26.3,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1184114601,
+    "score": 0
+  },
+  {
+    "id": "sw:cypressbranchstatepa",
+    "name": "Cypress Branch State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.26932,
+    "lng": -75.83497,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1498254180,
+    "score": 0
+  },
+  {
+    "id": "sw:hartmillerislandstat",
+    "name": "Hart-Miller Island State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.24664,
+    "lng": -76.36991,
+    "dist": 13.2,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 2143165,
+    "score": 0
+  },
+  {
+    "id": "sw:elkneckstatepark",
+    "name": "Elk Neck State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47747,
+    "lng": -75.98768,
+    "dist": 39.0,
+    "description": "Elevation: 42m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4233312,
+    "score": 0
+  },
+  {
+    "id": "sw:millersislandpark",
+    "name": "Millers Island Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.22957,
+    "lng": -76.40605,
+    "dist": 11.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6403656,
+    "score": 0
+  },
+  {
+    "id": "sw:forestgreens",
+    "name": "Forest Greens",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44594,
+    "lng": -76.22949,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8345760,
+    "score": 0
+  },
+  {
+    "id": "sw:turnerscreekpark",
+    "name": "Turner's Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.35187,
+    "lng": -75.98541,
+    "dist": 34.0,
+    "description": "Elevation: 14m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9036652,
+    "score": 0
+  },
+  {
+    "id": "sw:crumptonpark",
+    "name": "Crumpton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.23717,
+    "lng": -75.91334,
+    "dist": 34.5,
+    "description": "Elevation: 10m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12697077,
+    "score": 0
+  },
+  {
+    "id": "sw:urievillelakefishman",
+    "name": "Urieville Lake Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.28559,
+    "lng": -76.02403,
+    "dist": 30.1,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12702450,
+    "score": 0
+  },
+  {
+    "id": "sw:urievillepark",
+    "name": "Urieville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27894,
+    "lng": -76.0257,
+    "dist": 29.8,
+    "description": "Elevation: 18m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14688291,
+    "score": 0
+  },
+  {
+    "id": "sw:saintgertrudeacademy",
+    "name": "Saint Gertrude Academy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.0029,
+    "lng": -75.88671,
+    "dist": 35.4,
+    "description": "Elevation: 18m · Historic: school",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240175,
+    "score": 0
+  },
+  {
+    "id": "sw:bettertonhistoricdis",
+    "name": "Betterton Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.36845,
+    "lng": -76.06217,
+    "dist": 31.2,
+    "description": "Elevation: 17m · Historic: district",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241757,
+    "score": 0
+  },
+  {
+    "id": "sw:chestertownhistoricd",
+    "name": "Chestertown Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.20817,
+    "lng": -76.06495,
+    "dist": 26.1,
+    "description": "Elevation: 6m · Historic: district",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241765,
+    "score": 0
+  },
+  {
+    "id": "sw:caulksfieldmemorial",
+    "name": "Caulks Field Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.20604,
+    "lng": -76.19802,
+    "dist": 19.3,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358243757,
+    "score": 0
+  },
+  {
+    "id": "sw:earlevillepostoffice",
+    "name": "Earleville Post Office",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41317,
+    "lng": -75.91439,
+    "dist": 39.4,
+    "description": "Elevation: 24m · Historic: post office",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358243798,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixoncrownstone",
+    "name": "Mason-Dixon Crown Stone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11267,
+    "lng": -75.7453,
+    "dist": 42.3,
+    "description": "Historic: boundary stone",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 752782132,
+    "score": 0
+  },
+  {
+    "id": "sw:craighillchannellowe",
+    "name": "Craighill Channel Lower Range Rear Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.22903,
+    "lng": -76.3944,
+    "dist": 11.4,
+    "description": "Historic: yes",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 968360686,
+    "score": 0
+  },
+  {
+    "id": "sw:jimmiefoxxmemorial",
+    "name": "Jimmie Foxx Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18689,
+    "lng": -75.85871,
+    "dist": 36.6,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1234413172,
+    "score": 0
+  },
+  {
+    "id": "sw:queenanne",
+    "name": "Queen Anne",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.04503,
+    "lng": -76.06525,
+    "dist": 25.5,
+    "description": "Historic: monument",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4731339238,
+    "score": 0
+  },
+  {
+    "id": "sw:veteransmemorial",
+    "name": "Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.04497,
+    "lng": -76.06511,
+    "dist": 25.5,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4731339239,
+    "score": 0
+  },
+  {
+    "id": "sw:mccollumpoint",
+    "name": "McCollum Point",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.2899,
+    "lng": -76.39779,
+    "dist": 14.8,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6721109594,
+    "score": 0
+  },
+  {
+    "id": "sw:mountharmon",
+    "name": "Mount Harmon",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40672,
+    "lng": -75.93987,
+    "dist": 38.1,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8175670419,
+    "score": 0
+  },
+  {
+    "id": "sw:hazelmore",
+    "name": "Hazelmore",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39625,
+    "lng": -76.01628,
+    "dist": 34.3,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8175713260,
+    "score": 0
+  },
+  {
+    "id": "sw:crewslanding",
+    "name": "Crew's Landing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.3706,
+    "lng": -76.06351,
+    "dist": 31.2,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8287192108,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandsfirstwomenv",
+    "name": "Maryland's First Women Voters",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32744,
+    "lng": -76.04476,
+    "dist": 30.4,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8287573810,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinecrowns",
+    "name": "Mason-Dixon Line Crownstone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25779,
+    "lng": -75.75695,
+    "dist": 42.9,
+    "description": "Lat/Lon NAD 83(1991) POSITION- 39 15 28.03912(N) 075 45 24.99908(W) ADJUSTED ORTHO HEIGHT - 19.7 (meters) 65. (feet) VERTCON · Elevation: 65m · Historic: boundary stone",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10717921408,
+    "score": 0
+  },
+  {
+    "id": "sw:andoverflatwoodsheri",
+    "name": "Andover Flatwoods Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.17298,
+    "lng": -75.78185,
+    "dist": 40.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929983,
+    "score": 0
+  },
+  {
+    "id": "sw:bridgetownpondsherit",
+    "name": "Bridgetown Ponds Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.02219,
+    "lng": -75.86774,
+    "dist": 36.2,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929994,
+    "score": 0
+  },
+  {
+    "id": "sw:dnrheldconservatione",
+    "name": "DNR Held Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.12043,
+    "lng": -75.8966,
+    "dist": 34.2,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929997,
+    "score": 0
+  },
+  {
+    "id": "sw:deanconservationrese",
+    "name": "Dean Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.12245,
+    "lng": -76.03727,
+    "dist": 26.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930014,
+    "score": 0
+  },
+  {
+    "id": "sw:earlevillewildlifema",
+    "name": "Earleville Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.44863,
+    "lng": -75.91402,
+    "dist": 40.8,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930015,
+    "score": 0
+  },
+  {
+    "id": "sw:galena",
+    "name": "Galena",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.33513,
+    "lng": -75.83571,
+    "dist": 40.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930029,
+    "score": 0
+  },
+  {
+    "id": "sw:hollinsworthpondheri",
+    "name": "Hollinsworth Pond Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.04517,
+    "lng": -75.83878,
+    "dist": 37.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930034,
+    "score": 0
+  },
+  {
+    "id": "sw:masseypondheritageco",
+    "name": "Massey Pond Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.2985,
+    "lng": -75.79529,
+    "dist": 41.8,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930052,
+    "score": 0
+  },
+  {
+    "id": "sw:sassafrassnaturalres",
+    "name": "Sassafrass Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.3544,
+    "lng": -75.98455,
+    "dist": 34.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930072,
+    "score": 0
+  },
+  {
+    "id": "sw:unicornlakefishmanag",
+    "name": "Unicorn Lake Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.24421,
+    "lng": -75.85766,
+    "dist": 37.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930088,
+    "score": 0
+  },
+  {
+    "id": "sw:chinophase1",
+    "name": "Chino Phase 1",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.23086,
+    "lng": -76.0072,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948794,
+    "score": 0
+  },
+  {
+    "id": "sw:chinophase2",
+    "name": "Chino Phase 2",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22175,
+    "lng": -76.00931,
+    "dist": 29.3,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948795,
+    "score": 0
+  },
+  {
+    "id": "sw:grovefarmwildlifeman",
+    "name": "Grove Farm Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.3909,
+    "lng": -76.00286,
+    "dist": 34.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948806,
+    "score": 0
+  },
+  {
+    "id": "sw:groveneckmanagedhunt",
+    "name": "Grove Neck Managed Hunting Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.3907,
+    "lng": -76.02002,
+    "dist": 33.9,
+    "description": "Hunting is not allowed in the enclosed wildlife sanctuary.",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 315105843,
+    "score": 0
+  },
+  {
+    "id": "sw:stemmersrunmanagedhu",
+    "name": "Stemmers Run Managed Hunting Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.43147,
+    "lng": -75.96922,
+    "dist": 37.7,
+    "description": "Elevation: 7m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 315105886,
+    "score": 0
+  },
+  {
+    "id": "sw:poinsetthouse",
+    "name": "Poinsett House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.26312,
+    "lng": -75.74243,
+    "dist": 43.8,
+    "description": "Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 462891868,
+    "score": 0
+  },
+  {
+    "id": "sw:benjaminblackistonho",
+    "name": "Benjamin Blackiston House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25199,
+    "lng": -75.73687,
+    "dist": 43.9,
+    "description": "Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 462891873,
+    "score": 0
+  },
+  {
+    "id": "sw:sceneofcheneyclowsre",
+    "name": "Scene of Cheney Clow's Rebellion",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.20487,
+    "lng": -75.74584,
+    "dist": 42.8,
+    "description": "Historic: heritage",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 462897322,
+    "score": 0
+  },
+  {
+    "id": "sw:ottercreekwoods",
+    "name": "Otter Creek Woods",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.43538,
+    "lng": -76.26249,
+    "dist": 27.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 576477976,
+    "score": 0
+  },
+  {
+    "id": "sw:perrymanforest",
+    "name": "Perryman Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.45197,
+    "lng": -76.22804,
+    "dist": 29.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 638808838,
+    "score": 0
+  },
+  {
+    "id": "sw:monkscreekwoods",
+    "name": "Monk's Creek Woods",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.43193,
+    "lng": -76.25917,
+    "dist": 27.0,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 638811943,
+    "score": 0
+  },
+  {
+    "id": "sw:towera",
+    "name": "Tower A",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.14909,
+    "lng": -76.27499,
+    "dist": 14.2,
+    "description": "Historic: ruins",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 643432280,
+    "score": 0
+  },
+  {
+    "id": "sw:draytonmanor",
+    "name": "Drayton Manor",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32642,
+    "lng": -76.1285,
+    "dist": 26.6,
+    "description": "Historic: manor",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 644289754,
+    "score": 0
+  },
+  {
+    "id": "sw:brickhousefarm",
+    "name": "Brick House Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.01488,
+    "lng": -75.8363,
+    "dist": 37.9,
+    "description": "Historic: house",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730431937,
+    "score": 0
+  },
+  {
+    "id": "sw:bachelorshope",
+    "name": "Bachelor's Hope",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.03377,
+    "lng": -76.10462,
+    "dist": 23.5,
+    "description": "Historic: house",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732839273,
+    "score": 0
+  },
+  {
+    "id": "sw:bloomingdale",
+    "name": "Bloomingdale",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97487,
+    "lng": -76.11748,
+    "dist": 24.1,
+    "description": "Historic: house",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732840310,
+    "score": 0
+  },
+  {
+    "id": "sw:centrevillearmory",
+    "name": "Centreville Armory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.04183,
+    "lng": -76.06769,
+    "dist": 25.4,
+    "description": "Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732842315,
+    "score": 0
+  },
+  {
+    "id": "sw:wyemill",
+    "name": "Wye Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.94173,
+    "lng": -76.08108,
+    "dist": 26.8,
+    "description": "Elevation: 2m · Historic: watermill",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732850393,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeypointlight",
+    "name": "Turkey Point Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.4499,
+    "lng": -76.00841,
+    "dist": 36.9,
+    "description": "Historic: yes",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 743256010,
+    "score": 0
+  },
+  {
+    "id": "sw:millersisland",
+    "name": "Millers Island",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.15753,
+    "lng": -76.07021,
+    "dist": 25.1,
+    "description": "Elevation: 0m · Historic: island",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 752015276,
+    "score": 0
+  },
+  {
+    "id": "sw:thecustomshouse",
+    "name": "The Customs House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.20716,
+    "lng": -76.06388,
+    "dist": 26.2,
+    "description": "Elevation: 5m · Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 808507678,
+    "score": 0
+  },
+  {
+    "id": "sw:blackbirdstateforest",
+    "name": "Blackbird State Forest - Naudain Tract",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.31688,
+    "lng": -75.74528,
+    "dist": 44.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 915309538,
+    "score": 0
+  },
+  {
+    "id": "sw:blackbirdstateforest",
+    "name": "Blackbird State Forest - Jones Tract",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.32612,
+    "lng": -75.7595,
+    "dist": 44.2,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 915309936,
+    "score": 0
+  },
+  {
+    "id": "sw:truslowboathouse",
+    "name": "Truslow Boat House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.20432,
+    "lng": -76.06753,
+    "dist": 25.9,
+    "description": "Elevation: 6m · Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 937788335,
+    "score": 0
+  },
+  {
+    "id": "sw:craighillchannellowe",
+    "name": "Craighill Channel Lower Range Front Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.1886,
+    "lng": -76.39441,
+    "dist": 9.5,
+    "description": "Historic: yes",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1027070452,
+    "score": 0
+  },
+  {
+    "id": "sw:bowlingly",
+    "name": "Bowlingly",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.99348,
+    "lng": -76.158,
+    "dist": 21.6,
+    "description": "Historic: house",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1067521615,
+    "score": 0
+  },
+  {
+    "id": "sw:queenstowncolonialco",
+    "name": "Queenstown Colonial Courthouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9903,
+    "lng": -76.15758,
+    "dist": 21.7,
+    "description": "Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1070240452,
+    "score": 0
+  },
+  {
+    "id": "sw:chapeloftheholycross",
+    "name": "Chapel of the Holy Cross",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.25939,
+    "lng": -75.83721,
+    "dist": 38.8,
+    "description": "Elevation: 7m · Historic: yes",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1073541680,
+    "score": 0
+  },
+  {
+    "id": "sw:widehall",
+    "name": "Wide Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.20763,
+    "lng": -76.06335,
+    "dist": 26.2,
+    "description": "Elevation: 5m · Historic: building",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1118800412,
+    "score": 0
+  },
+  {
+    "id": "sw:groveneckwildlifesan",
+    "name": "Grove Neck Wildlife Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38874,
+    "lng": -76.02041,
+    "dist": 33.8,
+    "description": "No hunting · Elevation: 0m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1357803582,
+    "score": 0
+  },
+  {
+    "id": "sw:gunpowderfallsstatep",
+    "name": "Gunpowder Falls State Park Hammerman Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.35769,
+    "lng": -76.35069,
+    "dist": 20.1,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 2846611,
+    "score": 0
+  },
+  {
+    "id": "sw:marshypointnaturecen",
+    "name": "Marshy Point Nature Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.34729,
+    "lng": -76.36816,
+    "dist": 19.0,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3321087,
+    "score": 0
+  },
+  {
+    "id": "sw:northpointstatepark",
+    "name": "North Point State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.22157,
+    "lng": -76.43024,
+    "dist": 9.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4233254,
+    "score": 0
+  },
+  {
+    "id": "sw:bigmillpondfishmanag",
+    "name": "Big Mill Pond Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.26511,
+    "lng": -75.82464,
+    "dist": 39.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234032,
+    "score": 0
+  },
+  {
+    "id": "sw:goltspondsheritageco",
+    "name": "Golts Ponds Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.33188,
+    "lng": -75.77552,
+    "dist": 43.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234053,
+    "score": 0
+  },
+  {
+    "id": "sw:millingtonwildlifema",
+    "name": "Millington Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.29943,
+    "lng": -75.78093,
+    "dist": 42.5,
+    "description": "Elevation: 21m",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234069,
+    "score": 0
+  },
+  {
+    "id": "sw:rhpropertiespartners",
+    "name": "R.H. Properties Partnership Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.13573,
+    "lng": -75.79844,
+    "dist": 39.5,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234079,
+    "score": 0
+  },
+  {
+    "id": "sw:tuckahoestatepark",
+    "name": "Tuckahoe State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.9637,
+    "lng": -75.93995,
+    "dist": 33.3,
+    "description": "Elevation: 10m · Hours: sunrise-sunset",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234088,
+    "score": 0
+  },
+  {
+    "id": "sw:wyemillsfishmanageme",
+    "name": "Wye Mills Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.94217,
+    "lng": -76.08421,
+    "dist": 26.6,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234091,
+    "score": 0
+  },
+  {
+    "id": "sw:spencerfarmllcconser",
+    "name": "Spencer Farm LLC Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.12128,
+    "lng": -76.20522,
+    "dist": 17.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234633,
+    "score": 0
+  },
+  {
+    "id": "sw:conquestwaterfrontpr",
+    "name": "Conquest Waterfront Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.0941,
+    "lng": -76.12416,
+    "dist": 22.0,
+    "description": "Dogs: no",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 10368812,
+    "score": 0
+  },
+  {
+    "id": "sw:blackistonwildlifear",
+    "name": "Blackiston Wildlife Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.24953,
+    "lng": -75.71671,
+    "dist": 44.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12586359,
+    "score": 0
+  },
+  {
+    "id": "sw:blackbirdstateforest",
+    "name": "Blackbird State Forest - Dulany Manor Tract",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.29164,
+    "lng": -75.75004,
+    "dist": 43.9,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13851761,
+    "score": 0
+  },
+  {
+    "id": "sw:blackbirdstateforest",
+    "name": "Blackbird State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.33373,
+    "lng": -75.71288,
+    "dist": 46.7,
+    "description": "",
+    "zone": "Eastern Shore North",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 16179784,
+    "score": 0
+  },
+  {
+    "id": "sw:cedargrovebeach",
+    "name": "Cedar Grove Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.58238,
+    "lng": -75.9938,
+    "dist": 46.3,
+    "description": "Elevation: 0m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240947,
+    "score": 0
+  },
+  {
+    "id": "sw:opossumhill",
+    "name": "Opossum Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78595,
+    "lng": -75.80632,
+    "dist": 44.8,
+    "description": "Elevation: 18m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241589,
+    "score": 0
+  },
+  {
+    "id": "sw:meadowviewingplatfor",
+    "name": "Meadow Viewing Platform",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.86204,
+    "lng": -76.12803,
+    "dist": 27.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13226837023,
+    "score": 0
+  },
+  {
+    "id": "sw:viewingplatform",
+    "name": "Viewing Platform",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.85865,
+    "lng": -76.12537,
+    "dist": 27.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13226837024,
+    "score": 0
+  },
+  {
+    "id": "sw:11eaglesplatform",
+    "name": "11 Eagles Platform",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.85745,
+    "lng": -76.1279,
+    "dist": 27.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13226837025,
+    "score": 0
+  },
+  {
+    "id": "sw:choptankwetlandspres",
+    "name": "Choptank Wetlands Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.73019,
+    "lng": -76.00243,
+    "dist": 38.5,
+    "description": "Elevation: 1m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 21695018,
+    "score": 0
+  },
+  {
+    "id": "sw:marinapark",
+    "name": "Marina Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.68796,
+    "lng": -75.77171,
+    "dist": 50.0,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 133482869,
+    "score": 0
+  },
+  {
+    "id": "sw:perrycabinpark",
+    "name": "Perry Cabin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79242,
+    "lng": -76.22716,
+    "dist": 27.1,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 167802922,
+    "score": 0
+  },
+  {
+    "id": "sw:neavittpark",
+    "name": "Neavitt Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.72457,
+    "lng": -76.28595,
+    "dist": 29.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 184792602,
+    "score": 0
+  },
+  {
+    "id": "sw:martinakstatepark",
+    "name": "Martinak State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86072,
+    "lng": -75.83952,
+    "dist": 40.9,
+    "description": "Elevation: 6m · Hours: sunrise-sunset",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930050,
+    "score": 0
+  },
+  {
+    "id": "sw:cornishpark",
+    "name": "Cornish Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.56537,
+    "lng": -76.08299,
+    "dist": 44.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 339479169,
+    "score": 0
+  },
+  {
+    "id": "sw:greatmarshpark",
+    "name": "Great Marsh Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.58334,
+    "lng": -76.07971,
+    "dist": 43.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 339480558,
+    "score": 0
+  },
+  {
+    "id": "sw:bishopclarencecornis",
+    "name": "Bishop Clarence Cornish Sr. Historical Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.56534,
+    "lng": -76.08073,
+    "dist": 44.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 340183117,
+    "score": 0
+  },
+  {
+    "id": "sw:homerunbakerpark",
+    "name": "Home Run Baker Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.66312,
+    "lng": -76.06375,
+    "dist": 39.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 397313478,
+    "score": 0
+  },
+  {
+    "id": "sw:idlewildpark",
+    "name": "Idlewild Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.76312,
+    "lng": -76.07243,
+    "dist": 34.2,
+    "description": "Elevation: 9m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 461261488,
+    "score": 0
+  },
+  {
+    "id": "sw:longwharfpark",
+    "name": "Long Wharf Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57565,
+    "lng": -76.07381,
+    "dist": 44.1,
+    "description": "Elevation: 1m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 463363781,
+    "score": 0
+  },
+  {
+    "id": "sw:jedwardwalterpark",
+    "name": "J. Edward Walter Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57146,
+    "lng": -76.08402,
+    "dist": 44.0,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 463363783,
+    "score": 0
+  },
+  {
+    "id": "sw:snowsturnpark",
+    "name": "Snows Turn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.5407,
+    "lng": -76.09918,
+    "dist": 45.4,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 463363789,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneyridgepark",
+    "name": "Stoney Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.75189,
+    "lng": -76.06099,
+    "dist": 35.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 479542194,
+    "score": 0
+  },
+  {
+    "id": "sw:motonpark",
+    "name": "Moton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77169,
+    "lng": -76.08601,
+    "dist": 33.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 479543355,
+    "score": 0
+  },
+  {
+    "id": "sw:friendshippark",
+    "name": "Friendship Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.59683,
+    "lng": -75.92365,
+    "dist": 48.0,
+    "description": "Newly created ( Late 2015 ) park with playground for young children, a 6 table pavillion, 4 tables in the open, a large open grassy field, and over a mile and a half in walking paths that lead in from the sidewalk or the nearby neighborhood housing areas.",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 488122304,
+    "score": 0
+  },
+  {
+    "id": "sw:secretarytownpark",
+    "name": "Secretary Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.61122,
+    "lng": -75.94565,
+    "dist": 46.5,
+    "description": "Playground for up to youn teens, tennis courts, nice pavillion with seating for about 50, nice large stone grill.",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 488135265,
+    "score": 0
+  },
+  {
+    "id": "sw:trappepark",
+    "name": "Trappe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.65652,
+    "lng": -76.05849,
+    "dist": 40.1,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 502720447,
+    "score": 0
+  },
+  {
+    "id": "sw:harrisoncircleplayar",
+    "name": "Harrison Circle Play Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.65691,
+    "lng": -76.06164,
+    "dist": 40.0,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 502720448,
+    "score": 0
+  },
+  {
+    "id": "sw:prestonlionsclubpark",
+    "name": "Preston Lions Club Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70779,
+    "lng": -75.90743,
+    "dist": 43.4,
+    "description": "Elevation: 12m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 553148338,
+    "score": 0
+  },
+  {
+    "id": "sw:totspark",
+    "name": "Tots Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7827,
+    "lng": -76.07723,
+    "dist": 33.1,
+    "description": "Elevation: 9m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 553148339,
+    "score": 0
+  },
+  {
+    "id": "sw:christrockpark",
+    "name": "Christ Rock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.54436,
+    "lng": -76.10569,
+    "dist": 45.0,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 553161769,
+    "score": 0
+  },
+  {
+    "id": "sw:northeastonpark",
+    "name": "North Easton park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79492,
+    "lng": -76.06231,
+    "dist": 33.1,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 553315718,
+    "score": 0
+  },
+  {
+    "id": "sw:backcreekcommunitypa",
+    "name": "Back Creek Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.72221,
+    "lng": -76.33261,
+    "dist": 28.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 556600360,
+    "score": 0
+  },
+  {
+    "id": "sw:oxfordconservationpa",
+    "name": "Oxford Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.68186,
+    "lng": -76.16251,
+    "dist": 35.3,
+    "description": "A Talbot County Passive Recreation Area. Foot and bicycle paths. · Elevation: 1m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 588784503,
+    "score": 0
+  },
+  {
+    "id": "sw:oxfordtownpark",
+    "name": "Oxford Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.68886,
+    "lng": -76.17349,
+    "dist": 34.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593527606,
+    "score": 0
+  },
+  {
+    "id": "sw:grasonvillepark",
+    "name": "Grasonville Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.955,
+    "lng": -76.20999,
+    "dist": 20.2,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 617091937,
+    "score": 0
+  },
+  {
+    "id": "sw:harmonycommunitypark",
+    "name": "Harmony Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77914,
+    "lng": -75.87871,
+    "dist": 41.7,
+    "description": "Elevation: 12m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647594782,
+    "score": 0
+  },
+  {
+    "id": "sw:jonestowncommunitypa",
+    "name": "Jonestown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.73041,
+    "lng": -75.89163,
+    "dist": 43.1,
+    "description": "Elevation: 15m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647596826,
+    "score": 0
+  },
+  {
+    "id": "sw:cordovacommunitypark",
+    "name": "Cordova Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87878,
+    "lng": -75.99663,
+    "dist": 32.8,
+    "description": "Elevation: 12m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647602761,
+    "score": 0
+  },
+  {
+    "id": "sw:wittmanpark",
+    "name": "Wittman Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.7925,
+    "lng": -76.29571,
+    "dist": 25.0,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647607668,
+    "score": 0
+  },
+  {
+    "id": "sw:muskratpark",
+    "name": "Muskrat Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78506,
+    "lng": -76.22265,
+    "dist": 27.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649392894,
+    "score": 0
+  },
+  {
+    "id": "sw:bellevuecommunitypar",
+    "name": "Bellevue Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.70292,
+    "lng": -76.18266,
+    "dist": 33.5,
+    "description": "Elevation: 2m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649398770,
+    "score": 0
+  },
+  {
+    "id": "sw:matthewstownrunpark",
+    "name": "Matthewstown Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78234,
+    "lng": -76.04735,
+    "dist": 34.3,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649428828,
+    "score": 0
+  },
+  {
+    "id": "sw:ianmacmorrellpark",
+    "name": "Ian \"Mac\" Morrell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.79884,
+    "lng": -76.05418,
+    "dist": 33.3,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649431230,
+    "score": 0
+  },
+  {
+    "id": "sw:goltonpark",
+    "name": "Golton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78379,
+    "lng": -76.05391,
+    "dist": 34.0,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649433194,
+    "score": 0
+  },
+  {
+    "id": "sw:mulberrystationpark",
+    "name": "Mulberry Station Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78988,
+    "lng": -76.05493,
+    "dist": 33.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649434719,
+    "score": 0
+  },
+  {
+    "id": "sw:johnffordpark",
+    "name": "John F. Ford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78422,
+    "lng": -76.06544,
+    "dist": 33.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649441394,
+    "score": 0
+  },
+  {
+    "id": "sw:waylandspark",
+    "name": "Waylands Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77491,
+    "lng": -76.04695,
+    "dist": 34.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649442620,
+    "score": 0
+  },
+  {
+    "id": "sw:thompsonpark",
+    "name": "Thompson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77429,
+    "lng": -76.07599,
+    "dist": 33.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649443373,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickdouglasspar",
+    "name": "Frederick Douglass Park on the Tuckahoe",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91287,
+    "lng": -75.95256,
+    "dist": 33.9,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 649454427,
+    "score": 0
+  },
+  {
+    "id": "sw:saintmaryssquare",
+    "name": "Saint Marys Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78353,
+    "lng": -76.22225,
+    "dist": 27.7,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 680644185,
+    "score": 0
+  },
+  {
+    "id": "sw:backcreekpark",
+    "name": "Back Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78103,
+    "lng": -76.22621,
+    "dist": 27.8,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 681193015,
+    "score": 0
+  },
+  {
+    "id": "sw:cranebaptistpark",
+    "name": "Crane Baptist Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.84031,
+    "lng": -75.8576,
+    "dist": 40.6,
+    "description": "Dogs: yes",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 729169112,
+    "score": 0
+  },
+  {
+    "id": "sw:campmardela",
+    "name": "Camp Mardela",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.86016,
+    "lng": -75.83283,
+    "dist": 41.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 729181626,
+    "score": 0
+  },
+  {
+    "id": "sw:olivebranchlodgepark",
+    "name": "Olive Branch Lodge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88715,
+    "lng": -75.82903,
+    "dist": 40.7,
+    "description": "Elevation: 11m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 729228196,
+    "score": 0
+  },
+  {
+    "id": "sw:4thstreetpark",
+    "name": "4th Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8825,
+    "lng": -75.8305,
+    "dist": 40.7,
+    "description": "Denton Community Park · Elevation: 12m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730964533,
+    "score": 0
+  },
+  {
+    "id": "sw:wheelerpark",
+    "name": "Wheeler Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.8906,
+    "lng": -75.8294,
+    "dist": 40.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732211084,
+    "score": 0
+  },
+  {
+    "id": "sw:courseypark",
+    "name": "Coursey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88826,
+    "lng": -75.8269,
+    "dist": 40.8,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732213363,
+    "score": 0
+  },
+  {
+    "id": "sw:sharproadcommunitypa",
+    "name": "Sharp Road Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87255,
+    "lng": -75.82967,
+    "dist": 41.0,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732214000,
+    "score": 0
+  },
+  {
+    "id": "sw:carolinecounty4hclub",
+    "name": "Caroline County 4-H Club and Youth Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.83248,
+    "lng": -75.83426,
+    "dist": 42.0,
+    "description": "Elevation: 14m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 732438515,
+    "score": 0
+  },
+  {
+    "id": "sw:gilpinspointlanding",
+    "name": "Gilpin's Point Landing",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.80978,
+    "lng": -75.89665,
+    "dist": 39.8,
+    "description": "Gilpin's Point Landing",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 737121622,
+    "score": 0
+  },
+  {
+    "id": "sw:southcountyregionalp",
+    "name": "South County Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.72717,
+    "lng": -75.84653,
+    "dist": 45.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 740633160,
+    "score": 0
+  },
+  {
+    "id": "sw:hillsborocommunitypa",
+    "name": "Hillsboro Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.91489,
+    "lng": -75.94081,
+    "dist": 34.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 741158716,
+    "score": 0
+  },
+  {
+    "id": "sw:eastcambridgepark",
+    "name": "East Cambridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.56671,
+    "lng": -76.06836,
+    "dist": 44.8,
+    "description": "Elevation: 5m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 743208476,
+    "score": 0
+  },
+  {
+    "id": "sw:mebamerchantmarineme",
+    "name": "MEBA Merchant Marine Memorial",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77182,
+    "lng": -76.14133,
+    "dist": 31.2,
+    "description": "The MEBA Merchant Marine Memorial Foundation's mission is to support a Memorial that pays tribute to fallen seafarers, their friends and families, and the maritime industry as a whole. This Memorial will provide an opportunity to honor the courageous men",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 884138085,
+    "score": 0
+  },
+  {
+    "id": "sw:wishartpark",
+    "name": "Wishart Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77403,
+    "lng": -76.09551,
+    "dist": 32.8,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 983724380,
+    "score": 0
+  },
+  {
+    "id": "sw:collisonpark",
+    "name": "Collison Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77063,
+    "lng": -76.09883,
+    "dist": 32.8,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 983724383,
+    "score": 0
+  },
+  {
+    "id": "sw:vickerspark",
+    "name": "Vicker's Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.76902,
+    "lng": -76.09709,
+    "dist": 32.9,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 983724397,
+    "score": 0
+  },
+  {
+    "id": "sw:brohawnpark",
+    "name": "Brohawn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.5989,
+    "lng": -75.92936,
+    "dist": 47.7,
+    "description": "Playground for toddlers, Tennis court, Baseball field, small 1 table pavillion. Basketball hoop. Nice view of the water tower.",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1069798577,
+    "score": 0
+  },
+  {
+    "id": "sw:eastonpointpark",
+    "name": "Easton Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.77314,
+    "lng": -76.09048,
+    "dist": 33.0,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1192223878,
+    "score": 0
+  },
+  {
+    "id": "sw:billburtonfishingpie",
+    "name": "Bill Burton Fishing Pier State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.58158,
+    "lng": -76.05243,
+    "dist": 44.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234599,
+    "score": 0
+  },
+  {
+    "id": "sw:sailwindspark",
+    "name": "Sailwinds Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.57196,
+    "lng": -76.06689,
+    "dist": 44.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9036949,
+    "score": 0
+  },
+  {
+    "id": "sw:kronsbergpark",
+    "name": "Kronsberg Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.71525,
+    "lng": -76.33603,
+    "dist": 28.9,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13021166,
+    "score": 0
+  },
+  {
+    "id": "sw:horseheadfarmwildlif",
+    "name": "Horsehead Farm Wildlife Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.95005,
+    "lng": -76.23159,
+    "dist": 19.4,
+    "description": "Elevation: 2m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13456094,
+    "score": 0
+  },
+  {
+    "id": "sw:clintsbradleypark",
+    "name": "Clint S. Bradley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.78516,
+    "lng": -76.22974,
+    "dist": 27.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 15614379,
+    "score": 0
+  },
+  {
+    "id": "sw:saintmichaelshistori",
+    "name": "Saint Michaels Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.78474,
+    "lng": -76.2242,
+    "dist": 27.6,
+    "description": "Elevation: 3m · Historic: district",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358242398,
+    "score": 0
+  },
+  {
+    "id": "sw:boydfarmponddam",
+    "name": "Boyd Farm Pond Dam",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91806,
+    "lng": -76.07492,
+    "dist": 27.8,
+    "description": "Elevation: 12m · Historic: yes",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358243525,
+    "score": 0
+  },
+  {
+    "id": "sw:carolinecountyvocati",
+    "name": "Caroline County Vocational Center",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.90789,
+    "lng": -75.84577,
+    "dist": 39.3,
+    "description": "Elevation: 14m · Historic: school",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244082,
+    "score": 0
+  },
+  {
+    "id": "sw:cambridgehistoricdis",
+    "name": "Cambridge Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.57817,
+    "lng": -76.08355,
+    "dist": 43.7,
+    "description": "Elevation: 6m · Historic: district",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244495,
+    "score": 0
+  },
+  {
+    "id": "sw:eastnewmarkethistori",
+    "name": "East New Market Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.59901,
+    "lng": -75.92577,
+    "dist": 47.8,
+    "description": "Elevation: 12m · Historic: district",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244535,
+    "score": 0
+  },
+  {
+    "id": "sw:spocottwindmill",
+    "name": "Spocott Windmill",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.58846,
+    "lng": -76.18165,
+    "dist": 40.3,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2570927186,
+    "score": 0
+  },
+  {
+    "id": "sw:johnfkennedy",
+    "name": "John F. Kennedy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.57186,
+    "lng": -76.07596,
+    "dist": 44.2,
+    "description": "Historic: monument",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3466385601,
+    "score": 0
+  },
+  {
+    "id": "sw:tom",
+    "name": "Tom",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.77658,
+    "lng": -76.07317,
+    "dist": 33.5,
+    "description": "Historic: monument",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4357479032,
+    "score": 0
+  },
+  {
+    "id": "sw:colonelrichardsonsto",
+    "name": "Colonel Richardson's Tomb",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8099,
+    "lng": -75.89678,
+    "dist": 39.8,
+    "description": "Historic: tomb",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6913559150,
+    "score": 0
+  },
+  {
+    "id": "sw:coveyslanding",
+    "name": "Coveys Landing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87252,
+    "lng": -75.94464,
+    "dist": 35.4,
+    "description": "Historic: River Landing",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6940427199,
+    "score": 0
+  },
+  {
+    "id": "sw:waymanwharf",
+    "name": "Wayman Wharf",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88847,
+    "lng": -75.94193,
+    "dist": 35.1,
+    "description": "Wayman’s Wharf · Historic: River Landing",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6940433849,
+    "score": 0
+  },
+  {
+    "id": "sw:reeselanding",
+    "name": "Reese Landing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83931,
+    "lng": -75.92884,
+    "dist": 37.3,
+    "description": "Historic: River Landing",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6940502156,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesdickensongrav",
+    "name": "Charles Dickenson Grave Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.76182,
+    "lng": -75.87769,
+    "dist": 42.4,
+    "description": "Historic: tomb",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6986287028,
+    "score": 0
+  },
+  {
+    "id": "sw:tuckahoefriendsmeeti",
+    "name": "Tuckahoe Friends Meeting House Burying Ground",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82525,
+    "lng": -75.95305,
+    "dist": 36.7,
+    "description": "Tuckahoe Friends Meeting House Burying Ground · Historic: grave",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7014760331,
+    "score": 0
+  },
+  {
+    "id": "sw:plaindealing",
+    "name": "Plain Dealing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.72562,
+    "lng": -76.17431,
+    "dist": 32.5,
+    "description": "Historic: farm",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7022167053,
+    "score": 0
+  },
+  {
+    "id": "sw:oldwomansfolly",
+    "name": "Old Woman's Folly",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.72936,
+    "lng": -76.20765,
+    "dist": 31.2,
+    "description": "Historic: farm",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7022181897,
+    "score": 0
+  },
+  {
+    "id": "sw:hardcastlemillhouse",
+    "name": "Hardcastle Mill House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93102,
+    "lng": -75.8347,
+    "dist": 39.4,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7029302132,
+    "score": 0
+  },
+  {
+    "id": "sw:williamstillcenterfa",
+    "name": "William Still Center Families Divided & United Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83286,
+    "lng": -75.83514,
+    "dist": 41.9,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9858838951,
+    "score": 0
+  },
+  {
+    "id": "sw:wyeisland",
+    "name": "Wye Island",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91494,
+    "lng": -76.12441,
+    "dist": 25.6,
+    "description": "Historic: memorial",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13343642144,
+    "score": 0
+  },
+  {
+    "id": "sw:historichollytree",
+    "name": "Historic Holly Tree",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89168,
+    "lng": -76.16091,
+    "dist": 24.8,
+    "description": "Historic: tree",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13346641393,
+    "score": 0
+  },
+  {
+    "id": "sw:blackwaterareaeast",
+    "name": "Blackwater Area - East",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.52408,
+    "lng": -76.0964,
+    "dist": 46.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894245,
+    "score": 0
+  },
+  {
+    "id": "sw:blackwaterareawest",
+    "name": "Blackwater Area - West",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.51465,
+    "lng": -76.10775,
+    "dist": 46.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894246,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforest",
+    "name": "Chesapeake Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.60057,
+    "lng": -75.83425,
+    "dist": 51.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894477,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakforestmerri",
+    "name": "Chesapeak Forest - Merrikan Gordy Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.80068,
+    "lng": -75.74304,
+    "dist": 47.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894771,
+    "score": 0
+  },
+  {
+    "id": "sw:longswamp",
+    "name": "Long Swamp",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.735,
+    "lng": -75.77247,
+    "dist": 48.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314895156,
+    "score": 0
+  },
+  {
+    "id": "sw:shilohlookouttower",
+    "name": "Shiloh Lookout Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.59125,
+    "lng": -75.8851,
+    "dist": 49.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929985,
+    "score": 0
+  },
+  {
+    "id": "sw:ewingball",
+    "name": "Ewing - Ball",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.72915,
+    "lng": -76.03866,
+    "dist": 37.1,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930018,
+    "score": 0
+  },
+  {
+    "id": "sw:linkwoodwildlifemana",
+    "name": "Linkwood Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.53632,
+    "lng": -75.92433,
+    "dist": 51.1,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930043,
+    "score": 0
+  },
+  {
+    "id": "sw:malickconservationre",
+    "name": "Malick Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.71323,
+    "lng": -75.82594,
+    "dist": 46.7,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930047,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestseth",
+    "name": "Chesapeake Forest - Seth Demonstration Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.74884,
+    "lng": -76.03753,
+    "dist": 36.2,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930074,
+    "score": 0
+  },
+  {
+    "id": "sw:blackwalnutpointnatu",
+    "name": "Black Walnut Point Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.67522,
+    "lng": -76.34072,
+    "dist": 31.4,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948782,
+    "score": 0
+  },
+  {
+    "id": "sw:wyehouse",
+    "name": "Wye House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.8534,
+    "lng": -76.16823,
+    "dist": 26.2,
+    "description": "Historic: manor",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 465967157,
+    "score": 0
+  },
+  {
+    "id": "sw:pungyshipwreck",
+    "name": "Pungy Shipwreck",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.85966,
+    "lng": -75.83923,
+    "dist": 40.9,
+    "description": "Pungy Pavilion · Historic: ship",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 715997587,
+    "score": 0
+  },
+  {
+    "id": "sw:willistonmill",
+    "name": "Williston Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82922,
+    "lng": -75.84732,
+    "dist": 41.5,
+    "description": "A historic mill that was destroyed by a fire in 2014. · Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 729531000,
+    "score": 0
+  },
+  {
+    "id": "sw:millershouse",
+    "name": "Miller's House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82965,
+    "lng": -75.84735,
+    "dist": 41.5,
+    "description": "Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 729531582,
+    "score": 0
+  },
+  {
+    "id": "sw:tuckahoeneckmeetingh",
+    "name": "Tuckahoe Neck Meeting House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.89194,
+    "lng": -75.84305,
+    "dist": 39.9,
+    "description": "Historic: church",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730422424,
+    "score": 0
+  },
+  {
+    "id": "sw:memorylane",
+    "name": "Memory Lane",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83085,
+    "lng": -75.84811,
+    "dist": 41.4,
+    "description": "Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730431697,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandsteamboatcom",
+    "name": "Maryland Steamboat Company",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88834,
+    "lng": -75.83951,
+    "dist": 40.1,
+    "description": "Maryland Steamboat Company's Joppa Wharf · Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730444614,
+    "score": 0
+  },
+  {
+    "id": "sw:linchestermill",
+    "name": "Linchester Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.70073,
+    "lng": -75.89742,
+    "dist": 44.1,
+    "description": "Historic: watermill",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 730967407,
+    "score": 0
+  },
+  {
+    "id": "sw:webbcabin",
+    "name": "Webb Cabin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.75547,
+    "lng": -75.89286,
+    "dist": 42.0,
+    "description": "Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 735029800,
+    "score": 0
+  },
+  {
+    "id": "sw:smithsonchapel",
+    "name": "Smithson Chapel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.76541,
+    "lng": -75.93132,
+    "dist": 39.9,
+    "description": "Elevation: 12m · Historic: church",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 738224758,
+    "score": 0
+  },
+  {
+    "id": "sw:kerrhouse",
+    "name": "Kerr House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87721,
+    "lng": -75.82831,
+    "dist": 41.0,
+    "description": "Birthplace of the famous writer, Sophie Kerr. · Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 738515705,
+    "score": 0
+  },
+  {
+    "id": "sw:wyehall",
+    "name": "Wye Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.88903,
+    "lng": -76.1185,
+    "dist": 26.8,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 738697726,
+    "score": 0
+  },
+  {
+    "id": "sw:friendshiphall",
+    "name": "Friendship Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.59485,
+    "lng": -75.92393,
+    "dist": 48.1,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 739436792,
+    "score": 0
+  },
+  {
+    "id": "sw:potterhall",
+    "name": "Potter Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83119,
+    "lng": -75.8537,
+    "dist": 41.1,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 741717559,
+    "score": 0
+  },
+  {
+    "id": "sw:daffinhouse",
+    "name": "Daffin House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.87523,
+    "lng": -75.92834,
+    "dist": 36.1,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 746524447,
+    "score": 0
+  },
+  {
+    "id": "sw:castlebury",
+    "name": "Castlebury",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93922,
+    "lng": -75.84204,
+    "dist": 38.8,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 746533396,
+    "score": 0
+  },
+  {
+    "id": "sw:trothsfortune",
+    "name": "Troth's Fortune",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.76324,
+    "lng": -75.99644,
+    "dist": 37.2,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 751064245,
+    "score": 0
+  },
+  {
+    "id": "sw:sandomingo",
+    "name": "San Domingo",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.77905,
+    "lng": -76.23495,
+    "dist": 27.6,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 751068353,
+    "score": 0
+  },
+  {
+    "id": "sw:hopehouse",
+    "name": "Hope House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83232,
+    "lng": -76.18771,
+    "dist": 26.4,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 751076121,
+    "score": 0
+  },
+  {
+    "id": "sw:oremsdelight",
+    "name": "Orems Delight",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.68616,
+    "lng": -76.20269,
+    "dist": 33.9,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 754040075,
+    "score": 0
+  },
+  {
+    "id": "sw:perryhall",
+    "name": "Perry Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.76701,
+    "lng": -76.15404,
+    "dist": 30.9,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 760861384,
+    "score": 0
+  },
+  {
+    "id": "sw:grosscoate",
+    "name": "Gross Coate",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.86055,
+    "lng": -76.15534,
+    "dist": 26.4,
+    "description": "Historic: house",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1015707796,
+    "score": 0
+  },
+  {
+    "id": "sw:millcreekwildlifesan",
+    "name": "Mill Creek Wildlife Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.91576,
+    "lng": -76.06864,
+    "dist": 28.1,
+    "description": "Elevation: 7m",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1067514292,
+    "score": 0
+  },
+  {
+    "id": "sw:willistonmillhistori",
+    "name": "Williston Mill Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82942,
+    "lng": -75.84726,
+    "dist": 41.5,
+    "description": "Historic: district",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1070080103,
+    "score": 0
+  },
+  {
+    "id": "sw:williamstillinterpre",
+    "name": "William Still Interpretive Center",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.83294,
+    "lng": -75.83591,
+    "dist": 41.9,
+    "description": "Historic: building",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1074902837,
+    "score": 0
+  },
+  {
+    "id": "sw:pickeringcreekaudubo",
+    "name": "Pickering Creek Audubon Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.86026,
+    "lng": -76.12278,
+    "dist": 27.8,
+    "description": "Dogs: no",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1252610759,
+    "score": 0
+  },
+  {
+    "id": "sw:centaurcastle",
+    "name": "Centaur Castle",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.80548,
+    "lng": -76.19775,
+    "dist": 27.4,
+    "description": "Historic: castle",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1455325998,
+    "score": 0
+  },
+  {
+    "id": "sw:wyeislandnaturalreso",
+    "name": "Wye Island Natural Resources Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.88829,
+    "lng": -76.14633,
+    "dist": 25.6,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4233420,
+    "score": 0
+  },
+  {
+    "id": "sw:glatfeltereasement",
+    "name": "Glatfelter Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.47986,
+    "lng": -76.20476,
+    "dist": 46.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234052,
+    "score": 0
+  },
+  {
+    "id": "sw:idylwildwildlifemana",
+    "name": "Idylwild Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.72914,
+    "lng": -75.74708,
+    "dist": 49.6,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234056,
+    "score": 0
+  },
+  {
+    "id": "sw:johnsaytontreenurser",
+    "name": "John S. Ayton Tree Nursery",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.7004,
+    "lng": -75.87403,
+    "dist": 45.1,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234058,
+    "score": 0
+  },
+  {
+    "id": "sw:easternshorelandcons",
+    "name": "Eastern Shore Land Conservancy - Canton Farm Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.78424,
+    "lng": -76.23372,
+    "dist": 27.3,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234605,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestmars",
+    "name": "Chesapeake Forest - Marshy Hope Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.62757,
+    "lng": -75.79741,
+    "dist": 51.5,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9799377,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestmess",
+    "name": "Chesapeake Forest - Messenger Branch Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.72165,
+    "lng": -75.74845,
+    "dist": 49.8,
+    "description": "",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9799378,
+    "score": 0
+  },
+  {
+    "id": "sw:choptankwetlandshogn",
+    "name": "Choptank Wetlands - Hog Neck",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.72934,
+    "lng": -76.00464,
+    "dist": 38.4,
+    "description": "Privately owned",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 10344390,
+    "score": 0
+  },
+  {
+    "id": "sw:choptankwetlandsking",
+    "name": "Choptank Wetlands - Kings Creek",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.77097,
+    "lng": -75.97958,
+    "dist": 37.6,
+    "description": "Privately owned",
+    "zone": "Eastern Shore Central",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 10354075,
+    "score": 0
+  },
+  {
+    "id": "sw:mountvernonbeach",
+    "name": "Mount Vernon Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.24679,
+    "lng": -75.83632,
+    "dist": 70.1,
+    "description": "Elevation: 2m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239546,
+    "score": 0
+  },
+  {
+    "id": "sw:deliahill",
+    "name": "Delia Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.43067,
+    "lng": -75.9091,
+    "dist": 57.4,
+    "description": "Elevation: 3m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241506,
+    "score": 0
+  },
+  {
+    "id": "sw:ryleshill",
+    "name": "Ryles Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.32373,
+    "lng": -75.87938,
+    "dist": 64.4,
+    "description": "Elevation: 4m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241624,
+    "score": 0
+  },
+  {
+    "id": "sw:sandhill",
+    "name": "Sand Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.46234,
+    "lng": -75.99438,
+    "dist": 53.0,
+    "description": "Elevation: 4m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241629,
+    "score": 0
+  },
+  {
+    "id": "sw:sandyhillbeach",
+    "name": "Sandy Hill Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.35456,
+    "lng": -75.85382,
+    "dist": 63.4,
+    "description": "Elevation: 0m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246141,
+    "score": 0
+  },
+  {
+    "id": "sw:covepointbeach",
+    "name": "Cove Point Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.38123,
+    "lng": -76.38717,
+    "dist": 50.5,
+    "description": "Elevation: 1m",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246650,
+    "score": 0
+  },
+  {
+    "id": "sw:eaglenestingsite",
+    "name": "Eagle Nesting Site",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.43742,
+    "lng": -76.09324,
+    "dist": 51.8,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4604210075,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarhillpark",
+    "name": "Cedar Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.3115,
+    "lng": -75.88829,
+    "dist": 64.9,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589352132,
+    "score": 0
+  },
+  {
+    "id": "sw:mardelaspringspark",
+    "name": "Mardela Springs Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.46244,
+    "lng": -75.75668,
+    "dist": 61.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589356496,
+    "score": 0
+  },
+  {
+    "id": "sw:sandomingopark",
+    "name": "San Domingo Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.50201,
+    "lng": -75.72496,
+    "dist": 60.2,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589358986,
+    "score": 0
+  },
+  {
+    "id": "sw:wetipquinpark",
+    "name": "Wetipquin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.32619,
+    "lng": -75.86694,
+    "dist": 64.6,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589546600,
+    "score": 0
+  },
+  {
+    "id": "sw:mountvernonpark",
+    "name": "Mount Vernon Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.24503,
+    "lng": -75.83062,
+    "dist": 70.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647937966,
+    "score": 0
+  },
+  {
+    "id": "sw:roaringpointpark",
+    "name": "Roaring Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.26571,
+    "lng": -75.91579,
+    "dist": 66.8,
+    "description": "33 acres",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 742501815,
+    "score": 0
+  },
+  {
+    "id": "sw:pirateswharfpark",
+    "name": "Pirate's Wharf Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.31968,
+    "lng": -75.75095,
+    "dist": 68.7,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1446807309,
+    "score": 0
+  },
+  {
+    "id": "sw:whitehavenhistoricdi",
+    "name": "Whitehaven Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.2694,
+    "lng": -75.79103,
+    "dist": 70.2,
+    "description": "Elevation: 1m · Historic: district",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246164,
+    "score": 0
+  },
+  {
+    "id": "sw:theferryhouse",
+    "name": "The Ferry House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.48395,
+    "lng": -75.82305,
+    "dist": 57.4,
+    "description": "Elevation: 3m · Historic: building",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367799335,
+    "score": 0
+  },
+  {
+    "id": "sw:governorhickshouse",
+    "name": "Governor Hicks House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.48205,
+    "lng": -75.82483,
+    "dist": 57.5,
+    "description": "Elevation: 3m · Historic: building",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367799382,
+    "score": 0
+  },
+  {
+    "id": "sw:hooperislandlight",
+    "name": "Hooper Island Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.25625,
+    "lng": -76.24979,
+    "dist": 60.5,
+    "description": "Historic: yes",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5685312478,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestinsl",
+    "name": "Chesapeake Forest - Insley Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.33204,
+    "lng": -76.11705,
+    "dist": 57.9,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894244,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestfair",
+    "name": "Chesapeake Forest - Fair Meadow Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.26834,
+    "lng": -75.88232,
+    "dist": 67.6,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894256,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestaugh",
+    "name": "Chesapeake Forest - Aughty Naughty Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.48813,
+    "lng": -75.73002,
+    "dist": 60.7,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894275,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestlath",
+    "name": "Chesapeake Forest - Lathrop Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.48788,
+    "lng": -75.7914,
+    "dist": 58.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894307,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestgree",
+    "name": "Chesapeake Forest - Greenhill (North) Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.33076,
+    "lng": -75.79955,
+    "dist": 66.5,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894335,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestatho",
+    "name": "Chesapeake Forest - Athol Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.43059,
+    "lng": -75.76222,
+    "dist": 62.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894359,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforesthoer",
+    "name": "Chesapeake Forest - Hoernicke Oliphant Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.46388,
+    "lng": -75.85372,
+    "dist": 57.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894509,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestbaum",
+    "name": "Chesapeake Forest - Baumgarthner-Southam Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.39928,
+    "lng": -75.90189,
+    "dist": 59.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894515,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestgree",
+    "name": "Chesapeake Forest - Greenhill (South) Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.3144,
+    "lng": -75.7829,
+    "dist": 67.9,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314894800,
+    "score": 0
+  },
+  {
+    "id": "sw:hensonscoutreservati",
+    "name": "Henson Scout Reservation",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.54847,
+    "lng": -75.74953,
+    "dist": 57.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929989,
+    "score": 0
+  },
+  {
+    "id": "sw:chiconecreekheritage",
+    "name": "Chicone Creek Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.51575,
+    "lng": -75.81562,
+    "dist": 56.1,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314929996,
+    "score": 0
+  },
+  {
+    "id": "sw:lecomptewildlifemana",
+    "name": "Lecompte Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.45781,
+    "lng": -75.88263,
+    "dist": 56.8,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930042,
+    "score": 0
+  },
+  {
+    "id": "sw:lowermarshyhopeswamp",
+    "name": "Lower Marshyhope Swamp Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.56137,
+    "lng": -75.77907,
+    "dist": 55.3,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930044,
+    "score": 0
+  },
+  {
+    "id": "sw:mowbreyfarmconservat",
+    "name": "Mowbrey Farm Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.48136,
+    "lng": -75.95781,
+    "dist": 53.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930054,
+    "score": 0
+  },
+  {
+    "id": "sw:nanticokeriverwildli",
+    "name": "Nanticoke River Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.31514,
+    "lng": -75.817,
+    "dist": 66.8,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930057,
+    "score": 0
+  },
+  {
+    "id": "sw:sharptowndunesakaplu",
+    "name": "Sharptown Dunes (Aka Plum Creek) Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.53368,
+    "lng": -75.73656,
+    "dist": 58.3,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930082,
+    "score": 0
+  },
+  {
+    "id": "sw:bartosheskyconservat",
+    "name": "Bartoshesky Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.39752,
+    "lng": -75.81442,
+    "dist": 62.3,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314942288,
+    "score": 0
+  },
+  {
+    "id": "sw:savannahlakeadkinshe",
+    "name": "Savannah Lake (Adkins) Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.38846,
+    "lng": -75.90216,
+    "dist": 60.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314942289,
+    "score": 0
+  },
+  {
+    "id": "sw:savannahlakelodgeher",
+    "name": "Savannah Lake Lodge Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.38194,
+    "lng": -75.91491,
+    "dist": 60.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314942290,
+    "score": 0
+  },
+  {
+    "id": "sw:westonfarmsconservat",
+    "name": "Weston Farms Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.39558,
+    "lng": -75.87561,
+    "dist": 60.4,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314942291,
+    "score": 0
+  },
+  {
+    "id": "sw:burnettconservationr",
+    "name": "Burnett Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.43278,
+    "lng": -75.74153,
+    "dist": 63.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948785,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgeton",
+    "name": "Ridgeton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.46135,
+    "lng": -76.30641,
+    "dist": 46.0,
+    "description": "Elevation: 1m · Historic: house",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 749345769,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestlewi",
+    "name": "Chesapeake Forest - Lewis Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.42352,
+    "lng": -75.89556,
+    "dist": 58.2,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4233179,
+    "score": 0
+  },
+  {
+    "id": "sw:allenrobertwandcheri",
+    "name": "Allen, Robert W. And Cherilyn Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.51604,
+    "lng": -75.97337,
+    "dist": 50.6,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234030,
+    "score": 0
+  },
+  {
+    "id": "sw:harringtonconservati",
+    "name": "Harrington Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.51605,
+    "lng": -75.97672,
+    "dist": 50.5,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234055,
+    "score": 0
+  },
+  {
+    "id": "sw:fishingbaywildlifema",
+    "name": "Fishing Bay Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.32999,
+    "lng": -75.98513,
+    "dist": 61.1,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234426,
+    "score": 0
+  },
+  {
+    "id": "sw:miscellaneouspropert",
+    "name": "Miscellaneous Properties - Eastern Region",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.40067,
+    "lng": -75.72563,
+    "dist": 65.2,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234427,
+    "score": 0
+  },
+  {
+    "id": "sw:wallerconservationre",
+    "name": "Waller Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.37061,
+    "lng": -75.74946,
+    "dist": 66.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234429,
+    "score": 0
+  },
+  {
+    "id": "sw:dealislandwildlifema",
+    "name": "Deal Island Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.17414,
+    "lng": -75.8706,
+    "dist": 73.5,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234603,
+    "score": 0
+  },
+  {
+    "id": "sw:ellisbaywildlifemana",
+    "name": "Ellis Bay Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.2558,
+    "lng": -75.86364,
+    "dist": 68.8,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234606,
+    "score": 0
+  },
+  {
+    "id": "sw:goodluckfarmsconserv",
+    "name": "Good Luck Farms Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.49499,
+    "lng": -76.05981,
+    "dist": 49.2,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234610,
+    "score": 0
+  },
+  {
+    "id": "sw:taylorsislandwildlif",
+    "name": "Taylor's Island Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.43117,
+    "lng": -76.25268,
+    "dist": 48.9,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234638,
+    "score": 0
+  },
+  {
+    "id": "sw:bishopsheadmarshgame",
+    "name": "Bishops Head Marsh Game Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.22865,
+    "lng": -76.04756,
+    "dist": 65.9,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4237278,
+    "score": 0
+  },
+  {
+    "id": "sw:blackwaternationalwi",
+    "name": "Blackwater National Wildlife Refuge",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.84929,
+    "lng": -76.00807,
+    "dist": 33.3,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4237279,
+    "score": 0
+  },
+  {
+    "id": "sw:frankmewingrobinsonn",
+    "name": "Frank M. Ewing/Robinson Neck Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.43826,
+    "lng": -76.26921,
+    "dist": 48.1,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6873371,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestbesl",
+    "name": "Chesapeake Forest: Besley And Rodgers",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.43525,
+    "lng": -76.27391,
+    "dist": 48.3,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6873372,
+    "score": 0
+  },
+  {
+    "id": "sw:harriettubmanundergr",
+    "name": "Harriet Tubman Underground Railroad State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.44903,
+    "lng": -76.13849,
+    "dist": 50.0,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6875343,
+    "score": 0
+  },
+  {
+    "id": "sw:harriettubmanundergr",
+    "name": "Harriet Tubman Underground Railroad National Monument",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.4819,
+    "lng": -76.24708,
+    "dist": 45.7,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6876569,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakeforestbesl",
+    "name": "Chesapeake Forest - Besley and Rodgers Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.35182,
+    "lng": -76.11618,
+    "dist": 56.6,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9799376,
+    "score": 0
+  },
+  {
+    "id": "sw:nanticokeriverpreser",
+    "name": "Nanticoke River Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.55751,
+    "lng": -75.77873,
+    "dist": 55.5,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 10274897,
+    "score": 0
+  },
+  {
+    "id": "sw:tarbaywildlifemanage",
+    "name": "Tar Bay Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.34037,
+    "lng": -76.25649,
+    "dist": 54.8,
+    "description": "",
+    "zone": "Eastern Shore South",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11882756,
+    "score": 0
+  },
+  {
     "id": "sw:seahorsebeach",
     "name": "Seahorse Beach",
     "type": "water",
@@ -15540,24 +26417,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 158361017,
-    "score": 0
-  },
-  {
-    "id": "sw:covepointbeach",
-    "name": "Cove Point Beach",
-    "type": "water",
-    "tags": [
-      "water",
-      "scenic"
-    ],
-    "lat": 38.38123,
-    "lng": -76.38717,
-    "dist": 50.5,
-    "description": "Elevation: 1m",
-    "zone": "Southern Maryland",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358246650,
     "score": 0
   },
   {
@@ -15577,24 +26436,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 358246656,
-    "score": 0
-  },
-  {
-    "id": "sw:overlook",
-    "name": "Overlook",
-    "type": "viewpoint",
-    "tags": [
-      "viewpoint",
-      "scenic"
-    ],
-    "lat": 38.40778,
-    "lng": -76.41305,
-    "dist": 48.5,
-    "description": "",
-    "zone": "Southern Maryland",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 8719895556,
     "score": 0
   },
   {
@@ -16354,24 +27195,6 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:fountainpark",
-    "name": "Fountain Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 38.61944,
-    "lng": -76.93137,
-    "dist": 39.7,
-    "description": "",
-    "zone": "Southern Maryland",
-    "osmTags": {},
-    "osmType": "way",
-    "osmId": 544764084,
-    "score": 0
-  },
-  {
     "id": "sw:saintlinuspark",
     "name": "Saint Linus Park",
     "type": "park",
@@ -16930,24 +27753,6 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:kronsbergpark",
-    "name": "Kronsberg Park",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature"
-    ],
-    "lat": 38.71525,
-    "lng": -76.33603,
-    "dist": 28.9,
-    "description": "",
-    "zone": "Southern Maryland",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 13021166,
-    "score": 0
-  },
-  {
     "id": "sw:wardfarmrecreationan",
     "name": "Ward Farm Recreation and Nature Park",
     "type": "park",
@@ -17053,6 +27858,3593 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "relation",
     "osmId": 18000819,
+    "score": 0
+  },
+  {
+    "id": "sw:bryantownhistoricdis",
+    "name": "Bryantown Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.55457,
+    "lng": -76.84247,
+    "dist": 41.4,
+    "description": "Elevation: 44m · Historic: district",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358246854,
+    "score": 0
+  },
+  {
+    "id": "sw:charlottehallhistori",
+    "name": "Charlotte Hall Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.47318,
+    "lng": -76.77497,
+    "dist": 45.5,
+    "description": "Elevation: 53m · Historic: district",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358247582,
+    "score": 0
+  },
+  {
+    "id": "sw:indianvillage",
+    "name": "Indian Village",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.40038,
+    "lng": -76.51177,
+    "dist": 48.6,
+    "description": "Historic: archaeological site",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2980397083,
+    "score": 0
+  },
+  {
+    "id": "sw:kingsreachsite",
+    "name": "Kings Reach Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.40211,
+    "lng": -76.51179,
+    "dist": 48.5,
+    "description": "Historic: archaeological site",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2980397095,
+    "score": 0
+  },
+  {
+    "id": "sw:stemssite",
+    "name": "Stems Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.40126,
+    "lng": -76.51266,
+    "dist": 48.5,
+    "description": "Historic: archaeological site",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2980397103,
+    "score": 0
+  },
+  {
+    "id": "sw:smithsstleonardsite",
+    "name": "Smith's St. Leonard Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.39145,
+    "lng": -76.50903,
+    "dist": 49.2,
+    "description": "Historic: archaeological site",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2980400205,
+    "score": 0
+  },
+  {
+    "id": "sw:sharpsislandlight",
+    "name": "Sharps Island Light",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.63914,
+    "lng": -76.37572,
+    "dist": 33.2,
+    "description": "Historic: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4769080482,
+    "score": 0
+  },
+  {
+    "id": "sw:boarmanmemorial",
+    "name": "Boarman Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.4341,
+    "lng": -76.91054,
+    "dist": 50.5,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5325732430,
+    "score": 0
+  },
+  {
+    "id": "sw:saintfrancisofassisi",
+    "name": "Saint Francis of Assisi",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.43377,
+    "lng": -76.91002,
+    "dist": 50.5,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5325753442,
+    "score": 0
+  },
+  {
+    "id": "sw:tothosewhofishedtheb",
+    "name": "To Those Who Fished The Bay And Built Their Boats",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.32414,
+    "lng": -76.46112,
+    "dist": 54.0,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8999859417,
+    "score": 0
+  },
+  {
+    "id": "sw:glendeningwalkingtra",
+    "name": "Glendening Walking Trails at Jug Bay Nature Preserve",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.79359,
+    "lng": -76.69616,
+    "dist": 23.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9000030819,
+    "score": 0
+  },
+  {
+    "id": "sw:molldyerrock",
+    "name": "Moll Dyer Rock",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.28838,
+    "lng": -76.6342,
+    "dist": 56.6,
+    "description": "Historic: stone",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9133218910,
+    "score": 0
+  },
+  {
+    "id": "sw:jcloresonsoysterhous",
+    "name": "J.C. Lore & Sons Oyster House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.32419,
+    "lng": -76.46084,
+    "dist": 54.0,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9556706492,
+    "score": 0
+  },
+  {
+    "id": "sw:solomonsisland",
+    "name": "Solomon’s Island",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.32429,
+    "lng": -76.46106,
+    "dist": 54.0,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9556722797,
+    "score": 0
+  },
+  {
+    "id": "sw:mmdavisshipyard",
+    "name": "M.M. Davis Shipyard",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.32225,
+    "lng": -76.45964,
+    "dist": 54.1,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9557508945,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakebiological",
+    "name": "Chesapeake Biological Laboratory",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.31808,
+    "lng": -76.4533,
+    "dist": 54.5,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12945631652,
+    "score": 0
+  },
+  {
+    "id": "sw:drumpointlighthouse",
+    "name": "Drum Point Lighthouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.33137,
+    "lng": -76.46518,
+    "dist": 53.5,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12945679410,
+    "score": 0
+  },
+  {
+    "id": "sw:historiccroomairport",
+    "name": "Historic Croom Airport",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.75372,
+    "lng": -76.70522,
+    "dist": 25.9,
+    "description": "Historic: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 230396470,
+    "score": 0
+  },
+  {
+    "id": "sw:formerrowlandpropert",
+    "name": "Former Rowland Property",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.32742,
+    "lng": -76.63456,
+    "dist": 53.9,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930027,
+    "score": 0
+  },
+  {
+    "id": "sw:josephmanninghatcher",
+    "name": "Joseph Manning Hatchery",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.6359,
+    "lng": -76.83664,
+    "dist": 36.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314930049,
+    "score": 0
+  },
+  {
+    "id": "sw:billingsleynaturalre",
+    "name": "Billingsley Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.79452,
+    "lng": -76.71978,
+    "dist": 23.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948781,
+    "score": 0
+  },
+  {
+    "id": "sw:cheltenhamwildlifema",
+    "name": "Cheltenham Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.73785,
+    "lng": -76.82019,
+    "dist": 29.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948793,
+    "score": 0
+  },
+  {
+    "id": "sw:croomnaturalresource",
+    "name": "Croom Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.75497,
+    "lng": -76.72383,
+    "dist": 26.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948799,
+    "score": 0
+  },
+  {
+    "id": "sw:fullmillbranchnatura",
+    "name": "Full Mill Branch Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.65716,
+    "lng": -76.69223,
+    "dist": 32.0,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948804,
+    "score": 0
+  },
+  {
+    "id": "sw:greenwellstatepark",
+    "name": "Greenwell State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.36584,
+    "lng": -76.53079,
+    "dist": 51.0,
+    "description": "Elevation: 9m",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948805,
+    "score": 0
+  },
+  {
+    "id": "sw:hallcreeknaturalreso",
+    "name": "Hall Creek Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.69866,
+    "lng": -76.68965,
+    "dist": 29.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948807,
+    "score": 0
+  },
+  {
+    "id": "sw:kingslandingnaturalr",
+    "name": "Kings Landing Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.61808,
+    "lng": -76.66806,
+    "dist": 34.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948817,
+    "score": 0
+  },
+  {
+    "id": "sw:maxwellhallnaturalre",
+    "name": "Maxwell Hall Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.5337,
+    "lng": -76.6923,
+    "dist": 40.3,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948827,
+    "score": 0
+  },
+  {
+    "id": "sw:mollyslegdredgespoil",
+    "name": "Mollys Leg Dredge Spoil",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.32244,
+    "lng": -76.45465,
+    "dist": 54.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948829,
+    "score": 0
+  },
+  {
+    "id": "sw:pineybranchbogherita",
+    "name": "Piney Branch Bog Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.57154,
+    "lng": -76.89635,
+    "dist": 41.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948835,
+    "score": 0
+  },
+  {
+    "id": "sw:sotterley",
+    "name": "Sotterley",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.37688,
+    "lng": -76.53671,
+    "dist": 50.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948844,
+    "score": 0
+  },
+  {
+    "id": "sw:waldorfnrpbarracks",
+    "name": "Waldorf Nrp Barracks",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.65136,
+    "lng": -76.8799,
+    "dist": 36.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948854,
+    "score": 0
+  },
+  {
+    "id": "sw:zoeterconservationre",
+    "name": "Zoeter Conservation Reserve Enhancement Program Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.63992,
+    "lng": -76.71877,
+    "dist": 33.6,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 314948855,
+    "score": 0
+  },
+  {
+    "id": "sw:mountcalvert",
+    "name": "Mount Calvert",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.78524,
+    "lng": -76.71456,
+    "dist": 24.1,
+    "description": "Historic: building",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 378589811,
+    "score": 0
+  },
+  {
+    "id": "sw:jcloreoysterhouse",
+    "name": "J. C. Lore Oyster House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.32428,
+    "lng": -76.46071,
+    "dist": 54.0,
+    "description": "Historic: building",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 444339596,
+    "score": 0
+  },
+  {
+    "id": "sw:patuxentriverparkoff",
+    "name": "Patuxent River Park Office",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.77313,
+    "lng": -76.71017,
+    "dist": 24.7,
+    "description": "Historic: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 464186909,
+    "score": 0
+  },
+  {
+    "id": "sw:yowaiskimill",
+    "name": "Yowaiski Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.3829,
+    "lng": -76.78824,
+    "dist": 51.7,
+    "description": "Historic: building",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546887450,
+    "score": 0
+  },
+  {
+    "id": "sw:tudorhall",
+    "name": "Tudor Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.28847,
+    "lng": -76.63446,
+    "dist": 56.6,
+    "description": "Historic: building",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 988105869,
+    "score": 0
+  },
+  {
+    "id": "sw:columbiaaircenter",
+    "name": "Columbia Air Center",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.75351,
+    "lng": -76.70955,
+    "dist": 26.0,
+    "description": "Historic: memorial",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1127404462,
+    "score": 0
+  },
+  {
+    "id": "sw:corncrib",
+    "name": "Corncrib",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.51443,
+    "lng": -76.52232,
+    "dist": 40.7,
+    "description": "Historic: ruins",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1155145746,
+    "score": 0
+  },
+  {
+    "id": "sw:lemuelwallacehouse",
+    "name": "Lemuel-Wallace House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.51454,
+    "lng": -76.52217,
+    "dist": 40.7,
+    "description": "Historic: ruins",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1155145747,
+    "score": 0
+  },
+  {
+    "id": "sw:tenanthouse",
+    "name": "Tenant House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.49201,
+    "lng": -76.59109,
+    "dist": 42.4,
+    "description": "Historic: building",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1177426094,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesbranchconserv",
+    "name": "Charles Branch Conservation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.75979,
+    "lng": -76.7693,
+    "dist": 26.9,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1418804660,
+    "score": 0
+  },
+  {
+    "id": "sw:battlecreekcypresssw",
+    "name": "Battle Creek Cypress Swamp Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.4899,
+    "lng": -76.5926,
+    "dist": 42.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1491110432,
+    "score": 0
+  },
+  {
+    "id": "sw:gatewoodpreserve",
+    "name": "Gatewood Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.48647,
+    "lng": -76.59119,
+    "dist": 42.8,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1491110994,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarvillestatefores",
+    "name": "Cedarville State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.63208,
+    "lng": -76.81233,
+    "dist": 35.9,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234036,
+    "score": 0
+  },
+  {
+    "id": "sw:rosaryvillestatepark",
+    "name": "Rosaryville State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.77213,
+    "lng": -76.81274,
+    "dist": 27.4,
+    "description": "Elevation: 49m · Hours: sunrise-sunset",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234082,
+    "score": 0
+  },
+  {
+    "id": "sw:saintmarysriverstate",
+    "name": "Saint Mary's River State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.26718,
+    "lng": -76.5286,
+    "dist": 57.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234087,
+    "score": 0
+  },
+  {
+    "id": "sw:housecreeknaturalres",
+    "name": "House Creek Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.75629,
+    "lng": -76.69194,
+    "dist": 25.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234496,
+    "score": 0
+  },
+  {
+    "id": "sw:merklenaturalresourc",
+    "name": "Merkle Natural Resources Management Area and Visitor Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.73285,
+    "lng": -76.70077,
+    "dist": 27.1,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234497,
+    "score": 0
+  },
+  {
+    "id": "sw:hallowingpointresear",
+    "name": "Hallowing Point Research Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.50864,
+    "lng": -76.66291,
+    "dist": 41.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234612,
+    "score": 0
+  },
+  {
+    "id": "sw:milltownlandingnatur",
+    "name": "Milltown Landing Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.63059,
+    "lng": -76.69689,
+    "dist": 33.8,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234621,
+    "score": 0
+  },
+  {
+    "id": "sw:americanchestnutland",
+    "name": "American Chestnut Land Trust",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.52643,
+    "lng": -76.53805,
+    "dist": 39.9,
+    "description": "Dogs: leashed",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234627,
+    "score": 0
+  },
+  {
+    "id": "sw:spicecreeknaturalres",
+    "name": "Spice Creek Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.69935,
+    "lng": -76.71251,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234634,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbaywetlandssanctu",
+    "name": "Jug Bay Wetlands Sanctuary",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.77386,
+    "lng": -76.69615,
+    "dist": 24.4,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4436542,
+    "score": 0
+  },
+  {
+    "id": "sw:jugbaynaturalarea",
+    "name": "Jug Bay Natural Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.75907,
+    "lng": -76.71138,
+    "dist": 25.7,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8873524,
+    "score": 0
+  },
+  {
+    "id": "sw:calvertcliffsstatepa",
+    "name": "Calvert Cliffs State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.40035,
+    "lng": -76.42139,
+    "dist": 49.0,
+    "description": "Hours: sunrise-sunset · Fee: yes",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11900137,
+    "score": 0
+  },
+  {
+    "id": "sw:bowenwildlifemanagem",
+    "name": "Bowen Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.60849,
+    "lng": -76.67964,
+    "dist": 35.1,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 16650855,
+    "score": 0
+  },
+  {
+    "id": "sw:indiancreeknaturalre",
+    "name": "Indian Creek Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.50644,
+    "lng": -76.69524,
+    "dist": 42.2,
+    "description": "",
+    "zone": "Southern Maryland",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 16880313,
+    "score": 0
+  },
+  {
+    "id": "sw:rockhill",
+    "name": "Rock Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88011,
+    "lng": -77.47721,
+    "dist": 53.0,
+    "description": "Elevation: 98m",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356583803,
+    "score": 0
+  },
+  {
+    "id": "sw:coecreek",
+    "name": "Coe Creek",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.72799,
+    "lng": -77.36471,
+    "dist": 51.7,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4957677725,
+    "score": 0
+  },
+  {
+    "id": "sw:lanesmillruins",
+    "name": "Lanes Mill Ruins",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.82864,
+    "lng": -77.45812,
+    "dist": 53.2,
+    "description": "Lanes Mill historic site (ruins)",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8501683382,
+    "score": 0
+  },
+  {
+    "id": "sw:choochoohill",
+    "name": "Choo Choo Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78153,
+    "lng": -77.39106,
+    "dist": 51.2,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9029796034,
+    "score": 0
+  },
+  {
+    "id": "sw:sheperdpoint",
+    "name": "Sheperd Point",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.68533,
+    "lng": -77.25701,
+    "dist": 48.5,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10932379747,
+    "score": 0
+  },
+  {
+    "id": "sw:signalhill",
+    "name": "Signal Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.75167,
+    "lng": -77.43806,
+    "dist": 54.4,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373852158,
+    "score": 0
+  },
+  {
+    "id": "sw:amidonfield",
+    "name": "Amidon Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.88071,
+    "lng": -77.01824,
+    "dist": 30.2,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207288,
+    "score": 0
+  },
+  {
+    "id": "sw:joyevans",
+    "name": "Joy Evans",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.87705,
+    "lng": -76.99849,
+    "dist": 29.5,
+    "description": "",
+    "zone": "Northern Virginia",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48207289,
+    "score": 0
+  },
+  {
+    "id": "sw:stephensfort",
+    "name": "Stephens Fort",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.07816,
+    "lng": -78.32556,
+    "dist": 96.1,
+    "description": "Elevation: 203m · Historic: fort",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 158652377,
+    "score": 0
+  },
+  {
+    "id": "sw:strasburghistoricdis",
+    "name": "Strasburg Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.98955,
+    "lng": -78.36,
+    "dist": 98.3,
+    "description": "Elevation: 175m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356590717,
+    "score": 0
+  },
+  {
+    "id": "sw:sperryvillehistoricd",
+    "name": "Sperryville Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.65762,
+    "lng": -78.22667,
+    "dist": 96.1,
+    "description": "Elevation: 210m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356590810,
+    "score": 0
+  },
+  {
+    "id": "sw:berryvillehistoricdi",
+    "name": "Berryville Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.15113,
+    "lng": -77.98142,
+    "dist": 77.7,
+    "description": "Elevation: 185m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356592616,
+    "score": 0
+  },
+  {
+    "id": "sw:whiteposthistoricdis",
+    "name": "White Post Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.05566,
+    "lng": -78.10389,
+    "dist": 84.3,
+    "description": "Elevation: 190m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356592720,
+    "score": 0
+  },
+  {
+    "id": "sw:uppervillehistoricdi",
+    "name": "Upperville Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.99316,
+    "lng": -77.88055,
+    "dist": 72.7,
+    "description": "Elevation: 163m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597494,
+    "score": 0
+  },
+  {
+    "id": "sw:bluemonthistoricdist",
+    "name": "Bluemont Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.11122,
+    "lng": -77.83444,
+    "dist": 69.7,
+    "description": "Elevation: 220m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597737,
+    "score": 0
+  },
+  {
+    "id": "sw:goosecreekhistoricdi",
+    "name": "Goose Creek Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.09761,
+    "lng": -77.69249,
+    "dist": 62.1,
+    "description": "Elevation: 144m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597784,
+    "score": 0
+  },
+  {
+    "id": "sw:middleburghistoricdi",
+    "name": "Middleburg Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.96909,
+    "lng": -77.73568,
+    "dist": 65.2,
+    "description": "Elevation: 149m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597915,
+    "score": 0
+  },
+  {
+    "id": "sw:oatlandshistoricdist",
+    "name": "Oatlands Historic District",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.02955,
+    "lng": -77.62138,
+    "dist": 58.6,
+    "description": "Elevation: 86m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597933,
+    "score": 0
+  },
+  {
+    "id": "sw:oldashbysgapturnpike",
+    "name": "Old Ashby's Gap Turnpike Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.97761,
+    "lng": -77.65138,
+    "dist": 60.6,
+    "description": "Elevation: 100m · Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356597972,
+    "score": 0
+  },
+  {
+    "id": "sw:winchesterhistoricdi",
+    "name": "Winchester Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.18467,
+    "lng": -78.16723,
+    "dist": 87.7,
+    "description": "Elevation: 216m · Historic: district",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356601075,
+    "score": 0
+  },
+  {
+    "id": "sw:bellegroveplantation",
+    "name": "Belle Grove Plantation",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.02076,
+    "lng": -78.3037,
+    "dist": 95.1,
+    "description": "Elevation: 208m · Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367979971,
+    "score": 0
+  },
+  {
+    "id": "sw:vinthillsfarmstation",
+    "name": "Vint Hills Farm Station Heliport",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.75111,
+    "lng": -77.67142,
+    "dist": 65.8,
+    "description": "Elevation: 119m · Historic: aeroway",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 368947775,
+    "score": 0
+  },
+  {
+    "id": "sw:spaceport",
+    "name": "Space Port",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82668,
+    "lng": -77.66537,
+    "dist": 63.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 780784933,
+    "score": 0
+  },
+  {
+    "id": "sw:silopavilion",
+    "name": "Silo Pavilion",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82605,
+    "lng": -77.66698,
+    "dist": 63.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 780784938,
+    "score": 0
+  },
+  {
+    "id": "sw:theship",
+    "name": "The Ship",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82706,
+    "lng": -77.66488,
+    "dist": 63.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 780784970,
+    "score": 0
+  },
+  {
+    "id": "sw:thebigdig",
+    "name": "The Big Dig",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82759,
+    "lng": -77.66515,
+    "dist": 63.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 780784973,
+    "score": 0
+  },
+  {
+    "id": "sw:thefort",
+    "name": "The Fort",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82713,
+    "lng": -77.66625,
+    "dist": 63.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 780784977,
+    "score": 0
+  },
+  {
+    "id": "sw:akelavillage",
+    "name": "Akela Village",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.83026,
+    "lng": -77.66546,
+    "dist": 63.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 795058239,
+    "score": 0
+  },
+  {
+    "id": "sw:fredandanitascottamp",
+    "name": "Fred And Anita Scott Amphitheater",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82934,
+    "lng": -77.67036,
+    "dist": 63.9,
+    "description": "Elevation: 115.48m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 795080087,
+    "score": 0
+  },
+  {
+    "id": "sw:copecourse",
+    "name": "Cope Course",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82409,
+    "lng": -77.6618,
+    "dist": 63.6,
+    "description": "Elevation: 126.0576172m",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 795116763,
+    "score": 0
+  },
+  {
+    "id": "sw:archeryrange",
+    "name": "Archery Range",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82647,
+    "lng": -77.66664,
+    "dist": 63.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 795116773,
+    "score": 0
+  },
+  {
+    "id": "sw:indiangrave",
+    "name": "Indian Grave",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.79889,
+    "lng": -78.39365,
+    "dist": 102.1,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1260739276,
+    "score": 0
+  },
+  {
+    "id": "sw:secondmanassasmonume",
+    "name": "Second Manassas Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82084,
+    "lng": -77.55397,
+    "dist": 58.2,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1645170316,
+    "score": 0
+  },
+  {
+    "id": "sw:powmiamemorial",
+    "name": "POW-MIA Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.17651,
+    "lng": -78.15453,
+    "dist": 87.0,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2236700883,
+    "score": 0
+  },
+  {
+    "id": "sw:brawnerfarm",
+    "name": "Brawner Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.81309,
+    "lng": -77.56469,
+    "dist": 58.9,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2334920033,
+    "score": 0
+  },
+  {
+    "id": "sw:deepcutbattlefield",
+    "name": "Deep Cut Battlefield",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82058,
+    "lng": -77.55254,
+    "dist": 58.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2334920035,
+    "score": 0
+  },
+  {
+    "id": "sw:historicaldiemill",
+    "name": "Historic Aldie Mill",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.97523,
+    "lng": -77.64103,
+    "dist": 60.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2518881777,
+    "score": 0
+  },
+  {
+    "id": "sw:snowdenruins",
+    "name": "Snowden Ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.98621,
+    "lng": -77.97328,
+    "dist": 77.7,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2880800236,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarcreekbattlefiel",
+    "name": "Cedar Creek Battlefield",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.02181,
+    "lng": -78.29261,
+    "dist": 94.5,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3126182647,
+    "score": 0
+  },
+  {
+    "id": "sw:ramseurshillfishersh",
+    "name": "Ramseur's Hill - Fisher's Hill Battlefield",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.98962,
+    "lng": -78.41476,
+    "dist": 101.2,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3501032285,
+    "score": 0
+  },
+  {
+    "id": "sw:skylinecaverns",
+    "name": "Skyline Caverns",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.89928,
+    "lng": -78.21618,
+    "dist": 91.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3655748666,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndbattleofkernstown",
+    "name": "2nd Battle of Kernstown (1864)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.14032,
+    "lng": -78.19619,
+    "dist": 89.1,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3992988013,
+    "score": 0
+  },
+  {
+    "id": "sw:1stand2ndbattlesofke",
+    "name": "1st and 2nd Battles of Kernstown",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.14006,
+    "lng": -78.19475,
+    "dist": 89.1,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3992988014,
+    "score": 0
+  },
+  {
+    "id": "sw:bbriflerange",
+    "name": "BB Rifle Range",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.82716,
+    "lng": -77.66641,
+    "dist": 63.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4190954409,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofaldie",
+    "name": "Battle of Aldie",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.99204,
+    "lng": -77.66373,
+    "dist": 61.1,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4344842077,
+    "score": 0
+  },
+  {
+    "id": "sw:judgejohnhandleymemo",
+    "name": "Judge John Handley Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.17596,
+    "lng": -78.17106,
+    "dist": 87.9,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4725198968,
+    "score": 0
+  },
+  {
+    "id": "sw:cannon",
+    "name": "Cannon",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.81754,
+    "lng": -77.55971,
+    "dist": 58.6,
+    "description": "Historic: cannon",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4816444054,
+    "score": 0
+  },
+  {
+    "id": "sw:norfolksouthernrailw",
+    "name": "Norfolk & Southern Railway Co. Caboose",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91814,
+    "lng": -78.18944,
+    "dist": 89.8,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5471611719,
+    "score": 0
+  },
+  {
+    "id": "sw:milleniumsundial",
+    "name": "Millenium Sundial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.91793,
+    "lng": -78.18941,
+    "dist": 89.8,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5471611720,
+    "score": 0
+  },
+  {
+    "id": "sw:marshmansion",
+    "name": "Marsh Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82129,
+    "lng": -77.59275,
+    "dist": 60.1,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6248372426,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofbucklandmill",
+    "name": "Battle of Buckland Mills",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.77725,
+    "lng": -77.68171,
+    "dist": 65.7,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6659313434,
+    "score": 0
+  },
+  {
+    "id": "sw:tomboflordfairfax",
+    "name": "Tomb of Lord Fairfax",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18481,
+    "lng": -78.16822,
+    "dist": 87.8,
+    "description": "Historic: tomb",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6744781887,
+    "score": 0
+  },
+  {
+    "id": "sw:911steelbeammemorial",
+    "name": "9/11 Steel Beam Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.13404,
+    "lng": -77.71519,
+    "dist": 63.4,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6789608135,
+    "score": 0
+  },
+  {
+    "id": "sw:loudounbranchmanassa",
+    "name": "Loudoun Branch, Manassas Gap Railroad",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.12196,
+    "lng": -77.68411,
+    "dist": 61.7,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6916860488,
+    "score": 0
+  },
+  {
+    "id": "sw:sherandoarrow",
+    "name": "Sherando Arrow",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.07524,
+    "lng": -78.19241,
+    "dist": 89.0,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7264949527,
+    "score": 0
+  },
+  {
+    "id": "sw:8thvermontmonument",
+    "name": "8th Vermont Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.0108,
+    "lng": -78.30339,
+    "dist": 95.2,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7653718154,
+    "score": 0
+  },
+  {
+    "id": "sw:128thnewyorkmonument",
+    "name": "128th New York Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.00882,
+    "lng": -78.30988,
+    "dist": 95.5,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7653763870,
+    "score": 0
+  },
+  {
+    "id": "sw:southcarolinamonumen",
+    "name": "South Carolina Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.01054,
+    "lng": -78.31016,
+    "dist": 95.5,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7653763875,
+    "score": 0
+  },
+  {
+    "id": "sw:dixieartillery",
+    "name": "Dixie Artillery",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.81182,
+    "lng": -77.55711,
+    "dist": 58.6,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8476025154,
+    "score": 0
+  },
+  {
+    "id": "sw:shannondalelodge",
+    "name": "Shannondale Lodge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.21096,
+    "lng": -77.81233,
+    "dist": 68.9,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8484128679,
+    "score": 0
+  },
+  {
+    "id": "sw:thespilmanhomestead",
+    "name": "The Spilman Homestead",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.6523,
+    "lng": -77.93382,
+    "dist": 81.5,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9514928923,
+    "score": 0
+  },
+  {
+    "id": "sw:hauntedhollow",
+    "name": "Haunted Hollow",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.69325,
+    "lng": -77.77847,
+    "dist": 72.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9597842952,
+    "score": 0
+  },
+  {
+    "id": "sw:1stmassachusettscava",
+    "name": "1st Massachusetts Cavalry",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.99198,
+    "lng": -77.66401,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9758304130,
+    "score": 0
+  },
+  {
+    "id": "sw:belleville",
+    "name": "Belleville",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.162,
+    "lng": -78.2529,
+    "dist": 92.2,
+    "description": "Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11061148943,
+    "score": 0
+  },
+  {
+    "id": "sw:timbrookpark",
+    "name": "Timbrook Park",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18497,
+    "lng": -78.16037,
+    "dist": 87.3,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11381869441,
+    "score": 0
+  },
+  {
+    "id": "sw:whitepost",
+    "name": "White Post",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.05998,
+    "lng": -78.10182,
+    "dist": 84.2,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11756727625,
+    "score": 0
+  },
+  {
+    "id": "sw:tiremountain",
+    "name": "Tire Mountain",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09389,
+    "lng": -77.82344,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12245051178,
+    "score": 0
+  },
+  {
+    "id": "sw:saratoga",
+    "name": "Saratoga",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.09301,
+    "lng": -78.06028,
+    "dist": 81.9,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12685125267,
+    "score": 0
+  },
+  {
+    "id": "sw:townofboyce",
+    "name": "Town of Boyce",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.09307,
+    "lng": -78.06023,
+    "dist": 81.9,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12685125268,
+    "score": 0
+  },
+  {
+    "id": "sw:gemminingsluice",
+    "name": "Gem Mining Sluice",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.0947,
+    "lng": -77.82527,
+    "dist": 69.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13259584114,
+    "score": 0
+  },
+  {
+    "id": "sw:trexpumpkincrusher",
+    "name": "T-Rex Pumpkin Crusher",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09403,
+    "lng": -77.82336,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13259866140,
+    "score": 0
+  },
+  {
+    "id": "sw:pathwaypuzzlemaze",
+    "name": "Pathway Puzzle Maze",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09406,
+    "lng": -77.82408,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13260243548,
+    "score": 0
+  },
+  {
+    "id": "sw:jammedtractormaze",
+    "name": "Jammed Tractor Maze",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09416,
+    "lng": -77.82386,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13260243549,
+    "score": 0
+  },
+  {
+    "id": "sw:animalbarnarea",
+    "name": "Animal Barn Area",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09434,
+    "lng": -77.82369,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13283661074,
+    "score": 0
+  },
+  {
+    "id": "sw:pigraces",
+    "name": "Pig Races",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09528,
+    "lng": -77.82401,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13283661080,
+    "score": 0
+  },
+  {
+    "id": "sw:cowtrain",
+    "name": "Cow Train",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09526,
+    "lng": -77.82419,
+    "dist": 69.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13283736149,
+    "score": 0
+  },
+  {
+    "id": "sw:ciderstage",
+    "name": "Cider Stage",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.09478,
+    "lng": -77.82612,
+    "dist": 69.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13283736170,
+    "score": 0
+  },
+  {
+    "id": "sw:redbudrun",
+    "name": "Red Bud Run",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.18873,
+    "lng": -78.09521,
+    "dist": 83.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40151358,
+    "score": 0
+  },
+  {
+    "id": "sw:oldbotraindepot",
+    "name": "Old B&O Train Depot",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18593,
+    "lng": -78.16205,
+    "dist": 87.4,
+    "description": "Historic: train station",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 97344055,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahrivercampu",
+    "name": "Shenandoah River Campus at Cool Spring Battlefield",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.14021,
+    "lng": -77.87002,
+    "dist": 71.7,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 112753713,
+    "score": 0
+  },
+  {
+    "id": "sw:bansheereeksnaturepr",
+    "name": "Banshee Reeks Nature Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.02908,
+    "lng": -77.59475,
+    "dist": 57.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142909529,
+    "score": 0
+  },
+  {
+    "id": "sw:snickersvilleturnpik",
+    "name": "Snickersville Turnpike",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.03734,
+    "lng": -77.72263,
+    "dist": 63.9,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 150999410,
+    "score": 0
+  },
+  {
+    "id": "sw:brawnerhouse",
+    "name": "Brawner House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.81332,
+    "lng": -77.56514,
+    "dist": 58.9,
+    "description": "Historic: house",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 151179346,
+    "score": 0
+  },
+  {
+    "id": "sw:elizabethnickenspark",
+    "name": "Elizabeth Nickens Park Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.82068,
+    "lng": -77.66668,
+    "dist": 63.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 225077802,
+    "score": 0
+  },
+  {
+    "id": "sw:oatlandsmansion",
+    "name": "Oatlands Mansion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.04092,
+    "lng": -77.6174,
+    "dist": 58.3,
+    "description": "Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 256520412,
+    "score": 0
+  },
+  {
+    "id": "sw:glenburnie",
+    "name": "Glen Burnie",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18719,
+    "lng": -78.17844,
+    "dist": 88.3,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 357013051,
+    "score": 0
+  },
+  {
+    "id": "sw:conwayrobinsonmemori",
+    "name": "Conway Robinson Memorial State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.80916,
+    "lng": -77.58635,
+    "dist": 60.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 371471621,
+    "score": 0
+  },
+  {
+    "id": "sw:sneadfarm",
+    "name": "Snead Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.85615,
+    "lng": -78.20039,
+    "dist": 91.1,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 407401600,
+    "score": 0
+  },
+  {
+    "id": "sw:oldtownspring",
+    "name": "Old Town Spring",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18772,
+    "lng": -78.17651,
+    "dist": 88.2,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469271386,
+    "score": 0
+  },
+  {
+    "id": "sw:thehexagonhouse",
+    "name": "The Hexagon House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.18774,
+    "lng": -78.1751,
+    "dist": 88.1,
+    "description": "The only known and documented historic hexagonal residence in Virginia, constructed between 1871-1873. Serves as the office for Preservation of Historic Winchester. · Historic: heritage",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469271387,
+    "score": 0
+  },
+  {
+    "id": "sw:whitneystateforest",
+    "name": "Whitney State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.66936,
+    "lng": -77.8108,
+    "dist": 74.9,
+    "description": "Hours: dawn-dusk",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 478436734,
+    "score": 0
+  },
+  {
+    "id": "sw:swartfarmhouse",
+    "name": "Swart Farmhouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.93236,
+    "lng": -77.58437,
+    "dist": 57.6,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 535063620,
+    "score": 0
+  },
+  {
+    "id": "sw:warrentonhistoricdis",
+    "name": "Warrenton Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 38.71226,
+    "lng": -77.79346,
+    "dist": 72.9,
+    "description": "Elevation: 195m · Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 584481169,
+    "score": 0
+  },
+  {
+    "id": "sw:suzannerkanenaturepr",
+    "name": "Suzanne R. Kane Nature Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.14217,
+    "lng": -77.71866,
+    "dist": 63.6,
+    "description": "Local park with a dog walking and pedestrian path. Set aside by the Town of Purcellville to promote outdoor activity and a place of respite.",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 628456533,
+    "score": 0
+  },
+  {
+    "id": "sw:northwales",
+    "name": "North Wales",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.67328,
+    "lng": -77.82104,
+    "dist": 75.3,
+    "description": "Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 661296401,
+    "score": 0
+  },
+  {
+    "id": "sw:virginiatechmassacre",
+    "name": "Virginia Tech Massacre Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.0779,
+    "lng": -78.18244,
+    "dist": 88.4,
+    "description": "Historic: memorial",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 670728891,
+    "score": 0
+  },
+  {
+    "id": "sw:battlefieldofthirdwi",
+    "name": "Battlefield of Third Winchester",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.20197,
+    "lng": -78.12122,
+    "dist": 85.3,
+    "description": "Historic: battlefield",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 734688483,
+    "score": 0
+  },
+  {
+    "id": "sw:easthamparktrailandf",
+    "name": "Eastham Park Trail and Front Royal Boat Landing",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.91348,
+    "lng": -78.20883,
+    "dist": 90.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 825640211,
+    "score": 0
+  },
+  {
+    "id": "sw:southwarrensubstatio",
+    "name": "South Warren Substation 3",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.81247,
+    "lng": -78.23286,
+    "dist": 93.5,
+    "description": "Historic: school",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 826259227,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacappalachiantr",
+    "name": "Potomac Appalachian Trail Club",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.85408,
+    "lng": -78.17057,
+    "dist": 89.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 827375992,
+    "score": 0
+  },
+  {
+    "id": "sw:blueridgeregionalpar",
+    "name": "Blue Ridge Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.08071,
+    "lng": -77.86099,
+    "dist": 71.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 833546059,
+    "score": 0
+  },
+  {
+    "id": "sw:pritchardhouse",
+    "name": "Pritchard House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.14347,
+    "lng": -78.19687,
+    "dist": 89.2,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 849628106,
+    "score": 0
+  },
+  {
+    "id": "sw:appalachiantrailcorr",
+    "name": "Appalachian Trail Corridor",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.02402,
+    "lng": -77.94647,
+    "dist": 76.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 926819877,
+    "score": 0
+  },
+  {
+    "id": "sw:oakhill",
+    "name": "Oak Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.9974,
+    "lng": -77.62038,
+    "dist": 58.8,
+    "description": "Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 964335458,
+    "score": 0
+  },
+  {
+    "id": "sw:hibbsbridge",
+    "name": "Hibbs Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.03734,
+    "lng": -77.72264,
+    "dist": 63.9,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 965734639,
+    "score": 0
+  },
+  {
+    "id": "sw:theguadalupechapelof",
+    "name": "The Guadalupe Chapel of Divine Mercy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.71184,
+    "lng": -77.79421,
+    "dist": 73.0,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 975655959,
+    "score": 0
+  },
+  {
+    "id": "sw:chapmanbeverleymill",
+    "name": "Chapman-Beverley Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.82456,
+    "lng": -77.71045,
+    "dist": 66.1,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 985655639,
+    "score": 0
+  },
+  {
+    "id": "sw:spilmansilo",
+    "name": "Spilman Silo",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.65273,
+    "lng": -77.93354,
+    "dist": 81.5,
+    "description": "Historic: ruins",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1032705393,
+    "score": 0
+  },
+  {
+    "id": "sw:poplarspringsmanor",
+    "name": "Poplar Springs Manor",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.65222,
+    "lng": -77.71382,
+    "dist": 70.7,
+    "description": "Historic: manor",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1092415654,
+    "score": 0
+  },
+  {
+    "id": "sw:bucklandpreservation",
+    "name": "Buckland Preservation Society",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.78119,
+    "lng": -77.67381,
+    "dist": 65.2,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1148486323,
+    "score": 0
+  },
+  {
+    "id": "sw:arlingtonoutdoorlab",
+    "name": "Arlington Outdoor Lab",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.80984,
+    "lng": -77.71956,
+    "dist": 66.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1164725461,
+    "score": 0
+  },
+  {
+    "id": "sw:historichansonhouse",
+    "name": "Historic Hanson House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.96966,
+    "lng": -77.55165,
+    "dist": 55.4,
+    "description": "Historic: house",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1172877406,
+    "score": 0
+  },
+  {
+    "id": "sw:mapplewood",
+    "name": "Mapplewood",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.02362,
+    "lng": -78.28315,
+    "dist": 94.0,
+    "description": "Historic: yes",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1174777297,
+    "score": 0
+  },
+  {
+    "id": "sw:goosecreekbridge",
+    "name": "Goose Creek Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.98167,
+    "lng": -77.81897,
+    "dist": 69.5,
+    "description": "Historic: bridge",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1180226951,
+    "score": 0
+  },
+  {
+    "id": "sw:coolspringpreserve",
+    "name": "Cool Spring Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.24353,
+    "lng": -77.92898,
+    "dist": 75.4,
+    "description": "Hours: dawn-dusk · Dogs: leashed",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1211157293,
+    "score": 0
+  },
+  {
+    "id": "sw:patsyclinehouse",
+    "name": "Patsy Cline House",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.17795,
+    "lng": -78.16461,
+    "dist": 87.5,
+    "description": "Historic: building",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1227391794,
+    "score": 0
+  },
+  {
+    "id": "sw:westonwildlifemanage",
+    "name": "Weston Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.66392,
+    "lng": -77.69472,
+    "dist": 69.4,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 227542,
+    "score": 0
+  },
+  {
+    "id": "sw:georgewashingtonnati",
+    "name": "George Washington National Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.3391,
+    "lng": -79.29744,
+    "dist": 158.1,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3560724,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarcreekbellegrove",
+    "name": "Cedar Creek & Belle Grove National Historical Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.01208,
+    "lng": -78.29936,
+    "dist": 94.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 6752863,
+    "score": 0
+  },
+  {
+    "id": "sw:bullrunmountainsnatu",
+    "name": "Bull Run Mountains Natural Area Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.87041,
+    "lng": -77.6924,
+    "dist": 64.3,
+    "description": "Hours: Fr-Su 08:00-16:30 · Dogs: no",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 7325119,
+    "score": 0
+  },
+  {
+    "id": "sw:shannondalespringswi",
+    "name": "Shannondale Springs Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.20645,
+    "lng": -77.821,
+    "dist": 69.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139484,
+    "score": 0
+  },
+  {
+    "id": "sw:smithsonianconservat",
+    "name": "Smithsonian Conservation Biology Institute",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.8848,
+    "lng": -78.1467,
+    "dist": 87.9,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11313259,
+    "score": 0
+  },
+  {
+    "id": "sw:appalachiannationals",
+    "name": "Appalachian National Scenic Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.68214,
+    "lng": -78.28007,
+    "dist": 98.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11347424,
+    "score": 0
+  },
+  {
+    "id": "sw:georgerichardthompso",
+    "name": "George Richard Thompson State Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.95665,
+    "lng": -78.01573,
+    "dist": 80.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11350050,
+    "score": 0
+  },
+  {
+    "id": "sw:skymeadowsstatepark",
+    "name": "Sky Meadows State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.0002,
+    "lng": -77.96173,
+    "dist": 77.0,
+    "description": "Hours: 0800-dusk",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11352018,
+    "score": 0
+  },
+  {
+    "id": "sw:rollingridgeconserva",
+    "name": "Rolling Ridge Conservancy",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.15823,
+    "lng": -77.83829,
+    "dist": 70.0,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12533964,
+    "score": 0
+  },
+  {
+    "id": "sw:pecholding",
+    "name": "PEC Holding",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.00387,
+    "lng": -77.97365,
+    "dist": 77.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12544797,
+    "score": 0
+  },
+  {
+    "id": "sw:oliphant",
+    "name": "Oliphant",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.03627,
+    "lng": -77.96089,
+    "dist": 76.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12544799,
+    "score": 0
+  },
+  {
+    "id": "sw:myronglasercabintrac",
+    "name": "Myron Glaser Cabin Tract",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.03581,
+    "lng": -77.95401,
+    "dist": 76.3,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12544800,
+    "score": 0
+  },
+  {
+    "id": "sw:lewistracts",
+    "name": "Lewis Tracts",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.08264,
+    "lng": -77.89079,
+    "dist": 72.8,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12544880,
+    "score": 0
+  },
+  {
+    "id": "sw:oatlandsplantation",
+    "name": "Oatlands Plantation",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.04591,
+    "lng": -77.6168,
+    "dist": 58.2,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13195766,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahwilderness",
+    "name": "Shenandoah Wilderness",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.45969,
+    "lng": -78.49601,
+    "dist": 114.7,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 16820376,
+    "score": 0
+  },
+  {
+    "id": "sw:raymondrandyguestjrs",
+    "name": "Raymond R. \"Andy\" Guest, Jr. Shenandoah River State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.85229,
+    "lng": -78.30267,
+    "dist": 96.6,
+    "description": "",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 17179320,
+    "score": 0
+  },
+  {
+    "id": "sw:leopoldspreserve",
+    "name": "Leopold's Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.81029,
+    "lng": -77.66304,
+    "dist": 64.0,
+    "description": "Hours: sunrise-sunset · Dogs: leashed",
+    "zone": "Shenandoah & Western MD",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 17240253,
     "score": 0
   },
   {
@@ -17317,25 +31709,6 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "node",
     "osmId": 358240404,
-    "score": 0
-  },
-  {
-    "id": "sw:blackhill",
-    "name": "Black Hill",
-    "type": "hike",
-    "tags": [
-      "hiking",
-      "scenic",
-      "nature"
-    ],
-    "lat": 39.1872,
-    "lng": -77.29836,
-    "dist": 41.4,
-    "description": "Elevation: 148m",
-    "zone": "Frederick & Catoctin",
-    "osmTags": {},
-    "osmType": "node",
-    "osmId": 358241470,
     "score": 0
   },
   {
@@ -22324,26 +36697,6 @@ const SWEPT_PLACES = [
     "score": 0
   },
   {
-    "id": "sw:appalachiannationals",
-    "name": "Appalachian National Scenic Trail",
-    "type": "park",
-    "tags": [
-      "park",
-      "nature",
-      "forest",
-      "hiking"
-    ],
-    "lat": 39.58625,
-    "lng": -77.58191,
-    "dist": 65.2,
-    "description": "",
-    "zone": "Frederick & Catoctin",
-    "osmTags": {},
-    "osmType": "relation",
-    "osmId": 4237276,
-    "score": 0
-  },
-  {
     "id": "sw:frederickcitywatersh",
     "name": "Frederick City Watershed",
     "type": "park",
@@ -22744,6 +37097,5563 @@ const SWEPT_PLACES = [
     "osmTags": {},
     "osmType": "relation",
     "osmId": 13249370,
+    "score": 0
+  },
+  {
+    "id": "sw:georgeshill",
+    "name": "Georges Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.98372,
+    "lng": -75.22407,
+    "dist": 92.6,
+    "description": "Elevation: 64m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357287118,
+    "score": 0
+  },
+  {
+    "id": "sw:lafayettehill",
+    "name": "Lafayette Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.094,
+    "lng": -75.25296,
+    "dist": 96.6,
+    "description": "Elevation: 72m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357294219,
+    "score": 0
+  },
+  {
+    "id": "sw:sandyhill",
+    "name": "Sandy Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.1315,
+    "lng": -75.26599,
+    "dist": 98.0,
+    "description": "Elevation: 101m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357322782,
+    "score": 0
+  },
+  {
+    "id": "sw:huttonhill",
+    "name": "Hutton Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.87456,
+    "lng": -74.95156,
+    "dist": 99.8,
+    "description": "Elevation: 48m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357723788,
+    "score": 0
+  },
+  {
+    "id": "sw:pinehill",
+    "name": "Pine Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.79817,
+    "lng": -74.99322,
+    "dist": 95.2,
+    "description": "Elevation: 61m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357732568,
+    "score": 0
+  },
+  {
+    "id": "sw:mountlaurel",
+    "name": "Mount Laurel",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.93419,
+    "lng": -74.89427,
+    "dist": 104.5,
+    "description": "Elevation: 49m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357732604,
+    "score": 0
+  },
+  {
+    "id": "sw:castlerock",
+    "name": "Castle Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.97366,
+    "lng": -75.43957,
+    "dist": 83.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1473854671,
+    "score": 0
+  },
+  {
+    "id": "sw:blueberryhill",
+    "name": "Blueberry Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.82755,
+    "lng": -74.96149,
+    "dist": 97.6,
+    "description": "Elevation: 55m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5137710127,
+    "score": 0
+  },
+  {
+    "id": "sw:strawberrymansionbri",
+    "name": "Strawberry Mansion Bridge",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.99528,
+    "lng": -75.19381,
+    "dist": 94.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6503002885,
+    "score": 0
+  },
+  {
+    "id": "sw:scenicviewmantuacree",
+    "name": "Scenic View - Mantua Creek",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.77565,
+    "lng": -75.13821,
+    "dist": 87.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7435962667,
+    "score": 0
+  },
+  {
+    "id": "sw:loversleap",
+    "name": "Lover's Leap",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 40.02549,
+    "lng": -75.19576,
+    "dist": 95.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11097466305,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarloafhill",
+    "name": "Sugarloaf Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.08243,
+    "lng": -75.22417,
+    "dist": 97.1,
+    "description": "Elevation: 102m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12748292004,
+    "score": 0
+  },
+  {
+    "id": "sw:militiahill",
+    "name": "Militia Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.11969,
+    "lng": -75.23379,
+    "dist": 98.6,
+    "description": "Elevation: 104m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12759990228,
+    "score": 0
+  },
+  {
+    "id": "sw:momrinkersrock",
+    "name": "Mom Rinker's Rock",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 40.03519,
+    "lng": -75.19977,
+    "dist": 95.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13058728101,
+    "score": 0
+  },
+  {
+    "id": "sw:lemonhill",
+    "name": "Lemon Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.97204,
+    "lng": -75.18848,
+    "dist": 93.5,
+    "description": "Elevation: 29m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13393721247,
+    "score": 0
+  },
+  {
+    "id": "sw:fairmount",
+    "name": "Fairmount",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.9658,
+    "lng": -75.18127,
+    "dist": 93.5,
+    "description": "Elevation: 32m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13505469796,
+    "score": 0
+  },
+  {
+    "id": "sw:dermondfield",
+    "name": "Dermond Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.96177,
+    "lng": -75.30472,
+    "dist": 88.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23042319,
+    "score": 0
+  },
+  {
+    "id": "sw:ashbridgepark",
+    "name": "Ashbridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03137,
+    "lng": -75.32279,
+    "dist": 90.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23069891,
+    "score": 0
+  },
+  {
+    "id": "sw:fenimorewoods",
+    "name": "Fenimore Woods",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.05138,
+    "lng": -75.37677,
+    "dist": 89.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23108267,
+    "score": 0
+  },
+  {
+    "id": "sw:thewillows",
+    "name": "The Willows",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02043,
+    "lng": -75.39367,
+    "dist": 87.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23528279,
+    "score": 0
+  },
+  {
+    "id": "sw:mckaignatureeducatio",
+    "name": "McKaig Nature Education Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.07102,
+    "lng": -75.38157,
+    "dist": 90.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23746271,
+    "score": 0
+  },
+  {
+    "id": "sw:stdavidscommunitypar",
+    "name": "St. David's Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04297,
+    "lng": -75.37704,
+    "dist": 89.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 23848122,
+    "score": 0
+  },
+  {
+    "id": "sw:unkeferpark",
+    "name": "Unkefer Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02772,
+    "lng": -75.32998,
+    "dist": 90.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 24007175,
+    "score": 0
+  },
+  {
+    "id": "sw:libertybellcenter",
+    "name": "Liberty Bell Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9499,
+    "lng": -75.15025,
+    "dist": 94.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 25271691,
+    "score": 0
+  },
+  {
+    "id": "sw:jeffersonsquarepark",
+    "name": "Jefferson Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93359,
+    "lng": -75.15013,
+    "dist": 93.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 25430119,
+    "score": 0
+  },
+  {
+    "id": "sw:dickinsonsquare",
+    "name": "Dickinson Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.92766,
+    "lng": -75.15159,
+    "dist": 93.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 25430697,
+    "score": 0
+  },
+  {
+    "id": "sw:enckepark",
+    "name": "Encke Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03665,
+    "lng": -75.37016,
+    "dist": 89.4,
+    "description": "Elevation: 101m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26661628,
+    "score": 0
+  },
+  {
+    "id": "sw:johncapelligolfrange",
+    "name": "John Capelli Golf Range",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03745,
+    "lng": -75.36875,
+    "dist": 89.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26661675,
+    "score": 0
+  },
+  {
+    "id": "sw:harritonpark",
+    "name": "Harriton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03473,
+    "lng": -75.31137,
+    "dist": 91.5,
+    "description": "Elevation: 87m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26944300,
+    "score": 0
+  },
+  {
+    "id": "sw:austinpark",
+    "name": "Austin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02749,
+    "lng": -75.32858,
+    "dist": 90.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26944724,
+    "score": 0
+  },
+  {
+    "id": "sw:executiveestatespark",
+    "name": "Executive Estates Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.06677,
+    "lng": -75.34494,
+    "dist": 91.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 26986958,
+    "score": 0
+  },
+  {
+    "id": "sw:wynnewoodstationpark",
+    "name": "Wynnewood Station Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00311,
+    "lng": -75.27386,
+    "dist": 91.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 27053828,
+    "score": 0
+  },
+  {
+    "id": "sw:libertylandspark",
+    "name": "Liberty Lands Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.96587,
+    "lng": -75.14187,
+    "dist": 95.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28311898,
+    "score": 0
+  },
+  {
+    "id": "sw:darbycreekparkmalin",
+    "name": "Darby Creek Park - Malin",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00709,
+    "lng": -75.38372,
+    "dist": 87.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526151,
+    "score": 0
+  },
+  {
+    "id": "sw:cowanpark",
+    "name": "Cowan Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04856,
+    "lng": -75.38049,
+    "dist": 89.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526152,
+    "score": 0
+  },
+  {
+    "id": "sw:tunnellfield",
+    "name": "Tunnell Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02678,
+    "lng": -75.33457,
+    "dist": 90.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526154,
+    "score": 0
+  },
+  {
+    "id": "sw:5thwardpark",
+    "name": "5th Ward Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00086,
+    "lng": -75.36648,
+    "dist": 87.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526158,
+    "score": 0
+  },
+  {
+    "id": "sw:friendsofradnortrail",
+    "name": "Friends of Radnor Trail Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04119,
+    "lng": -75.39818,
+    "dist": 88.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526165,
+    "score": 0
+  },
+  {
+    "id": "sw:petrieavepark",
+    "name": "Petrie Ave Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02351,
+    "lng": -75.32723,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526168,
+    "score": 0
+  },
+  {
+    "id": "sw:brookefarmtrail",
+    "name": "Brooke Farm Trail",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03041,
+    "lng": -75.39919,
+    "dist": 88.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526170,
+    "score": 0
+  },
+  {
+    "id": "sw:environmentalpark",
+    "name": "Environmental Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04936,
+    "lng": -75.36058,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526179,
+    "score": 0
+  },
+  {
+    "id": "sw:plantavepark",
+    "name": "Plant Ave Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04675,
+    "lng": -75.38475,
+    "dist": 89.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526184,
+    "score": 0
+  },
+  {
+    "id": "sw:brynmawrmalin",
+    "name": "Bryn Mawr @ Malin",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.99602,
+    "lng": -75.37727,
+    "dist": 87.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526191,
+    "score": 0
+  },
+  {
+    "id": "sw:enckefield",
+    "name": "Encke Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03738,
+    "lng": -75.37103,
+    "dist": 89.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526193,
+    "score": 0
+  },
+  {
+    "id": "sw:woodlandavepark",
+    "name": "Woodland Ave Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04691,
+    "lng": -75.38437,
+    "dist": 89.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526195,
+    "score": 0
+  },
+  {
+    "id": "sw:merryvale",
+    "name": "Merryvale",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04785,
+    "lng": -75.38985,
+    "dist": 89.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526198,
+    "score": 0
+  },
+  {
+    "id": "sw:walkerprop",
+    "name": "Walker Prop",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02742,
+    "lng": -75.33517,
+    "dist": 90.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526200,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialfield",
+    "name": "Memorial Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04667,
+    "lng": -75.35705,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526203,
+    "score": 0
+  },
+  {
+    "id": "sw:westwaynepreserve",
+    "name": "West Wayne Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04179,
+    "lng": -75.39733,
+    "dist": 88.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526205,
+    "score": 0
+  },
+  {
+    "id": "sw:darbycreekparkbriarw",
+    "name": "Darby Creek Park - Briarwood",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00643,
+    "lng": -75.37949,
+    "dist": 87.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526209,
+    "score": 0
+  },
+  {
+    "id": "sw:clemmacronepark",
+    "name": "Clem Macrone Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02488,
+    "lng": -75.34217,
+    "dist": 89.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28526211,
+    "score": 0
+  },
+  {
+    "id": "sw:odorisiopark",
+    "name": "Odorisio Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03757,
+    "lng": -75.39603,
+    "dist": 88.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28531703,
+    "score": 0
+  },
+  {
+    "id": "sw:ravenscliffpark",
+    "name": "Ravenscliff Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02775,
+    "lng": -75.39666,
+    "dist": 88.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28531779,
+    "score": 0
+  },
+  {
+    "id": "sw:skunkhollow",
+    "name": "Skunk Hollow",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.01519,
+    "lng": -75.39148,
+    "dist": 87.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28531828,
+    "score": 0
+  },
+  {
+    "id": "sw:sawmillpark",
+    "name": "Saw Mill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.01055,
+    "lng": -75.38615,
+    "dist": 87.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28531865,
+    "score": 0
+  },
+  {
+    "id": "sw:dittmarpark",
+    "name": "Dittmar Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02932,
+    "lng": -75.40418,
+    "dist": 87.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28532652,
+    "score": 0
+  },
+  {
+    "id": "sw:ithanvalleypark",
+    "name": "Ithan Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.01103,
+    "lng": -75.35535,
+    "dist": 88.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28532919,
+    "score": 0
+  },
+  {
+    "id": "sw:matthiasbaldwinpark",
+    "name": "Matthias Baldwin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.96159,
+    "lng": -75.16899,
+    "dist": 93.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28533992,
+    "score": 0
+  },
+  {
+    "id": "sw:inverarypark",
+    "name": "Inverary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02446,
+    "lng": -75.39561,
+    "dist": 87.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 28540956,
+    "score": 0
+  },
+  {
+    "id": "sw:johnsonpark",
+    "name": "Johnson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94833,
+    "lng": -75.12527,
+    "dist": 95.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 29657988,
+    "score": 0
+  },
+  {
+    "id": "sw:rooseveltplazapark",
+    "name": "Roosevelt Plaza Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94485,
+    "lng": -75.12089,
+    "dist": 95.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 29876286,
+    "score": 0
+  },
+  {
+    "id": "sw:dudleygrangepark",
+    "name": "Dudley Grange Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94837,
+    "lng": -75.07848,
+    "dist": 97.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 30086370,
+    "score": 0
+  },
+  {
+    "id": "sw:newtonlakepark",
+    "name": "Newton Lake Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90713,
+    "lng": -75.07182,
+    "dist": 95.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 30104995,
+    "score": 0
+  },
+  {
+    "id": "sw:cianfranipark",
+    "name": "Cianfrani Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94069,
+    "lng": -75.15541,
+    "dist": 93.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 30286018,
+    "score": 0
+  },
+  {
+    "id": "sw:wallworthpark",
+    "name": "Wallworth Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90091,
+    "lng": -75.0192,
+    "dist": 97.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31008166,
+    "score": 0
+  },
+  {
+    "id": "sw:gloucestertownshipco",
+    "name": "Gloucester Township Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.77563,
+    "lng": -75.03666,
+    "dist": 92.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 31009983,
+    "score": 0
+  },
+  {
+    "id": "sw:claramuhammadsquare",
+    "name": "Clara Muhammad Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9713,
+    "lng": -75.21668,
+    "dist": 92.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32121247,
+    "score": 0
+  },
+  {
+    "id": "sw:delanceypark",
+    "name": "Delancey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9442,
+    "lng": -75.14784,
+    "dist": 94.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32121468,
+    "score": 0
+  },
+  {
+    "id": "sw:rosegarden",
+    "name": "Rose Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9468,
+    "lng": -75.14885,
+    "dist": 94.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32121517,
+    "score": 0
+  },
+  {
+    "id": "sw:malcolmxpark",
+    "name": "Malcolm X Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95265,
+    "lng": -75.22539,
+    "dist": 91.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32121921,
+    "score": 0
+  },
+  {
+    "id": "sw:rittenhousesquare",
+    "name": "Rittenhouse Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94948,
+    "lng": -75.17189,
+    "dist": 93.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32122312,
+    "score": 0
+  },
+  {
+    "id": "sw:haddonheightspark",
+    "name": "Haddon Heights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.87694,
+    "lng": -75.05533,
+    "dist": 95.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 32152203,
+    "score": 0
+  },
+  {
+    "id": "sw:millcreekpark",
+    "name": "Mill Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02508,
+    "lng": -74.90786,
+    "dist": 107.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 33658441,
+    "score": 0
+  },
+  {
+    "id": "sw:springgardenstreetpa",
+    "name": "Spring Garden Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03513,
+    "lng": -74.95767,
+    "dist": 105.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 33848997,
+    "score": 0
+  },
+  {
+    "id": "sw:laurelacrespark",
+    "name": "Laurel Acres Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.92896,
+    "lng": -74.92651,
+    "dist": 102.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 34380681,
+    "score": 0
+  },
+  {
+    "id": "sw:mountlaurelstatepark",
+    "name": "Mount Laurel State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93483,
+    "lng": -74.89471,
+    "dist": 104.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 34382957,
+    "score": 0
+  },
+  {
+    "id": "sw:penningtonpark",
+    "name": "Pennington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03821,
+    "lng": -74.9324,
+    "dist": 107.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 34403207,
+    "score": 0
+  },
+  {
+    "id": "sw:amicoislandcountypar",
+    "name": "Amico Island County Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03727,
+    "lng": -74.9818,
+    "dist": 104.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 34403413,
+    "score": 0
+  },
+  {
+    "id": "sw:strawbridgelakepark",
+    "name": "Strawbridge Lake Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95176,
+    "lng": -74.95765,
+    "dist": 102.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 35053353,
+    "score": 0
+  },
+  {
+    "id": "sw:amblercitypark",
+    "name": "Ambler City Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.15933,
+    "lng": -75.22242,
+    "dist": 100.9,
+    "description": "Elevation: 63m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 37769443,
+    "score": 0
+  },
+  {
+    "id": "sw:bortonmills",
+    "name": "Borton Mills",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.89488,
+    "lng": -75.01423,
+    "dist": 97.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40304645,
+    "score": 0
+  },
+  {
+    "id": "sw:lineyditchpark",
+    "name": "Liney Ditch Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.92215,
+    "lng": -75.12243,
+    "dist": 94.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40312697,
+    "score": 0
+  },
+  {
+    "id": "sw:pynepointpark",
+    "name": "Pyne Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95571,
+    "lng": -75.11371,
+    "dist": 95.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40312766,
+    "score": 0
+  },
+  {
+    "id": "sw:connollypark",
+    "name": "Connolly Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.86239,
+    "lng": -74.94878,
+    "dist": 99.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313059,
+    "score": 0
+  },
+  {
+    "id": "sw:redbankbattlefield",
+    "name": "Red Bank Battlefield",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.87016,
+    "lng": -75.1897,
+    "dist": 89.1,
+    "description": "Historic: battlefield",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313600,
+    "score": 0
+  },
+  {
+    "id": "sw:scoutsportsfield",
+    "name": "Scout Sports Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.88752,
+    "lng": -75.03103,
+    "dist": 96.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313624,
+    "score": 0
+  },
+  {
+    "id": "sw:audubonsportscomplex",
+    "name": "Audubon Sports Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.88927,
+    "lng": -75.0873,
+    "dist": 94.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313647,
+    "score": 0
+  },
+  {
+    "id": "sw:crystalavenuepark",
+    "name": "Crystal Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90289,
+    "lng": -75.04814,
+    "dist": 96.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313687,
+    "score": 0
+  },
+  {
+    "id": "sw:jfcooperfield",
+    "name": "JF Cooper Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90665,
+    "lng": -74.95873,
+    "dist": 100.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313688,
+    "score": 0
+  },
+  {
+    "id": "sw:knightpark",
+    "name": "Knight Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.91531,
+    "lng": -75.07699,
+    "dist": 95.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313732,
+    "score": 0
+  },
+  {
+    "id": "sw:wellwoodpark",
+    "name": "Wellwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94842,
+    "lng": -75.06092,
+    "dist": 97.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313809,
+    "score": 0
+  },
+  {
+    "id": "sw:stocktonpark",
+    "name": "Stockton Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95724,
+    "lng": -75.03163,
+    "dist": 99.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313827,
+    "score": 0
+  },
+  {
+    "id": "sw:whittakerstreetpark",
+    "name": "Whittaker Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.0313,
+    "lng": -74.94797,
+    "dist": 106.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40313915,
+    "score": 0
+  },
+  {
+    "id": "sw:evesborodowns",
+    "name": "Evesboro Downs",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90771,
+    "lng": -74.91645,
+    "dist": 102.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40331674,
+    "score": 0
+  },
+  {
+    "id": "sw:delrancommunitypark",
+    "name": "Delran Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.0138,
+    "lng": -74.94851,
+    "dist": 105.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40332049,
+    "score": 0
+  },
+  {
+    "id": "sw:alcyonpark",
+    "name": "Alcyon Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.72995,
+    "lng": -75.14493,
+    "dist": 85.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40376235,
+    "score": 0
+  },
+  {
+    "id": "sw:willowridgepark",
+    "name": "Willow Ridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.86935,
+    "lng": -74.91436,
+    "dist": 101.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40386495,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonlakepark",
+    "name": "Washington Lake Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.74324,
+    "lng": -75.09438,
+    "dist": 88.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40387008,
+    "score": 0
+  },
+  {
+    "id": "sw:stewartpark",
+    "name": "Stewart Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.84273,
+    "lng": -75.14221,
+    "dist": 90.1,
+    "description": "Elevation: 6m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40387076,
+    "score": 0
+  },
+  {
+    "id": "sw:lakeviewpark",
+    "name": "Lakeview Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9044,
+    "lng": -74.95596,
+    "dist": 100.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40411070,
+    "score": 0
+  },
+  {
+    "id": "sw:johnpryorpark",
+    "name": "John Pryor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.99167,
+    "lng": -74.91367,
+    "dist": 105.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40411767,
+    "score": 0
+  },
+  {
+    "id": "sw:boundarycreekpark",
+    "name": "Boundary Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00983,
+    "lng": -74.90532,
+    "dist": 107.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 40411852,
+    "score": 0
+  },
+  {
+    "id": "sw:melrosepark",
+    "name": "Melrose Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.05681,
+    "lng": -75.12416,
+    "dist": 99.9,
+    "description": "Elevation: 59m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 44997135,
+    "score": 0
+  },
+  {
+    "id": "sw:alverthorpepark",
+    "name": "Alverthorpe Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.08957,
+    "lng": -75.11126,
+    "dist": 101.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 45578382,
+    "score": 0
+  },
+  {
+    "id": "sw:smedleypark",
+    "name": "Smedley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9159,
+    "lng": -75.35925,
+    "dist": 84.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 48429371,
+    "score": 0
+  },
+  {
+    "id": "sw:cliffordpark",
+    "name": "Clifford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03484,
+    "lng": -75.19079,
+    "dist": 96.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49890663,
+    "score": 0
+  },
+  {
+    "id": "sw:schuylkillriverpark",
+    "name": "Schuylkill River Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94845,
+    "lng": -75.18293,
+    "dist": 92.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 49914024,
+    "score": 0
+  },
+  {
+    "id": "sw:kanepark",
+    "name": "Kane Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95008,
+    "lng": -75.19227,
+    "dist": 92.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 50033056,
+    "score": 0
+  },
+  {
+    "id": "sw:lovepark",
+    "name": "Love Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95419,
+    "lng": -75.16572,
+    "dist": 93.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 50171181,
+    "score": 0
+  },
+  {
+    "id": "sw:pennwynnepark",
+    "name": "Penn Wynne Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.98617,
+    "lng": -75.2701,
+    "dist": 90.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 50275070,
+    "score": 0
+  },
+  {
+    "id": "sw:southardmorepark",
+    "name": "South Ardmore Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.99699,
+    "lng": -75.28906,
+    "dist": 90.6,
+    "description": "Dogs: no",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 58250778,
+    "score": 0
+  },
+  {
+    "id": "sw:morrispark",
+    "name": "Morris Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.97912,
+    "lng": -75.26142,
+    "dist": 90.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 59515210,
+    "score": 0
+  },
+  {
+    "id": "sw:mcmichaelpark",
+    "name": "McMichael Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.01811,
+    "lng": -75.18768,
+    "dist": 95.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 60928712,
+    "score": 0
+  },
+  {
+    "id": "sw:wissinomingpark",
+    "name": "Wissinoming Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02424,
+    "lng": -75.06852,
+    "dist": 100.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 60931016,
+    "score": 0
+  },
+  {
+    "id": "sw:innyardpark",
+    "name": "Inn Yard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.00911,
+    "lng": -75.1953,
+    "dist": 94.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 61131409,
+    "score": 0
+  },
+  {
+    "id": "sw:parrishbeach",
+    "name": "Parrish Beach",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90435,
+    "lng": -75.35401,
+    "dist": 83.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 63407345,
+    "score": 0
+  },
+  {
+    "id": "sw:sciencecentergreen",
+    "name": "Science Center Green",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90615,
+    "lng": -75.3552,
+    "dist": 83.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 64378347,
+    "score": 0
+  },
+  {
+    "id": "sw:garrettpark",
+    "name": "Garrett Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93588,
+    "lng": -75.29981,
+    "dist": 87.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68632214,
+    "score": 0
+  },
+  {
+    "id": "sw:kentpark",
+    "name": "Kent Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93448,
+    "lng": -75.28874,
+    "dist": 87.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68632282,
+    "score": 0
+  },
+  {
+    "id": "sw:carrollpark",
+    "name": "Carroll Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.97807,
+    "lng": -75.28142,
+    "dist": 90.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68632391,
+    "score": 0
+  },
+  {
+    "id": "sw:delawarecountypark",
+    "name": "Delaware County Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.8876,
+    "lng": -75.35708,
+    "dist": 82.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68639619,
+    "score": 0
+  },
+  {
+    "id": "sw:willowpark",
+    "name": "Willow Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.87207,
+    "lng": -75.31838,
+    "dist": 83.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68639624,
+    "score": 0
+  },
+  {
+    "id": "sw:campupland",
+    "name": "Camp Upland",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.85402,
+    "lng": -75.38989,
+    "dist": 80.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 68639697,
+    "score": 0
+  },
+  {
+    "id": "sw:tullymemorialfield",
+    "name": "Tully Memorial Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.90771,
+    "lng": -75.2743,
+    "dist": 87.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 73581838,
+    "score": 0
+  },
+  {
+    "id": "sw:westgatehillspark",
+    "name": "Westgate Hills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.97167,
+    "lng": -75.33151,
+    "dist": 87.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 78246644,
+    "score": 0
+  },
+  {
+    "id": "sw:merwoodpark",
+    "name": "Merwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.99536,
+    "lng": -75.30368,
+    "dist": 89.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 78288153,
+    "score": 0
+  },
+  {
+    "id": "sw:richlandfarmspark",
+    "name": "Richland Farms Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.96968,
+    "lng": -75.30191,
+    "dist": 88.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 78289337,
+    "score": 0
+  },
+  {
+    "id": "sw:valleyforgeacrespark",
+    "name": "Valley Forge Acres Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.08164,
+    "lng": -75.36552,
+    "dist": 91.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 78939045,
+    "score": 0
+  },
+  {
+    "id": "sw:shoemakergreen",
+    "name": "Shoemaker Green",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95115,
+    "lng": -75.18967,
+    "dist": 92.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 85321680,
+    "score": 0
+  },
+  {
+    "id": "sw:georgeconnellpark",
+    "name": "George Connell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.92322,
+    "lng": -75.23041,
+    "dist": 89.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 101764466,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarpark",
+    "name": "Cedar Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94823,
+    "lng": -75.22255,
+    "dist": 91.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 105511051,
+    "score": 0
+  },
+  {
+    "id": "sw:girardpark",
+    "name": "Girard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.92036,
+    "lng": -75.18318,
+    "dist": 91.5,
+    "description": "Elevation: 7m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 109198286,
+    "score": 0
+  },
+  {
+    "id": "sw:drexellodgepark",
+    "name": "Drexel Lodge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.98102,
+    "lng": -75.42144,
+    "dist": 84.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 110724842,
+    "score": 0
+  },
+  {
+    "id": "sw:wakefieldpark",
+    "name": "Wakefield Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03341,
+    "lng": -75.15075,
+    "dist": 97.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115768230,
+    "score": 0
+  },
+  {
+    "id": "sw:kemblepark",
+    "name": "Kemble Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.04007,
+    "lng": -75.14972,
+    "dist": 98.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 115768231,
+    "score": 0
+  },
+  {
+    "id": "sw:elwellfield",
+    "name": "Elwell Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.0039,
+    "lng": -75.30523,
+    "dist": 90.3,
+    "description": "Elevation: 104m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 116522717,
+    "score": 0
+  },
+  {
+    "id": "sw:marlynpark",
+    "name": "Marlyn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93812,
+    "lng": -75.28152,
+    "dist": 88.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117738391,
+    "score": 0
+  },
+  {
+    "id": "sw:rapcurrypark",
+    "name": "Rap Curry Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93532,
+    "lng": -75.26641,
+    "dist": 88.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117741471,
+    "score": 0
+  },
+  {
+    "id": "sw:hayspark",
+    "name": "Hays Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93738,
+    "lng": -75.26754,
+    "dist": 88.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117741634,
+    "score": 0
+  },
+  {
+    "id": "sw:yeadoncommpark",
+    "name": "Yeadon Comm. Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93541,
+    "lng": -75.26258,
+    "dist": 88.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117903347,
+    "score": 0
+  },
+  {
+    "id": "sw:reservoirpark",
+    "name": "Reservoir Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.941,
+    "lng": -75.2793,
+    "dist": 88.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 117903348,
+    "score": 0
+  },
+  {
+    "id": "sw:hepfordpark",
+    "name": "Hepford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.87982,
+    "lng": -75.37613,
+    "dist": 81.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 131561691,
+    "score": 0
+  },
+  {
+    "id": "sw:pickeringfield",
+    "name": "Pickering Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.15105,
+    "lng": -75.21672,
+    "dist": 100.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 132061962,
+    "score": 0
+  },
+  {
+    "id": "sw:knightspark",
+    "name": "Knights Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.14758,
+    "lng": -75.21898,
+    "dist": 100.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 132061970,
+    "score": 0
+  },
+  {
+    "id": "sw:twiningvalleypark",
+    "name": "Twining Valley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.14139,
+    "lng": -75.15439,
+    "dist": 102.6,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 141904759,
+    "score": 0
+  },
+  {
+    "id": "sw:crestmontpark",
+    "name": "Crestmont Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.13841,
+    "lng": -75.12839,
+    "dist": 103.5,
+    "description": "Elevation: 103m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142745143,
+    "score": 0
+  },
+  {
+    "id": "sw:evergreenmanorpark",
+    "name": "Evergreen Manor Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.13996,
+    "lng": -75.13374,
+    "dist": 103.3,
+    "description": "Elevation: 92m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 142745144,
+    "score": 0
+  },
+  {
+    "id": "sw:cegielkowskipark",
+    "name": "Cegielkowski Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.08042,
+    "lng": -75.09231,
+    "dist": 102.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 143076531,
+    "score": 0
+  },
+  {
+    "id": "sw:blanchelevypark",
+    "name": "Blanche Levy Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.95203,
+    "lng": -75.19407,
+    "dist": 92.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 148162170,
+    "score": 0
+  },
+  {
+    "id": "sw:pennpark",
+    "name": "Penn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.94971,
+    "lng": -75.18681,
+    "dist": 92.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 156109656,
+    "score": 0
+  },
+  {
+    "id": "sw:cedargrovepark",
+    "name": "Cedar Grove Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.08563,
+    "lng": -75.28618,
+    "dist": 94.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 167026602,
+    "score": 0
+  },
+  {
+    "id": "sw:warneravenuepark",
+    "name": "Warner Avenue Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02172,
+    "lng": -75.3245,
+    "dist": 90.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 167097532,
+    "score": 0
+  },
+  {
+    "id": "sw:norrissquarepark",
+    "name": "Norris Square Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.98268,
+    "lng": -75.13469,
+    "dist": 96.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 173880379,
+    "score": 0
+  },
+  {
+    "id": "sw:konradsquare",
+    "name": "Konrad Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.97935,
+    "lng": -75.12794,
+    "dist": 96.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 173880380,
+    "score": 0
+  },
+  {
+    "id": "sw:fitlersquare",
+    "name": "Fitler Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9476,
+    "lng": -75.17979,
+    "dist": 92.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 183666855,
+    "score": 0
+  },
+  {
+    "id": "sw:richardwallpark",
+    "name": "Richard Wall Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.07929,
+    "lng": -75.1297,
+    "dist": 100.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 183756987,
+    "score": 0
+  },
+  {
+    "id": "sw:foundersgarden",
+    "name": "Founder's Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.98122,
+    "lng": -75.15557,
+    "dist": 95.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 183997399,
+    "score": 0
+  },
+  {
+    "id": "sw:cohocksinkrecreation",
+    "name": "Cohocksink Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.98438,
+    "lng": -75.11199,
+    "dist": 97.2,
+    "description": "Elevation: 6m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 189705631,
+    "score": 0
+  },
+  {
+    "id": "sw:roslynpark",
+    "name": "Roslyn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.12953,
+    "lng": -75.14465,
+    "dist": 102.4,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 189721498,
+    "score": 0
+  },
+  {
+    "id": "sw:ardsleypark",
+    "name": "Ardsley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.12666,
+    "lng": -75.15067,
+    "dist": 102.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 189721499,
+    "score": 0
+  },
+  {
+    "id": "sw:communitycenterpark",
+    "name": "Community Center (park)",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.12126,
+    "lng": -75.15597,
+    "dist": 101.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 189721502,
+    "score": 0
+  },
+  {
+    "id": "sw:penbrynpark",
+    "name": "Penbryn Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.10934,
+    "lng": -75.15781,
+    "dist": 101.0,
+    "description": "Elevation: 108m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 189722424,
+    "score": 0
+  },
+  {
+    "id": "sw:drexelpark",
+    "name": "Drexel Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.96122,
+    "lng": -75.18762,
+    "dist": 93.0,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 190661733,
+    "score": 0
+  },
+  {
+    "id": "sw:elmwoodpark",
+    "name": "Elmwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.91375,
+    "lng": -75.23773,
+    "dist": 88.9,
+    "description": "Elevation: 13m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 194523827,
+    "score": 0
+  },
+  {
+    "id": "sw:mifflinsquare",
+    "name": "Mifflin Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.91949,
+    "lng": -75.1565,
+    "dist": 92.6,
+    "description": "Elevation: 5m",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 194559512,
+    "score": 0
+  },
+  {
+    "id": "sw:pretzelpark",
+    "name": "Pretzel Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02564,
+    "lng": -75.22118,
+    "dist": 94.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 197528040,
+    "score": 0
+  },
+  {
+    "id": "sw:bartramsgarden",
+    "name": "Bartram's Garden",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.93195,
+    "lng": -75.21075,
+    "dist": 90.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 206639847,
+    "score": 0
+  },
+  {
+    "id": "sw:rittenhousetown",
+    "name": "Rittenhouse Town",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.02973,
+    "lng": -75.19059,
+    "dist": 96.0,
+    "description": "Elevation: 69m · Historic: place",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 158397822,
+    "score": 0
+  },
+  {
+    "id": "sw:robertmorris",
+    "name": "Robert Morris",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94771,
+    "lng": -75.1486,
+    "dist": 94.1,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 360515304,
+    "score": 0
+  },
+  {
+    "id": "sw:columnsandcapitalfro",
+    "name": "Columns and Capital from Amman Jordan",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95119,
+    "lng": -75.19163,
+    "dist": 92.4,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 360777744,
+    "score": 0
+  },
+  {
+    "id": "sw:philadelphiavietnamv",
+    "name": "Philadelphia Vietnam Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94392,
+    "lng": -75.14283,
+    "dist": 94.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 364867083,
+    "score": 0
+  },
+  {
+    "id": "sw:philadelphiakoreanwa",
+    "name": "Philadelphia Korean War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94491,
+    "lng": -75.14343,
+    "dist": 94.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 364867087,
+    "score": 0
+  },
+  {
+    "id": "sw:fairmountwaterworks",
+    "name": "Fairmount Water Works",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96634,
+    "lng": -75.18356,
+    "dist": 93.4,
+    "description": "Constructed 1815–1872. Designed by Frederick Graff (1775–1847), Frederic Graff, Jr. (1817–1890), and Henry P. M. Birkinbine (1819–1886). · Elevation: 6m · Hours: Tu-Sa 10:00-17:00; Su 13:00-17:00 · Historic: yes",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 367975478,
+    "score": 0
+  },
+  {
+    "id": "sw:williampennlandingsi",
+    "name": "William Penn Landing Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.84399,
+    "lng": -75.3613,
+    "dist": 80.8,
+    "description": "Elevation: 3m · Historic: monument",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 368991090,
+    "score": 0
+  },
+  {
+    "id": "sw:lock68",
+    "name": "Lock 68",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03793,
+    "lng": -75.24448,
+    "dist": 94.2,
+    "description": "Elevation: 6m · Historic: lock",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 588195023,
+    "score": 0
+  },
+  {
+    "id": "sw:abrahamlincoln",
+    "name": "Abraham Lincoln",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96957,
+    "lng": -75.18446,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 634340701,
+    "score": 0
+  },
+  {
+    "id": "sw:civilwarsoldiersands",
+    "name": "Civil War Soldiers and Sailors Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95943,
+    "lng": -75.17293,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 881741429,
+    "score": 0
+  },
+  {
+    "id": "sw:devonhorseshow",
+    "name": "Devon Horse Show",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.04613,
+    "lng": -75.42039,
+    "dist": 88.1,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1036007288,
+    "score": 0
+  },
+  {
+    "id": "sw:libertybell",
+    "name": "Liberty Bell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94947,
+    "lng": -75.15028,
+    "dist": 94.1,
+    "description": "Hours: Mo-Su 09:00-17:00 · Historic: bell",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1207480649,
+    "score": 0
+  },
+  {
+    "id": "sw:hadrosaurushaddydino",
+    "name": "Hadrosaurus (Haddy Dinosaur Statue)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.89706,
+    "lng": -75.03437,
+    "dist": 96.9,
+    "description": "Historic: monument",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1300774224,
+    "score": 0
+  },
+  {
+    "id": "sw:welcometohistorichad",
+    "name": "Welcome to Historic Haddonfield",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.89694,
+    "lng": -75.03028,
+    "dist": 97.1,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1327592528,
+    "score": 0
+  },
+  {
+    "id": "sw:valleycottage",
+    "name": "Valley Cottage",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.9336,
+    "lng": -75.42912,
+    "dist": 82.2,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1371586236,
+    "score": 0
+  },
+  {
+    "id": "sw:stopfordfamilymeadow",
+    "name": "Stopford Family Meadow Maze",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.93344,
+    "lng": -75.43754,
+    "dist": 81.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1472537413,
+    "score": 0
+  },
+  {
+    "id": "sw:radnortownshipwarmem",
+    "name": "Radnor Township War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04213,
+    "lng": -75.38801,
+    "dist": 89.0,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1481633270,
+    "score": 0
+  },
+  {
+    "id": "sw:louispaolone",
+    "name": "Louis Paolone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.93241,
+    "lng": -75.15717,
+    "dist": 93.1,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1514489310,
+    "score": 0
+  },
+  {
+    "id": "sw:southfarm",
+    "name": "South Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.92716,
+    "lng": -75.43691,
+    "dist": 81.6,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1673956156,
+    "score": 0
+  },
+  {
+    "id": "sw:ruinsofoldmill",
+    "name": "Ruins of Old Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98254,
+    "lng": -75.28457,
+    "dist": 90.1,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1687521435,
+    "score": 0
+  },
+  {
+    "id": "sw:hobbithollow",
+    "name": "Hobbit Hollow",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.93616,
+    "lng": -75.44164,
+    "dist": 81.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2022174294,
+    "score": 0
+  },
+  {
+    "id": "sw:hiddenruins",
+    "name": "Hidden ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.90528,
+    "lng": -75.35715,
+    "dist": 83.7,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2023543515,
+    "score": 0
+  },
+  {
+    "id": "sw:shawmontrollofhonorw",
+    "name": "Shawmont \"Roll of Honor\" War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04461,
+    "lng": -75.24993,
+    "dist": 94.3,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2209521419,
+    "score": 0
+  },
+  {
+    "id": "sw:newkirkmonument",
+    "name": "Newkirk Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94001,
+    "lng": -75.20633,
+    "dist": 91.3,
+    "description": "Erected 1839 by the Philadelphia, Baltimore & Washington Railroad to mark the first railroad between its eponymous cities. Designed by Thomas Ustick Walter, later the Architect of the [U.S.] Capitol · Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2249204474,
+    "score": 0
+  },
+  {
+    "id": "sw:thepilgrim",
+    "name": "The Pilgrim",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.9701,
+    "lng": -75.18867,
+    "dist": 93.4,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2311121852,
+    "score": 0
+  },
+  {
+    "id": "sw:forttyler",
+    "name": "Fort Tyler",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.93397,
+    "lng": -75.43883,
+    "dist": 81.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2322147940,
+    "score": 0
+  },
+  {
+    "id": "sw:germanyhillwarmemori",
+    "name": "Germany Hill War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03391,
+    "lng": -75.23169,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2517393192,
+    "score": 0
+  },
+  {
+    "id": "sw:corporalstevenlevyme",
+    "name": "Corporal Steven Levy Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.74371,
+    "lng": -75.09611,
+    "dist": 88.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2709215894,
+    "score": 0
+  },
+  {
+    "id": "sw:firefightersmemorial",
+    "name": "Firefighters' Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7459,
+    "lng": -75.09366,
+    "dist": 88.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2709291344,
+    "score": 0
+  },
+  {
+    "id": "sw:laddscastlecandorhal",
+    "name": "Ladd's Castle / Candor Hall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.85675,
+    "lng": -75.14345,
+    "dist": 90.6,
+    "description": "Historic: manor",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2898155125,
+    "score": 0
+  },
+  {
+    "id": "sw:monumenttosixmillion",
+    "name": "Monument to Six Million Jewish Martyrs",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.955,
+    "lng": -75.16697,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3010332807,
+    "score": 0
+  },
+  {
+    "id": "sw:tuliptreehouse",
+    "name": "Tulip Tree House",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.9333,
+    "lng": -75.43914,
+    "dist": 81.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3256142398,
+    "score": 0
+  },
+  {
+    "id": "sw:1stregimentinfantryn",
+    "name": "1st Regiment Infantry National Guard of Philadelphia",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94984,
+    "lng": -75.16438,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3413417159,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtongraysmonum",
+    "name": "Washington Grays Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95006,
+    "lng": -75.16434,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3413417160,
+    "score": 0
+  },
+  {
+    "id": "sw:christophercolumbus",
+    "name": "Christopher Columbus",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94465,
+    "lng": -75.14146,
+    "dist": 94.2,
+    "description": "Historic: monument",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3562256950,
+    "score": 0
+  },
+  {
+    "id": "sw:georgewashington",
+    "name": "George Washington",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94905,
+    "lng": -75.15,
+    "dist": 94.1,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3590076337,
+    "score": 0
+  },
+  {
+    "id": "sw:f14atomcatbuno159448",
+    "name": "F-14A Tomcat BuNo 159448",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04476,
+    "lng": -75.09105,
+    "dist": 100.7,
+    "description": "Historic: aircraft",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3605111715,
+    "score": 0
+  },
+  {
+    "id": "sw:ad3skyraiderbuno1228",
+    "name": "AD-3 Skyraider BuNo 122811",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04495,
+    "lng": -75.09135,
+    "dist": 100.7,
+    "description": "Historic: aircraft",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3605111728,
+    "score": 0
+  },
+  {
+    "id": "sw:a6eintruderbuno15700",
+    "name": "A-6E Intruder BuNo 157001",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04518,
+    "lng": -75.09179,
+    "dist": 100.6,
+    "description": "Historic: aircraft",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3605111742,
+    "score": 0
+  },
+  {
+    "id": "sw:av8charrierbuno15924",
+    "name": "AV-8C Harrier BuNo. 159247",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.04533,
+    "lng": -75.09206,
+    "dist": 100.6,
+    "description": "Historic: aircraft",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3605111753,
+    "score": 0
+  },
+  {
+    "id": "sw:generalgalushapennyp",
+    "name": "General Galusha Pennypacker Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95854,
+    "lng": -75.16966,
+    "dist": 93.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3637733093,
+    "score": 0
+  },
+  {
+    "id": "sw:shakespearememorial",
+    "name": "Shakespeare Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95876,
+    "lng": -75.17121,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3637751581,
+    "score": 0
+  },
+  {
+    "id": "sw:johnbkelly",
+    "name": "John B. Kelly",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98606,
+    "lng": -75.2018,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3641395520,
+    "score": 0
+  },
+  {
+    "id": "sw:ussnewjerseypropelle",
+    "name": "USS New Jersey Propeller",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94323,
+    "lng": -75.13025,
+    "dist": 94.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3663542910,
+    "score": 0
+  },
+  {
+    "id": "sw:worldwartwomemorial",
+    "name": "World War Two Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.92001,
+    "lng": -75.11948,
+    "dist": 94.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3666609030,
+    "score": 0
+  },
+  {
+    "id": "sw:911memorial",
+    "name": "9-11 Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.07192,
+    "lng": -75.38261,
+    "dist": 90.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3736161064,
+    "score": 0
+  },
+  {
+    "id": "sw:constitutionmemorial",
+    "name": "Constitution Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.07338,
+    "lng": -75.3841,
+    "dist": 90.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3736166840,
+    "score": 0
+  },
+  {
+    "id": "sw:thesoldiersmonument",
+    "name": "The Soldier's Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94125,
+    "lng": -75.11548,
+    "dist": 95.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4136424194,
+    "score": 0
+  },
+  {
+    "id": "sw:readingterminal",
+    "name": "Reading Terminal",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.9533,
+    "lng": -75.15905,
+    "dist": 93.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4150841871,
+    "score": 0
+  },
+  {
+    "id": "sw:italianmarket",
+    "name": "Italian market",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.93901,
+    "lng": -75.15784,
+    "dist": 93.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4175144392,
+    "score": 0
+  },
+  {
+    "id": "sw:medalofhonormemorial",
+    "name": "Medal of Honor Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.88369,
+    "lng": -75.07462,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4313757100,
+    "score": 0
+  },
+  {
+    "id": "sw:ralphmodjeski1861194",
+    "name": "Ralph Modjeski (1861-1940)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95488,
+    "lng": -75.14957,
+    "dist": 94.3,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4318300116,
+    "score": 0
+  },
+  {
+    "id": "sw:helenaschaaffsaunder",
+    "name": "Helena Schaaff Saunders Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.99778,
+    "lng": -75.19054,
+    "dist": 94.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4318309917,
+    "score": 0
+  },
+  {
+    "id": "sw:franknpiasecki191920",
+    "name": "Frank N. Piasecki (1919-2008)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96082,
+    "lng": -75.17111,
+    "dist": 93.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4318378113,
+    "score": 0
+  },
+  {
+    "id": "sw:phillyaidsthriftgiov",
+    "name": "Philly AIDS Thrift @ Giovanni's Room",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94517,
+    "lng": -75.1612,
+    "dist": 93.4,
+    "description": "Hours: Mo-Sa 11:00-20:00; Su 11:00-19:00 · Historic: building",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4629808956,
+    "score": 0
+  },
+  {
+    "id": "sw:mckaigmemorial",
+    "name": "McKaig Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.07187,
+    "lng": -75.3829,
+    "dist": 90.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4650254860,
+    "score": 0
+  },
+  {
+    "id": "sw:officerbradmfoxmemor",
+    "name": "Officer Brad M. Fox Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.10095,
+    "lng": -75.31941,
+    "dist": 94.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4756753281,
+    "score": 0
+  },
+  {
+    "id": "sw:arrowheadtrainstatio",
+    "name": "Arrow Head Train & Station",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.94359,
+    "lng": -75.13073,
+    "dist": 94.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4783905227,
+    "score": 0
+  },
+  {
+    "id": "sw:alumnicircle",
+    "name": "Alumni Circle",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98145,
+    "lng": -75.15575,
+    "dist": 95.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4807995796,
+    "score": 0
+  },
+  {
+    "id": "sw:robertcorneliusmemor",
+    "name": "Robert Cornelius Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00265,
+    "lng": -75.18884,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593787,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesbrockdenbrown",
+    "name": "Charles Brockden Brown Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.99989,
+    "lng": -75.189,
+    "dist": 94.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593788,
+    "score": 0
+  },
+  {
+    "id": "sw:elishakentkanememori",
+    "name": "Elisha Kent Kane Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.0044,
+    "lng": -75.19036,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593789,
+    "score": 0
+  },
+  {
+    "id": "sw:maryannalongstrethme",
+    "name": "Mary Anna Longstreth Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.99798,
+    "lng": -75.18826,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593790,
+    "score": 0
+  },
+  {
+    "id": "sw:gengeorgegmeadememor",
+    "name": "Gen. George G. Meade Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00343,
+    "lng": -75.18941,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593791,
+    "score": 0
+  },
+  {
+    "id": "sw:genrobertpattersonme",
+    "name": "Gen. Robert Patterson Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00064,
+    "lng": -75.19004,
+    "dist": 94.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593792,
+    "score": 0
+  },
+  {
+    "id": "sw:unclaimedremainsofth",
+    "name": "Unclaimed Remains of the City of Philadelphia",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00074,
+    "lng": -75.18739,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593793,
+    "score": 0
+  },
+  {
+    "id": "sw:widenerfamilymemoria",
+    "name": "Widener Family Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00059,
+    "lng": -75.18926,
+    "dist": 94.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593794,
+    "score": 0
+  },
+  {
+    "id": "sw:robertralstonstewart",
+    "name": "Robert Ralston Stewart Memorial ",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00443,
+    "lng": -75.18891,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593795,
+    "score": 0
+  },
+  {
+    "id": "sw:johnfrancismarionmem",
+    "name": "John Francis Marion Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00346,
+    "lng": -75.18988,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593798,
+    "score": 0
+  },
+  {
+    "id": "sw:williamjmullenmemori",
+    "name": "William J. Mullen Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.99899,
+    "lng": -75.18999,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593799,
+    "score": 0
+  },
+  {
+    "id": "sw:alexanderizelenetski",
+    "name": "Alexander I. Zelenetskii Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00249,
+    "lng": -75.18977,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593800,
+    "score": 0
+  },
+  {
+    "id": "sw:mercycarlislememoria",
+    "name": "Mercy Carlisle Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00361,
+    "lng": -75.18856,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593802,
+    "score": 0
+  },
+  {
+    "id": "sw:charlesevansantmemor",
+    "name": "Charles E. Vansant Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.9983,
+    "lng": -75.18896,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593805,
+    "score": 0
+  },
+  {
+    "id": "sw:adrianbalboapauliepe",
+    "name": "Adrian Balboa & Paulie Pennino",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.00377,
+    "lng": -75.18753,
+    "dist": 94.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593806,
+    "score": 0
+  },
+  {
+    "id": "sw:silentsentrymonument",
+    "name": "Silent Sentry Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00227,
+    "lng": -75.18744,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593807,
+    "score": 0
+  },
+  {
+    "id": "sw:henrycharlesleamemor",
+    "name": "Henry Charles Lea Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00345,
+    "lng": -75.18969,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593808,
+    "score": 0
+  },
+  {
+    "id": "sw:harrykalasmemorial",
+    "name": "Harry Kalas Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00374,
+    "lng": -75.1898,
+    "dist": 94.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860593809,
+    "score": 0
+  },
+  {
+    "id": "sw:yellowfevermonument",
+    "name": "Yellow Fever Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00601,
+    "lng": -75.1899,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601082,
+    "score": 0
+  },
+  {
+    "id": "sw:ltlamontmoorememoria",
+    "name": "Lt. Lamont Moore Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00571,
+    "lng": -75.18931,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601083,
+    "score": 0
+  },
+  {
+    "id": "sw:manueltsozinhomemori",
+    "name": "Manuel T. Sozinho Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00636,
+    "lng": -75.19062,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601084,
+    "score": 0
+  },
+  {
+    "id": "sw:drmaryepenningtonmem",
+    "name": "Dr. Mary E. Pennington Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00522,
+    "lng": -75.18961,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601085,
+    "score": 0
+  },
+  {
+    "id": "sw:sarahjhalememorial",
+    "name": "Sarah J. Hale Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00532,
+    "lng": -75.18848,
+    "dist": 95.0,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601086,
+    "score": 0
+  },
+  {
+    "id": "sw:marthadrinnanmemoria",
+    "name": "Martha Drinnan Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00523,
+    "lng": -75.18862,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860601087,
+    "score": 0
+  },
+  {
+    "id": "sw:oldmortalitymonument",
+    "name": "Old Mortality Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00416,
+    "lng": -75.18795,
+    "dist": 94.9,
+    "description": "Historic: monument",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4860710733,
+    "score": 0
+  },
+  {
+    "id": "sw:berwindmemorial",
+    "name": "Berwind Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00063,
+    "lng": -75.1885,
+    "dist": 94.7,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4904886167,
+    "score": 0
+  },
+  {
+    "id": "sw:marthacostonmemorial",
+    "name": "Martha Coston Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00366,
+    "lng": -75.18826,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5104046508,
+    "score": 0
+  },
+  {
+    "id": "sw:genjohncliffordpembe",
+    "name": "Gen. John Clifford Pemberton Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.99778,
+    "lng": -75.19,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5120189609,
+    "score": 0
+  },
+  {
+    "id": "sw:willowgrovemallcarou",
+    "name": "Willow Grove Mall Carousel",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.13993,
+    "lng": -75.1239,
+    "dist": 103.7,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5180968059,
+    "score": 0
+  },
+  {
+    "id": "sw:8milemarker",
+    "name": "8-Mile marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.01136,
+    "lng": -75.25976,
+    "dist": 92.4,
+    "description": "18th-century stone marker denoting 8 miles to Philadelphia Court House at Market & 2nd St. · Historic: milestone",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5243163095,
+    "score": 0
+  },
+  {
+    "id": "sw:washingtonencampment",
+    "name": "Washington Encampment 1777",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.00977,
+    "lng": -75.25535,
+    "dist": 92.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5247943539,
+    "score": 0
+  },
+  {
+    "id": "sw:jenkintownsign",
+    "name": "Jenkintown Sign",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.09227,
+    "lng": -75.1366,
+    "dist": 101.0,
+    "description": "Historic: monument",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5258742983,
+    "score": 0
+  },
+  {
+    "id": "sw:911memorial",
+    "name": "9/11 Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.90448,
+    "lng": -74.97686,
+    "dist": 99.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5282493526,
+    "score": 0
+  },
+  {
+    "id": "sw:flighttestmemorial",
+    "name": "Flight Test Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.86612,
+    "lng": -75.32125,
+    "dist": 83.4,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5350177605,
+    "score": 0
+  },
+  {
+    "id": "sw:watermanmansionsite",
+    "name": "Waterman Mansion Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.08891,
+    "lng": -75.08141,
+    "dist": 103.0,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5741859140,
+    "score": 0
+  },
+  {
+    "id": "sw:langstrothmillcomple",
+    "name": "Langstroth Mill Complex",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.1403,
+    "lng": -75.07512,
+    "dist": 105.6,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5821810886,
+    "score": 0
+  },
+  {
+    "id": "sw:bonehillmill",
+    "name": "Bone Hill Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.1426,
+    "lng": -75.07733,
+    "dist": 105.6,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5846936501,
+    "score": 0
+  },
+  {
+    "id": "sw:joanofarc",
+    "name": "Joan of Arc",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96649,
+    "lng": -75.17917,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5912322905,
+    "score": 0
+  },
+  {
+    "id": "sw:helicoptermemorial",
+    "name": "Helicopter Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.14555,
+    "lng": -75.11377,
+    "dist": 104.4,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5921115315,
+    "score": 0
+  },
+  {
+    "id": "sw:aeromemorial",
+    "name": "Aero Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.9581,
+    "lng": -75.17203,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5939920051,
+    "score": 0
+  },
+  {
+    "id": "sw:buddbb1pioneeraircra",
+    "name": "Budd BB-1 Pioneer Aircraft",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95849,
+    "lng": -75.17244,
+    "dist": 93.5,
+    "description": "Historic: aircraft",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5939920232,
+    "score": 0
+  },
+  {
+    "id": "sw:angeloftheresurrecti",
+    "name": "Angel of the Resurrection",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95566,
+    "lng": -75.18152,
+    "dist": 93.0,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6069134206,
+    "score": 0
+  },
+  {
+    "id": "sw:thegreatbeech",
+    "name": "The Great Beech",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.07984,
+    "lng": -75.23414,
+    "dist": 96.6,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6073969925,
+    "score": 0
+  },
+  {
+    "id": "sw:holidaygardenrailway",
+    "name": "Holiday Garden Railway",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.08661,
+    "lng": -75.22012,
+    "dist": 97.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6073969948,
+    "score": 0
+  },
+  {
+    "id": "sw:wildworksropescourse",
+    "name": "WildWorks Ropes Course",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.97379,
+    "lng": -75.1952,
+    "dist": 93.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6157737413,
+    "score": 0
+  },
+  {
+    "id": "sw:lock70",
+    "name": "Lock 70",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.02262,
+    "lng": -75.21963,
+    "dist": 94.5,
+    "description": "Only fragments of apparent lock gate remain. · Historic: lock gate",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6169638906,
+    "score": 0
+  },
+  {
+    "id": "sw:harbisonsdairymilkbo",
+    "name": "Harbison's Dairy Milk Bottle",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.98157,
+    "lng": -75.13212,
+    "dist": 96.2,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6240921141,
+    "score": 0
+  },
+  {
+    "id": "sw:gettysburgstone",
+    "name": "Gettysburg Stone",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94913,
+    "lng": -75.2104,
+    "dist": 91.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6297566098,
+    "score": 0
+  },
+  {
+    "id": "sw:kelpiuscave",
+    "name": "Kelpius Cave",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 40.02403,
+    "lng": -75.20141,
+    "dist": 95.3,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6509008579,
+    "score": 0
+  },
+  {
+    "id": "sw:commodoreuriahplevy",
+    "name": "Commodore Uriah P. Levy",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95133,
+    "lng": -75.14841,
+    "dist": 94.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6577625400,
+    "score": 0
+  },
+  {
+    "id": "sw:georgeandmetaconorwo",
+    "name": "George and Meta Conor-Wood Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98137,
+    "lng": -75.20585,
+    "dist": 93.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6621980652,
+    "score": 0
+  },
+  {
+    "id": "sw:lawprosperityandpowe",
+    "name": "Law, Prosperity, and Power",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98444,
+    "lng": -75.22326,
+    "dist": 92.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6621982736,
+    "score": 0
+  },
+  {
+    "id": "sw:civilwarmonument",
+    "name": "Civil War Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98595,
+    "lng": -75.21598,
+    "dist": 93.0,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6621982770,
+    "score": 0
+  },
+  {
+    "id": "sw:chiefjusticejohnmars",
+    "name": "Chief Justice John Marshall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96621,
+    "lng": -75.18179,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6623039651,
+    "score": 0
+  },
+  {
+    "id": "sw:aquestforparitytheoc",
+    "name": "A Quest for Parity: The Octavius V. Catto Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95187,
+    "lng": -75.16419,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6623058232,
+    "score": 0
+  },
+  {
+    "id": "sw:evelyntaylorpricemem",
+    "name": "Evelyn Taylor Price Memorial Sundial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95002,
+    "lng": -75.17097,
+    "dist": 93.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6623421580,
+    "score": 0
+  },
+  {
+    "id": "sw:drjwilliamwhitememor",
+    "name": "Dr. J. William White Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94927,
+    "lng": -75.1717,
+    "dist": 93.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6623553987,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonsurveyhist",
+    "name": "Mason-Dixon Survey Historical Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94093,
+    "lng": -75.1439,
+    "dist": 94.0,
+    "description": "Historic: marker",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6625293958,
+    "score": 0
+  },
+  {
+    "id": "sw:jamesagarfieldmonume",
+    "name": "James A. Garfield Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.97388,
+    "lng": -75.19053,
+    "dist": 93.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6630334192,
+    "score": 0
+  },
+  {
+    "id": "sw:discoverycenterateas",
+    "name": "Discovery Center at East Park Reservoir",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.98273,
+    "lng": -75.193,
+    "dist": 93.8,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6630340319,
+    "score": 0
+  },
+  {
+    "id": "sw:thebijoucafe",
+    "name": "The Bijou Cafe",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.94495,
+    "lng": -75.16577,
+    "dist": 93.2,
+    "description": "Historic: yes",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6632431236,
+    "score": 0
+  },
+  {
+    "id": "sw:americanbandstand",
+    "name": "American Bandstand",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.95835,
+    "lng": -75.21282,
+    "dist": 91.9,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6632470609,
+    "score": 0
+  },
+  {
+    "id": "sw:stephengirard",
+    "name": "Stephen Girard",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.92036,
+    "lng": -75.18318,
+    "dist": 91.5,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6653454923,
+    "score": 0
+  },
+  {
+    "id": "sw:majorgeneraljohnfult",
+    "name": "Major General John Fulton Reynolds",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.92261,
+    "lng": -75.18678,
+    "dist": 91.4,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6654033410,
+    "score": 0
+  },
+  {
+    "id": "sw:fortmercer",
+    "name": "Fort Mercer",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.87241,
+    "lng": -75.19009,
+    "dist": 89.2,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6656000446,
+    "score": 0
+  },
+  {
+    "id": "sw:pennsportveteransmem",
+    "name": "Pennsport Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.93096,
+    "lng": -75.14982,
+    "dist": 93.3,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6662935930,
+    "score": 0
+  },
+  {
+    "id": "sw:wissahickonwarmemori",
+    "name": "Wissahickon War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.01682,
+    "lng": -75.20986,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7062108437,
+    "score": 0
+  },
+  {
+    "id": "sw:rittenhousepapermill",
+    "name": "Rittenhouse Papermill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.02973,
+    "lng": -75.18973,
+    "dist": 96.0,
+    "description": "Historic: yes",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7157275260,
+    "score": 0
+  },
+  {
+    "id": "sw:21stwardwarmemorial",
+    "name": "21st Ward War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03674,
+    "lng": -75.22103,
+    "dist": 95.1,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7167352065,
+    "score": 0
+  },
+  {
+    "id": "sw:buttercupcottageruin",
+    "name": "Buttercup Cottage Ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.0587,
+    "lng": -75.20059,
+    "dist": 96.9,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7180101258,
+    "score": 0
+  },
+  {
+    "id": "sw:marketsquarewarmemor",
+    "name": "Market Square War Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03434,
+    "lng": -75.17229,
+    "dist": 96.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7182064036,
+    "score": 0
+  },
+  {
+    "id": "sw:allwarsmemorialtocol",
+    "name": "All Wars Memorial to Colored Soldiers and Sailors",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95834,
+    "lng": -75.1718,
+    "dist": 93.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7182486950,
+    "score": 0
+  },
+  {
+    "id": "sw:henryhowardhoustonme",
+    "name": "Henry Howard Houston Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03197,
+    "lng": -75.18725,
+    "dist": 96.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7182574823,
+    "score": 0
+  },
+  {
+    "id": "sw:americanwarmotherand",
+    "name": "American War Mother and Her Sons",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03585,
+    "lng": -75.15571,
+    "dist": 97.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7205323325,
+    "score": 0
+  },
+  {
+    "id": "sw:delawarecountyvetera",
+    "name": "Delaware County Veterans Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.97843,
+    "lng": -75.43266,
+    "dist": 84.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7206439902,
+    "score": 0
+  },
+  {
+    "id": "sw:pastoriousmonument",
+    "name": "Pastorious Monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.0369,
+    "lng": -75.17615,
+    "dist": 96.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7221500790,
+    "score": 0
+  },
+  {
+    "id": "sw:wakefieldtenanthouse",
+    "name": "Wakefield Tenant House Ruins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 40.03163,
+    "lng": -75.15085,
+    "dist": 97.7,
+    "description": "Historic: ruins",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7261711250,
+    "score": 0
+  },
+  {
+    "id": "sw:johnnyringstatue",
+    "name": "Johnny Ring Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.98249,
+    "lng": -75.15657,
+    "dist": 95.2,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7352560855,
+    "score": 0
+  },
+  {
+    "id": "sw:911firstrespondermem",
+    "name": "9/11 First Responder Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95857,
+    "lng": -75.14677,
+    "dist": 94.6,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7383483261,
+    "score": 0
+  },
+  {
+    "id": "sw:overthetop",
+    "name": "Over the Top",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.96082,
+    "lng": -75.14126,
+    "dist": 94.9,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7408327410,
+    "score": 0
+  },
+  {
+    "id": "sw:theuniversalsphere",
+    "name": "The Universal Sphere",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.95491,
+    "lng": -75.16988,
+    "dist": 93.5,
+    "description": "",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7450315070,
+    "score": 0
+  },
+  {
+    "id": "sw:guglielmomarconi",
+    "name": "Guglielmo Marconi",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.91544,
+    "lng": -75.17113,
+    "dist": 91.8,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7527471546,
+    "score": 0
+  },
+  {
+    "id": "sw:livingflamememorial",
+    "name": "Living Flame Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.95539,
+    "lng": -75.14982,
+    "dist": 94.4,
+    "description": "Historic: memorial",
+    "zone": "Philadelphia & Delaware",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7534018364,
     "score": 0
   }
 ];
