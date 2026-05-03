@@ -27,7 +27,7 @@
   --t-trail:     #d4893a;
   --t-waterfall: #52b8e8;
   --t-water:     #52b8e8;
-  --t-weird:     #b87ae8;
+  --t-gems:     #b87ae8;
   --t-viewpoint: #e0c450;
   --t-run:       #4ed4a0;
   --t-hike:      #5dbf5d;
@@ -494,8 +494,8 @@ body {
     linear-gradient(135deg, rgba(4,10,14,0.88) 0%, rgba(4,10,14,0.72) 100%),
     url('https://images.unsplash.com/photo-1501854140801-50d01698950b?w=700&h=220&q=55&auto=format&fit=crop');
 }
-.place-card[data-type="weird"] {
-  --type-color: var(--t-weird);
+.place-card[data-type="gems"] {
+  --type-color: var(--t-gems);
   background-image:
     linear-gradient(135deg, rgba(10,6,14,0.88) 0%, rgba(10,6,14,0.72) 100%),
     url('https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=700&h=220&q=55&auto=format&fit=crop');

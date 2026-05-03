@@ -23,31 +23,31 @@ const SEED_PLACES = [
   { id: 'seed:assateague',     name: 'Assateague Island',                  type: 'water',     tags: ['water','scenic','nature','trail'],                    lat: 38.059,  lng: -75.165, description: 'Barrier island with wild ponies, pristine beaches, and undeveloped seashore.',   osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:rockcreek',      name: 'Rock Creek Park',                    type: 'park',      tags: ['park','trail','nature','hiking','running'],           lat: 38.957,  lng: -77.050, description: 'Urban national park running through DC with forested trails and creek.',        osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:cocanal',        name: 'C&O Canal Towpath',                  type: 'trail',     tags: ['trail','hiking','running','nature','water'],          lat: 38.954,  lng: -77.516, description: '184.5-mile flat towpath from DC to Cumberland along the Potomac River.',        osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:blackwater',     name: 'Blackwater National Wildlife Refuge',type: 'park',      tags: ['park','water','nature','weird'],                      lat: 38.432,  lng: -76.054, description: 'Tidal marsh refuge on the Eastern Shore — eagles, migratory birds, eerie tidelands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:blackwater',     name: 'Blackwater National Wildlife Refuge',type: 'park',      tags: ['park','water','nature','gems'],                      lat: 38.432,  lng: -76.054, description: 'Tidal marsh refuge on the Eastern Shore — eagles, migratory birds, eerie tidelands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:marylandheights', name: 'Maryland Heights Trail',            type: 'trail',     tags: ['trail','hiking','scenic','historic'],                 lat: 39.322,  lng: -77.730, description: 'Demanding climb above Harpers Ferry with panoramic views of the confluence.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:cascadefalls',   name: 'Cascade Falls',                      type: 'waterfall', tags: ['waterfall','water','scenic','hiking','trail'],        lat: 39.295,  lng: -77.511, description: 'Pretty 15-ft cascade in Cunningham Falls State Park manor area.',               osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:merkle',         name: 'Merkle Wildlife Sanctuary',          type: 'park',      tags: ['park','water','nature','weird'],                      lat: 38.726,  lng: -76.693, description: 'Scenic sanctuary along the Patuxent River; fall Canada goose flocks number in the thousands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:jugbay',         name: 'Jug Bay Wetlands Sanctuary',         type: 'water',     tags: ['water','nature','park','weird'],                      lat: 38.782,  lng: -76.714, description: 'Pristine tidal freshwater wetland on the Patuxent River — kayaking and birding.',  osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:merkle',         name: 'Merkle Wildlife Sanctuary',          type: 'park',      tags: ['park','water','nature','gems'],                      lat: 38.726,  lng: -76.693, description: 'Scenic sanctuary along the Patuxent River; fall Canada goose flocks number in the thousands.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:jugbay',         name: 'Jug Bay Wetlands Sanctuary',         type: 'water',     tags: ['water','nature','park','gems'],                      lat: 38.782,  lng: -76.714, description: 'Pristine tidal freshwater wetland on the Patuxent River — kayaking and birding.',  osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:rocks',          name: 'Rocks State Park',                   type: 'park',      tags: ['park','scenic','hiking','trail','nature'],            lat: 39.620,  lng: -76.372, description: 'Dramatic rock outcrops in the Deer Creek valley, including the King and Queen Seat.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:catoctin',       name: 'Catoctin Mountain Park',             type: 'park',      tags: ['park','forest','hiking','trail','nature'],            lat: 39.634,  lng: -77.462, description: "Federal park adjacent to Camp David with rugged trails and Blue Blazes Whiskey Still.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:southmtn',       name: 'South Mountain State Park',          type: 'trail',     tags: ['hiking','trail','scenic','nature','historic'],        lat: 39.489,  lng: -77.643, description: 'AT corridor and Civil War battlefield ridge with long mountain views.',            osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:prettyboy',      name: 'Prettyboy Reservoir',                type: 'water',     tags: ['water','nature','park','scenic'],                     lat: 39.593,  lng: -76.807, description: 'Remote reservoir north of Baltimore — quiet trails and undeveloped shoreline.',     osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:soldiersdelight', name: "Soldier's Delight Natural Area",    type: 'weird',     tags: ['weird','nature','historic','scenic'],                 lat: 39.415,  lng: -76.851, description: 'Rare serpentine barrens with alien-looking landscape and endemic plant species.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:poe',            name: 'Edgar Allan Poe House',              type: 'weird',     tags: ['weird','historic'],                                   lat: 39.296,  lng: -76.625, description: "The poet's childhood Baltimore home, now a small museum in the Poe neighborhood.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:soldiersdelight', name: "Soldier's Delight Natural Area",    type: 'gems',     tags: ['gems','nature','historic','scenic'],                 lat: 39.415,  lng: -76.851, description: 'Rare serpentine barrens with alien-looking landscape and endemic plant species.',    osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:poe',            name: 'Edgar Allan Poe House',              type: 'gems',     tags: ['gems','historic'],                                   lat: 39.296,  lng: -76.625, description: "The poet's childhood Baltimore home, now a small museum in the Poe neighborhood.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:nationalharbor', name: 'National Harbor',                    type: 'viewpoint', tags: ['viewpoint','scenic','water'],                         lat: 38.783,  lng: -77.010, description: 'Waterfront development on the Potomac with sweeping river views and the Awakening statue.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:baybridge',      name: 'Chesapeake Bay Bridge Viewpoint',    type: 'viewpoint', tags: ['viewpoint','scenic','water'],                         lat: 38.994,  lng: -76.393, description: 'Sandy Point beach gives the best ground-level view of the twin Bay Bridge spans.',   osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:pointlookout',   name: 'Point Lookout State Park',           type: 'water',     tags: ['water','historic','weird','scenic'],                  lat: 38.055,  lng: -76.326, description: "Where the Potomac meets the Bay — Civil War prison site, lighthouse, and ghost lore.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:pointlookout',   name: 'Point Lookout State Park',           type: 'water',     tags: ['water','historic','gems','scenic'],                  lat: 38.055,  lng: -76.326, description: "Where the Potomac meets the Bay — Civil War prison site, lighthouse, and ghost lore.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:skymeadows',     name: 'Sky Meadows State Park',             type: 'park',      tags: ['park','hiking','trail','scenic','nature'],            lat: 38.982,  lng: -77.908, description: 'Rolling Virginia piedmont farm with meadow trails and Blue Ridge backdrop.',          osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:cunninghammanor', name: 'Cunningham Falls Manor Area',       type: 'park',      tags: ['park','water','nature','trail'],                      lat: 39.620,  lng: -77.470, description: 'Lower section of Cunningham Falls SP with Hunting Creek Lake and fishing.',           osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:potrocks',       name: 'Pot Rocks',                         type: 'water',     tags: ['water','scenic','nature','swimming'],                  lat: 39.476,  lng: -76.448, description: 'Natural swimming hole on the Gunpowder River with massive boulders and clear water. Local hidden gem in Kingsville MD.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:dollysods',      name: 'Dolly Sods Wilderness',             type: 'hike',      tags: ['hiking','scenic','nature','weird','trail'],            lat: 38.990,  lng: -79.370, description: 'High-elevation plateau wilderness in WV — wind-sculpted spruce, red bogs, and sweeping heath barrens unlike anywhere else in the region.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:winkler',        name: 'Winkler Botanical Preserve',        type: 'park',      tags: ['park','nature','scenic','weird'],                      lat: 38.826,  lng: -77.112, description: 'Hidden 44-acre nature preserve in Alexandria VA — woodland trails, waterfall, and native plant gardens tucked between suburbia.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:naturaltunnel',  name: 'Natural Tunnel State Park',         type: 'weird',     tags: ['weird','scenic','nature','hiking'],                    lat: 36.701,  lng: -82.741, description: "A 900-ft natural tunnel blasted through solid limestone by a creek — Daniel Boone called it the 8th wonder of the world. Worth the drive.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:dollysods',      name: 'Dolly Sods Wilderness',             type: 'hike',      tags: ['hiking','scenic','nature','gems','trail'],            lat: 38.990,  lng: -79.370, description: 'High-elevation plateau wilderness in WV — wind-sculpted spruce, red bogs, and sweeping heath barrens unlike anywhere else in the region.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:winkler',        name: 'Winkler Botanical Preserve',        type: 'park',      tags: ['park','nature','scenic','gems'],                      lat: 38.826,  lng: -77.112, description: 'Hidden 44-acre nature preserve in Alexandria VA — woodland trails, waterfall, and native plant gardens tucked between suburbia.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:naturaltunnel',  name: 'Natural Tunnel State Park',         type: 'gems',     tags: ['gems','scenic','nature','hiking'],                    lat: 36.701,  lng: -82.741, description: "A 900-ft natural tunnel blasted through solid limestone by a creek — Daniel Boone called it the 8th wonder of the world. Worth the drive.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:prettyboydam',   name: 'Prettyboy Dam',                     type: 'viewpoint', tags: ['viewpoint','scenic','water','historic'],               lat: 39.605,  lng: -76.792, description: 'Massive stone dam holding back Prettyboy Reservoir — dramatic overlook with the spillway roaring below. Historical landmark.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:gambrill',       name: 'Gambrill State Park',               type: 'park',      tags: ['park','hiking','trail','scenic','nature'],             lat: 39.432,  lng: -77.477, description: 'Wooded ridgeline park above Frederick MD with overlooks stretching across the valley. Great trail network and rock outcrops.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:pinnacle',       name: 'The Pinnacle Overlook',             type: 'viewpoint', tags: ['viewpoint','scenic','hiking','nature','trail'],         lat: 39.544,  lng: -76.157, description: 'Jaw-dropping 4.9★ overlook in Susquehanna State Park — the river bends 200 ft below, farmland stretches to the horizon. One of the best views in MD.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:bearrocks',      name: 'Bear Rocks Preserve',               type: 'hike',      tags: ['hiking','scenic','nature','weird','viewpoint'],         lat: 39.017,  lng: -79.355, description: 'Wind-battered quartzite boulders on the Allegheny Front in WV — red spruce, 360° ridge views, and a sense of total wildness. Adjacent to Dolly Sods.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:highrock',       name: 'High Rock',                         type: 'viewpoint', tags: ['viewpoint','scenic','hiking','weird'],                  lat: 39.722,  lng: -77.491, description: 'AT scenic spot near Pen Mar MD — graffiti-covered boulders at the ridge edge with a massive 180° view over the Cumberland Valley. 4.7★ with 1,576 reviews.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:bearrocks',      name: 'Bear Rocks Preserve',               type: 'hike',      tags: ['hiking','scenic','nature','gems','viewpoint'],         lat: 39.017,  lng: -79.355, description: 'Wind-battered quartzite boulders on the Allegheny Front in WV — red spruce, 360° ridge views, and a sense of total wildness. Adjacent to Dolly Sods.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:highrock',       name: 'High Rock',                         type: 'viewpoint', tags: ['viewpoint','scenic','hiking','gems'],                  lat: 39.722,  lng: -77.491, description: 'AT scenic spot near Pen Mar MD — graffiti-covered boulders at the ridge edge with a massive 180° view over the Cumberland Valley. 4.7★ with 1,576 reviews.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:whiterocks',     name: 'White Rocks Trail Overlook',        type: 'hike',      tags: ['hiking','viewpoint','scenic','nature','trail'],         lat: 39.467,  lng: -77.469, description: 'Quartzite outcrop overlook in the South Mountain/Gambrill area with open ridgeline views over the Frederick Valley. 4.6★ hiking area.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:robinson',       name: 'Robinson Nature Center',            type: 'park',      tags: ['park','nature','trail','scenic'],                      lat: 39.217,  lng: -76.885, description: 'Tucked-away nature preserve in Columbia MD with wetland boardwalks, meadow trails, and wildlife viewing. 4.7★ hidden gem in Howard County.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:beachwood',      name: 'Beachwood Park',                    type: 'water',     tags: ['water','park','nature','scenic'],                      lat: 39.474,  lng: -76.438, description: 'Quiet waterfront park in the Gunpowder Falls area — wooded paths, creek access, and a peaceful escape close to Baltimore.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
@@ -55,8 +55,21 @@ const SEED_PLACES = [
   { id: 'seed:wildflower',     name: 'Wildflower Trail',                  type: 'trail',     tags: ['trail','nature','scenic','hiking'],                    lat: 39.480,  lng: -76.688, description: 'Peaceful wooded trail through wildflower meadows and forest. 4.6★ local hiking gem perfect for a quiet walk.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:severnrun',      name: 'Severn Run Natural Environment Area',type: 'park',      tags: ['park','nature','trail','water'],                       lat: 39.047,  lng: -76.618, description: 'Forested stream valley in Anne Arundel County following Severn Run — quiet trails, wetlands, and total seclusion close to Pasadena.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
   { id: 'seed:magothy',        name: 'The Magothy Greenway Natural Area',  type: 'park',      tags: ['park','nature','water','trail','scenic'],              lat: 39.082,  lng: -76.503, description: 'Preserved natural corridor along the Magothy River near Pasadena — wooded paths, creek crossings, and tidal marsh views. Practically in your backyard.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:whitecliffs',    name: 'White Cliffs of Conoy',             type: 'weird',     tags: ['weird','scenic','water','hiking','viewpoint'],         lat: 40.050,  lng: -76.508, description: 'Dramatic white limestone cliffs dropping straight into the Susquehanna River in PA — looks like something from another continent. Hidden hiking area, 4.6★.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
-  { id: 'seed:franciscan',     name: 'Franciscan Monastery of the Holy Land', type: 'weird', tags: ['weird','historic','scenic'],                           lat: 38.930,  lng: -76.994, description: 'Full-scale replicas of Jerusalem shrines and Roman catacombs hidden inside a DC monastery. 4.9★ with 1,162 reviews — one of the most surreal places in the region.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 }
+  { id: 'seed:whitecliffs',    name: 'White Cliffs of Conoy',             type: 'gems',     tags: ['gems','scenic','water','hiking','viewpoint'],         lat: 40.050,  lng: -76.508, description: 'Dramatic white limestone cliffs dropping straight into the Susquehanna River in PA — looks like something from another continent. Hidden hiking area, 4.6★.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:franciscan',     name: 'Franciscan Monastery of the Holy Land', type: 'gems', tags: ['gems','historic','scenic'],                           lat: 38.930,  lng: -76.994, description: 'Full-scale replicas of Jerusalem shrines and Roman catacombs hidden inside a DC monastery. 4.9★ with 1,162 reviews — one of the most surreal places in the region.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:crystalgrottoes',name: 'Crystal Grottoes Caverns',            type: 'gems',     tags: ['gems','scenic','nature'],                            lat: 39.499,  lng: -77.648, description: "Maryland's only publicly accessible cave — stalactites, stalagmites, and crystal formations packed into a small limestone cave near Boonsboro. Completely unexpected.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:pawtunnel',      name: 'Paw Paw Tunnel',                      type: 'gems',     tags: ['gems','historic','trail','water'],                   lat: 39.537,  lng: -78.457, description: '3,118-ft hand-dug canal tunnel from 1850 — you walk straight through a mountain in pitch darkness on the C&O Canal towpath. Nothing else like it on the East Coast.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:sidelinghill',   name: 'Sideling Hill Road Cut',              type: 'gems',     tags: ['gems','scenic','nature'],                            lat: 39.647,  lng: -78.315, description: '340-million-year-old rock layers folded into a massive syncline exposed when I-68 was blasted through the mountain. Free exhibit at the top. Geology visible from the highway.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:gathland',       name: 'Gathland State Park',                 type: 'gems',     tags: ['gems','historic','hiking','trail'],                  lat: 39.394,  lng: -77.638, description: 'A 19th-century journalist built a castle estate on South Mountain, then died broke. The ruins remain — arches, towers, outbuildings — plus the only monument to war correspondents in the US.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:battlecreek',    name: 'Battle Creek Cypress Swamp',          type: 'gems',     tags: ['gems','water','nature','scenic'],                    lat: 38.527,  lng: -76.618, description: 'Northernmost natural bald cypress swamp in the US — ancient trees draped in moss, boardwalk over black water, feels like the deep South dropped into Calvert County MD.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:senecarocks',    name: 'Seneca Rocks',                        type: 'hike',      tags: ['hiking','scenic','gems','nature','viewpoint'],       lat: 38.832,  lng: -79.372, description: 'Near-vertical quartzite fins rising 900 ft straight out of a flat WV valley floor — looks fake. Rock climbing mecca and one of the most dramatic landscapes in the mid-Atlantic.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:oldrag',         name: 'Old Rag Mountain',                    type: 'hike',      tags: ['hiking','scenic','nature','trail'],                   lat: 38.557,  lng: -78.309, description: 'The crown jewel scramble of Shenandoah — 9-mile circuit with a mile of pure boulder maze at the summit. Most sought-after day hike in VA.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:smokehole',      name: 'Smoke Hole Canyon',                   type: 'gems',     tags: ['gems','scenic','water','nature'],                    lat: 38.886,  lng: -79.231, description: 'The South Branch Potomac carved a deep gorge through WV limestone — narrow canyon walls, cave entrances, and river so clear you can count the rocks on the bottom.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:weverton',       name: 'Weverton Cliffs',                     type: 'viewpoint', tags: ['viewpoint','scenic','hiking','trail'],                lat: 39.327,  lng: -77.737, description: 'Short but steep AT climb to a dramatic rocky perch above the Potomac gorge and Harpers Ferry gap — the view is massive and the hike takes under an hour.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:towncrk',        name: 'Town Creek Indian Mound',             type: 'gems',     tags: ['gems','historic'],                                   lat: 39.645,  lng: -77.156, description: 'Reconstructed Mississippian ceremonial site from 1,000 years ago near Frederick MD — a mortuary temple on a raised earthen mound, standing alone in a field. Genuinely eerie.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:roachesrun',     name: 'Roaches Run Waterfowl Sanctuary',     type: 'gems',     tags: ['gems','water','nature','scenic'],                    lat: 38.847,  lng: -77.054, description: "A hidden tidal marsh full of herons and ducks sitting directly beneath Reagan Airport's flight path — planes roar 200 ft overhead while egrets fish below. Surreal.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:swallowfalls',   name: 'Swallow Falls State Park',            type: 'waterfall', tags: ['waterfall','water','scenic','hiking','nature'],       lat: 39.496,  lng: -79.408, description: "Maryland's most spectacular waterfall cluster — multiple falls including 53-ft Muddy Creek Falls crashing through an old-growth hemlock gorge near Deep Creek Lake.", osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 },
+  { id: 'seed:blackwaterfalls',name: 'Blackwater Falls State Park',         type: 'waterfall', tags: ['waterfall','water','scenic','hiking','nature'],       lat: 39.114,  lng: -79.490, description: 'Tannic acid turns the water deep amber-black before it plunges 57 ft — WV state park with boardwalk views and hemlock trails. The color looks unreal in photos.', osmTags: {}, osmType: 'node', osmId: 0, dist: 0, score: 0 }
 ];
 
 // ---- Config ----
@@ -103,7 +116,7 @@ const DEFAULT_TASTE = {
   trail:     1.0,
   park:      1.0,
   water:     1.0,
-  weird:     1.0,
+  gems:     1.0,
   historic:  1.0,
   viewpoint: 1.0,
   running:   1.0,
@@ -222,7 +235,7 @@ function classifyPlace(t) {
   if (t.route === 'running') return 'run';
   if (t.tourism === 'viewpoint') return 'viewpoint';
   if (t.historic || t.tourism === 'attraction'
-      || t.tourism === 'artwork') return 'weird';
+      || t.tourism === 'artwork') return 'gems';
   return 'other';
 }
 
@@ -242,9 +255,9 @@ function getPlaceTags(t) {
   if (t.leisure === 'nature_reserve') tags.push('park', 'forest', 'nature', 'hiking');
   if (t.leisure === 'park')       tags.push('park', 'nature');
   if (t.tourism === 'viewpoint')  tags.push('viewpoint', 'scenic');
-  if (t.historic)                 tags.push('historic', 'weird');
-  if (t.tourism === 'attraction') tags.push('weird');
-  if (t.tourism === 'artwork')    tags.push('weird', 'scenic');
+  if (t.historic)                 tags.push('historic', 'gems');
+  if (t.tourism === 'attraction') tags.push('gems');
+  if (t.tourism === 'artwork')    tags.push('gems', 'scenic');
   if (t.natural === 'wood'
       || t.landuse === 'forest')  tags.push('forest', 'nature');
   if (t.route === 'running')      tags.push('running', 'trail');
@@ -268,8 +281,8 @@ function matchesFilter(p) {
     || p.tags.includes('running');
   if (activeFilter === 'water') return p.type === 'water'
     || p.tags.includes('water');
-  if (activeFilter === 'weird') return p.type === 'weird'
-    || p.tags.includes('weird')
+  if (activeFilter === 'gems') return p.type === 'gems'
+    || p.tags.includes('gems')
     || p.tags.includes('historic');
   if (activeFilter === 'saved') {
     const favs = loadSet(SK.favorites);
@@ -420,7 +433,7 @@ const TYPE_EMOJI = {
   park:      '🌲',
   trail:     '🌿',
   water:     '🌊',
-  weird:     '👁️',
+  gems:     '👁️',
   viewpoint: '🔭',
   run:       '🏃',
   hike:      '🥾',
@@ -709,7 +722,6 @@ function useCurrentLocation() {
       };
       document.getElementById('location-text').textContent =
         'Current Location';
-      document.getElementById('location-icon').textContent = '🔵';
       btn.textContent = 'Use Home';
       btn.disabled    = false;
       btn.onclick     = useHomeLocation;
@@ -727,7 +739,6 @@ function useCurrentLocation() {
 function useHomeLocation() {
   currentLoc = { ...HOME };
   document.getElementById('location-text').textContent = HOME.label;
-  document.getElementById('location-icon').textContent = '📍';
   const btn = document.getElementById('use-location-btn');
   btn.textContent = 'Use My Location';
   btn.onclick     = useCurrentLocation;
