@@ -704,7 +704,7 @@ ${p.url ? `<a class="modal-maps-btn" href="${p.url}" target="_blank" rel="noopen
 }
 
 const TYPE_FALLBACK_PHOTO = {
-  waterfall: 'https://images.unsplash.com/photo-1442186343767-0b41ba7fdc97?w=700&h=400&q=80&auto=format&fit=crop',
+  waterfall: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=700&h=400&q=80&auto=format&fit=crop',
   water:     'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=700&h=400&q=80&auto=format&fit=crop',
   trail:     'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=700&h=400&q=80&auto=format&fit=crop',
   hike:      'https://images.unsplash.com/photo-1551632811-561732d1e306?w=700&h=400&q=80&auto=format&fit=crop',
@@ -929,7 +929,14 @@ async function loadPlaces() {
         return true;
       })
     : [];
-  const allBase = [...SEED_PLACES, ...swept, ...wiki];
+  const reddit = typeof REDDIT_PLACES !== 'undefined'
+    ? REDDIT_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit];
   places = allBase.map(p => ({
     ...p,
     dist: Math.round(
