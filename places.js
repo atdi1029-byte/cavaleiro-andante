@@ -51744,5 +51744,14781 @@ const SWEPT_PLACES = [
     "osmType": "node",
     "osmId": 12043618320,
     "score": 0
+  },
+  {
+    "id": "sw:difficulthill",
+    "name": "Difficult Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.28733,
+    "lng": -79.32115,
+    "dist": 149.8,
+    "description": "Elevation: 881m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356516413,
+    "score": 0
+  },
+  {
+    "id": "sw:fikehill",
+    "name": "Fike Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.57064,
+    "lng": -79.50143,
+    "dist": 161.8,
+    "description": "Elevation: 943m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356516832,
+    "score": 0
+  },
+  {
+    "id": "sw:greggknob",
+    "name": "Gregg Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50148,
+    "lng": -79.53338,
+    "dist": 162.7,
+    "description": "Elevation: 960m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356517288,
+    "score": 0
+  },
+  {
+    "id": "sw:kelleyknob",
+    "name": "Kelley Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.62536,
+    "lng": -79.56255,
+    "dist": 165.7,
+    "description": "Elevation: 712m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356517963,
+    "score": 0
+  },
+  {
+    "id": "sw:pineswampknob",
+    "name": "Pine Swamp Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55787,
+    "lng": -79.51282,
+    "dist": 162.3,
+    "description": "Elevation: 944m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356520083,
+    "score": 0
+  },
+  {
+    "id": "sw:pinnacle",
+    "name": "Pinnacle",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.38204,
+    "lng": -79.07864,
+    "dist": 137.5,
+    "description": "Elevation: 950m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356520123,
+    "score": 0
+  },
+  {
+    "id": "sw:snaggymountain",
+    "name": "Snaggy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.48648,
+    "lng": -79.48727,
+    "dist": 160.1,
+    "description": "Elevation: 946m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356521715,
+    "score": 0
+  },
+  {
+    "id": "sw:shaffermountain",
+    "name": "Shaffer Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.33621,
+    "lng": -79.52394,
+    "dist": 160.9,
+    "description": "Elevation: 972m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524407,
+    "score": 0
+  },
+  {
+    "id": "sw:brushyknobs",
+    "name": "Brushy Knobs",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.37288,
+    "lng": -79.54672,
+    "dist": 162.3,
+    "description": "Elevation: 927m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524718,
+    "score": 0
+  },
+  {
+    "id": "sw:evanshill",
+    "name": "Evans Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.67158,
+    "lng": -79.48411,
+    "dist": 162.4,
+    "description": "Elevation: 763m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524840,
+    "score": 0
+  },
+  {
+    "id": "sw:nethkinhill",
+    "name": "Nethkin Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.37788,
+    "lng": -79.16309,
+    "dist": 142.0,
+    "description": "Elevation: 768m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525122,
+    "score": 0
+  },
+  {
+    "id": "sw:number7hill",
+    "name": "Number 7 Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.3626,
+    "lng": -79.16198,
+    "dist": 141.8,
+    "description": "Elevation: 764m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525135,
+    "score": 0
+  },
+  {
+    "id": "sw:pigeonknob",
+    "name": "Pigeon Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61634,
+    "lng": -79.48137,
+    "dist": 161.4,
+    "description": "Elevation: 765m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525172,
+    "score": 0
+  },
+  {
+    "id": "sw:sicklehill",
+    "name": "Sickle Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.69264,
+    "lng": -79.48606,
+    "dist": 162.8,
+    "description": "Elevation: 738m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525275,
+    "score": 0
+  },
+  {
+    "id": "sw:christnerhill",
+    "name": "Christner Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74619,
+    "lng": -79.20892,
+    "dist": 149.5,
+    "description": "Elevation: 783m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357281007,
+    "score": 0
+  },
+  {
+    "id": "sw:humbertonhill",
+    "name": "Humberton Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.77035,
+    "lng": -79.45893,
+    "dist": 162.7,
+    "description": "Elevation: 753m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357291998,
+    "score": 0
+  },
+  {
+    "id": "sw:jacobshill",
+    "name": "Jacobs Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.75008,
+    "lng": -79.38226,
+    "dist": 158.4,
+    "description": "Elevation: 556m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357292906,
+    "score": 0
+  },
+  {
+    "id": "sw:mausthill",
+    "name": "Maust Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72925,
+    "lng": -79.20031,
+    "dist": 148.7,
+    "description": "Elevation: 901m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357296687,
+    "score": 0
+  },
+  {
+    "id": "sw:packhorsemountain",
+    "name": "Packhorse Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.7348,
+    "lng": -79.23448,
+    "dist": 150.6,
+    "description": "Elevation: 843m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357303207,
+    "score": 0
+  },
+  {
+    "id": "sw:polkhill",
+    "name": "Polk Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.73397,
+    "lng": -79.37531,
+    "dist": 157.8,
+    "description": "Elevation: 585m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357304876,
+    "score": 0
+  },
+  {
+    "id": "sw:ringerhill",
+    "name": "Ringer Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.73758,
+    "lng": -79.19725,
+    "dist": 148.7,
+    "description": "Elevation: 903m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305937,
+    "score": 0
+  },
+  {
+    "id": "sw:summerfieldhill",
+    "name": "Summerfield Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74274,
+    "lng": -79.41392,
+    "dist": 159.9,
+    "description": "Elevation: 583m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357315523,
+    "score": 0
+  },
+  {
+    "id": "sw:umberhill",
+    "name": "Umber Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72789,
+    "lng": -79.4008,
+    "dist": 159.0,
+    "description": "Elevation: 583m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357317582,
+    "score": 0
+  },
+  {
+    "id": "sw:shoemakerhill",
+    "name": "Shoemaker Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74425,
+    "lng": -79.12836,
+    "dist": 145.4,
+    "description": "Elevation: 732m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357322854,
+    "score": 0
+  },
+  {
+    "id": "sw:bishophill",
+    "name": "Bishop Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59226,
+    "lng": -79.40474,
+    "dist": 157.1,
+    "description": "Elevation: 835m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238199,
+    "score": 0
+  },
+  {
+    "id": "sw:callishill",
+    "name": "Callis Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59604,
+    "lng": -79.32062,
+    "dist": 152.7,
+    "description": "Elevation: 891m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238299,
+    "score": 0
+  },
+  {
+    "id": "sw:chestnutknob",
+    "name": "Chestnut Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51028,
+    "lng": -79.17754,
+    "dist": 144.1,
+    "description": "Elevation: 769m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238413,
+    "score": 0
+  },
+  {
+    "id": "sw:connewayhill",
+    "name": "Conneway Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.30458,
+    "lng": -79.41261,
+    "dist": 154.8,
+    "description": "Elevation: 973m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238464,
+    "score": 0
+  },
+  {
+    "id": "sw:eaglerock",
+    "name": "Eagle Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.41401,
+    "lng": -79.27922,
+    "dist": 148.4,
+    "description": "Elevation: 953m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238564,
+    "score": 0
+  },
+  {
+    "id": "sw:elderhill",
+    "name": "Elder Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.60517,
+    "lng": -79.39564,
+    "dist": 156.8,
+    "description": "Elevation: 862m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238591,
+    "score": 0
+  },
+  {
+    "id": "sw:georgehill",
+    "name": "George Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61128,
+    "lng": -79.30578,
+    "dist": 152.2,
+    "description": "Elevation: 897m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238817,
+    "score": 0
+  },
+  {
+    "id": "sw:highrock",
+    "name": "High Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54426,
+    "lng": -79.09642,
+    "dist": 140.3,
+    "description": "Elevation: 910m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238998,
+    "score": 0
+  },
+  {
+    "id": "sw:hooppolehill",
+    "name": "Hoop Pole Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.47428,
+    "lng": -79.35649,
+    "dist": 153.1,
+    "description": "Elevation: 875m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239039,
+    "score": 0
+  },
+  {
+    "id": "sw:manorhill",
+    "name": "Manor Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.43467,
+    "lng": -79.1559,
+    "dist": 142.1,
+    "description": "Elevation: 732m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239283,
+    "score": 0
+  },
+  {
+    "id": "sw:mountnebo",
+    "name": "Mount Nebo",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.66211,
+    "lng": -79.1591,
+    "dist": 145.4,
+    "description": "Elevation: 842m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239625,
+    "score": 0
+  },
+  {
+    "id": "sw:reshhill",
+    "name": "Resh Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.64679,
+    "lng": -79.21524,
+    "dist": 148.0,
+    "description": "Elevation: 850m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240028,
+    "score": 0
+  },
+  {
+    "id": "sw:richhill",
+    "name": "Rich Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70821,
+    "lng": -79.31173,
+    "dist": 154.1,
+    "description": "Elevation: 866m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240034,
+    "score": 0
+  },
+  {
+    "id": "sw:romannosemountain",
+    "name": "Roman Nose Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.47014,
+    "lng": -79.37809,
+    "dist": 154.2,
+    "description": "Elevation: 916m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240086,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarpoint",
+    "name": "Sugar Point",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70148,
+    "lng": -79.17158,
+    "dist": 146.8,
+    "description": "Elevation: 743m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240579,
+    "score": 0
+  },
+  {
+    "id": "sw:thedunghill",
+    "name": "The Dunghill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.63685,
+    "lng": -79.21934,
+    "dist": 148.1,
+    "description": "Elevation: 832m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240627,
+    "score": 0
+  },
+  {
+    "id": "sw:wildturkeyrock",
+    "name": "Wild Turkey Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.42878,
+    "lng": -79.25703,
+    "dist": 147.4,
+    "description": "Elevation: 984m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240865,
+    "score": 0
+  },
+  {
+    "id": "sw:alleghenyheights",
+    "name": "Allegheny Heights",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.33284,
+    "lng": -79.37951,
+    "dist": 153.1,
+    "description": "Elevation: 977m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241452,
+    "score": 0
+  },
+  {
+    "id": "sw:baldknob",
+    "name": "Bald Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.66179,
+    "lng": -79.27382,
+    "dist": 151.3,
+    "description": "Elevation: 801m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241458,
+    "score": 0
+  },
+  {
+    "id": "sw:bartletthill",
+    "name": "Bartlett Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54043,
+    "lng": -79.01798,
+    "dist": 136.2,
+    "description": "Elevation: 542m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241461,
+    "score": 0
+  },
+  {
+    "id": "sw:bartonhill",
+    "name": "Barton Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.52474,
+    "lng": -79.0052,
+    "dist": 135.3,
+    "description": "Elevation: 550m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241462,
+    "score": 0
+  },
+  {
+    "id": "sw:bearhill",
+    "name": "Bear Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.60119,
+    "lng": -79.04491,
+    "dist": 138.5,
+    "description": "Elevation: 849m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241464,
+    "score": 0
+  },
+  {
+    "id": "sw:beaverhill",
+    "name": "Beaver Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.53752,
+    "lng": -79.17876,
+    "dist": 144.5,
+    "description": "Elevation: 787m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241465,
+    "score": 0
+  },
+  {
+    "id": "sw:bigsavagemountain",
+    "name": "Big Savage Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54456,
+    "lng": -79.09664,
+    "dist": 140.3,
+    "description": "Elevation: 913m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241468,
+    "score": 0
+  },
+  {
+    "id": "sw:bittingerhill",
+    "name": "Bittinger Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.38435,
+    "lng": -79.35269,
+    "dist": 152.1,
+    "description": "Elevation: 839m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241469,
+    "score": 0
+  },
+  {
+    "id": "sw:blossomhill",
+    "name": "Blossom Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.5438,
+    "lng": -79.18795,
+    "dist": 145.1,
+    "description": "Elevation: 794m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241473,
+    "score": 0
+  },
+  {
+    "id": "sw:brayhill",
+    "name": "Bray Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50068,
+    "lng": -79.38579,
+    "dist": 154.9,
+    "description": "Elevation: 817m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241477,
+    "score": 0
+  },
+  {
+    "id": "sw:brennemanhill",
+    "name": "Brenneman Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59407,
+    "lng": -79.2449,
+    "dist": 148.8,
+    "description": "Elevation: 832m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241480,
+    "score": 0
+  },
+  {
+    "id": "sw:browningbearhill",
+    "name": "Browning Bear Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61175,
+    "lng": -79.19948,
+    "dist": 146.7,
+    "description": "Elevation: 816m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241481,
+    "score": 0
+  },
+  {
+    "id": "sw:buckhill",
+    "name": "Buck Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55917,
+    "lng": -79.13752,
+    "dist": 142.7,
+    "description": "Elevation: 761m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241483,
+    "score": 0
+  },
+  {
+    "id": "sw:bucksknob",
+    "name": "Bucks Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.41263,
+    "lng": -79.32019,
+    "dist": 150.6,
+    "description": "Elevation: 834m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241484,
+    "score": 0
+  },
+  {
+    "id": "sw:caledoniahill",
+    "name": "Caledonia Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54,
+    "lng": -79.04717,
+    "dist": 137.7,
+    "description": "Elevation: 685m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241490,
+    "score": 0
+  },
+  {
+    "id": "sw:charcoalhill",
+    "name": "Charcoal Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.37224,
+    "lng": -79.46493,
+    "dist": 157.9,
+    "description": "Elevation: 831m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241494,
+    "score": 0
+  },
+  {
+    "id": "sw:chocolatedrophill",
+    "name": "Chocolate Drop Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.67006,
+    "lng": -79.27953,
+    "dist": 151.8,
+    "description": "Elevation: 807m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241500,
+    "score": 0
+  },
+  {
+    "id": "sw:contraryknob",
+    "name": "Contrary Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51442,
+    "lng": -79.21963,
+    "dist": 146.4,
+    "description": "Elevation: 787m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241501,
+    "score": 0
+  },
+  {
+    "id": "sw:detmoldhill",
+    "name": "Detmold Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.58529,
+    "lng": -79.0041,
+    "dist": 136.1,
+    "description": "Elevation: 778m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241509,
+    "score": 0
+  },
+  {
+    "id": "sw:elbowmountain",
+    "name": "Elbow Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.58797,
+    "lng": -79.06142,
+    "dist": 139.1,
+    "description": "Elevation: 859m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241514,
+    "score": 0
+  },
+  {
+    "id": "sw:embersonhill",
+    "name": "Emberson Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.68364,
+    "lng": -79.43322,
+    "dist": 159.9,
+    "description": "Elevation: 651m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241516,
+    "score": 0
+  },
+  {
+    "id": "sw:mountetna",
+    "name": "Mount Etna",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.65679,
+    "lng": -79.01516,
+    "dist": 137.9,
+    "description": "Elevation: 791m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241519,
+    "score": 0
+  },
+  {
+    "id": "sw:fairview",
+    "name": "Fairview",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.511,
+    "lng": -78.96758,
+    "dist": 133.1,
+    "description": "Elevation: 823m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241522,
+    "score": 0
+  },
+  {
+    "id": "sw:franklinhill",
+    "name": "Franklin Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.49613,
+    "lng": -79.06158,
+    "dist": 137.8,
+    "description": "Elevation: 640m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241530,
+    "score": 0
+  },
+  {
+    "id": "sw:gaphill",
+    "name": "Gap Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.57967,
+    "lng": -79.40876,
+    "dist": 157.1,
+    "description": "Elevation: 844m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241532,
+    "score": 0
+  },
+  {
+    "id": "sw:garretthill",
+    "name": "Garrett Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.46156,
+    "lng": -79.31247,
+    "dist": 150.6,
+    "description": "Elevation: 800m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241533,
+    "score": 0
+  },
+  {
+    "id": "sw:ginsenghill",
+    "name": "Ginseng Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.56199,
+    "lng": -79.39529,
+    "dist": 156.2,
+    "description": "Elevation: 872m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241534,
+    "score": 0
+  },
+  {
+    "id": "sw:guardshill",
+    "name": "Guards Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70857,
+    "lng": -79.37838,
+    "dist": 157.5,
+    "description": "Elevation: 587m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241537,
+    "score": 0
+  },
+  {
+    "id": "sw:gumhill",
+    "name": "Gum Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.71645,
+    "lng": -79.44014,
+    "dist": 160.8,
+    "description": "Elevation: 684m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241538,
+    "score": 0
+  },
+  {
+    "id": "sw:hampshirehill",
+    "name": "Hampshire Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50023,
+    "lng": -79.02951,
+    "dist": 136.2,
+    "description": "Elevation: 610m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241539,
+    "score": 0
+  },
+  {
+    "id": "sw:horserockhill",
+    "name": "Horse Rock Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.48407,
+    "lng": -79.02506,
+    "dist": 135.8,
+    "description": "Elevation: 526m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241544,
+    "score": 0
+  },
+  {
+    "id": "sw:jacksonmountain",
+    "name": "Jackson Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.53776,
+    "lng": -78.99372,
+    "dist": 134.9,
+    "description": "Elevation: 658m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241547,
+    "score": 0
+  },
+  {
+    "id": "sw:jenkinshill",
+    "name": "Jenkins Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59389,
+    "lng": -79.13798,
+    "dist": 143.2,
+    "description": "Elevation: 824m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241549,
+    "score": 0
+  },
+  {
+    "id": "sw:leasehill",
+    "name": "Lease Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72278,
+    "lng": -79.11583,
+    "dist": 144.3,
+    "description": "Elevation: 683m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241557,
+    "score": 0
+  },
+  {
+    "id": "sw:lewisknob",
+    "name": "Lewis Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.52562,
+    "lng": -79.47016,
+    "dist": 159.6,
+    "description": "Elevation: 905m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241559,
+    "score": 0
+  },
+  {
+    "id": "sw:littlesnaggymountain",
+    "name": "Little Snaggy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.49005,
+    "lng": -79.28545,
+    "dist": 149.5,
+    "description": "Elevation: 850m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241564,
+    "score": 0
+  },
+  {
+    "id": "sw:lookouthill",
+    "name": "Lookout Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.421,
+    "lng": -79.31252,
+    "dist": 150.3,
+    "description": "Elevation: 837m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241567,
+    "score": 0
+  },
+  {
+    "id": "sw:marshhill",
+    "name": "Marsh Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54901,
+    "lng": -79.3697,
+    "dist": 154.7,
+    "description": "Elevation: 948m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241568,
+    "score": 0
+  },
+  {
+    "id": "sw:meadowmountain",
+    "name": "Meadow Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.57015,
+    "lng": -79.20829,
+    "dist": 146.5,
+    "description": "Elevation: 904m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241575,
+    "score": 0
+  },
+  {
+    "id": "sw:monkeylodgehill",
+    "name": "Monkey Lodge Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50651,
+    "lng": -79.23938,
+    "dist": 147.3,
+    "description": "Elevation: 832m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241576,
+    "score": 0
+  },
+  {
+    "id": "sw:narrowshill",
+    "name": "Narrows Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.5053,
+    "lng": -79.30326,
+    "dist": 150.6,
+    "description": "Elevation: 808m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241583,
+    "score": 0
+  },
+  {
+    "id": "sw:northhill",
+    "name": "North Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.38983,
+    "lng": -79.21699,
+    "dist": 144.9,
+    "description": "Elevation: 763m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241587,
+    "score": 0
+  },
+  {
+    "id": "sw:peeweehill",
+    "name": "Pee Wee Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.40454,
+    "lng": -79.18979,
+    "dist": 143.6,
+    "description": "Elevation: 755m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241591,
+    "score": 0
+  },
+  {
+    "id": "sw:phoenixhill",
+    "name": "Phoenix Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51993,
+    "lng": -79.05827,
+    "dist": 138.0,
+    "description": "Elevation: 620m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241592,
+    "score": 0
+  },
+  {
+    "id": "sw:pickellhill",
+    "name": "Pickell Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55622,
+    "lng": -79.02782,
+    "dist": 136.9,
+    "description": "Elevation: 681m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241594,
+    "score": 0
+  },
+  {
+    "id": "sw:pondhill",
+    "name": "Pond Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.47788,
+    "lng": -78.97513,
+    "dist": 133.1,
+    "description": "Elevation: 552m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241601,
+    "score": 0
+  },
+  {
+    "id": "sw:potomachill",
+    "name": "Potomac Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51705,
+    "lng": -79.01108,
+    "dist": 135.5,
+    "description": "Elevation: 544m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241603,
+    "score": 0
+  },
+  {
+    "id": "sw:rhodeshill",
+    "name": "Rhodes Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.54208,
+    "lng": -79.11633,
+    "dist": 141.3,
+    "description": "Elevation: 803m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241608,
+    "score": 0
+  },
+  {
+    "id": "sw:ridgleyhill",
+    "name": "Ridgley Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.66338,
+    "lng": -79.19228,
+    "dist": 147.1,
+    "description": "Elevation: 804m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241613,
+    "score": 0
+  },
+  {
+    "id": "sw:riverhill",
+    "name": "River Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.56815,
+    "lng": -79.43934,
+    "dist": 158.5,
+    "description": "Elevation: 804m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241614,
+    "score": 0
+  },
+  {
+    "id": "sw:riverviewhill",
+    "name": "River View Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.62619,
+    "lng": -79.43416,
+    "dist": 159.1,
+    "description": "Elevation: 673m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241616,
+    "score": 0
+  },
+  {
+    "id": "sw:romannosehill",
+    "name": "Roman Nose Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.51145,
+    "lng": -79.32871,
+    "dist": 152.0,
+    "description": "Elevation: 915m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241617,
+    "score": 0
+  },
+  {
+    "id": "sw:rushhill",
+    "name": "Rush Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.67632,
+    "lng": -79.42411,
+    "dist": 159.3,
+    "description": "Elevation: 607m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241623,
+    "score": 0
+  },
+  {
+    "id": "sw:saltblockmountain",
+    "name": "Salt Block Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.6719,
+    "lng": -79.11653,
+    "dist": 143.4,
+    "description": "Elevation: 854m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241627,
+    "score": 0
+  },
+  {
+    "id": "sw:shadehill",
+    "name": "Shade Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.6963,
+    "lng": -79.16513,
+    "dist": 146.3,
+    "description": "Elevation: 751m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241631,
+    "score": 0
+  },
+  {
+    "id": "sw:starnerhill",
+    "name": "Starner Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70195,
+    "lng": -79.15207,
+    "dist": 145.8,
+    "description": "Elevation: 736m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241635,
+    "score": 0
+  },
+  {
+    "id": "sw:strawberryhill",
+    "name": "Strawberry Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70771,
+    "lng": -79.15978,
+    "dist": 146.3,
+    "description": "Elevation: 747m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241637,
+    "score": 0
+  },
+  {
+    "id": "sw:theelbow",
+    "name": "The Elbow",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59153,
+    "lng": -79.07294,
+    "dist": 139.8,
+    "description": "Elevation: 794m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241642,
+    "score": 0
+  },
+  {
+    "id": "sw:thelittlemountain",
+    "name": "The Little Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.39021,
+    "lng": -79.33406,
+    "dist": 151.1,
+    "description": "Elevation: 892m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241644,
+    "score": 0
+  },
+  {
+    "id": "sw:upperfordhill",
+    "name": "Upper Ford Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55225,
+    "lng": -79.39878,
+    "dist": 156.2,
+    "description": "Elevation: 885m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241645,
+    "score": 0
+  },
+  {
+    "id": "sw:wagnerhill",
+    "name": "Wagner Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.65245,
+    "lng": -79.31298,
+    "dist": 153.2,
+    "description": "Elevation: 793m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241647,
+    "score": 0
+  },
+  {
+    "id": "sw:whitesknob",
+    "name": "Whites Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.55705,
+    "lng": -79.47178,
+    "dist": 160.1,
+    "description": "Elevation: 899m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241650,
+    "score": 0
+  },
+  {
+    "id": "sw:zehnerhill",
+    "name": "Zehner Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.71617,
+    "lng": -79.20625,
+    "dist": 148.8,
+    "description": "Elevation: 914m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358242926,
+    "score": 0
+  },
+  {
+    "id": "sw:bloomingrosehill",
+    "name": "Blooming Rose Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.65061,
+    "lng": -79.4534,
+    "dist": 160.4,
+    "description": "Elevation: 654m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358244010,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeylodgehill",
+    "name": "Turkey Lodge Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61926,
+    "lng": -79.09963,
+    "dist": 141.6,
+    "description": "Elevation: 822m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358250723,
+    "score": 0
+  },
+  {
+    "id": "sw:deepcreeklake",
+    "name": "Deep Creek Lake",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.54602,
+    "lng": -79.35112,
+    "dist": 153.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1961528020,
+    "score": 0
+  },
+  {
+    "id": "sw:thewafflerockpanoram",
+    "name": "The Waffle Rock panorama",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.42876,
+    "lng": -79.12426,
+    "dist": 140.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3799732346,
+    "score": 0
+  },
+  {
+    "id": "sw:muddycreekfalls",
+    "name": "Muddy Creek Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.50116,
+    "lng": -79.41735,
+    "dist": 156.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7072604751,
+    "score": 0
+  },
+  {
+    "id": "sw:upperswallowfalls",
+    "name": "Upper Swallow Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.49607,
+    "lng": -79.41726,
+    "dist": 156.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7072604753,
+    "score": 0
+  },
+  {
+    "id": "sw:tolliverfalls",
+    "name": "Tolliver Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.495,
+    "lng": -79.41819,
+    "dist": 156.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7920747685,
+    "score": 0
+  },
+  {
+    "id": "sw:lowerswallowfalls",
+    "name": "Lower Swallow Falls",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 39.49732,
+    "lng": -79.41659,
+    "dist": 156.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7920747693,
+    "score": 0
+  },
+  {
+    "id": "sw:monroerunvalley",
+    "name": "Monroe Run Valley",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.57012,
+    "lng": -79.20828,
+    "dist": 146.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10174579757,
+    "score": 0
+  },
+  {
+    "id": "sw:casselmanriverbridge",
+    "name": "Casselman River Bridge State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.69628,
+    "lng": -79.14381,
+    "dist": 145.2,
+    "description": "Elevation: 649m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842725,
+    "score": 0
+  },
+  {
+    "id": "sw:bartonareapark",
+    "name": "Barton Area Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5361,
+    "lng": -79.01366,
+    "dist": 135.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319352923,
+    "score": 0
+  },
+  {
+    "id": "sw:lonanconingballfield",
+    "name": "Lonanconing Ballfield",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56803,
+    "lng": -78.97785,
+    "dist": 134.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319352935,
+    "score": 0
+  },
+  {
+    "id": "sw:pleasantvalleyrecrea",
+    "name": "Pleasant Valley Recreation Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55576,
+    "lng": -79.23815,
+    "dist": 147.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 375563131,
+    "score": 0
+  },
+  {
+    "id": "sw:grantsvilletownpark",
+    "name": "Grantsville Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.69898,
+    "lng": -79.15583,
+    "dist": 145.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 400332149,
+    "score": 0
+  },
+  {
+    "id": "sw:creeksidepark",
+    "name": "Creekside Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.49074,
+    "lng": -79.04277,
+    "dist": 136.8,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 486889670,
+    "score": 0
+  },
+  {
+    "id": "sw:furnacepark",
+    "name": "Furnace Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.57017,
+    "lng": -78.97781,
+    "dist": 134.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 489097734,
+    "score": 0
+  },
+  {
+    "id": "sw:crellinpark",
+    "name": "Crellin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.38963,
+    "lng": -79.46552,
+    "dist": 158.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 605754211,
+    "score": 0
+  },
+  {
+    "id": "sw:bayardpark",
+    "name": "Bayard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.27271,
+    "lng": -79.36208,
+    "dist": 151.9,
+    "description": "Hours: Mo-Su 08:00-22:00 · Dogs: leashed",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 778894442,
+    "score": 0
+  },
+  {
+    "id": "sw:johnrsheltoncitypool",
+    "name": "John R. Shelton City Pool",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43072,
+    "lng": -78.98567,
+    "dist": 133.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 981381098,
+    "score": 0
+  },
+  {
+    "id": "sw:sallyburnsidepark",
+    "name": "Sally Burnside Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43686,
+    "lng": -78.97696,
+    "dist": 132.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 981381100,
+    "score": 0
+  },
+  {
+    "id": "sw:laffeypark",
+    "name": "Laffey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43795,
+    "lng": -78.97424,
+    "dist": 132.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 981381101,
+    "score": 0
+  },
+  {
+    "id": "sw:arboretum",
+    "name": "Arboretum",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41702,
+    "lng": -79.383,
+    "dist": 153.9,
+    "description": "Arboretum manged by faculty of Southern Middle School.",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1012315060,
+    "score": 0
+  },
+  {
+    "id": "sw:terraaltacommunitypa",
+    "name": "Terra Alta Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44687,
+    "lng": -79.53694,
+    "dist": 162.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1153879398,
+    "score": 0
+  },
+  {
+    "id": "sw:albrightmunicipalpar",
+    "name": "Albright Municipal Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.49359,
+    "lng": -79.64329,
+    "dist": 168.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1198088835,
+    "score": 0
+  },
+  {
+    "id": "sw:broadfordpark",
+    "name": "Broadford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41567,
+    "lng": -79.3674,
+    "dist": 153.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1304167769,
+    "score": 0
+  },
+  {
+    "id": "sw:pocketpark",
+    "name": "Pocket Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40797,
+    "lng": -79.408,
+    "dist": 155.2,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1422780211,
+    "score": 0
+  },
+  {
+    "id": "sw:sangrunstatepark",
+    "name": "Sang Run State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.57422,
+    "lng": -79.4251,
+    "dist": 157.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1492735678,
+    "score": 0
+  },
+  {
+    "id": "sw:cathedralstatepark",
+    "name": "Cathedral State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.32461,
+    "lng": -79.53878,
+    "dist": 161.6,
+    "description": "Elevation: 768m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13857364,
+    "score": 0
+  },
+  {
+    "id": "sw:gladespark",
+    "name": "Glades Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41619,
+    "lng": -79.41446,
+    "dist": 155.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 19362953,
+    "score": 0
+  },
+  {
+    "id": "sw:lonaconinghistoricdi",
+    "name": "Lonaconing Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.56759,
+    "lng": -78.98086,
+    "dist": 134.6,
+    "description": "Elevation: 465m · Historic: district",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358252438,
+    "score": 0
+  },
+  {
+    "id": "sw:erodedoutcropping",
+    "name": "eroded outcropping",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.52025,
+    "lng": -79.12189,
+    "dist": 141.3,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3703931228,
+    "score": 0
+  },
+  {
+    "id": "sw:ashbyshill",
+    "name": "Ashby's Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.35439,
+    "lng": -79.48437,
+    "dist": 158.9,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494693,
+    "score": 0
+  },
+  {
+    "id": "sw:browning",
+    "name": "Browning",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45352,
+    "lng": -79.48297,
+    "dist": 159.6,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494694,
+    "score": 0
+  },
+  {
+    "id": "sw:burchinal",
+    "name": "Burchinal",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.47351,
+    "lng": -79.4828,
+    "dist": 159.8,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494695,
+    "score": 0
+  },
+  {
+    "id": "sw:dawsonshill",
+    "name": "Dawson's Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30896,
+    "lng": -79.4868,
+    "dist": 158.7,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494696,
+    "score": 0
+  },
+  {
+    "id": "sw:elseyshill",
+    "name": "Elsey's Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.55975,
+    "lng": -79.47847,
+    "dist": 160.5,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494697,
+    "score": 0
+  },
+  {
+    "id": "sw:fikesmountainnorth",
+    "name": "Fike's Mountain North",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.58325,
+    "lng": -79.47825,
+    "dist": 160.8,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494698,
+    "score": 0
+  },
+  {
+    "id": "sw:fikesmountainsouth",
+    "name": "Fike's Mountain South",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57778,
+    "lng": -79.4783,
+    "dist": 160.7,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494699,
+    "score": 0
+  },
+  {
+    "id": "sw:herbertfriendridge",
+    "name": "Herbert Friend Ridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.62145,
+    "lng": -79.4779,
+    "dist": 161.3,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494700,
+    "score": 0
+  },
+  {
+    "id": "sw:jereteetsridge",
+    "name": "Jere Teet's Ridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.65385,
+    "lng": -79.47656,
+    "dist": 161.7,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494701,
+    "score": 0
+  },
+  {
+    "id": "sw:ldedricksridge",
+    "name": "L Dedrick's Ridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.66047,
+    "lng": -79.47661,
+    "dist": 161.8,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494702,
+    "score": 0
+  },
+  {
+    "id": "sw:lauerhill",
+    "name": "Lauer Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.36351,
+    "lng": -79.48423,
+    "dist": 158.9,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494703,
+    "score": 0
+  },
+  {
+    "id": "sw:melvillefriendshill",
+    "name": "Melville Friends Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.63966,
+    "lng": -79.47773,
+    "dist": 161.5,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494704,
+    "score": 0
+  },
+  {
+    "id": "sw:miller",
+    "name": "Miller",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.38792,
+    "lng": -79.48386,
+    "dist": 159.1,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494705,
+    "score": 0
+  },
+  {
+    "id": "sw:morrisconnell",
+    "name": "Morris Connell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42573,
+    "lng": -79.48328,
+    "dist": 159.3,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494706,
+    "score": 0
+  },
+  {
+    "id": "sw:offutshill",
+    "name": "Offut's Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.32258,
+    "lng": -79.48658,
+    "dist": 158.8,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494707,
+    "score": 0
+  },
+  {
+    "id": "sw:poling",
+    "name": "Poling",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.39628,
+    "lng": -79.4837,
+    "dist": 159.1,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494708,
+    "score": 0
+  },
+  {
+    "id": "sw:reckardroad",
+    "name": "Reckard Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.61449,
+    "lng": -79.47796,
+    "dist": 161.2,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494709,
+    "score": 0
+  },
+  {
+    "id": "sw:severe",
+    "name": "Severe",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.44882,
+    "lng": -79.48301,
+    "dist": 159.5,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494710,
+    "score": 0
+  },
+  {
+    "id": "sw:shermanfriendshill",
+    "name": "Sherman Friends Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.63144,
+    "lng": -79.47781,
+    "dist": 161.4,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494711,
+    "score": 0
+  },
+  {
+    "id": "sw:stahlshill",
+    "name": "Stahl's Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.33708,
+    "lng": -79.48634,
+    "dist": 158.9,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494713,
+    "score": 0
+  },
+  {
+    "id": "sw:strawserroad",
+    "name": "Strawser Road",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.56715,
+    "lng": -79.4784,
+    "dist": 160.6,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494715,
+    "score": 0
+  },
+  {
+    "id": "sw:teets",
+    "name": "Teets",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.52476,
+    "lng": -79.48237,
+    "dist": 160.3,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494716,
+    "score": 0
+  },
+  {
+    "id": "sw:thomasridge",
+    "name": "Thomas Ridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.71437,
+    "lng": -79.47677,
+    "dist": 162.7,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494717,
+    "score": 0
+  },
+  {
+    "id": "sw:white",
+    "name": "White",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.41076,
+    "lng": -79.4835,
+    "dist": 159.2,
+    "description": "Historic: boundary stone",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3976494718,
+    "score": 0
+  },
+  {
+    "id": "sw:spruceforestartisanv",
+    "name": "Spruce Forest Artisan Village",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.69652,
+    "lng": -79.14202,
+    "dist": 145.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5608316141,
+    "score": 0
+  },
+  {
+    "id": "sw:pierciepaughhomestea",
+    "name": "Piercie Paugh Homestead Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.42254,
+    "lng": -79.13801,
+    "dist": 141.0,
+    "description": "Historic: ruins",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6811255110,
+    "score": 0
+  },
+  {
+    "id": "sw:coljamesmchenryofbal",
+    "name": "Col. James McHenry of Baltimore",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.54601,
+    "lng": -79.35116,
+    "dist": 153.6,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9064919666,
+    "score": 0
+  },
+  {
+    "id": "sw:oldcherryglademeetin",
+    "name": "Old Cherry Glade Meetinghouse",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 39.60996,
+    "lng": -79.26128,
+    "dist": 149.8,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11047106305,
+    "score": 0
+  },
+  {
+    "id": "sw:castlemansriverbridg",
+    "name": "Castleman’s River Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.6969,
+    "lng": -79.14293,
+    "dist": 145.2,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11280039748,
+    "score": 0
+  },
+  {
+    "id": "sw:casselmansbridge",
+    "name": "Casselman’s Bridge",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69648,
+    "lng": -79.14469,
+    "dist": 145.3,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11280231734,
+    "score": 0
+  },
+  {
+    "id": "sw:highestpointonthemar",
+    "name": "Highest Point on the Maryland State Roads System",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.30149,
+    "lng": -79.41524,
+    "dist": 154.9,
+    "description": "Elevation: 943m · Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11289856580,
+    "score": 0
+  },
+  {
+    "id": "sw:deepcreeklakegarrett",
+    "name": "Deep Creek Lake Garrett County",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.51982,
+    "lng": -79.32927,
+    "dist": 152.2,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12943438212,
+    "score": 0
+  },
+  {
+    "id": "sw:cobblershopin1859",
+    "name": "Cobbler Shop in 1859",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40798,
+    "lng": -79.40686,
+    "dist": 155.1,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13040498602,
+    "score": 0
+  },
+  {
+    "id": "sw:bethsgarden",
+    "name": "Beth's Garden",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.40913,
+    "lng": -79.40829,
+    "dist": 155.2,
+    "description": "Historic: memorial",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13069898180,
+    "score": 0
+  },
+  {
+    "id": "sw:stategamelandsnumber",
+    "name": "State Game Lands Number 271",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.77547,
+    "lng": -79.2685,
+    "dist": 153.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 13231445,
+    "score": 0
+  },
+  {
+    "id": "sw:elderhillfiretower",
+    "name": "Elder Hill Fire Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.60514,
+    "lng": -79.39626,
+    "dist": 156.8,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842728,
+    "score": 0
+  },
+  {
+    "id": "sw:fulcherpsmithconserv",
+    "name": "Fulcher P. Smith Conservation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.52607,
+    "lng": -79.31209,
+    "dist": 151.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842730,
+    "score": 0
+  },
+  {
+    "id": "sw:herringtonmanorstate",
+    "name": "Herrington Manor State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.45475,
+    "lng": -79.45342,
+    "dist": 158.0,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842732,
+    "score": 0
+  },
+  {
+    "id": "sw:mccoolefishmanagemen",
+    "name": "McCoole Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.45322,
+    "lng": -78.98974,
+    "dist": 133.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842733,
+    "score": 0
+  },
+  {
+    "id": "sw:newgermanystatepark",
+    "name": "New Germany State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.62769,
+    "lng": -79.12834,
+    "dist": 143.2,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842734,
+    "score": 0
+  },
+  {
+    "id": "sw:weitzellbearcreekcon",
+    "name": "Weitzell-Bear Creek Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.61333,
+    "lng": -79.34928,
+    "dist": 154.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 276842759,
+    "score": 0
+  },
+  {
+    "id": "sw:mountdavisnaturalare",
+    "name": "Mount Davis Natural Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.78299,
+    "lng": -79.1711,
+    "dist": 148.3,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 390003394,
+    "score": 0
+  },
+  {
+    "id": "sw:lonaconingfurnace",
+    "name": "Lonaconing Furnace",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.57029,
+    "lng": -78.97802,
+    "dist": 134.5,
+    "description": "Historic: yes",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 491219167,
+    "score": 0
+  },
+  {
+    "id": "sw:forkrunrecreationare",
+    "name": "Fork Run Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.53532,
+    "lng": -79.38958,
+    "dist": 155.5,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 842268268,
+    "score": 0
+  },
+  {
+    "id": "sw:cranesvilleswamppres",
+    "name": "Cranesville Swamp Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.54012,
+    "lng": -79.48153,
+    "dist": 160.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 848998994,
+    "score": 0
+  },
+  {
+    "id": "sw:andersonchapel",
+    "name": "Anderson Chapel",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.45929,
+    "lng": -79.23107,
+    "dist": 146.3,
+    "description": "Historic: church",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 979935088,
+    "score": 0
+  },
+  {
+    "id": "sw:petersburgtollhouse",
+    "name": "Petersburg Tollhouse",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.74659,
+    "lng": -79.33492,
+    "dist": 156.0,
+    "description": "Historic: building",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1318005670,
+    "score": 0
+  },
+  {
+    "id": "sw:bearpenheadwatersher",
+    "name": "Bear Pen Headwaters Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.59159,
+    "lng": -79.12898,
+    "dist": 142.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681577,
+    "score": 0
+  },
+  {
+    "id": "sw:dansmountainwildlife",
+    "name": "Dans Mountain Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.53303,
+    "lng": -78.94877,
+    "dist": 132.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681578,
+    "score": 0
+  },
+  {
+    "id": "sw:deepcreeklakenatural",
+    "name": "Deep Creek Lake Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.50372,
+    "lng": -79.3189,
+    "dist": 151.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681579,
+    "score": 0
+  },
+  {
+    "id": "sw:deepcreeklakestatepa",
+    "name": "Deep Creek Lake State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.5261,
+    "lng": -79.29702,
+    "dist": 150.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681580,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacgarrettstatef",
+    "name": "Potomac/Garrett State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.44706,
+    "lng": -79.30187,
+    "dist": 149.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681581,
+    "score": 0
+  },
+  {
+    "id": "sw:jenningsrandolphlake",
+    "name": "Jennings Randolph Lake Boat Ramp",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.42126,
+    "lng": -79.1304,
+    "dist": 140.6,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681582,
+    "score": 0
+  },
+  {
+    "id": "sw:lowerdeepcreekherita",
+    "name": "Lower Deep Creek Heritage Conservation Fund Site",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.51107,
+    "lng": -79.40204,
+    "dist": 155.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681583,
+    "score": 0
+  },
+  {
+    "id": "sw:mountnebowildlifeman",
+    "name": "Mount Nebo Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.45008,
+    "lng": -79.38676,
+    "dist": 154.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681584,
+    "score": 0
+  },
+  {
+    "id": "sw:northbranchpotomacfi",
+    "name": "North Branch Potomac Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.46141,
+    "lng": -79.1062,
+    "dist": 139.8,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681585,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacstateforestlo",
+    "name": "Potomac State Forest Lostland/Wallman/Laurel Areas",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.36627,
+    "lng": -79.2302,
+    "dist": 145.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681586,
+    "score": 0
+  },
+  {
+    "id": "sw:savageriverstatefore",
+    "name": "Savage River State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.58397,
+    "lng": -79.1266,
+    "dist": 142.5,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681587,
+    "score": 0
+  },
+  {
+    "id": "sw:youghioghenywildrive",
+    "name": "Youghiogheny Wild River Natural Environmental Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.54333,
+    "lng": -79.4235,
+    "dist": 157.4,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 3681588,
+    "score": 0
+  },
+  {
+    "id": "sw:forbesstateforest",
+    "name": "Forbes State Forest",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 40.05441,
+    "lng": -79.432,
+    "dist": 167.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5833984,
+    "score": 0
+  },
+  {
+    "id": "sw:cheatcanyonwildlifem",
+    "name": "Cheat Canyon Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.55605,
+    "lng": -79.69844,
+    "dist": 172.0,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139477,
+    "score": 0
+  },
+  {
+    "id": "sw:alleghenywildlifeman",
+    "name": "Allegheny Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.41231,
+    "lng": -79.07688,
+    "dist": 137.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139506,
+    "score": 0
+  },
+  {
+    "id": "sw:youghioghenyreservoi",
+    "name": "Youghiogheny Reservoir",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.69386,
+    "lng": -79.39298,
+    "dist": 158.0,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13168339,
+    "score": 0
+  },
+  {
+    "id": "sw:swallowfallsstatepar",
+    "name": "Swallow Falls State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.49837,
+    "lng": -79.42289,
+    "dist": 156.9,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13274897,
+    "score": 0
+  },
+  {
+    "id": "sw:garrettstateforestpi",
+    "name": "Garrett State Forest Piney Mountain, Snaggy Mountain, Hutton Areas",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.49934,
+    "lng": -79.44842,
+    "dist": 158.2,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13275029,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacstateforestba",
+    "name": "Potomac State Forest Backbone Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.43251,
+    "lng": -79.21432,
+    "dist": 145.2,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13275030,
+    "score": 0
+  },
+  {
+    "id": "sw:bigrunstatepark",
+    "name": "Big Run State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.54667,
+    "lng": -79.14204,
+    "dist": 142.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870070,
+    "score": 0
+  },
+  {
+    "id": "sw:dansmountainstatepar",
+    "name": "Dans Mountain State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.55609,
+    "lng": -78.95389,
+    "dist": 133.1,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870071,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfdenrunstatepark",
+    "name": "Wolf Den Run State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.38461,
+    "lng": -79.22552,
+    "dist": 145.3,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870072,
+    "score": 0
+  },
+  {
+    "id": "sw:cunninghamswampwildl",
+    "name": "Cunningham Swamp Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.573,
+    "lng": -79.24248,
+    "dist": 148.3,
+    "description": "Elevation: 777m",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870073,
+    "score": 0
+  },
+  {
+    "id": "sw:thegladesconservatio",
+    "name": "The Glades Conservation Easement",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.56106,
+    "lng": -79.28059,
+    "dist": 150.2,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870074,
+    "score": 0
+  },
+  {
+    "id": "sw:bearcreekhatcheryfis",
+    "name": "Bear Creek Hatchery Fish Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.64458,
+    "lng": -79.28603,
+    "dist": 151.7,
+    "description": "",
+    "zone": "Deep Creek & Garrett County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14870076,
+    "score": 0
+  },
+  {
+    "id": "sw:cowknob",
+    "name": "Cow Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69178,
+    "lng": -79.09059,
+    "dist": 140.4,
+    "description": "Elevation: 1231m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356514915,
+    "score": 0
+  },
+  {
+    "id": "sw:bobsmountain",
+    "name": "Bobs Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.58428,
+    "lng": -79.44421,
+    "dist": 160.7,
+    "description": "Elevation: 999m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356515597,
+    "score": 0
+  },
+  {
+    "id": "sw:castleknob",
+    "name": "Castle Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61706,
+    "lng": -79.43893,
+    "dist": 159.9,
+    "description": "Elevation: 1058m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356515926,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarknob",
+    "name": "Cedar Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.57901,
+    "lng": -79.4006,
+    "dist": 158.5,
+    "description": "Elevation: 965m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356515941,
+    "score": 0
+  },
+  {
+    "id": "sw:getzmountain",
+    "name": "Getz Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.9065,
+    "lng": -79.0517,
+    "dist": 135.9,
+    "description": "Elevation: 750m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356517103,
+    "score": 0
+  },
+  {
+    "id": "sw:kileknob",
+    "name": "Kile Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61623,
+    "lng": -79.48199,
+    "dist": 162.1,
+    "description": "Elevation: 1395m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356517992,
+    "score": 0
+  },
+  {
+    "id": "sw:picklemountain",
+    "name": "Pickle Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.60401,
+    "lng": -79.39477,
+    "dist": 157.8,
+    "description": "Elevation: 912m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356519950,
+    "score": 0
+  },
+  {
+    "id": "sw:rulemanmountain",
+    "name": "Ruleman Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.58734,
+    "lng": -79.46588,
+    "dist": 161.8,
+    "description": "Elevation: 1233m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356521049,
+    "score": 0
+  },
+  {
+    "id": "sw:wilfongknob",
+    "name": "Wilfong Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.60567,
+    "lng": -79.41282,
+    "dist": 158.7,
+    "description": "Elevation: 935m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356522819,
+    "score": 0
+  },
+  {
+    "id": "sw:antknob",
+    "name": "Ant Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.76595,
+    "lng": -79.0942,
+    "dist": 139.6,
+    "description": "Elevation: 916m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523134,
+    "score": 0
+  },
+  {
+    "id": "sw:bigmountain",
+    "name": "Big Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.79122,
+    "lng": -79.30782,
+    "dist": 150.6,
+    "description": "Elevation: 784m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523244,
+    "score": 0
+  },
+  {
+    "id": "sw:blackbirdknob",
+    "name": "Blackbird Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.03344,
+    "lng": -79.34866,
+    "dist": 151.1,
+    "description": "Elevation: 1203m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523258,
+    "score": 0
+  },
+  {
+    "id": "sw:brierpatchmountain",
+    "name": "Brierpatch Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89178,
+    "lng": -79.51977,
+    "dist": 161.0,
+    "description": "Elevation: 1348m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523307,
+    "score": 0
+  },
+  {
+    "id": "sw:bullshead",
+    "name": "Bulls Head",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.94317,
+    "lng": -79.21087,
+    "dist": 144.1,
+    "description": "Elevation: 838m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523356,
+    "score": 0
+  },
+  {
+    "id": "sw:canaanmountain",
+    "name": "Canaan Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.03011,
+    "lng": -79.49839,
+    "dist": 159.1,
+    "description": "Elevation: 1265m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523389,
+    "score": 0
+  },
+  {
+    "id": "sw:castlemountain",
+    "name": "Castle Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.64595,
+    "lng": -79.4181,
+    "dist": 158.3,
+    "description": "Elevation: 1032m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523401,
+    "score": 0
+  },
+  {
+    "id": "sw:caveknob",
+    "name": "Cave Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.60845,
+    "lng": -79.36727,
+    "dist": 156.2,
+    "description": "Elevation: 711m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523409,
+    "score": 0
+  },
+  {
+    "id": "sw:cavemountain",
+    "name": "Cave Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.84733,
+    "lng": -79.27087,
+    "dist": 148.1,
+    "description": "Elevation: 854m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523411,
+    "score": 0
+  },
+  {
+    "id": "sw:cliftonknob",
+    "name": "Clifton Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.71178,
+    "lng": -79.27393,
+    "dist": 149.8,
+    "description": "Elevation: 866m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523445,
+    "score": 0
+  },
+  {
+    "id": "sw:coalknob",
+    "name": "Coal Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.98761,
+    "lng": -79.3806,
+    "dist": 153.0,
+    "description": "Elevation: 1148m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523449,
+    "score": 0
+  },
+  {
+    "id": "sw:cunninghamknob",
+    "name": "Cunningham Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70234,
+    "lng": -79.66283,
+    "dist": 170.5,
+    "description": "Elevation: 1339m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523502,
+    "score": 0
+  },
+  {
+    "id": "sw:dayknob",
+    "name": "Day Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70317,
+    "lng": -79.25837,
+    "dist": 149.1,
+    "description": "Elevation: 858m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523509,
+    "score": 0
+  },
+  {
+    "id": "sw:daytonknob",
+    "name": "Dayton Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.969,
+    "lng": -79.22865,
+    "dist": 144.9,
+    "description": "Elevation: 620m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523513,
+    "score": 0
+  },
+  {
+    "id": "sw:dugknob",
+    "name": "Dug Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.68373,
+    "lng": -79.1417,
+    "dist": 143.2,
+    "description": "Elevation: 749m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523536,
+    "score": 0
+  },
+  {
+    "id": "sw:dunkleknob",
+    "name": "Dunkle Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65234,
+    "lng": -79.16531,
+    "dist": 144.9,
+    "description": "Elevation: 849m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523539,
+    "score": 0
+  },
+  {
+    "id": "sw:entrymountain",
+    "name": "Entry Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63012,
+    "lng": -79.36449,
+    "dist": 155.8,
+    "description": "Elevation: 813m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523576,
+    "score": 0
+  },
+  {
+    "id": "sw:fisherknob",
+    "name": "Fisher Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73039,
+    "lng": -79.11226,
+    "dist": 141.0,
+    "description": "Elevation: 878m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523606,
+    "score": 0
+  },
+  {
+    "id": "sw:fishermountain",
+    "name": "Fisher Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.68234,
+    "lng": -79.23337,
+    "dist": 148.1,
+    "description": "Elevation: 918m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523608,
+    "score": 0
+  },
+  {
+    "id": "sw:flintknob",
+    "name": "Flint Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.58651,
+    "lng": -79.33532,
+    "dist": 154.9,
+    "description": "Elevation: 959m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523611,
+    "score": 0
+  },
+  {
+    "id": "sw:foremostmountain",
+    "name": "Foremost Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.84567,
+    "lng": -79.03559,
+    "dist": 135.6,
+    "description": "Elevation: 905m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523613,
+    "score": 0
+  },
+  {
+    "id": "sw:germanyknob",
+    "name": "Germany Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.77289,
+    "lng": -79.40671,
+    "dist": 156.1,
+    "description": "Elevation: 838m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523650,
+    "score": 0
+  },
+  {
+    "id": "sw:grassymountain",
+    "name": "Grassy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65261,
+    "lng": -79.60255,
+    "dist": 168.0,
+    "description": "Elevation: 1265m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523683,
+    "score": 0
+  },
+  {
+    "id": "sw:hainesknob",
+    "name": "Haines Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86483,
+    "lng": -79.57755,
+    "dist": 164.3,
+    "description": "Elevation: 1299m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523716,
+    "score": 0
+  },
+  {
+    "id": "sw:harmanknob",
+    "name": "Harman Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.79261,
+    "lng": -79.39088,
+    "dist": 155.0,
+    "description": "Elevation: 865m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523745,
+    "score": 0
+  },
+  {
+    "id": "sw:haystackknob",
+    "name": "Haystack Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78817,
+    "lng": -79.07364,
+    "dist": 138.2,
+    "description": "Elevation: 863m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523761,
+    "score": 0
+  },
+  {
+    "id": "sw:heavenermountain",
+    "name": "Heavener Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.62151,
+    "lng": -79.18226,
+    "dist": 146.3,
+    "description": "Elevation: 851m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523766,
+    "score": 0
+  },
+  {
+    "id": "sw:highmountain",
+    "name": "High Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91844,
+    "lng": -79.47533,
+    "dist": 158.4,
+    "description": "Elevation: 1287m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523793,
+    "score": 0
+  },
+  {
+    "id": "sw:hogknob",
+    "name": "Hog Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.94816,
+    "lng": -79.59089,
+    "dist": 164.4,
+    "description": "Elevation: 977m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523810,
+    "score": 0
+  },
+  {
+    "id": "sw:horserock",
+    "name": "Horse Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.75321,
+    "lng": -79.50075,
+    "dist": 161.3,
+    "description": "Elevation: 1374m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523822,
+    "score": 0
+  },
+  {
+    "id": "sw:huntinggroundmountai",
+    "name": "Hunting Ground Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.6474,
+    "lng": -79.54237,
+    "dist": 164.9,
+    "description": "Elevation: 1106m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523831,
+    "score": 0
+  },
+  {
+    "id": "sw:jobknob",
+    "name": "Job Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.86817,
+    "lng": -79.52255,
+    "dist": 161.3,
+    "description": "Elevation: 1353m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523851,
+    "score": 0
+  },
+  {
+    "id": "sw:kettermanknob",
+    "name": "Ketterman Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.78261,
+    "lng": -79.42921,
+    "dist": 157.2,
+    "description": "Elevation: 876m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523874,
+    "score": 0
+  },
+  {
+    "id": "sw:lankeymountain",
+    "name": "Lankey Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.64151,
+    "lng": -79.37199,
+    "dist": 156.0,
+    "description": "Elevation: 872m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523896,
+    "score": 0
+  },
+  {
+    "id": "sw:lickknob",
+    "name": "Lick Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.7365,
+    "lng": -79.26698,
+    "dist": 149.1,
+    "description": "Elevation: 905m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523908,
+    "score": 0
+  },
+  {
+    "id": "sw:littlemountain",
+    "name": "Little Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.82795,
+    "lng": -79.48771,
+    "dist": 159.8,
+    "description": "Elevation: 1168m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523939,
+    "score": 0
+  },
+  {
+    "id": "sw:mallowknob",
+    "name": "Mallow Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.75567,
+    "lng": -79.45033,
+    "dist": 158.6,
+    "description": "Elevation: 902m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356523970,
+    "score": 0
+  },
+  {
+    "id": "sw:middlemountain",
+    "name": "Middle Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63234,
+    "lng": -79.30976,
+    "dist": 152.8,
+    "description": "Elevation: 924m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524030,
+    "score": 0
+  },
+  {
+    "id": "sw:moserknob",
+    "name": "Moser Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.63817,
+    "lng": -79.39254,
+    "dist": 157.1,
+    "description": "Elevation: 942m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524062,
+    "score": 0
+  },
+  {
+    "id": "sw:mozarkmountain",
+    "name": "Mozark Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.04344,
+    "lng": -79.56006,
+    "dist": 162.4,
+    "description": "Elevation: 1169m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524190,
+    "score": 0
+  },
+  {
+    "id": "sw:nedsmountain",
+    "name": "Neds Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.5879,
+    "lng": -79.34143,
+    "dist": 155.2,
+    "description": "Elevation: 923m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524209,
+    "score": 0
+  },
+  {
+    "id": "sw:nesselrodknob",
+    "name": "Nesselrod Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70984,
+    "lng": -79.20643,
+    "dist": 146.2,
+    "description": "Elevation: 877m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524210,
+    "score": 0
+  },
+  {
+    "id": "sw:oremountain",
+    "name": "Ore Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.71873,
+    "lng": -79.2656,
+    "dist": 149.3,
+    "description": "Elevation: 886m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524276,
+    "score": 0
+  },
+  {
+    "id": "sw:pointyknob",
+    "name": "Pointy Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.03011,
+    "lng": -79.49866,
+    "dist": 159.1,
+    "description": "Elevation: 1265m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524314,
+    "score": 0
+  },
+  {
+    "id": "sw:mountportecrayon",
+    "name": "Mount Porte Crayon",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.929,
+    "lng": -79.45616,
+    "dist": 157.3,
+    "description": "Elevation: 1452m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524318,
+    "score": 0
+  },
+  {
+    "id": "sw:propstknob",
+    "name": "Propst Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61373,
+    "lng": -79.32421,
+    "dist": 153.9,
+    "description": "Elevation: 958m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524323,
+    "score": 0
+  },
+  {
+    "id": "sw:reynoldsknob",
+    "name": "Reynolds Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.80789,
+    "lng": -79.06253,
+    "dist": 137.4,
+    "description": "Elevation: 930m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524342,
+    "score": 0
+  },
+  {
+    "id": "sw:riverknob",
+    "name": "River Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.92872,
+    "lng": -79.29671,
+    "dist": 148.8,
+    "description": "Elevation: 697m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524344,
+    "score": 0
+  },
+  {
+    "id": "sw:rockymountain",
+    "name": "Rocky Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74539,
+    "lng": -79.23921,
+    "dist": 147.5,
+    "description": "Elevation: 939m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524369,
+    "score": 0
+  },
+  {
+    "id": "sw:roundknob",
+    "name": "Round Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.66039,
+    "lng": -79.15587,
+    "dist": 144.3,
+    "description": "Elevation: 783m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524377,
+    "score": 0
+  },
+  {
+    "id": "sw:simpsonknob",
+    "name": "Simpson Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69512,
+    "lng": -79.26337,
+    "dist": 149.5,
+    "description": "Elevation: 849m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524434,
+    "score": 0
+  },
+  {
+    "id": "sw:siplemountain",
+    "name": "Siple Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72734,
+    "lng": -79.21365,
+    "dist": 146.4,
+    "description": "Elevation: 878m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524435,
+    "score": 0
+  },
+  {
+    "id": "sw:socratesmountain",
+    "name": "Socrates Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.59817,
+    "lng": -79.29087,
+    "dist": 152.4,
+    "description": "Elevation: 1032m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524445,
+    "score": 0
+  },
+  {
+    "id": "sw:springmountain",
+    "name": "Spring Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.81928,
+    "lng": -79.16198,
+    "dist": 142.6,
+    "description": "Elevation: 951m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524450,
+    "score": 0
+  },
+  {
+    "id": "sw:spruceknob",
+    "name": "Spruce Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69984,
+    "lng": -79.53283,
+    "dist": 163.6,
+    "description": "Elevation: 1482m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524452,
+    "score": 0
+  },
+  {
+    "id": "sw:sweedlin",
+    "name": "Sweedlin",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.7465,
+    "lng": -79.14226,
+    "dist": 142.4,
+    "description": "Elevation: 698m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524483,
+    "score": 0
+  },
+  {
+    "id": "sw:swisherknob",
+    "name": "Swisher Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74734,
+    "lng": -79.21754,
+    "dist": 146.3,
+    "description": "Elevation: 844m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524485,
+    "score": 0
+  },
+  {
+    "id": "sw:townmountain",
+    "name": "Town Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65456,
+    "lng": -79.30199,
+    "dist": 152.1,
+    "description": "Elevation: 872m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524509,
+    "score": 0
+  },
+  {
+    "id": "sw:turkeyknob",
+    "name": "Turkey Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61178,
+    "lng": -79.27865,
+    "dist": 151.5,
+    "description": "Elevation: 948m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524513,
+    "score": 0
+  },
+  {
+    "id": "sw:wagnerknob",
+    "name": "Wagner Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69539,
+    "lng": -79.21976,
+    "dist": 147.2,
+    "description": "Elevation: 745m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524535,
+    "score": 0
+  },
+  {
+    "id": "sw:whetmillerknob",
+    "name": "Whetmiller Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.67289,
+    "lng": -79.15087,
+    "dist": 143.9,
+    "description": "Elevation: 855m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524557,
+    "score": 0
+  },
+  {
+    "id": "sw:yokumknob",
+    "name": "Yokum Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72595,
+    "lng": -79.64256,
+    "dist": 169.1,
+    "description": "Elevation: 1301m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524591,
+    "score": 0
+  },
+  {
+    "id": "sw:bibleknob",
+    "name": "Bible Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.64512,
+    "lng": -79.38643,
+    "dist": 156.7,
+    "description": "Elevation: 923m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524673,
+    "score": 0
+  },
+  {
+    "id": "sw:bigknob",
+    "name": "Big Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.90622,
+    "lng": -79.67256,
+    "dist": 169.1,
+    "description": "Elevation: 1156m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524686,
+    "score": 0
+  },
+  {
+    "id": "sw:blandhills",
+    "name": "Bland Hills",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.71428,
+    "lng": -79.4106,
+    "dist": 157.0,
+    "description": "Elevation: 878m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524694,
+    "score": 0
+  },
+  {
+    "id": "sw:breathedmountain",
+    "name": "Breathed Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99483,
+    "lng": -79.36421,
+    "dist": 152.1,
+    "description": "Elevation: 1173m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524701,
+    "score": 0
+  },
+  {
+    "id": "sw:brushheapknob",
+    "name": "Brushheap Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91817,
+    "lng": -79.557,
+    "dist": 162.8,
+    "description": "Elevation: 1210m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524714,
+    "score": 0
+  },
+  {
+    "id": "sw:brushyknob",
+    "name": "Brushy Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.59317,
+    "lng": -79.4206,
+    "dist": 159.3,
+    "description": "Elevation: 838m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524716,
+    "score": 0
+  },
+  {
+    "id": "sw:buffalohills",
+    "name": "Buffalo Hills",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69928,
+    "lng": -79.33921,
+    "dist": 153.4,
+    "description": "Elevation: 732m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524732,
+    "score": 0
+  },
+  {
+    "id": "sw:cabinmountain",
+    "name": "Cabin Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.00483,
+    "lng": -79.41894,
+    "dist": 154.9,
+    "description": "Elevation: 1331m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524743,
+    "score": 0
+  },
+  {
+    "id": "sw:champeknobs",
+    "name": "Champe Knobs",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.90289,
+    "lng": -79.29699,
+    "dist": 149.0,
+    "description": "Elevation: 630m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524758,
+    "score": 0
+  },
+  {
+    "id": "sw:colicmountain",
+    "name": "Colic Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.65734,
+    "lng": -79.36282,
+    "dist": 155.3,
+    "description": "Elevation: 858m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524773,
+    "score": 0
+  },
+  {
+    "id": "sw:cooperknob",
+    "name": "Cooper Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.06178,
+    "lng": -79.46561,
+    "dist": 157.3,
+    "description": "Elevation: 1201m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524787,
+    "score": 0
+  },
+  {
+    "id": "sw:gapmountain",
+    "name": "Gap Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99178,
+    "lng": -79.09253,
+    "dist": 137.5,
+    "description": "Elevation: 518m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524888,
+    "score": 0
+  },
+  {
+    "id": "sw:greenknob",
+    "name": "Green Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89872,
+    "lng": -79.44477,
+    "dist": 156.9,
+    "description": "Elevation: 1424m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524903,
+    "score": 0
+  },
+  {
+    "id": "sw:harmonrocks",
+    "name": "Harmon Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70353,
+    "lng": -79.40926,
+    "dist": 157.1,
+    "description": "Elevation: 1243m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524916,
+    "score": 0
+  },
+  {
+    "id": "sw:harperknob",
+    "name": "Harper Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74113,
+    "lng": -79.65225,
+    "dist": 169.5,
+    "description": "Elevation: 1269m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524918,
+    "score": 0
+  },
+  {
+    "id": "sw:hertigknob",
+    "name": "Hertig Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91622,
+    "lng": -79.64034,
+    "dist": 167.3,
+    "description": "Elevation: 899m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524932,
+    "score": 0
+  },
+  {
+    "id": "sw:judyrocks",
+    "name": "Judy Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69928,
+    "lng": -79.46199,
+    "dist": 159.9,
+    "description": "Elevation: 938m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356524988,
+    "score": 0
+  },
+  {
+    "id": "sw:kettlefieldknob",
+    "name": "Kettlefield Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.58317,
+    "lng": -79.42727,
+    "dist": 159.8,
+    "description": "Elevation: 899m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525009,
+    "score": 0
+  },
+  {
+    "id": "sw:littlecowknob",
+    "name": "Little Cow Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.6915,
+    "lng": -79.13809,
+    "dist": 142.9,
+    "description": "Elevation: 760m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525046,
+    "score": 0
+  },
+  {
+    "id": "sw:littlesweedlinhill",
+    "name": "Little Sweedlin Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.7615,
+    "lng": -79.14281,
+    "dist": 142.2,
+    "description": "Elevation: 604m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525060,
+    "score": 0
+  },
+  {
+    "id": "sw:locustmountain",
+    "name": "Locust Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.814,
+    "lng": -79.17754,
+    "dist": 143.4,
+    "description": "Elevation: 788m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525066,
+    "score": 0
+  },
+  {
+    "id": "sw:mitchellknob",
+    "name": "Mitchell Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.709,
+    "lng": -79.12698,
+    "dist": 142.1,
+    "description": "Elevation: 828m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525107,
+    "score": 0
+  },
+  {
+    "id": "sw:nelsonrocks",
+    "name": "Nelson Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.69234,
+    "lng": -79.46727,
+    "dist": 160.3,
+    "description": "Elevation: 912m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525120,
+    "score": 0
+  },
+  {
+    "id": "sw:petersmountain",
+    "name": "Peters Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.67623,
+    "lng": -79.39171,
+    "dist": 156.5,
+    "description": "Elevation: 994m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525163,
+    "score": 0
+  },
+  {
+    "id": "sw:pharisknob",
+    "name": "Pharis Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74123,
+    "lng": -79.62756,
+    "dist": 168.2,
+    "description": "Elevation: 1410m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525168,
+    "score": 0
+  },
+  {
+    "id": "sw:pikeknob",
+    "name": "Pike Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.66762,
+    "lng": -79.43782,
+    "dist": 159.1,
+    "description": "Elevation: 1308m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525173,
+    "score": 0
+  },
+  {
+    "id": "sw:pondmountain",
+    "name": "Pond Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.56095,
+    "lng": -79.38504,
+    "dist": 158.0,
+    "description": "Elevation: 955m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525204,
+    "score": 0
+  },
+  {
+    "id": "sw:pondrangemountain",
+    "name": "Pond Range Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.674,
+    "lng": -79.37671,
+    "dist": 155.7,
+    "description": "Elevation: 951m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525206,
+    "score": 0
+  },
+  {
+    "id": "sw:rivermountain",
+    "name": "River Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.72345,
+    "lng": -79.3081,
+    "dist": 151.4,
+    "description": "Elevation: 675m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525235,
+    "score": 0
+  },
+  {
+    "id": "sw:sandmountain",
+    "name": "Sand Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70178,
+    "lng": -79.32865,
+    "dist": 152.8,
+    "description": "Elevation: 691m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525251,
+    "score": 0
+  },
+  {
+    "id": "sw:skidmoremountain",
+    "name": "Skidmore Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.91539,
+    "lng": -79.31004,
+    "dist": 149.6,
+    "description": "Elevation: 692m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525277,
+    "score": 0
+  },
+  {
+    "id": "sw:smithmountain",
+    "name": "Smith Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.88511,
+    "lng": -79.38727,
+    "dist": 154.0,
+    "description": "Elevation: 1087m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525282,
+    "score": 0
+  },
+  {
+    "id": "sw:teaknob",
+    "name": "Tea Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.61512,
+    "lng": -79.42199,
+    "dist": 159.0,
+    "description": "Elevation: 856m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525335,
+    "score": 0
+  },
+  {
+    "id": "sw:tracthill",
+    "name": "Tract Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73484,
+    "lng": -79.32032,
+    "dist": 151.9,
+    "description": "Elevation: 884m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525353,
+    "score": 0
+  },
+  {
+    "id": "sw:trumblemountain",
+    "name": "Trumble Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73317,
+    "lng": -79.18059,
+    "dist": 144.6,
+    "description": "Elevation: 805m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525355,
+    "score": 0
+  },
+  {
+    "id": "sw:weissknob",
+    "name": "Weiss Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99372,
+    "lng": -79.42977,
+    "dist": 155.6,
+    "description": "Elevation: 1359m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356525388,
+    "score": 0
+  },
+  {
+    "id": "sw:gobblemountain",
+    "name": "Gobble Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.73473,
+    "lng": -79.05247,
+    "dist": 137.8,
+    "description": "Elevation: 807m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581867,
+    "score": 0
+  },
+  {
+    "id": "sw:raderknob",
+    "name": "Rader Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.70631,
+    "lng": -79.06267,
+    "dist": 138.7,
+    "description": "Elevation: 1019m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582043,
+    "score": 0
+  },
+  {
+    "id": "sw:shavermountain",
+    "name": "Shaver Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.74705,
+    "lng": -79.05068,
+    "dist": 137.5,
+    "description": "Elevation: 802m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356582092,
+    "score": 0
+  },
+  {
+    "id": "sw:germanvalleyoverlook",
+    "name": "German Valley Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.70815,
+    "lng": -79.41313,
+    "dist": 157.2,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3254675434,
+    "score": 0
+  },
+  {
+    "id": "sw:balsamswampoverlook",
+    "name": "Balsam Swamp Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.02573,
+    "lng": -79.46689,
+    "dist": 157.4,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4029528442,
+    "score": 0
+  },
+  {
+    "id": "sw:northforkpeak",
+    "name": "North Fork Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.93636,
+    "lng": -79.27225,
+    "dist": 147.5,
+    "description": "Elevation: 1083m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4038554820,
+    "score": 0
+  },
+  {
+    "id": "sw:stackrock",
+    "name": "Stack Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.08431,
+    "lng": -79.29328,
+    "dist": 148.0,
+    "description": "Elevation: 1186m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959041689,
+    "score": 0
+  },
+  {
+    "id": "sw:bearrocks",
+    "name": "Bear Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.07318,
+    "lng": -79.29814,
+    "dist": 148.3,
+    "description": "Elevation: 1222m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959045214,
+    "score": 0
+  },
+  {
+    "id": "sw:chimneytop",
+    "name": "Chimney Top",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.97305,
+    "lng": -79.25539,
+    "dist": 146.3,
+    "description": "Elevation: 945m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959048596,
+    "score": 0
+  },
+  {
+    "id": "sw:newcreekmountain",
+    "name": "New Creek Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.00084,
+    "lng": -79.24778,
+    "dist": 145.8,
+    "description": "Elevation: 940m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959049374,
+    "score": 0
+  },
+  {
+    "id": "sw:senecarocks",
+    "name": "Seneca Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.83578,
+    "lng": -79.36563,
+    "dist": 153.2,
+    "description": "Elevation: 738m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959055267,
+    "score": 0
+  },
+  {
+    "id": "sw:champerocks",
+    "name": "Champe Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.89099,
+    "lng": -79.31187,
+    "dist": 149.9,
+    "description": "Elevation: 701m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4959056070,
+    "score": 0
+  },
+  {
+    "id": "sw:kisamorehill",
+    "name": "Kisamore Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.82155,
+    "lng": -79.46075,
+    "dist": 158.4,
+    "description": "Elevation: 1289m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5954281221,
+    "score": 0
+  },
+  {
+    "id": "sw:thelionshead",
+    "name": "The Lion's Head",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 38.98891,
+    "lng": -79.36664,
+    "dist": 152.2,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6918623743,
+    "score": 0
+  },
+  {
+    "id": "sw:upperfallsofsenecacr",
+    "name": "Upper Falls of Seneca Creek",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.76766,
+    "lng": -79.50829,
+    "dist": 161.5,
+    "description": "Waterfall, swimming hole.",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7674548071,
+    "score": 0
+  },
+  {
+    "id": "sw:smallwaterfall",
+    "name": "Small waterfall",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.77129,
+    "lng": -79.50813,
+    "dist": 161.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7674548073,
+    "score": 0
+  },
+  {
+    "id": "sw:alleghenyfrontmigrat",
+    "name": "Allegheny Front Migratory Observatory",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.03396,
+    "lng": -79.31239,
+    "dist": 149.1,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8964425803,
+    "score": 0
+  },
+  {
+    "id": "sw:rockyknob",
+    "name": "Rocky Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.06006,
+    "lng": -79.3703,
+    "dist": 152.2,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 8964426187,
+    "score": 0
+  },
+  {
+    "id": "sw:shaversmountain",
+    "name": "Shavers Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.99608,
+    "lng": -79.60164,
+    "dist": 164.8,
+    "description": "Elevation: 1144m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10681768552,
+    "score": 0
+  },
+  {
+    "id": "sw:cabin",
+    "name": "Cabin",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.02232,
+    "lng": -79.40349,
+    "dist": 154.1,
+    "description": "Elevation: 1304m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 10719854281,
+    "score": 0
+  },
+  {
+    "id": "sw:flatridge",
+    "name": "Flat Ridge",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.00232,
+    "lng": -79.46699,
+    "dist": 157.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11373908493,
+    "score": 0
+  },
+  {
+    "id": "sw:fallsofseneca",
+    "name": "Falls of Seneca",
+    "type": "waterfall",
+    "tags": [
+      "waterfall",
+      "water",
+      "scenic"
+    ],
+    "lat": 38.81809,
+    "lng": -79.49057,
+    "dist": 160.1,
+    "description": "Elevation: 755m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 12798348890,
+    "score": 0
+  },
+  {
+    "id": "sw:petersburgcitypark",
+    "name": "Petersburg City Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.99036,
+    "lng": -79.12597,
+    "dist": 139.3,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 373848851,
+    "score": 0
+  },
+  {
+    "id": "sw:franklintownpark",
+    "name": "Franklin Town Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.64333,
+    "lng": -79.32578,
+    "dist": 153.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 981378432,
+    "score": 0
+  },
+  {
+    "id": "sw:thornspringpark",
+    "name": "Thorn Spring Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.60585,
+    "lng": -79.35313,
+    "dist": 155.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 981378523,
+    "score": 0
+  },
+  {
+    "id": "sw:ruddlepark",
+    "name": "Ruddle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.73357,
+    "lng": -79.29421,
+    "dist": 150.6,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1198089689,
+    "score": 0
+  },
+  {
+    "id": "sw:damsitesevenpark",
+    "name": "Dam Site Seven Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.85156,
+    "lng": -79.16724,
+    "dist": 142.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1198089717,
+    "score": 0
+  },
+  {
+    "id": "sw:echopark",
+    "name": "Echo Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.98672,
+    "lng": -79.22116,
+    "dist": 144.4,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1198089865,
+    "score": 0
+  },
+  {
+    "id": "sw:fortmulligan",
+    "name": "Fort Mulligan",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.00101,
+    "lng": -79.13963,
+    "dist": 140.0,
+    "description": "Historic: battlefield",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1743460205,
+    "score": 0
+  },
+  {
+    "id": "sw:senecacaverns",
+    "name": "Seneca Caverns",
+    "type": "weird",
+    "tags": [
+      "weird"
+    ],
+    "lat": 38.76317,
+    "lng": -79.38889,
+    "dist": 155.2,
+    "description": "Hours: We-Su 10:00-17:00",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3732002801,
+    "score": 0
+  },
+  {
+    "id": "sw:ananiaspitsenbargerf",
+    "name": "Ananias Pitsenbarger Farm",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.57937,
+    "lng": -79.31781,
+    "dist": 154.1,
+    "description": "Historic: protected building",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5657027041,
+    "score": 0
+  },
+  {
+    "id": "sw:privateaccessroad",
+    "name": "Private Access Road",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.10586,
+    "lng": -79.33714,
+    "dist": 150.3,
+    "description": "Historic: railway",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 15530739,
+    "score": 0
+  },
+  {
+    "id": "sw:dobbingradetrail",
+    "name": "Dobbin Grade Trail",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.05103,
+    "lng": -79.33231,
+    "dist": 150.1,
+    "description": "Historic: railway",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 175637494,
+    "score": 0
+  },
+  {
+    "id": "sw:canaanvalleyresortst",
+    "name": "Canaan Valley Resort State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.0273,
+    "lng": -79.45571,
+    "dist": 156.8,
+    "description": "Elevation: 985m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 398299381,
+    "score": 0
+  },
+  {
+    "id": "sw:railroadgradetrail",
+    "name": "Railroad Grade Trail",
+    "type": "trail",
+    "tags": [
+      "trail",
+      "hiking",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.02718,
+    "lng": -79.47931,
+    "dist": 158.1,
+    "description": "Historic: railway",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 400387165,
+    "score": 0
+  },
+  {
+    "id": "sw:priestmill",
+    "name": "Priest Mill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.63936,
+    "lng": -79.32919,
+    "dist": 153.8,
+    "description": "Historic: yes",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 419040486,
+    "score": 0
+  },
+  {
+    "id": "sw:1971planecrashsite",
+    "name": "1971 Plane Crash Site",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 38.76408,
+    "lng": -79.49868,
+    "dist": 161.1,
+    "description": "Piper PA-23 N5141Y Oct 1973 crash site. Spruce Knob/Seneca Creek WV · Historic: ruins",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1103269732,
+    "score": 0
+  },
+  {
+    "id": "sw:dobbinslashingsprese",
+    "name": "Dobbin Slashings Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.08607,
+    "lng": -79.34303,
+    "dist": 150.6,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1426480221,
+    "score": 0
+  },
+  {
+    "id": "sw:monongahelanationalf",
+    "name": "Monongahela National Forest - Canaan Mountain",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.52941,
+    "lng": -79.90042,
+    "dist": 185.5,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 1476794,
+    "score": 0
+  },
+  {
+    "id": "sw:canaanvalleynational",
+    "name": "Canaan Valley National Wildlife Refuge",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.08916,
+    "lng": -79.39061,
+    "dist": 153.2,
+    "description": "Elevation: 1001m",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 5967463,
+    "score": 0
+  },
+  {
+    "id": "sw:ottercreekwildlifema",
+    "name": "Otter Creek Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.99313,
+    "lng": -79.65616,
+    "dist": 167.7,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139454,
+    "score": 0
+  },
+  {
+    "id": "sw:potomacwildlifemanag",
+    "name": "Potomac Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.8205,
+    "lng": -79.40822,
+    "dist": 155.7,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139456,
+    "score": 0
+  },
+  {
+    "id": "sw:blackwaterwildlifema",
+    "name": "Blackwater Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.14455,
+    "lng": -79.62971,
+    "dist": 166.0,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139465,
+    "score": 0
+  },
+  {
+    "id": "sw:littleriverwildlifem",
+    "name": "Little River Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.53541,
+    "lng": -79.815,
+    "dist": 180.9,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139479,
+    "score": 0
+  },
+  {
+    "id": "sw:thorncreekwildlifema",
+    "name": "Thorn Creek Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.57008,
+    "lng": -79.35713,
+    "dist": 156.4,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139513,
+    "score": 0
+  },
+  {
+    "id": "sw:shenandoahwildlifema",
+    "name": "Shenandoah Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.60035,
+    "lng": -79.2147,
+    "dist": 148.4,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139529,
+    "score": 0
+  },
+  {
+    "id": "sw:beaverdamwildlifeman",
+    "name": "Beaver Dam Wildlife Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.78418,
+    "lng": -79.69108,
+    "dist": 171.1,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 11139530,
+    "score": 0
+  },
+  {
+    "id": "sw:spruceknobsenecarock",
+    "name": "Spruce Knob-Seneca Rocks National Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 38.84321,
+    "lng": -79.37409,
+    "dist": 153.6,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14346085,
+    "score": 0
+  },
+  {
+    "id": "sw:bearrockspreserve",
+    "name": "Bear Rocks Preserve",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest",
+      "hiking"
+    ],
+    "lat": 39.07915,
+    "lng": -79.29948,
+    "dist": 148.3,
+    "description": "",
+    "zone": "WV Highlands",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 19579427,
+    "score": 0
+  },
+  {
+    "id": "sw:bakersknob",
+    "name": "Bakers Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.80843,
+    "lng": -77.40693,
+    "dist": 67.4,
+    "description": "Elevation: 405m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357275955,
+    "score": 0
+  },
+  {
+    "id": "sw:barerock",
+    "name": "Bare Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74843,
+    "lng": -77.46832,
+    "dist": 66.9,
+    "description": "Elevation: 501m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357276101,
+    "score": 0
+  },
+  {
+    "id": "sw:bearmountain",
+    "name": "Bear Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96537,
+    "lng": -77.29915,
+    "dist": 72.2,
+    "description": "Elevation: 487m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357276332,
+    "score": 0
+  },
+  {
+    "id": "sw:bennerhill",
+    "name": "Benner Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.82598,
+    "lng": -77.2143,
+    "dist": 61.7,
+    "description": "Elevation: 171m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357276670,
+    "score": 0
+  },
+  {
+    "id": "sw:bigflattower",
+    "name": "Big Flat Tower",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.00187,
+    "lng": -77.40753,
+    "dist": 77.6,
+    "description": "Elevation: 628m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357277318,
+    "score": 0
+  },
+  {
+    "id": "sw:bighill",
+    "name": "Big Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.92148,
+    "lng": -77.35665,
+    "dist": 71.5,
+    "description": "Elevation: 491m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357277335,
+    "score": 0
+  },
+  {
+    "id": "sw:bonershill",
+    "name": "Boners Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.02759,
+    "lng": -77.1147,
+    "dist": 70.9,
+    "description": "Elevation: 271m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357277944,
+    "score": 0
+  },
+  {
+    "id": "sw:briarmountain",
+    "name": "Briar Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81013,
+    "lng": -77.49072,
+    "dist": 70.6,
+    "description": "Elevation: 533m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357278369,
+    "score": 0
+  },
+  {
+    "id": "sw:buckridgetower",
+    "name": "Buck Ridge Tower",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.07315,
+    "lng": -77.26554,
+    "dist": 77.5,
+    "description": "Elevation: 488m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357278872,
+    "score": 0
+  },
+  {
+    "id": "sw:burnsknob",
+    "name": "Burns Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.78009,
+    "lng": -77.51888,
+    "dist": 70.3,
+    "description": "Elevation: 445m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357279204,
+    "score": 0
+  },
+  {
+    "id": "sw:bushyhill",
+    "name": "Bushy Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.92454,
+    "lng": -77.33193,
+    "dist": 70.9,
+    "description": "Elevation: 386m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357279264,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardpeak",
+    "name": "Buzzard Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81874,
+    "lng": -77.47121,
+    "dist": 70.3,
+    "description": "Elevation: 593m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357279335,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardsroost",
+    "name": "Buzzards Roost",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74565,
+    "lng": -77.48305,
+    "dist": 67.3,
+    "description": "Elevation: 458m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357279340,
+    "score": 0
+  },
+  {
+    "id": "sw:chamberlainshill",
+    "name": "Chamberlains Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.84121,
+    "lng": -77.39193,
+    "dist": 68.5,
+    "description": "Elevation: 403m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357280450,
+    "score": 0
+  },
+  {
+    "id": "sw:chimneyrocks",
+    "name": "Chimney Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81705,
+    "lng": -77.47056,
+    "dist": 70.2,
+    "description": "Elevation: 535m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357280910,
+    "score": 0
+  },
+  {
+    "id": "sw:chinquapinhill",
+    "name": "Chinquapin Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.9187,
+    "lng": -77.4811,
+    "dist": 75.6,
+    "description": "Elevation: 463m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357280922,
+    "score": 0
+  },
+  {
+    "id": "sw:curvemountain",
+    "name": "Curve Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.79648,
+    "lng": -77.5211,
+    "dist": 71.2,
+    "description": "Elevation: 513m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357282598,
+    "score": 0
+  },
+  {
+    "id": "sw:mountcydonia",
+    "name": "Mount Cydonia",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.89426,
+    "lng": -77.51277,
+    "dist": 75.5,
+    "description": "Elevation: 386m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357282628,
+    "score": 0
+  },
+  {
+    "id": "sw:fickelshill",
+    "name": "Fickels Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.05343,
+    "lng": -77.14443,
+    "dist": 73.2,
+    "description": "Elevation: 383m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357285737,
+    "score": 0
+  },
+  {
+    "id": "sw:foxhill",
+    "name": "Fox Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.89426,
+    "lng": -77.31971,
+    "dist": 68.8,
+    "description": "Elevation: 305m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357286294,
+    "score": 0
+  },
+  {
+    "id": "sw:graefenburghill",
+    "name": "Graefenburg Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.9137,
+    "lng": -77.45915,
+    "dist": 74.6,
+    "description": "Elevation: 464m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357288029,
+    "score": 0
+  },
+  {
+    "id": "sw:hammondsrocks",
+    "name": "Hammonds Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.06815,
+    "lng": -77.24859,
+    "dist": 76.7,
+    "description": "Elevation: 462m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357289131,
+    "score": 0
+  },
+  {
+    "id": "sw:harpershill",
+    "name": "Harpers Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72899,
+    "lng": -77.26499,
+    "dist": 58.2,
+    "description": "Elevation: 219m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357289570,
+    "score": 0
+  },
+  {
+    "id": "sw:haycock",
+    "name": "Haycock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.73148,
+    "lng": -77.44221,
+    "dist": 65.1,
+    "description": "Elevation: 397m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357289815,
+    "score": 0
+  },
+  {
+    "id": "sw:jacksmountain",
+    "name": "Jacks Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.75759,
+    "lng": -77.41804,
+    "dist": 65.3,
+    "description": "Elevation: 470m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357292687,
+    "score": 0
+  },
+  {
+    "id": "sw:kepnerknob",
+    "name": "Kepner Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.78565,
+    "lng": -77.4461,
+    "dist": 67.7,
+    "description": "Elevation: 512m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357293745,
+    "score": 0
+  },
+  {
+    "id": "sw:kettlespringsmountai",
+    "name": "Kettle Springs Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.8762,
+    "lng": -77.50999,
+    "dist": 74.6,
+    "description": "Elevation: 483m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357293769,
+    "score": 0
+  },
+  {
+    "id": "sw:wilsonhill",
+    "name": "Wilson Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81954,
+    "lng": -77.34249,
+    "dist": 65.6,
+    "description": "Elevation: 301m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357294262,
+    "score": 0
+  },
+  {
+    "id": "sw:lewisrocks",
+    "name": "Lewis Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.0137,
+    "lng": -77.3661,
+    "dist": 76.9,
+    "description": "Elevation: 527m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357294958,
+    "score": 0
+  },
+  {
+    "id": "sw:ludwigshill",
+    "name": "Ludwigs Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.89454,
+    "lng": -77.49999,
+    "dist": 75.1,
+    "description": "Elevation: 454m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357295825,
+    "score": 0
+  },
+  {
+    "id": "sw:maryshill",
+    "name": "Marys Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.82926,
+    "lng": -77.3836,
+    "dist": 67.6,
+    "description": "Elevation: 418m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357296595,
+    "score": 0
+  },
+  {
+    "id": "sw:mcginleyhill",
+    "name": "McGinley Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.77843,
+    "lng": -77.35915,
+    "dist": 64.1,
+    "description": "Elevation: 275m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357296767,
+    "score": 0
+  },
+  {
+    "id": "sw:mckeehill",
+    "name": "McKee Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.75604,
+    "lng": -77.36935,
+    "dist": 63.4,
+    "description": "Elevation: 354m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357296772,
+    "score": 0
+  },
+  {
+    "id": "sw:methodisthill",
+    "name": "Methodist Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96065,
+    "lng": -77.47776,
+    "dist": 77.7,
+    "description": "Elevation: 631m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357297536,
+    "score": 0
+  },
+  {
+    "id": "sw:mittenhill",
+    "name": "Mitten Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.95593,
+    "lng": -77.45526,
+    "dist": 76.7,
+    "description": "Elevation: 587m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357298226,
+    "score": 0
+  },
+  {
+    "id": "sw:montereypeak",
+    "name": "Monterey Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74454,
+    "lng": -77.47193,
+    "dist": 66.8,
+    "description": "Elevation: 507m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357298598,
+    "score": 0
+  },
+  {
+    "id": "sw:mountnewman",
+    "name": "Mount Newman",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.88732,
+    "lng": -77.43499,
+    "dist": 72.4,
+    "description": "Elevation: 544m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357301746,
+    "score": 0
+  },
+  {
+    "id": "sw:oakknob",
+    "name": "Oak Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.83454,
+    "lng": -77.53527,
+    "dist": 73.5,
+    "description": "Elevation: 445m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357302457,
+    "score": 0
+  },
+  {
+    "id": "sw:orebankhill",
+    "name": "Orebank Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.91204,
+    "lng": -77.49999,
+    "dist": 76.0,
+    "description": "Elevation: 342m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357302946,
+    "score": 0
+  },
+  {
+    "id": "sw:pigeonhill",
+    "name": "Pigeon Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.85871,
+    "lng": -77.00776,
+    "dist": 58.0,
+    "description": "Elevation: 285m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357303966,
+    "score": 0
+  },
+  {
+    "id": "sw:pinnaclemountain",
+    "name": "Pinnacle Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.05592,
+    "lng": -77.34665,
+    "dist": 78.8,
+    "description": "Elevation: 443m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357304321,
+    "score": 0
+  },
+  {
+    "id": "sw:pleasantpeak",
+    "name": "Pleasant Peak",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.9287,
+    "lng": -77.50582,
+    "dist": 77.0,
+    "description": "Elevation: 565m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357304491,
+    "score": 0
+  },
+  {
+    "id": "sw:polesteeple",
+    "name": "Pole Steeple",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.03252,
+    "lng": -77.26735,
+    "dist": 75.1,
+    "description": "Elevation: 397m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357304779,
+    "score": 0
+  },
+  {
+    "id": "sw:powershill",
+    "name": "Powers Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.80601,
+    "lng": -77.22109,
+    "dist": 60.8,
+    "description": "Elevation: 171m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305082,
+    "score": 0
+  },
+  {
+    "id": "sw:quarrygaphill",
+    "name": "Quarry Gap Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.9337,
+    "lng": -77.47832,
+    "dist": 76.3,
+    "description": "Elevation: 523m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305286,
+    "score": 0
+  },
+  {
+    "id": "sw:quarryhill",
+    "name": "Quarry Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.92731,
+    "lng": -77.48638,
+    "dist": 76.3,
+    "description": "Elevation: 523m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305289,
+    "score": 0
+  },
+  {
+    "id": "sw:quincymountain",
+    "name": "Quincy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81632,
+    "lng": -77.54172,
+    "dist": 72.9,
+    "description": "Elevation: 530m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305319,
+    "score": 0
+  },
+  {
+    "id": "sw:ramhill",
+    "name": "Ram Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.97537,
+    "lng": -77.40971,
+    "dist": 76.2,
+    "description": "Elevation: 595m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305364,
+    "score": 0
+  },
+  {
+    "id": "sw:rampikehill",
+    "name": "Rampike Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.98481,
+    "lng": -77.24193,
+    "dist": 71.6,
+    "description": "Elevation: 283m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305370,
+    "score": 0
+  },
+  {
+    "id": "sw:rattlesnakehill",
+    "name": "Rattlesnake Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96926,
+    "lng": -77.26443,
+    "dist": 71.4,
+    "description": "Elevation: 326m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305407,
+    "score": 0
+  },
+  {
+    "id": "sw:ravenrockmountain",
+    "name": "Raven Rock Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.73398,
+    "lng": -77.41943,
+    "dist": 64.3,
+    "description": "Elevation: 462m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357305437,
+    "score": 0
+  },
+  {
+    "id": "sw:rupphill",
+    "name": "Rupp Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81537,
+    "lng": -77.3961,
+    "dist": 67.3,
+    "description": "Elevation: 452m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357306735,
+    "score": 0
+  },
+  {
+    "id": "sw:shrinersknob",
+    "name": "Shriners Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.8012,
+    "lng": -77.50193,
+    "dist": 70.6,
+    "description": "Elevation: 513m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357312514,
+    "score": 0
+  },
+  {
+    "id": "sw:sierhill",
+    "name": "Sier Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96454,
+    "lng": -77.44054,
+    "dist": 76.6,
+    "description": "Elevation: 586m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357312653,
+    "score": 0
+  },
+  {
+    "id": "sw:snowymountain",
+    "name": "Snowy Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.83463,
+    "lng": -77.49445,
+    "dist": 71.9,
+    "description": "Elevation: 637m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357312924,
+    "score": 0
+  },
+  {
+    "id": "sw:stonejughill",
+    "name": "Stone Jug Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.92037,
+    "lng": -77.18359,
+    "dist": 66.2,
+    "description": "Elevation: 216m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357315089,
+    "score": 0
+  },
+  {
+    "id": "sw:strasbaughhill",
+    "name": "Strasbaugh Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96787,
+    "lng": -77.41721,
+    "dist": 76.0,
+    "description": "Elevation: 605m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357315240,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarloaf",
+    "name": "Sugar Loaf",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.80759,
+    "lng": -77.35332,
+    "dist": 65.4,
+    "description": "Elevation: 251m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357315414,
+    "score": 0
+  },
+  {
+    "id": "sw:theknob",
+    "name": "The Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.85343,
+    "lng": -77.44415,
+    "dist": 71.0,
+    "description": "Elevation: 573m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357316126,
+    "score": 0
+  },
+  {
+    "id": "sw:tobaccopatchmountain",
+    "name": "Tobacco Patch Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.03926,
+    "lng": -77.4111,
+    "dist": 79.8,
+    "description": "Elevation: 474m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357316484,
+    "score": 0
+  },
+  {
+    "id": "sw:tunnelhill",
+    "name": "Tunnel Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.74843,
+    "lng": -77.4411,
+    "dist": 65.8,
+    "description": "Elevation: 451m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357317253,
+    "score": 0
+  },
+  {
+    "id": "sw:tysonshill",
+    "name": "Tysons Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.96676,
+    "lng": -77.25248,
+    "dist": 70.9,
+    "description": "Elevation: 224m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357317531,
+    "score": 0
+  },
+  {
+    "id": "sw:virginiarock",
+    "name": "Virginia Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.77259,
+    "lng": -77.46416,
+    "dist": 67.8,
+    "description": "Elevation: 545m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357318874,
+    "score": 0
+  },
+  {
+    "id": "sw:wigwamhill",
+    "name": "Wigwam Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.94037,
+    "lng": -77.46582,
+    "dist": 76.2,
+    "description": "Elevation: 549m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357320392,
+    "score": 0
+  },
+  {
+    "id": "sw:wildcathill",
+    "name": "Wildcat Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.93009,
+    "lng": -77.44804,
+    "dist": 75.1,
+    "description": "Elevation: 465m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357320418,
+    "score": 0
+  },
+  {
+    "id": "sw:wildcatrocks",
+    "name": "Wildcat Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.75982,
+    "lng": -77.4686,
+    "dist": 67.4,
+    "description": "Elevation: 533m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357320424,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfhill",
+    "name": "Wolf Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.94926,
+    "lng": -77.45304,
+    "dist": 76.2,
+    "description": "Elevation: 551m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357320778,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfpithill",
+    "name": "Wolfpit Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.98926,
+    "lng": -77.21276,
+    "dist": 71.1,
+    "description": "Elevation: 295m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357320812,
+    "score": 0
+  },
+  {
+    "id": "sw:yellowhill",
+    "name": "Yellow Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.94954,
+    "lng": -77.28054,
+    "dist": 70.7,
+    "description": "Elevation: 350m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357321052,
+    "score": 0
+  },
+  {
+    "id": "sw:mountdunlop",
+    "name": "Mount Dunlop",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72898,
+    "lng": -77.48943,
+    "dist": 66.8,
+    "description": "Elevation: 513m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357321748,
+    "score": 0
+  },
+  {
+    "id": "sw:montaltomountain",
+    "name": "Montalto Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.85867,
+    "lng": -77.51857,
+    "dist": 74.0,
+    "description": "Elevation: 521.5m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357322250,
+    "score": 0
+  },
+  {
+    "id": "sw:rocktop",
+    "name": "Rock Top",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.88926,
+    "lng": -77.36415,
+    "dist": 70.0,
+    "description": "Elevation: 363m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357322525,
+    "score": 0
+  },
+  {
+    "id": "sw:snydershill",
+    "name": "Snyders Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.02676,
+    "lng": -77.15137,
+    "dist": 71.8,
+    "description": "Elevation: 318m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357334784,
+    "score": 0
+  },
+  {
+    "id": "sw:mccarrysknob",
+    "name": "McCarrys Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.79593,
+    "lng": -77.44138,
+    "dist": 68.1,
+    "description": "Elevation: 511m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357344522,
+    "score": 0
+  },
+  {
+    "id": "sw:sunsetrocks",
+    "name": "Sunset Rocks",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 40.03315,
+    "lng": -77.33054,
+    "dist": 77.0,
+    "description": "Elevation: 402m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357344576,
+    "score": 0
+  },
+  {
+    "id": "sw:pivotrock",
+    "name": "Pivot Rock",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.8637,
+    "lng": -77.50443,
+    "dist": 73.7,
+    "description": "Elevation: 563m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357344619,
+    "score": 0
+  },
+  {
+    "id": "sw:pinemountain",
+    "name": "Pine Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.75614,
+    "lng": -77.44731,
+    "dist": 66.4,
+    "description": "Elevation: 480m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357365539,
+    "score": 0
+  },
+  {
+    "id": "sw:carrickknob",
+    "name": "Carrick Knob",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.69061,
+    "lng": -77.37884,
+    "dist": 60.7,
+    "description": "Elevation: 495m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238325,
+    "score": 0
+  },
+  {
+    "id": "sw:collegemountain",
+    "name": "College Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.69079,
+    "lng": -77.37406,
+    "dist": 60.5,
+    "description": "Elevation: 520m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238451,
+    "score": 0
+  },
+  {
+    "id": "sw:littlepineymountain",
+    "name": "Little Piney Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.67343,
+    "lng": -77.40721,
+    "dist": 61.0,
+    "description": "Elevation: 395m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239212,
+    "score": 0
+  },
+  {
+    "id": "sw:wertenbakerhill",
+    "name": "Wertenbaker Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.69149,
+    "lng": -77.42471,
+    "dist": 62.5,
+    "description": "Elevation: 493m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240786,
+    "score": 0
+  },
+  {
+    "id": "sw:derrhill",
+    "name": "Derr Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70093,
+    "lng": -77.40221,
+    "dist": 62.1,
+    "description": "Elevation: 454m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241507,
+    "score": 0
+  },
+  {
+    "id": "sw:cssharpshootersposit",
+    "name": "CS Sharpshooter's position",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.7917,
+    "lng": -77.24287,
+    "dist": 60.8,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736230,
+    "score": 0
+  },
+  {
+    "id": "sw:littleroundtop",
+    "name": "Little Round Top",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.79109,
+    "lng": -77.23574,
+    "dist": 60.5,
+    "description": "Elevation: 200m · Historic: yes",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6683539569,
+    "score": 0
+  },
+  {
+    "id": "sw:bigroundtop",
+    "name": "Big Round Top",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.78675,
+    "lng": -77.23941,
+    "dist": 60.4,
+    "description": "Elevation: 235m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7128731210,
+    "score": 0
+  },
+  {
+    "id": "sw:culpshill",
+    "name": "Culps Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81981,
+    "lng": -77.22115,
+    "dist": 61.6,
+    "description": "Elevation: 192m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7244933702,
+    "score": 0
+  },
+  {
+    "id": "sw:wolfshill",
+    "name": "Wolf's Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81602,
+    "lng": -77.20796,
+    "dist": 61.0,
+    "description": "Elevation: 206m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7276091728,
+    "score": 0
+  },
+  {
+    "id": "sw:granitehill",
+    "name": "Granite Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.85064,
+    "lng": -77.16055,
+    "dist": 61.5,
+    "description": "Elevation: 223m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7286565751,
+    "score": 0
+  },
+  {
+    "id": "sw:carrhill",
+    "name": "Carr Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.82539,
+    "lng": -77.32824,
+    "dist": 65.4,
+    "description": "Elevation: 267m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7500066689,
+    "score": 0
+  },
+  {
+    "id": "sw:sheepheaven",
+    "name": "Sheep Heaven",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.80805,
+    "lng": -77.20676,
+    "dist": 60.5,
+    "description": "Elevation: 182m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 7523676428,
+    "score": 0
+  },
+  {
+    "id": "sw:oakmountain",
+    "name": "Oak Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.8295,
+    "lng": -77.53919,
+    "dist": 73.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9139124138,
+    "score": 0
+  },
+  {
+    "id": "sw:rattlesnakerunlookou",
+    "name": "Rattlesnake Run Lookout",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.77342,
+    "lng": -77.48246,
+    "dist": 68.6,
+    "description": "Elevation: 461m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9146798306,
+    "score": 0
+  },
+  {
+    "id": "sw:reservoirhill",
+    "name": "Reservoir Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.81338,
+    "lng": -77.4514,
+    "dist": 69.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 9147567245,
+    "score": 0
+  },
+  {
+    "id": "sw:buzzardsrocks",
+    "name": "Buzzard's Rocks",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 40.03805,
+    "lng": -77.38313,
+    "dist": 78.8,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 11638667044,
+    "score": 0
+  },
+  {
+    "id": "sw:mountaincreekoverloo",
+    "name": "Mountain Creek Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 40.03091,
+    "lng": -77.30919,
+    "dist": 76.2,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13165463206,
+    "score": 0
+  },
+  {
+    "id": "sw:darkhallow",
+    "name": "Dark Hallow",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.94819,
+    "lng": -77.48404,
+    "dist": 77.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 13529505926,
+    "score": 0
+  },
+  {
+    "id": "sw:pinegrovefurnacestat",
+    "name": "Pine Grove Furnace State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.03023,
+    "lng": -77.29075,
+    "dist": 75.7,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 22735472,
+    "score": 0
+  },
+  {
+    "id": "sw:wirtpark",
+    "name": "Wirt Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.80108,
+    "lng": -76.98741,
+    "dist": 53.9,
+    "description": "Elevation: 181m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 97505125,
+    "score": 0
+  },
+  {
+    "id": "sw:moulfield",
+    "name": "Moul Field",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.81145,
+    "lng": -76.97352,
+    "dist": 54.2,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 97510462,
+    "score": 0
+  },
+  {
+    "id": "sw:fairviewavenuerecrea",
+    "name": "Fairview Avenue Recreation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.80806,
+    "lng": -77.0205,
+    "dist": 55.2,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 97518922,
+    "score": 0
+  },
+  {
+    "id": "sw:kidskingdompark",
+    "name": "Kid's Kingdom Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.77034,
+    "lng": -76.97964,
+    "dist": 51.8,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106211009,
+    "score": 0
+  },
+  {
+    "id": "sw:westmanheimtownshipr",
+    "name": "West Manheim Township Recreation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73282,
+    "lng": -76.96974,
+    "dist": 49.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 106212819,
+    "score": 0
+  },
+  {
+    "id": "sw:robertsmillpark",
+    "name": "Roberts Mill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65351,
+    "lng": -77.15654,
+    "dist": 50.5,
+    "description": "Elevation: 171m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 201238921,
+    "score": 0
+  },
+  {
+    "id": "sw:griestcommunitypark",
+    "name": "Griest Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.01488,
+    "lng": -77.11801,
+    "dist": 70.2,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 256665291,
+    "score": 0
+  },
+  {
+    "id": "sw:latimorevalleyfairgr",
+    "name": "Latimore Valley Fair Grounds",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 40.02139,
+    "lng": -77.07905,
+    "dist": 69.7,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 256665293,
+    "score": 0
+  },
+  {
+    "id": "sw:gettysburgrecreation",
+    "name": "Gettysburg Recreational Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.82432,
+    "lng": -77.23871,
+    "dist": 62.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 298931950,
+    "score": 0
+  },
+  {
+    "id": "sw:eeugenemyerscommunit",
+    "name": "E. Eugene Myers Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.70021,
+    "lng": -77.33421,
+    "dist": 59.4,
+    "description": "Elevation: 130m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 319200237,
+    "score": 0
+  },
+  {
+    "id": "sw:penmarpark",
+    "name": "Pen Mar Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.71562,
+    "lng": -77.50916,
+    "dist": 67.1,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 517364671,
+    "score": 0
+  },
+  {
+    "id": "sw:redrunpark",
+    "name": "Red Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73948,
+    "lng": -77.51846,
+    "dist": 68.5,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 557762989,
+    "score": 0
+  },
+  {
+    "id": "sw:littlestowncommunity",
+    "name": "Littlestown Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.74376,
+    "lng": -77.07677,
+    "dist": 52.9,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 561671923,
+    "score": 0
+  },
+  {
+    "id": "sw:crousepark",
+    "name": "Crouse Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.74829,
+    "lng": -77.08492,
+    "dist": 53.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 561671935,
+    "score": 0
+  },
+  {
+    "id": "sw:youngswoodspark",
+    "name": "Youngs Woods Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.79474,
+    "lng": -76.94828,
+    "dist": 52.6,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 588814840,
+    "score": 0
+  },
+  {
+    "id": "sw:hanoverborougharbore",
+    "name": "Hanover Borough Arboretum",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.79507,
+    "lng": -76.97947,
+    "dist": 53.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 594765323,
+    "score": 0
+  },
+  {
+    "id": "sw:carrollcommonspark",
+    "name": "Carroll Commons Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.75977,
+    "lng": -77.38227,
+    "dist": 64.1,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 617843348,
+    "score": 0
+  },
+  {
+    "id": "sw:oaksidecommunitypark",
+    "name": "Oakside Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.9212,
+    "lng": -77.2374,
+    "dist": 67.8,
+    "description": "Dogs: yes",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 670643796,
+    "score": 0
+  },
+  {
+    "id": "sw:myerspark",
+    "name": "Myers Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.80287,
+    "lng": -76.99976,
+    "dist": 54.3,
+    "description": "Tennis Courts, Basketball court, 2 baseball fields, a covered pavilion, swings a slide and other playground equipment · Hours: Mo-Su 06:00-22:00 · Dogs: no",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 686764345,
+    "score": 0
+  },
+  {
+    "id": "sw:strabantownshippark",
+    "name": "Straban Township Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.85107,
+    "lng": -77.18829,
+    "dist": 62.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 722826584,
+    "score": 0
+  },
+  {
+    "id": "sw:montaltostatepark",
+    "name": "Mont Alto State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.83882,
+    "lng": -77.53576,
+    "dist": 73.7,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 766347349,
+    "score": 0
+  },
+  {
+    "id": "sw:solitfarm",
+    "name": "Solit farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73833,
+    "lng": -77.50665,
+    "dist": 68.0,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 807000369,
+    "score": 0
+  },
+  {
+    "id": "sw:oldbenjaminteniscour",
+    "name": "Old Benjamin Tenis Courts",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73806,
+    "lng": -77.50729,
+    "dist": 68.0,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 807000370,
+    "score": 0
+  },
+  {
+    "id": "sw:beachfront",
+    "name": "Beach Front",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.73715,
+    "lng": -77.50485,
+    "dist": 67.8,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 807002164,
+    "score": 0
+  },
+  {
+    "id": "sw:oldbanjaminflagpoles",
+    "name": "Old Banjamin Flagpoles",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73645,
+    "lng": -77.50768,
+    "dist": 67.9,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 807309781,
+    "score": 0
+  },
+  {
+    "id": "sw:plumbcreekpark",
+    "name": "Plumb Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.79293,
+    "lng": -77.0248,
+    "dist": 54.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 865831877,
+    "score": 0
+  },
+  {
+    "id": "sw:sunsetpark",
+    "name": "Sunset Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.99394,
+    "lng": -77.03909,
+    "dist": 67.1,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 909124953,
+    "score": 0
+  },
+  {
+    "id": "sw:gettysburgmunicipala",
+    "name": "Gettysburg Municipal Authority",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.84007,
+    "lng": -77.23145,
+    "dist": 63.0,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1063739921,
+    "score": 0
+  },
+  {
+    "id": "sw:charlescarrollcommun",
+    "name": "Charles Carroll Community Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.67741,
+    "lng": -77.0349,
+    "dist": 47.8,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1189081154,
+    "score": 0
+  },
+  {
+    "id": "sw:doublepipecreekpark",
+    "name": "Double Pipe Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60245,
+    "lng": -77.26928,
+    "dist": 52.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1213750191,
+    "score": 0
+  },
+  {
+    "id": "sw:bigpipecreekpark",
+    "name": "Big Pipe Creek Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63891,
+    "lng": -77.13994,
+    "dist": 49.1,
+    "description": "Elevation: 129m",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1213752969,
+    "score": 0
+  },
+  {
+    "id": "sw:silverrununionmillsc",
+    "name": "Silver Run-Union Mills Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.66886,
+    "lng": -77.01911,
+    "dist": 46.9,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1289470154,
+    "score": 0
+  },
+  {
+    "id": "sw:centersquare",
+    "name": "Center Square",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.86389,
+    "lng": -77.05584,
+    "dist": 59.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1334375347,
+    "score": 0
+  },
+  {
+    "id": "sw:northstreetpark",
+    "name": "North Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.80183,
+    "lng": -77.02981,
+    "dist": 55.0,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1428679767,
+    "score": 0
+  },
+  {
+    "id": "sw:mainstreetpark",
+    "name": "Main Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.8035,
+    "lng": -77.02086,
+    "dist": 54.9,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1445777904,
+    "score": 0
+  },
+  {
+    "id": "sw:codorusstatepark",
+    "name": "Codorus State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.78956,
+    "lng": -76.90834,
+    "dist": 51.4,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12250393,
+    "score": 0
+  },
+  {
+    "id": "sw:wayso",
+    "name": "WAYSO",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.75616,
+    "lng": -77.54337,
+    "dist": 70.3,
+    "description": "",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14094617,
+    "score": 0
+  },
+  {
+    "id": "sw:uniontownhistoricdis",
+    "name": "Uniontown Historic District",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "lat": 39.59316,
+    "lng": -77.11832,
+    "dist": 46.0,
+    "description": "Elevation: 200m · Historic: district",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358247140,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalfallenfirefi",
+    "name": "National Fallen Firefighters Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69502,
+    "lng": -77.32576,
+    "dist": 58.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1684705590,
+    "score": 0
+  },
+  {
+    "id": "sw:toliftanation911memo",
+    "name": "To Lift a Nation 9-1-1 Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69426,
+    "lng": -77.32653,
+    "dist": 58.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1684707013,
+    "score": 0
+  },
+  {
+    "id": "sw:13thvtrandall",
+    "name": "13th VT Randall",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80967,
+    "lng": -77.23623,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2902183222,
+    "score": 0
+  },
+  {
+    "id": "sw:106thpacurry",
+    "name": "106th PA Curry",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81262,
+    "lng": -77.23561,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2902183226,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneralalexanderwe",
+    "name": "US General Alexander Webb",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81296,
+    "lng": -77.23535,
+    "dist": 61.7,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 2902183227,
+    "score": 0
+  },
+  {
+    "id": "sw:1stpareservescokmcph",
+    "name": "1st PA Reserves Co K - McPherson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8306,
+    "lng": -77.23131,
+    "dist": 62.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3028962616,
+    "score": 0
+  },
+  {
+    "id": "sw:ussergeantamoshumist",
+    "name": "US Sergeant Amos Humiston KIA Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.83203,
+    "lng": -77.22871,
+    "dist": 62.5,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 3028964991,
+    "score": 0
+  },
+  {
+    "id": "sw:nationalsystemofinte",
+    "name": "National System of Interstate and Defense Highways",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.69159,
+    "lng": -77.33231,
+    "dist": 58.9,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4145222923,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneralalexanderha",
+    "name": "US General Alexander Hays",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8168,
+    "lng": -77.23457,
+    "dist": 61.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288305,
+    "score": 0
+  },
+  {
+    "id": "sw:confederatesoldiersa",
+    "name": "Confederate Soldiers and Sailors",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.785,
+    "lng": -77.25404,
+    "dist": 60.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288308,
+    "score": 0
+  },
+  {
+    "id": "sw:usbrigadiergeneralgo",
+    "name": "US Brigadier General Gouverneur K. Warren(w)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7925,
+    "lng": -77.23674,
+    "dist": 60.6,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288310,
+    "score": 0
+  },
+  {
+    "id": "sw:csarmisteadkia",
+    "name": "CS Armistead KIA",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81311,
+    "lng": -77.23596,
+    "dist": 61.7,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288317,
+    "score": 0
+  },
+  {
+    "id": "sw:cshqlongstreet",
+    "name": "CS HQ Longstreet",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80001,
+    "lng": -77.2564,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288319,
+    "score": 0
+  },
+  {
+    "id": "sw:us212ndbrigadenyiris",
+    "name": "US 2-1-2nd Brigade NY Irish Brigade Kelly",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79706,
+    "lng": -77.24512,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288326,
+    "score": 0
+  },
+  {
+    "id": "sw:140thnypatrickororke",
+    "name": "140th NY Patrick O'Rorke+ / Ernst",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7915,
+    "lng": -77.23696,
+    "dist": 60.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288329,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneralsamuelcrawf",
+    "name": "US General Samuel Crawford",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79596,
+    "lng": -77.23876,
+    "dist": 60.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288330,
+    "score": 0
+  },
+  {
+    "id": "sw:usmajorwilliamwells",
+    "name": "US Major William Wells",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.78488,
+    "lng": -77.24566,
+    "dist": 60.5,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288333,
+    "score": 0
+  },
+  {
+    "id": "sw:11thpares40thpavolun",
+    "name": "11th PA Res \"40th PA Volunteer Infantry Regiment\" Jackson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79702,
+    "lng": -77.2401,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288360,
+    "score": 0
+  },
+  {
+    "id": "sw:4thnyartillerysmiths",
+    "name": "4th NY Artillery “Smith’s Battery” Smith",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79208,
+    "lng": -77.24247,
+    "dist": 60.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288364,
+    "score": 0
+  },
+  {
+    "id": "sw:91stpasinex",
+    "name": "91st PA Sinex",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79217,
+    "lng": -77.23674,
+    "dist": 60.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288366,
+    "score": 0
+  },
+  {
+    "id": "sw:99thpamoorewfritz",
+    "name": "99th PA Moore(w) / Fritz",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79239,
+    "lng": -77.24227,
+    "dist": 60.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4485288367,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneralandrewhumph",
+    "name": "US General Andrew Humphreys",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80824,
+    "lng": -77.24384,
+    "dist": 61.7,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486002434,
+    "score": 0
+  },
+  {
+    "id": "sw:usalbertwoolson",
+    "name": "US Albert Woolson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81616,
+    "lng": -77.23483,
+    "dist": 61.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486002437,
+    "score": 0
+  },
+  {
+    "id": "sw:cshq2ndcorpsewell",
+    "name": "CS HQ 2nd Corps Ewell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.83116,
+    "lng": -77.21961,
+    "dist": 62.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486002440,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneraljohngibbon",
+    "name": "US General John Gibbon",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81103,
+    "lng": -77.23538,
+    "dist": 61.6,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486002449,
+    "score": 0
+  },
+  {
+    "id": "sw:154thnyallen",
+    "name": "154th NY Allen",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.83521,
+    "lng": -77.22756,
+    "dist": 62.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486002457,
+    "score": 0
+  },
+  {
+    "id": "sw:kystate",
+    "name": "KY State",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81973,
+    "lng": -77.23111,
+    "dist": 61.9,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4486125238,
+    "score": 0
+  },
+  {
+    "id": "sw:usgeneralhancockwoun",
+    "name": "US General Hancock wounded",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80877,
+    "lng": -77.23703,
+    "dist": 61.5,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4487576363,
+    "score": 0
+  },
+  {
+    "id": "sw:rogershousemarker",
+    "name": "Rogers House Marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80848,
+    "lng": -77.244,
+    "dist": 61.7,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4487576365,
+    "score": 0
+  },
+  {
+    "id": "sw:44thnyriceconner12th",
+    "name": "44th NY Rice / Conner & 12th NY Ryder",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7913,
+    "lng": -77.237,
+    "dist": 60.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4487576369,
+    "score": 0
+  },
+  {
+    "id": "sw:alonzocushing",
+    "name": "Alonzo Cushing",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81315,
+    "lng": -77.23568,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439118,
+    "score": 0
+  },
+  {
+    "id": "sw:culpbrothersmemorial",
+    "name": "Culp Brothers' Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8199,
+    "lng": -77.2343,
+    "dist": 62.0,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439119,
+    "score": 0
+  },
+  {
+    "id": "sw:cshq3rdcorpaphill",
+    "name": "CS HQ 3rd Corp A.P. Hill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81801,
+    "lng": -77.24821,
+    "dist": 62.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439121,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqbrigadiergeneral",
+    "name": "US HQ Brigadier General Henry Hunt",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81367,
+    "lng": -77.23181,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439123,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq12thcorpsslocum",
+    "name": "US HQ 12th Corps Slocum",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80806,
+    "lng": -77.2179,
+    "dist": 60.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439125,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq6thcorpssedgwick",
+    "name": "US HQ 6th Corps Sedgwick",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79767,
+    "lng": -77.23484,
+    "dist": 60.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439126,
+    "score": 0
+  },
+  {
+    "id": "sw:us1stmdpotomachomebr",
+    "name": "US 1st MD \"Potomac Home Brigade\" Maulsby",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81479,
+    "lng": -77.21688,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439132,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq622ndbrigade1stv",
+    "name": "US HQ 6-2-2nd Brigade \"1st Vermont Brigade\" L.A.Grant",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.78516,
+    "lng": -77.2323,
+    "dist": 60.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439133,
+    "score": 0
+  },
+  {
+    "id": "sw:43rdnckenanwlewis",
+    "name": "43rd NC Kenan(w) / Lewis",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81853,
+    "lng": -77.21544,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439139,
+    "score": 0
+  },
+  {
+    "id": "sw:5thnhhapgood",
+    "name": "5th NH Hapgood",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79504,
+    "lng": -77.24186,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489439141,
+    "score": 0
+  },
+  {
+    "id": "sw:uscolstrongvincentmo",
+    "name": "US Col. Strong Vincent+ mortally wounded mark",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79075,
+    "lng": -77.23735,
+    "dist": 60.5,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489668452,
+    "score": 0
+  },
+  {
+    "id": "sw:13thnjcarman",
+    "name": "13th NJ Carman",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81308,
+    "lng": -77.21475,
+    "dist": 61.0,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489668454,
+    "score": 0
+  },
+  {
+    "id": "sw:5thmipulford",
+    "name": "5th MI Pulford",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79721,
+    "lng": -77.24482,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4489668460,
+    "score": 0
+  },
+  {
+    "id": "sw:17thctfowlerbrady",
+    "name": "17th CT Fowler+ / Brady",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.82261,
+    "lng": -77.22813,
+    "dist": 62.0,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4497088990,
+    "score": 0
+  },
+  {
+    "id": "sw:marymotherofthemount",
+    "name": "Mary, Mother of the Mount",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68078,
+    "lng": -77.35466,
+    "dist": 59.3,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4631155246,
+    "score": 0
+  },
+  {
+    "id": "sw:mountstmarysmemorial",
+    "name": "Mount St. Mary's Memorial for Priests",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68073,
+    "lng": -77.35132,
+    "dist": 59.1,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4631155537,
+    "score": 0
+  },
+  {
+    "id": "sw:mountstmaryscradleof",
+    "name": "Mount St. Mary's Cradle of Bishops",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68118,
+    "lng": -77.35344,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4631155538,
+    "score": 0
+  },
+  {
+    "id": "sw:historicnavyshipgun",
+    "name": "Historic Navy Ship Gun",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68017,
+    "lng": -77.35256,
+    "dist": 59.1,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4631186215,
+    "score": 0
+  },
+  {
+    "id": "sw:stjohnmarievianney",
+    "name": "St. John Marie Vianney",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68018,
+    "lng": -77.35473,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4631196013,
+    "score": 0
+  },
+  {
+    "id": "sw:calvaryscene",
+    "name": "Calvary Scene",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.684,
+    "lng": -77.35764,
+    "dist": 59.5,
+    "description": "Historic: wayside cross",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4632880240,
+    "score": 0
+  },
+  {
+    "id": "sw:memorialtothevictims",
+    "name": "Memorial to the Victims of Abortion",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68101,
+    "lng": -77.3535,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4632909155,
+    "score": 0
+  },
+  {
+    "id": "sw:statueofcardinaljohn",
+    "name": "Statue of Cardinal John Henry Newman",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68038,
+    "lng": -77.35487,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4633857918,
+    "score": 0
+  },
+  {
+    "id": "sw:stmotherteresaofcalc",
+    "name": "St. Mother Teresa of Calcutta Statue",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68175,
+    "lng": -77.35622,
+    "dist": 59.4,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4641069683,
+    "score": 0
+  },
+  {
+    "id": "sw:monsignorhughjphilli",
+    "name": "Monsignor Hugh J Phillips Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7084,
+    "lng": -77.31419,
+    "dist": 59.0,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4642649773,
+    "score": 0
+  },
+  {
+    "id": "sw:monsignorhughjphilli",
+    "name": "Monsignor Hugh J. Phillips",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68163,
+    "lng": -77.35553,
+    "dist": 59.3,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4804027403,
+    "score": 0
+  },
+  {
+    "id": "sw:redmondmemorial",
+    "name": "Redmond Memorial",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68118,
+    "lng": -77.35545,
+    "dist": 59.3,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4804027604,
+    "score": 0
+  },
+  {
+    "id": "sw:verteransway",
+    "name": "Verteran's Way",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68077,
+    "lng": -77.35258,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4806236181,
+    "score": 0
+  },
+  {
+    "id": "sw:johnjayscully",
+    "name": "John (Jay) Scully",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.68123,
+    "lng": -77.35291,
+    "dist": 59.2,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4810636550,
+    "score": 0
+  },
+  {
+    "id": "sw:battleofhanover",
+    "name": "Battle of Hanover",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80085,
+    "lng": -76.98313,
+    "dist": 53.8,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 4934646111,
+    "score": 0
+  },
+  {
+    "id": "sw:15thmawardjoslin",
+    "name": "15th MA Ward+ / Joslin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81079,
+    "lng": -77.23611,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244621,
+    "score": 0
+  },
+  {
+    "id": "sw:1stmnmessickfarrell",
+    "name": "1st MN Messick / Farrell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81056,
+    "lng": -77.2361,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244622,
+    "score": 0
+  },
+  {
+    "id": "sw:82ndny2ndnewyorkstat",
+    "name": "82nd NY “2nd New York State Militia” Huston+ / Darrow",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81041,
+    "lng": -77.23606,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244623,
+    "score": 0
+  },
+  {
+    "id": "sw:80thny20thnysmulster",
+    "name": "80th NY “20th NYSM” \"Ulster Guard“ Gates",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8101,
+    "lng": -77.23626,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244624,
+    "score": 0
+  },
+  {
+    "id": "sw:5thusartillerybatter",
+    "name": "5th US Artillery Battery C Weir",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81004,
+    "lng": -77.23597,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244626,
+    "score": 0
+  },
+  {
+    "id": "sw:121stpaalexanderbidd",
+    "name": "121st PA  Alexander Biddle / Chapman Biddle",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81092,
+    "lng": -77.23541,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244628,
+    "score": 0
+  },
+  {
+    "id": "sw:19thmadevereaux",
+    "name": "19th MA Devereaux",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81153,
+    "lng": -77.23538,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244629,
+    "score": 0
+  },
+  {
+    "id": "sw:20thmareveremacywabb",
+    "name": "20th MA Revere+ / Macy(w) / Abbott",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81147,
+    "lng": -77.23612,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244630,
+    "score": 0
+  },
+  {
+    "id": "sw:7thmisteelecurtis",
+    "name": "7th MI Steele+ /  Curtis",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81182,
+    "lng": -77.23617,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244631,
+    "score": 0
+  },
+  {
+    "id": "sw:59thnythomanmcfadden",
+    "name": "59th NY Thoman+ / McFadden",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81208,
+    "lng": -77.23622,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244632,
+    "score": 0
+  },
+  {
+    "id": "sw:69thpaokanetschudydu",
+    "name": "69th PA O’Kane+ / Tschudy+ / Duffy(w) / Davis",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81265,
+    "lng": -77.23626,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689244633,
+    "score": 0
+  },
+  {
+    "id": "sw:72ndpafirezouavebaxt",
+    "name": "72nd PA \"Fire Zouave\" Baxter(w) / Hesser",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81302,
+    "lng": -77.23624,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689247087,
+    "score": 0
+  },
+  {
+    "id": "sw:72ndpaphiladelphiabr",
+    "name": "72nd PA \"Philadelphia Brigade\" Baxter(w) / Hesser",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81292,
+    "lng": -77.23573,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689247088,
+    "score": 0
+  },
+  {
+    "id": "sw:3rdmibpiercewepierce",
+    "name": "3rd MI B. Pierce(w) / E. Pierce",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80023,
+    "lng": -77.24927,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689264812,
+    "score": 0
+  },
+  {
+    "id": "sw:141stpamadill",
+    "name": "141st PA Madill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8011,
+    "lng": -77.24882,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689264813,
+    "score": 0
+  },
+  {
+    "id": "sw:68thpascottlegiontip",
+    "name": "68th PA “Scott Legion” Tippin / Davis",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80149,
+    "lng": -77.24914,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689264816,
+    "score": 0
+  },
+  {
+    "id": "sw:63rdpadanks",
+    "name": "63rd PA Danks",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80185,
+    "lng": -77.25011,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689264817,
+    "score": 0
+  },
+  {
+    "id": "sw:10thnybatteryphilips",
+    "name": "10th NY Battery Philips",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80066,
+    "lng": -77.24711,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689272930,
+    "score": 0
+  },
+  {
+    "id": "sw:5thmabatteryphilips",
+    "name": "5th MA Battery Philips",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80058,
+    "lng": -77.2469,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5689272931,
+    "score": 0
+  },
+  {
+    "id": "sw:10thusclintonw",
+    "name": "10th US Clinton(w)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79495,
+    "lng": -77.24141,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654281,
+    "score": 0
+  },
+  {
+    "id": "sw:11thusfloydjones",
+    "name": "11th US Floyd-Jones",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79478,
+    "lng": -77.24126,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654282,
+    "score": 0
+  },
+  {
+    "id": "sw:12thusdunn",
+    "name": "12th US Dunn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79482,
+    "lng": -77.24099,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654283,
+    "score": 0
+  },
+  {
+    "id": "sw:6thusbootesw",
+    "name": "6th US Bootes(w)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79494,
+    "lng": -77.24086,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654284,
+    "score": 0
+  },
+  {
+    "id": "sw:4thusadams",
+    "name": "4th US Adams",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7952,
+    "lng": -77.24079,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654286,
+    "score": 0
+  },
+  {
+    "id": "sw:3rdusfreedlywlay",
+    "name": "3rd US Freedly(w) / Lay",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79536,
+    "lng": -77.2408,
+    "dist": 60.9,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5691654287,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq3rdcorpsickleswb",
+    "name": "US HQ 3rd Corp Sickles(w) / Birney",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80186,
+    "lng": -77.24298,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 5716180524,
+    "score": 0
+  },
+  {
+    "id": "sw:masondixonlinemonume",
+    "name": "Mason Dixon Line monument",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.71994,
+    "lng": -77.5077,
+    "dist": 67.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6606142685,
+    "score": 0
+  },
+  {
+    "id": "sw:84thpaopp",
+    "name": "84th PA Opp",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80821,
+    "lng": -77.23531,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508231,
+    "score": 0
+  },
+  {
+    "id": "sw:8thpacavalrycorrie",
+    "name": "8th PA Cavalry Corrie",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80851,
+    "lng": -77.23461,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508232,
+    "score": 0
+  },
+  {
+    "id": "sw:4thnycavalrypruyn",
+    "name": "4th NY Cavalry Pruyn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80864,
+    "lng": -77.23459,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508233,
+    "score": 0
+  },
+  {
+    "id": "sw:2thnycavalryharhaus",
+    "name": "2th NY Cavalry Harhaus",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80884,
+    "lng": -77.23456,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508234,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq2ndcorpshancockw",
+    "name": "US HQ 2nd Corps Hancock(w) / Gibbon(w) / Hays",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80841,
+    "lng": -77.23492,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508235,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqcavalrycorpsplea",
+    "name": "US HQ Cavalry Corps Pleasanton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80815,
+    "lng": -77.23491,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508236,
+    "score": 0
+  },
+  {
+    "id": "sw:15thnyengineerscassi",
+    "name": "15th NY Engineers Cassin & 50th NY Engineers Pettes",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80824,
+    "lng": -77.23325,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508237,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqengineerbrigadeb",
+    "name": "US HQ Engineer Brigade Benham",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80819,
+    "lng": -77.23293,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508238,
+    "score": 0
+  },
+  {
+    "id": "sw:usbattalionofenginee",
+    "name": "US Battalion of Engineers Mendell",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80817,
+    "lng": -77.23263,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508239,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq1stcorpsdoubleda",
+    "name": "US HQ 1st Corps Doubleday(w) / Newton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8078,
+    "lng": -77.23163,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508240,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq1stcavalryartill",
+    "name": "US HQ 1st Cavalry Artillery Brigade Robertson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80802,
+    "lng": -77.23113,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508245,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndusartillerybatter",
+    "name": "2nd US Artillery Battery B & L Heaton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.808,
+    "lng": -77.23087,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508246,
+    "score": 0
+  },
+  {
+    "id": "sw:1stohcavalrycoajones",
+    "name": "1st OH Cavalry Co A Jones & Co C Stanford",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8084,
+    "lng": -77.23063,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508248,
+    "score": 0
+  },
+  {
+    "id": "sw:1stwvcavalryrichmond",
+    "name": "1st WV Cavalry Richmond",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80871,
+    "lng": -77.23068,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508249,
+    "score": 0
+  },
+  {
+    "id": "sw:nhsharpshooters1stre",
+    "name": "NH Sharpshooters 1st Reg Berdan / Trepp & 2nd Reg Stoughton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80813,
+    "lng": -77.23621,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508250,
+    "score": 0
+  },
+  {
+    "id": "sw:17stmemerrill",
+    "name": "17st ME Merrill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80794,
+    "lng": -77.23606,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508252,
+    "score": 0
+  },
+  {
+    "id": "sw:9thmiartillerybatter",
+    "name": "9th MI Artillery Battery Daniels",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80781,
+    "lng": -77.23596,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508253,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq1stregularbrigad",
+    "name": "US HQ 1st Regular Brigade Artillery Reserve Ransom",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80769,
+    "lng": -77.23587,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508254,
+    "score": 0
+  },
+  {
+    "id": "sw:4thusartillerybatter",
+    "name": "4th US Artillery Battery C “Thomas’ Battery” Thomas",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80754,
+    "lng": -77.23575,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508255,
+    "score": 0
+  },
+  {
+    "id": "sw:palightartillerybatt",
+    "name": "PA Light Artillery Battery C & F Thompson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8073,
+    "lng": -77.23556,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508256,
+    "score": 0
+  },
+  {
+    "id": "sw:njartillerybatteryah",
+    "name": "NJ Artillery Battery A “Hexamer’s Battery” Parsons",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80755,
+    "lng": -77.23538,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508258,
+    "score": 0
+  },
+  {
+    "id": "sw:hqus133rdbrigadeseco",
+    "name": "HQ US 1-3-3rd Brigade “Second Vermont Brigade” Stannard",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8093,
+    "lng": -77.23642,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508259,
+    "score": 0
+  },
+  {
+    "id": "sw:14thvtnicholls",
+    "name": "14th VT Nicholls",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80883,
+    "lng": -77.23653,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508260,
+    "score": 0
+  },
+  {
+    "id": "sw:16thvtveazey",
+    "name": "16th VT Veazey",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80908,
+    "lng": -77.23651,
+    "dist": 61.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508261,
+    "score": 0
+  },
+  {
+    "id": "sw:124thnytheorangeblos",
+    "name": "124th NY “The Orange Blossoms” van Horne Ellis+ / Cummins",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80868,
+    "lng": -77.23527,
+    "dist": 61.4,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681508262,
+    "score": 0
+  },
+  {
+    "id": "sw:71stpacaliforniaregi",
+    "name": "71st PA “California Regiment” Smith",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81337,
+    "lng": -77.2363,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681533892,
+    "score": 0
+  },
+  {
+    "id": "sw:3rdusartillerybatter",
+    "name": "3rd US Artillery Battery F & K Trunbull",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81425,
+    "lng": -77.23465,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681533902,
+    "score": 0
+  },
+  {
+    "id": "sw:10thnynationalzouave",
+    "name": "10th NY “National Zouaves” Hopper",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81427,
+    "lng": -77.23441,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681533903,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndpacavalryprice",
+    "name": "2nd PA Cavalry Price",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81433,
+    "lng": -77.23366,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681533904,
+    "score": 0
+  },
+  {
+    "id": "sw:1stmasharpshooterspl",
+    "name": "1st MA Sharpshooters Plumer",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81696,
+    "lng": -77.23387,
+    "dist": 61.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681534164,
+    "score": 0
+  },
+  {
+    "id": "sw:8thusinfregread",
+    "name": "8th US Inf Reg Read",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81466,
+    "lng": -77.23259,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681534165,
+    "score": 0
+  },
+  {
+    "id": "sw:oneidanycavalrymann",
+    "name": "Oneida NY Cavalry Mann",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81467,
+    "lng": -77.23235,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681534166,
+    "score": 0
+  },
+  {
+    "id": "sw:6thpacavalryrushslan",
+    "name": "6th PA Cavalry “Rush’s Lancers” Co E & I Haseltine",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81469,
+    "lng": -77.23218,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681534167,
+    "score": 0
+  },
+  {
+    "id": "sw:93rdnybutler",
+    "name": "93rd NY Butler",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81468,
+    "lng": -77.23202,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681534172,
+    "score": 0
+  },
+  {
+    "id": "sw:6thnyartillerybatter",
+    "name": "6th NY Artillery Battery Martin",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81555,
+    "lng": -77.23223,
+    "dist": 61.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632939,
+    "score": 0
+  },
+  {
+    "id": "sw:12thmawebstersregime",
+    "name": "12th MA \"Webster's Regiment\" Bates(w) / Allen",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81721,
+    "lng": -77.23307,
+    "dist": 61.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632947,
+    "score": 0
+  },
+  {
+    "id": "sw:3rdnyartillerybatter",
+    "name": "3rd NY Artillery Battery Harn",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81671,
+    "lng": -77.23217,
+    "dist": 61.8,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632952,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqgeneralgeorgemea",
+    "name": "US HQ General George Meade",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.81449,
+    "lng": -77.23234,
+    "dist": 61.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632961,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqartilleryreserve",
+    "name": "US HQ Artillery Reserve Tyler",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8077,
+    "lng": -77.23054,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632962,
+    "score": 0
+  },
+  {
+    "id": "sw:88thpafoustwmasscwhi",
+    "name": "88th PA Foust(w) / Mass(c) / Whiteside July 2nd 1863 pos marker",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80652,
+    "lng": -77.23501,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632979,
+    "score": 0
+  },
+  {
+    "id": "sw:90thpalylesellers",
+    "name": "90th PA Lyle / Sellers",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80631,
+    "lng": -77.23497,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632980,
+    "score": 0
+  },
+  {
+    "id": "sw:1stpalightartilleryb",
+    "name": "1st PA Light Artillery Battery B “Cooper’s Battery” Cooper",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80616,
+    "lng": -77.23496,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632981,
+    "score": 0
+  },
+  {
+    "id": "sw:5thmaartillerybatter",
+    "name": "5th MA Artillery Battery Philips",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80575,
+    "lng": -77.23491,
+    "dist": 61.3,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632982,
+    "score": 0
+  },
+  {
+    "id": "sw:148thpamckeenmcfarla",
+    "name": "148th PA McKeen / McFarlane",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80549,
+    "lng": -77.23488,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632983,
+    "score": 0
+  },
+  {
+    "id": "sw:15thnylightartillery",
+    "name": "15th NY Light Artillery Battery Hart(w) / Knox(w)",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80524,
+    "lng": -77.23484,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681632984,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndnjartilleryclarks",
+    "name": "2nd NJ Artillery “Clark’s Battery” Clark",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80427,
+    "lng": -77.23472,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645885,
+    "score": 0
+  },
+  {
+    "id": "sw:ushqartilleryreserve",
+    "name": "US HQ Artillery Reserve 1st Brigade McGilvery",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80402,
+    "lng": -77.23468,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645886,
+    "score": 0
+  },
+  {
+    "id": "sw:2ndctartillerysterli",
+    "name": "2nd CT Artillery “Sterling’s Battery” Sterling",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80377,
+    "lng": -77.23465,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645887,
+    "score": 0
+  },
+  {
+    "id": "sw:6thmeartillerydowsba",
+    "name": "6th ME Artillery “Dow’s Battery” Dow",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.8033,
+    "lng": -77.23459,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645888,
+    "score": 0
+  },
+  {
+    "id": "sw:1stnyartillerybatter",
+    "name": "1st NY Artillery Battery G “Ames’ Battery” Ames",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80287,
+    "lng": -77.23454,
+    "dist": 61.1,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645889,
+    "score": 0
+  },
+  {
+    "id": "sw:4thpacavalrydoster",
+    "name": "4th PA Cavalry Doster",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80476,
+    "lng": -77.2345,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645890,
+    "score": 0
+  },
+  {
+    "id": "sw:uscavalrycorps3rdpah",
+    "name": "US Cavalry Corps 3rd PA Heavy Artillery Battery H Rank",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80474,
+    "lng": -77.23478,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645891,
+    "score": 0
+  },
+  {
+    "id": "sw:revwilliamcorby",
+    "name": "Rev. William Corby",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80345,
+    "lng": -77.23433,
+    "dist": 61.1,
+    "description": "Historic: memorial",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645902,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq12nddivisionrobi",
+    "name": "US HQ 1-2nd Division Robinson",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.80546,
+    "lng": -77.23458,
+    "dist": 61.2,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681645903,
+    "score": 0
+  },
+  {
+    "id": "sw:20thmechamberlain",
+    "name": "20th ME Chamberlain",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.78945,
+    "lng": -77.23614,
+    "dist": 60.4,
+    "description": "The main monument is on the southeast side of Little Round Top. This marks the center of the line the regiment held during its famous defense of Little Round Top on July 2nd. It was dedicated in 1886 by the State of Maine. · Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681686179,
+    "score": 0
+  },
+  {
+    "id": "sw:20thmecobmorrill",
+    "name": "20th ME Co B Morrill",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.78912,
+    "lng": -77.23601,
+    "dist": 60.4,
+    "description": "A marker showing the position of the 20th Maine Regiment’s Company B during the defense of Little Round Top is 100 yards to the east of the main monument. Captain Morrill and about 40 men of Company B joined by a group of United States Sharpshooters were  · Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736206,
+    "score": 0
+  },
+  {
+    "id": "sw:9thpareserves38thpai",
+    "name": "9th PA Reserves \"38th PA Infantry Reg\" Snodgrass",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.78976,
+    "lng": -77.23696,
+    "dist": 60.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736207,
+    "score": 0
+  },
+  {
+    "id": "sw:ushq513rdbrigadestro",
+    "name": "US HQ 5-1-3rd Brigade Strong Vincent+ / Rice",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79093,
+    "lng": -77.23668,
+    "dist": 60.5,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736209,
+    "score": 0
+  },
+  {
+    "id": "sw:16thmiwelch",
+    "name": "16th MI Welch",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.7912,
+    "lng": -77.23768,
+    "dist": 60.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736221,
+    "score": 0
+  },
+  {
+    "id": "sw:1stand2ndusregmishar",
+    "name": "1st and 2nd US Reg MI Sharpshooters Berdan / Stoughton",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79133,
+    "lng": -77.23816,
+    "dist": 60.6,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736222,
+    "score": 0
+  },
+  {
+    "id": "sw:40thnymozartregegan",
+    "name": "40th NY “Mozart Reg” Egan",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79243,
+    "lng": -77.2404,
+    "dist": 60.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736224,
+    "score": 0
+  },
+  {
+    "id": "sw:4thmewalkerwwhitcomb",
+    "name": "4th ME Walker(w) / Whitcomb+ / Libby",
+    "type": "weird",
+    "tags": [
+      "weird",
+      "historic"
+    ],
+    "lat": 39.79191,
+    "lng": -77.24143,
+    "dist": 60.7,
+    "description": "Historic: monument",
+    "zone": "Gettysburg & Adams County",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 6681736225,
+    "score": 0
+  },
+  {
+    "id": "sw:bowbeach",
+    "name": "Bow Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 37.94679,
+    "lng": -75.31353,
+    "dist": 103.6,
+    "description": "Elevation: 1m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356560393,
+    "score": 0
+  },
+  {
+    "id": "sw:wallopsbeach",
+    "name": "Wallops Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 37.85264,
+    "lng": -75.46724,
+    "dist": 103.9,
+    "description": "Elevation: 1m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356567103,
+    "score": 0
+  },
+  {
+    "id": "sw:cherrytreehill",
+    "name": "Cherrytree Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 37.98707,
+    "lng": -75.29964,
+    "dist": 102.0,
+    "description": "Elevation: 1m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 356581796,
+    "score": 0
+  },
+  {
+    "id": "sw:littleeggingbeach",
+    "name": "Little Egging Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.20317,
+    "lng": -75.16741,
+    "dist": 96.5,
+    "description": "Elevation: 0m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239196,
+    "score": 0
+  },
+  {
+    "id": "sw:soundshore",
+    "name": "Sound Shore",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 37.97401,
+    "lng": -75.70576,
+    "dist": 90.0,
+    "description": "Elevation: 1m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358240514,
+    "score": 0
+  },
+  {
+    "id": "sw:backbonehill",
+    "name": "Backbone Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 38.26068,
+    "lng": -75.62326,
+    "dist": 76.2,
+    "description": "Elevation: 12m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241454,
+    "score": 0
+  },
+  {
+    "id": "sw:waterfrontpark",
+    "name": "Waterfront Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 37.93467,
+    "lng": -75.37693,
+    "dist": 102.2,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 168650540,
+    "score": 0
+  },
+  {
+    "id": "sw:bayclubtrailsystem",
+    "name": "Bay Club Trail System",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.32909,
+    "lng": -75.25355,
+    "dist": 87.3,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 298141751,
+    "score": 0
+  },
+  {
+    "id": "sw:donaldjleonardpark",
+    "name": "Donald J. Leonard Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 37.94301,
+    "lng": -75.36531,
+    "dist": 102.1,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 544425744,
+    "score": 0
+  },
+  {
+    "id": "sw:makemiemonumentpark",
+    "name": "Makemie Monument Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 37.93278,
+    "lng": -75.63491,
+    "dist": 94.4,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 550979677,
+    "score": 0
+  },
+  {
+    "id": "sw:byrdpark",
+    "name": "Byrd Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.17406,
+    "lng": -75.40125,
+    "dist": 88.7,
+    "description": "Elevation: 1m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 553131224,
+    "score": 0
+  },
+  {
+    "id": "sw:sturgispark",
+    "name": "Sturgis Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.17811,
+    "lng": -75.39581,
+    "dist": 88.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 555982634,
+    "score": 0
+  },
+  {
+    "id": "sw:schumakerpark",
+    "name": "Schumaker Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.3483,
+    "lng": -75.56625,
+    "dist": 73.8,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589360602,
+    "score": 0
+  },
+  {
+    "id": "sw:fruitlandrecreationa",
+    "name": "Fruitland Recreational Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.3151,
+    "lng": -75.61917,
+    "dist": 73.5,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 589544751,
+    "score": 0
+  },
+  {
+    "id": "sw:newarkneighbourhoodp",
+    "name": "Newark Neighbourhood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.24873,
+    "lng": -75.29294,
+    "dist": 89.3,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 616115573,
+    "score": 0
+  },
+  {
+    "id": "sw:douglasnicholspark",
+    "name": "Douglas Nichols Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.28331,
+    "lng": -75.68993,
+    "dist": 72.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 616682996,
+    "score": 0
+  },
+  {
+    "id": "sw:fruitlandrecreationa",
+    "name": "Fruitland Recreational Park Annex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.31228,
+    "lng": -75.61811,
+    "dist": 73.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647911092,
+    "score": 0
+  },
+  {
+    "id": "sw:upperhillpark",
+    "name": "Upper Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.10473,
+    "lng": -75.78735,
+    "dist": 79.9,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647937041,
+    "score": 0
+  },
+  {
+    "id": "sw:newtownpark",
+    "name": "Newtown Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.06663,
+    "lng": -75.5404,
+    "dist": 89.5,
+    "description": "Elevation: 6m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647943389,
+    "score": 0
+  },
+  {
+    "id": "sw:girdletreepark",
+    "name": "Girdletree Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.09507,
+    "lng": -75.39629,
+    "dist": 92.9,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 647966159,
+    "score": 0
+  },
+  {
+    "id": "sw:manokinpark",
+    "name": "Manokin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.20523,
+    "lng": -75.69615,
+    "dist": 76.8,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 747038598,
+    "score": 0
+  },
+  {
+    "id": "sw:greateggingbeach",
+    "name": "Great Egging Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 38.20086,
+    "lng": -75.17849,
+    "dist": 96.1,
+    "description": "Elevation: 0m",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 874153859,
+    "score": 0
+  },
+  {
+    "id": "sw:marinerspoint",
+    "name": "Mariner's Point",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 37.90126,
+    "lng": -75.40735,
+    "dist": 103.0,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 913996030,
+    "score": 0
+  },
+  {
+    "id": "sw:raccoonpointpark",
+    "name": "Raccoon Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.14075,
+    "lng": -75.78624,
+    "dist": 77.8,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1072990829,
+    "score": 0
+  },
+  {
+    "id": "sw:milburnlandingarea",
+    "name": "Milburn Landing Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.1282,
+    "lng": -75.49391,
+    "dist": 87.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234068,
+    "score": 0
+  },
+  {
+    "id": "sw:assateaguestatepark",
+    "name": "Assateague State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.23639,
+    "lng": -75.1509,
+    "dist": 95.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234480,
+    "score": 0
+  },
+  {
+    "id": "sw:golfcoursearea",
+    "name": "Golf Course Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.146,
+    "lng": -75.46891,
+    "dist": 87.7,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12390156,
+    "score": 0
+  },
+  {
+    "id": "sw:shadlandingarea",
+    "name": "Shad Landing Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 38.13895,
+    "lng": -75.43963,
+    "dist": 89.1,
+    "description": "",
+    "zone": "Assateague & Lower Shore",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12390157,
+    "score": 0
+  },
+  {
+    "id": "sw:goathill",
+    "name": "Goat Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.72339,
+    "lng": -76.08854,
+    "dist": 49.0,
+    "description": "Elevation: 135m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 357287595,
+    "score": 0
+  },
+  {
+    "id": "sw:grayshill",
+    "name": "Grays Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61317,
+    "lng": -75.79799,
+    "dist": 52.8,
+    "description": "Elevation: 80m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358238898,
+    "score": 0
+  },
+  {
+    "id": "sw:hoghill",
+    "name": "Hog Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59261,
+    "lng": -75.91161,
+    "dist": 47.4,
+    "description": "Elevation: 72m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358239014,
+    "score": 0
+  },
+  {
+    "id": "sw:mountararat",
+    "name": "Mount Ararat",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59622,
+    "lng": -76.08606,
+    "dist": 41.6,
+    "description": "Elevation: 134m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241018,
+    "score": 0
+  },
+  {
+    "id": "sw:cromleysmountain",
+    "name": "Cromleys Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.67427,
+    "lng": -76.1744,
+    "dist": 43.8,
+    "description": "Elevation: 100m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241221,
+    "score": 0
+  },
+  {
+    "id": "sw:roachsshore",
+    "name": "Roachs Shore",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.54271,
+    "lng": -75.96941,
+    "dist": 42.8,
+    "description": "Elevation: 0m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241369,
+    "score": 0
+  },
+  {
+    "id": "sw:baconhill",
+    "name": "Bacon Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.60206,
+    "lng": -75.9155,
+    "dist": 47.7,
+    "description": "Elevation: 61m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241455,
+    "score": 0
+  },
+  {
+    "id": "sw:baldfriar",
+    "name": "Bald Friar",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.70566,
+    "lng": -76.21273,
+    "dist": 45.0,
+    "description": "Elevation: 116m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241457,
+    "score": 0
+  },
+  {
+    "id": "sw:boothbyhill",
+    "name": "Boothby Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.48206,
+    "lng": -76.16301,
+    "dist": 32.8,
+    "description": "Elevation: 19m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241476,
+    "score": 0
+  },
+  {
+    "id": "sw:bullmountain",
+    "name": "Bull Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.50722,
+    "lng": -75.97537,
+    "dist": 40.8,
+    "description": "Elevation: 85m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241486,
+    "score": 0
+  },
+  {
+    "id": "sw:egghill",
+    "name": "Egg Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.65955,
+    "lng": -75.89882,
+    "dist": 51.2,
+    "description": "Elevation: 125m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241513,
+    "score": 0
+  },
+  {
+    "id": "sw:foyshill",
+    "name": "Foys Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.59345,
+    "lng": -76.00439,
+    "dist": 44.1,
+    "description": "Elevation: 92m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241529,
+    "score": 0
+  },
+  {
+    "id": "sw:mauldinmountain",
+    "name": "Mauldin Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.48734,
+    "lng": -75.99022,
+    "dist": 39.3,
+    "description": "Elevation: 80m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241572,
+    "score": 0
+  },
+  {
+    "id": "sw:mountainhill",
+    "name": "Mountain Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.62094,
+    "lng": -76.23246,
+    "dist": 39.2,
+    "description": "Elevation: 59m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241581,
+    "score": 0
+  },
+  {
+    "id": "sw:rhodesmountain",
+    "name": "Rhodes Mountain",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.56198,
+    "lng": -75.92949,
+    "dist": 45.2,
+    "description": "Elevation: 80m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241610,
+    "score": 0
+  },
+  {
+    "id": "sw:sugarhill",
+    "name": "Sugar Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.62344,
+    "lng": -76.24384,
+    "dist": 39.1,
+    "description": "Elevation: 90m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358241638,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarhill",
+    "name": "Cedar Hill",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.61344,
+    "lng": -76.23468,
+    "dist": 38.7,
+    "description": "Elevation: 82m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248111,
+    "score": 0
+  },
+  {
+    "id": "sw:mountfelix",
+    "name": "Mount Felix",
+    "type": "hike",
+    "tags": [
+      "hiking",
+      "scenic",
+      "nature"
+    ],
+    "lat": 39.57067,
+    "lng": -76.13051,
+    "dist": 38.8,
+    "description": "Elevation: 142m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 358248122,
+    "score": 0
+  },
+  {
+    "id": "sw:petebondscenicoverlo",
+    "name": "Pete Bond Scenic Overlook",
+    "type": "viewpoint",
+    "tags": [
+      "viewpoint",
+      "scenic"
+    ],
+    "lat": 39.58262,
+    "lng": -75.91683,
+    "dist": 46.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "node",
+    "osmId": 1668185443,
+    "score": 0
+  },
+  {
+    "id": "sw:melodymeadowspark",
+    "name": "Melody Meadows Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5931,
+    "lng": -75.75543,
+    "dist": 53.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 42785082,
+    "score": 0
+  },
+  {
+    "id": "sw:belcamppark",
+    "name": "Belcamp Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47136,
+    "lng": -76.2369,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 89186942,
+    "score": 0
+  },
+  {
+    "id": "sw:mclhinneypark",
+    "name": "McLhinney Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55689,
+    "lng": -76.09485,
+    "dist": 39.1,
+    "description": "Elevation: 4m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 120162685,
+    "score": 0
+  },
+  {
+    "id": "sw:davidrcraigpark",
+    "name": "David R. Craig Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55256,
+    "lng": -76.09092,
+    "dist": 39.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 120298380,
+    "score": 0
+  },
+  {
+    "id": "sw:emilybaylessgrahampa",
+    "name": "Emily Bayless Graham Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest"
+    ],
+    "lat": 39.48955,
+    "lng": -76.32156,
+    "dist": 29.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 132021849,
+    "score": 0
+  },
+  {
+    "id": "sw:marylandcenterforthe",
+    "name": "Maryland Center for the Arts",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature",
+      "forest"
+    ],
+    "lat": 39.4886,
+    "lng": -76.32585,
+    "dist": 28.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 132021850,
+    "score": 0
+  },
+  {
+    "id": "sw:prospectmillpark",
+    "name": "Prospect Mill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56291,
+    "lng": -76.30884,
+    "dist": 33.9,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 155752700,
+    "score": 0
+  },
+  {
+    "id": "sw:fairhillnaturalresou",
+    "name": "Fair Hill Natural Resource Management Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65901,
+    "lng": -75.82282,
+    "dist": 54.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 218150657,
+    "score": 0
+  },
+  {
+    "id": "sw:pleasanthillfiretowe",
+    "name": "Pleasant Hill Fire Tower",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65978,
+    "lng": -75.89886,
+    "dist": 51.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 218154000,
+    "score": 0
+  },
+  {
+    "id": "sw:thepellgardens",
+    "name": "The Pell Gardens",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52721,
+    "lng": -75.81162,
+    "dist": 48.4,
+    "description": "Elevation: 4m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 238913990,
+    "score": 0
+  },
+  {
+    "id": "sw:garrettislandbeach",
+    "name": "Garrett Island Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.56518,
+    "lng": -76.08327,
+    "dist": 40.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 243815275,
+    "score": 0
+  },
+  {
+    "id": "sw:nottinghamcountypark",
+    "name": "Nottingham County Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.73434,
+    "lng": -76.03961,
+    "dist": 50.9,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 248097288,
+    "score": 0
+  },
+  {
+    "id": "sw:aberdeenfestivalpark",
+    "name": "Aberdeen Festival Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51142,
+    "lng": -76.16386,
+    "dist": 34.4,
+    "description": "Elevation: 29m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 249660531,
+    "score": 0
+  },
+  {
+    "id": "sw:portdepositmarinapar",
+    "name": "Port Deposit Marina Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.59876,
+    "lng": -76.10979,
+    "dist": 41.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 257916607,
+    "score": 0
+  },
+  {
+    "id": "sw:northeastbeacharea",
+    "name": "North East Beach Area",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.49341,
+    "lng": -75.98938,
+    "dist": 39.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 286307254,
+    "score": 0
+  },
+  {
+    "id": "sw:bynumrunpark",
+    "name": "Bynum Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54053,
+    "lng": -76.33072,
+    "dist": 32.1,
+    "description": "Elevation: 84m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 291460215,
+    "score": 0
+  },
+  {
+    "id": "sw:ironhillpark",
+    "name": "Iron Hill Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63831,
+    "lng": -75.75417,
+    "dist": 55.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 363232707,
+    "score": 0
+  },
+  {
+    "id": "sw:belcampbeach",
+    "name": "Belcamp Beach",
+    "type": "water",
+    "tags": [
+      "water",
+      "scenic"
+    ],
+    "lat": 39.4656,
+    "lng": -76.23503,
+    "dist": 29.7,
+    "description": "Elevation: 3m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 395119062,
+    "score": 0
+  },
+  {
+    "id": "sw:blakesventurepark",
+    "name": "Blake's Venture Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5683,
+    "lng": -76.36844,
+    "dist": 33.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 450926439,
+    "score": 0
+  },
+  {
+    "id": "sw:castlepark",
+    "name": "Castle Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55812,
+    "lng": -75.7449,
+    "dist": 52.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 466201007,
+    "score": 0
+  },
+  {
+    "id": "sw:lumspondstatepark",
+    "name": "Lums Pond State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56085,
+    "lng": -75.71797,
+    "dist": 53.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469420916,
+    "score": 0
+  },
+  {
+    "id": "sw:mansionfarmcommunity",
+    "name": "Mansion Farm Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.58081,
+    "lng": -75.73404,
+    "dist": 54.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 469421170,
+    "score": 0
+  },
+  {
+    "id": "sw:veteranspark",
+    "name": "Veterans Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54411,
+    "lng": -76.08588,
+    "dist": 38.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 478667375,
+    "score": 0
+  },
+  {
+    "id": "sw:havredegracereccente",
+    "name": "Havre de Grace Rec Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54516,
+    "lng": -76.10363,
+    "dist": 38.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 478668549,
+    "score": 0
+  },
+  {
+    "id": "sw:chapelroadpark",
+    "name": "Chapel Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55764,
+    "lng": -76.1484,
+    "dist": 37.5,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 478668832,
+    "score": 0
+  },
+  {
+    "id": "sw:boxhillsouthpark",
+    "name": "Box Hill South Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47006,
+    "lng": -76.29978,
+    "dist": 28.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 519177964,
+    "score": 0
+  },
+  {
+    "id": "sw:flyingpointpark",
+    "name": "Flying Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.44172,
+    "lng": -76.25808,
+    "dist": 27.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 519179366,
+    "score": 0
+  },
+  {
+    "id": "sw:cedarlaneregionalpar",
+    "name": "Cedar Lane Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50493,
+    "lng": -76.27445,
+    "dist": 31.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 519202593,
+    "score": 0
+  },
+  {
+    "id": "sw:mountainroadpark",
+    "name": "Mountain Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.46549,
+    "lng": -76.36596,
+    "dist": 26.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 531850592,
+    "score": 0
+  },
+  {
+    "id": "sw:emmortonelementarypa",
+    "name": "Emmorton Elementary Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.48863,
+    "lng": -76.3291,
+    "dist": 28.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 531850858,
+    "score": 0
+  },
+  {
+    "id": "sw:woodbridgepark",
+    "name": "Woodbridge Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.42836,
+    "lng": -76.32867,
+    "dist": 25.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 531858344,
+    "score": 0
+  },
+  {
+    "id": "sw:schucksregionalpark",
+    "name": "Schucks Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54899,
+    "lng": -76.28149,
+    "dist": 33.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 531859439,
+    "score": 0
+  },
+  {
+    "id": "sw:homesteadpark",
+    "name": "Homestead Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53017,
+    "lng": -76.33107,
+    "dist": 31.4,
+    "description": "Elevation: 103m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 532452235,
+    "score": 0
+  },
+  {
+    "id": "sw:perrymanpark",
+    "name": "Perryman Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47453,
+    "lng": -76.21661,
+    "dist": 30.7,
+    "description": "Elevation: 9m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 532455982,
+    "score": 0
+  },
+  {
+    "id": "sw:hollywoodspark",
+    "name": "Holly Woods Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.49091,
+    "lng": -76.21454,
+    "dist": 31.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 532456557,
+    "score": 0
+  },
+  {
+    "id": "sw:plumtreepark",
+    "name": "Plumtree Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53209,
+    "lng": -76.35323,
+    "dist": 31.1,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546388243,
+    "score": 0
+  },
+  {
+    "id": "sw:aliceannepark",
+    "name": "Alice Anne Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53587,
+    "lng": -76.35296,
+    "dist": 31.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546388245,
+    "score": 0
+  },
+  {
+    "id": "sw:rockfieldpark",
+    "name": "Rockfield Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53665,
+    "lng": -76.33836,
+    "dist": 31.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546394214,
+    "score": 0
+  },
+  {
+    "id": "sw:colonialacrescommuni",
+    "name": "Colonial Acres Community Association Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52054,
+    "lng": -76.32894,
+    "dist": 30.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546407278,
+    "score": 0
+  },
+  {
+    "id": "sw:alicewilliamlongleyp",
+    "name": "Alice & William Longley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45553,
+    "lng": -76.25052,
+    "dist": 28.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546430665,
+    "score": 0
+  },
+  {
+    "id": "sw:abingdonroadpark",
+    "name": "Abingdon Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.47074,
+    "lng": -76.28438,
+    "dist": 28.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546711396,
+    "score": 0
+  },
+  {
+    "id": "sw:majorschoicepark",
+    "name": "Majors Choice Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54234,
+    "lng": -76.34126,
+    "dist": 32.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 546952169,
+    "score": 0
+  },
+  {
+    "id": "sw:concordpointpark",
+    "name": "Concord Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54051,
+    "lng": -76.08469,
+    "dist": 38.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548372394,
+    "score": 0
+  },
+  {
+    "id": "sw:aquilascottpark",
+    "name": "Aquila Scott Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5378,
+    "lng": -76.32871,
+    "dist": 31.9,
+    "description": "Elevation: 87m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548496795,
+    "score": 0
+  },
+  {
+    "id": "sw:victorystreetpark",
+    "name": "Victory Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50023,
+    "lng": -76.16069,
+    "dist": 33.9,
+    "description": "Elevation: 21m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548639982,
+    "score": 0
+  },
+  {
+    "id": "sw:swanmeadowspark",
+    "name": "Swan Meadows Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50511,
+    "lng": -76.15611,
+    "dist": 34.3,
+    "description": "Elevation: 23m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548640894,
+    "score": 0
+  },
+  {
+    "id": "sw:northdeenpark",
+    "name": "North Deen Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51502,
+    "lng": -76.15492,
+    "dist": 34.9,
+    "description": "Elevation: 20m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 548641342,
+    "score": 0
+  },
+  {
+    "id": "sw:elktontowncenter",
+    "name": "Elkton Town Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60796,
+    "lng": -75.8297,
+    "dist": 51.3,
+    "description": "Several benches and signs about the history of Elkton",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 554981495,
+    "score": 0
+  },
+  {
+    "id": "sw:harfordglen",
+    "name": "Harford Glen",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.48595,
+    "lng": -76.34839,
+    "dist": 28.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 584069407,
+    "score": 0
+  },
+  {
+    "id": "sw:platerstreetpark",
+    "name": "Plater Street Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.51252,
+    "lng": -76.18074,
+    "dist": 34.0,
+    "description": "Elevation: 39m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592844916,
+    "score": 0
+  },
+  {
+    "id": "sw:hickorypark",
+    "name": "Hickory Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.59054,
+    "lng": -76.34796,
+    "dist": 35.1,
+    "description": "Elevation: 135m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592847337,
+    "score": 0
+  },
+  {
+    "id": "sw:francissilverpark",
+    "name": "Francis Silver Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63972,
+    "lng": -76.19941,
+    "dist": 41.1,
+    "description": "Elevation: 88m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592868846,
+    "score": 0
+  },
+  {
+    "id": "sw:emmarockeypark",
+    "name": "Emma Rockey Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65237,
+    "lng": -76.2423,
+    "dist": 41.0,
+    "description": "Elevation: 109m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592870194,
+    "score": 0
+  },
+  {
+    "id": "sw:dublindellpark",
+    "name": "Dublin Dell Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65328,
+    "lng": -76.27105,
+    "dist": 40.5,
+    "description": "Elevation: 128m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592871541,
+    "score": 0
+  },
+  {
+    "id": "sw:scarborohills",
+    "name": "Scarboro Hills",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63528,
+    "lng": -76.29385,
+    "dist": 38.9,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592895554,
+    "score": 0
+  },
+  {
+    "id": "sw:darlingtonpark",
+    "name": "Darlington Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.64702,
+    "lng": -76.20994,
+    "dist": 41.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 592897847,
+    "score": 0
+  },
+  {
+    "id": "sw:cecilcommunitycenter",
+    "name": "Cecil Community Center Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.68961,
+    "lng": -76.03894,
+    "dist": 48.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593979777,
+    "score": 0
+  },
+  {
+    "id": "sw:conowingopark",
+    "name": "Conowingo Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65636,
+    "lng": -76.15604,
+    "dist": 43.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593986130,
+    "score": 0
+  },
+  {
+    "id": "sw:cheslandpark",
+    "name": "Chesland Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5541,
+    "lng": -75.82015,
+    "dist": 49.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593992571,
+    "score": 0
+  },
+  {
+    "id": "sw:elkmillscommunitypar",
+    "name": "Elk Mills Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.66301,
+    "lng": -75.83154,
+    "dist": 53.9,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593995207,
+    "score": 0
+  },
+  {
+    "id": "sw:harborviewcommunityp",
+    "name": "Harbor View Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50953,
+    "lng": -75.87434,
+    "dist": 45.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 593997102,
+    "score": 0
+  },
+  {
+    "id": "sw:diddierichardsonpark",
+    "name": "Diddie Richardson Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.69915,
+    "lng": -76.05586,
+    "dist": 48.4,
+    "description": "Elevation: 107m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 594036130,
+    "score": 0
+  },
+  {
+    "id": "sw:veteranscommunitypar",
+    "name": "Veterans Community Park of Rising Sun",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.69522,
+    "lng": -76.06409,
+    "dist": 48.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 594044022,
+    "score": 0
+  },
+  {
+    "id": "sw:meadoweastpark",
+    "name": "Meadow East Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60775,
+    "lng": -75.81869,
+    "dist": 51.7,
+    "description": "Elevation: 3m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 594321060,
+    "score": 0
+  },
+  {
+    "id": "sw:millbrookdgc",
+    "name": "Mill Brook DGC",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55821,
+    "lng": -76.23442,
+    "dist": 35.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 610181049,
+    "score": 0
+  },
+  {
+    "id": "sw:dublinpark",
+    "name": "Dublin Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.63145,
+    "lng": -76.26958,
+    "dist": 39.1,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 614154022,
+    "score": 0
+  },
+  {
+    "id": "sw:swanharborfarm",
+    "name": "Swan Harbor Farm",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52388,
+    "lng": -76.11782,
+    "dist": 36.6,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 643613279,
+    "score": 0
+  },
+  {
+    "id": "sw:howardspondrecreatio",
+    "name": "Howard's Pond Recreation Area",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.61041,
+    "lng": -75.81836,
+    "dist": 51.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 646992362,
+    "score": 0
+  },
+  {
+    "id": "sw:hatcherypark",
+    "name": "Hatchery Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.6079,
+    "lng": -75.81127,
+    "dist": 52.0,
+    "description": "Elevation: 5m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 646992364,
+    "score": 0
+  },
+  {
+    "id": "sw:chesapeakecitypark",
+    "name": "Chesapeake City Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52333,
+    "lng": -75.82028,
+    "dist": 47.9,
+    "description": "Elevation: 9m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 648953118,
+    "score": 0
+  },
+  {
+    "id": "sw:fletchwoodcommunityp",
+    "name": "Fletchwood Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.65692,
+    "lng": -75.79797,
+    "dist": 54.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 648967292,
+    "score": 0
+  },
+  {
+    "id": "sw:frederickwardpark",
+    "name": "Frederick Ward Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53756,
+    "lng": -76.35002,
+    "dist": 31.5,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 666588386,
+    "score": 0
+  },
+  {
+    "id": "sw:charlestownathleticc",
+    "name": "Charlestown Athletic Complex",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.57554,
+    "lng": -75.97886,
+    "dist": 44.1,
+    "description": "Elevation: 13m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 679376869,
+    "score": 0
+  },
+  {
+    "id": "sw:fairgreenpark",
+    "name": "Fair Green Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.57306,
+    "lng": -75.97629,
+    "dist": 44.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 679378561,
+    "score": 0
+  },
+  {
+    "id": "sw:governorbradfordpark",
+    "name": "Governor Bradford Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53517,
+    "lng": -76.34781,
+    "dist": 31.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 683622293,
+    "score": 0
+  },
+  {
+    "id": "sw:edgewoodrecreationpa",
+    "name": "Edgewood Recreation Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41747,
+    "lng": -76.31746,
+    "dist": 24.6,
+    "description": "Elevation: 25m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 694275708,
+    "score": 0
+  },
+  {
+    "id": "sw:ferrysliproadpark",
+    "name": "Ferryslip Road Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52616,
+    "lng": -75.81216,
+    "dist": 48.4,
+    "description": "Elevation: 4m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 752821925,
+    "score": 0
+  },
+  {
+    "id": "sw:aberdeenfamilyswimce",
+    "name": "Aberdeen Family Swim Center",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53629,
+    "lng": -76.16492,
+    "dist": 35.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 766802608,
+    "score": 0
+  },
+  {
+    "id": "sw:marshallekrohpark",
+    "name": "Marshall E. Kroh Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5084,
+    "lng": -76.3308,
+    "dist": 30.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 769777740,
+    "score": 0
+  },
+  {
+    "id": "sw:rockrunparkboatlaunc",
+    "name": "Rock Run Park & Boat Launch",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.61319,
+    "lng": -76.12608,
+    "dist": 41.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 819657000,
+    "score": 0
+  },
+  {
+    "id": "sw:oldfieldspark",
+    "name": "Old Fields Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.5375,
+    "lng": -76.35268,
+    "dist": 31.5,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 863263433,
+    "score": 0
+  },
+  {
+    "id": "sw:marinerspark",
+    "name": "Mariners Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60461,
+    "lng": -75.83219,
+    "dist": 51.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 935168968,
+    "score": 0
+  },
+  {
+    "id": "sw:brantwoodpark",
+    "name": "Brantwood Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56731,
+    "lng": -75.80571,
+    "dist": 50.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1089571900,
+    "score": 0
+  },
+  {
+    "id": "sw:roundhousepark",
+    "name": "Roundhouse Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.55822,
+    "lng": -76.07767,
+    "dist": 39.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1323495259,
+    "score": 0
+  },
+  {
+    "id": "sw:icehousepark",
+    "name": "Ice House Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.56608,
+    "lng": -76.07953,
+    "dist": 40.1,
+    "description": "Local Park and Free Fishing Area",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1323495260,
+    "score": 0
+  },
+  {
+    "id": "sw:mildredkellypark",
+    "name": "Mildred Kelly Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.41552,
+    "lng": -76.29854,
+    "dist": 25.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1413958099,
+    "score": 0
+  },
+  {
+    "id": "sw:ederpark",
+    "name": "Eder Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60563,
+    "lng": -75.82714,
+    "dist": 51.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1425230480,
+    "score": 0
+  },
+  {
+    "id": "sw:communityconnectingu",
+    "name": "Community Connecting Us Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60806,
+    "lng": -76.11868,
+    "dist": 41.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "way",
+    "osmId": 1446375516,
+    "score": 0
+  },
+  {
+    "id": "sw:palmerstatepark",
+    "name": "Palmer State Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.61515,
+    "lng": -76.28374,
+    "dist": 37.8,
+    "description": "Hours: sunrise-sunset",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 4234072,
+    "score": 0
+  },
+  {
+    "id": "sw:leightpark",
+    "name": "Leight Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.45135,
+    "lng": -76.27186,
+    "dist": 27.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8252555,
+    "score": 0
+  },
+  {
+    "id": "sw:toddpark",
+    "name": "Todd Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53839,
+    "lng": -76.10192,
+    "dist": 37.9,
+    "description": "Elevation: 14m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8252559,
+    "score": 0
+  },
+  {
+    "id": "sw:batteryvillagebradfo",
+    "name": "Battery Village / Bradford Green",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54187,
+    "lng": -76.10631,
+    "dist": 37.9,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8345561,
+    "score": 0
+  },
+  {
+    "id": "sw:robertcopenhaverpark",
+    "name": "Robert Copenhaver Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.40936,
+    "lng": -76.34259,
+    "dist": 23.5,
+    "description": "Elevation: 5m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8347575,
+    "score": 0
+  },
+  {
+    "id": "sw:edgewatervillagepark",
+    "name": "Edgewater Village Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.43025,
+    "lng": -76.3129,
+    "dist": 25.5,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8462323,
+    "score": 0
+  },
+  {
+    "id": "sw:calvertregionalpark",
+    "name": "Calvert Regional Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.6988,
+    "lng": -75.97414,
+    "dist": 50.8,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8507343,
+    "score": 0
+  },
+  {
+    "id": "sw:eleanorandmillardtyd",
+    "name": "Eleanor and Millard Tydings Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.50091,
+    "lng": -76.12008,
+    "dist": 35.2,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 8920893,
+    "score": 0
+  },
+  {
+    "id": "sw:stoneyrunpark",
+    "name": "Stoney Run Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.59749,
+    "lng": -75.95496,
+    "dist": 46.0,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9050722,
+    "score": 0
+  },
+  {
+    "id": "sw:wallacecartersmillsp",
+    "name": "Wallace-Carters Mills Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.68154,
+    "lng": -75.87257,
+    "dist": 53.3,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9050729,
+    "score": 0
+  },
+  {
+    "id": "sw:shamrockpark",
+    "name": "Shamrock Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.53936,
+    "lng": -76.34611,
+    "dist": 31.7,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 9604067,
+    "score": 0
+  },
+  {
+    "id": "sw:perrypointpark",
+    "name": "Perry Point Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.54849,
+    "lng": -76.05075,
+    "dist": 40.1,
+    "description": "Elevation: 17m · Dogs: leashed",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 12037013,
+    "score": 0
+  },
+  {
+    "id": "sw:northeastcommunitypa",
+    "name": "North East Community Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.59373,
+    "lng": -75.94699,
+    "dist": 46.1,
+    "description": "Elevation: 3m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13116275,
+    "score": 0
+  },
+  {
+    "id": "sw:johnpstanleypark",
+    "name": "John P. Stanley Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.60456,
+    "lng": -75.82222,
+    "dist": 51.4,
+    "description": "Elevation: 3m",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 13199316,
+    "score": 0
+  },
+  {
+    "id": "sw:tollgatepark",
+    "name": "Tollgate Park",
+    "type": "park",
+    "tags": [
+      "park",
+      "nature"
+    ],
+    "lat": 39.52709,
+    "lng": -76.37635,
+    "dist": 30.4,
+    "description": "",
+    "zone": "Upper Chesapeake & Elk Neck",
+    "osmTags": {},
+    "osmType": "relation",
+    "osmId": 14232345,
+    "score": 0
   }
 ];
