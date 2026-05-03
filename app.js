@@ -695,6 +695,12 @@ ${extras.length
   🗺 Search on Google Maps
 </a>
 ${p.url ? `<a class="modal-maps-btn" href="${p.url}" target="_blank" rel="noopener" style="margin-top:6px;background:rgba(200,120,40,0.15);border-color:#c87828;color:#e8a84a;">${p.source === 'wikipedia' ? '📖 Read on Wikipedia' : '🔮 View on Atlas Obscura'}</a>` : ''}
+<button class="modal-maps-btn" onclick="askClaude('${id}')"
+  id="claude-btn-${id}"
+  style="margin-top:6px;background:rgba(120,80,200,0.15);border-color:#8b5cf6;color:#c4b5fd;cursor:pointer;width:100%">
+  🤖 Ask Claude about this place
+</button>
+<div id="claude-answer-${id}" style="display:none;margin-top:12px;padding:12px;background:rgba(120,80,200,0.08);border:1px solid rgba(139,92,246,0.3);border-radius:8px;color:#d4c8f0;font-size:13px;line-height:1.6;white-space:pre-wrap"></div>
 `;
 
   document.getElementById('modal-overlay').classList.remove('hidden');
@@ -754,6 +760,85 @@ function showModalPhoto(src) {
 function closeModal() {
   document.getElementById('modal-overlay').classList.add('hidden');
   modalPlaceId = null;
+}
+
+// ================================================
+// ASK CLAUDE
+// ================================================
+
+async function askClaude(id) {
+  const p = places.find(x => x.id === id);
+  if (!p) return;
+
+  const btn = document.getElementById('claude-btn-' + id);
+  const out = document.getElementById('claude-answer-' + id);
+  if (!btn || !out) return;
+
+  // Get or prompt for API key
+  let key = localStorage.getItem('ca_claude_key');
+  if (!key) {
+    key = prompt('Enter your Anthropic API key (stored locally, never sent anywhere else):');
+    if (!key) return;
+    localStorage.setItem('ca_claude_key', key.trim());
+    key = key.trim();
+  }
+
+  btn.textContent = '⏳ Asking Claude…';
+  btn.disabled = true;
+  out.style.display = 'block';
+  out.textContent = '';
+
+  const prompt = `You're helping someone decide whether to visit a place. Be direct, specific, and honest — tell them what makes it worth going (or not), what to expect, the best time to go, any tips or warnings, and one thing most people don't know about it.
+
+Place: ${p.name}
+Type: ${p.type}
+Distance from home: ${p.dist} miles
+Tags: ${p.tags.join(', ')}
+Region: ${p.zone || ''}
+Description: ${p.description || 'No description available'}
+
+Answer in 4–6 short paragraphs. No bullet points. Speak like a knowledgeable local friend.`;
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': key,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 600,
+        messages: [{ role: 'user', content: prompt }]
+      })
+    });
+
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      if (res.status === 401) {
+        localStorage.removeItem('ca_claude_key');
+        out.textContent = '❌ Invalid API key. It\'s been cleared — tap the button again to re-enter.';
+      } else {
+        out.textContent = '❌ Error: ' + (err.error?.message || res.statusText);
+      }
+      btn.textContent = '🤖 Ask Claude about this place';
+      btn.disabled = false;
+      return;
+    }
+
+    const data = await res.json();
+    const text = data.content?.[0]?.text || 'No response.';
+    out.textContent = text;
+    btn.textContent = '🤖 Ask Claude again';
+    btn.disabled = false;
+
+  } catch (e) {
+    out.textContent = '❌ Network error: ' + e.message;
+    btn.textContent = '🤖 Ask Claude about this place';
+    btn.disabled = false;
+  }
 }
 
 // ================================================
@@ -936,7 +1021,14 @@ async function loadPlaces() {
         return true;
       })
     : [];
-  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit];
+  const park = typeof PARK_PLACES !== 'undefined'
+    ? PARK_PLACES.filter(s => {
+        if (seenNames.has(s.name.toLowerCase())) return false;
+        seenNames.add(s.name.toLowerCase());
+        return true;
+      })
+    : [];
+  const allBase = [...SEED_PLACES, ...swept, ...wiki, ...reddit, ...park];
   places = allBase.map(p => ({
     ...p,
     dist: Math.round(
