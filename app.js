@@ -1100,13 +1100,30 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-  // Initial load — try cache first, else load with seed data
-  const cached = loadCache();
-  if (cached && cached.length) {
-    places = cached;
-    document.getElementById('list-view').classList.remove('hidden');
-    renderList();
-  } else {
-    loadPlaces();
+  // Initial load — show seed data immediately, then auto-locate
+  loadPlaces();
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      pos => {
+        currentLoc = { lat: pos.coords.latitude, lng: pos.coords.longitude, label: 'Current Location' };
+        fetch(`https://nominatim.openstreetmap.org/reverse?lat=${pos.coords.latitude}&lon=${pos.coords.longitude}&format=json`)
+          .then(r => r.json())
+          .then(d => {
+            const city  = d.address?.city || d.address?.town || d.address?.village || d.address?.county || 'Current Location';
+            const state = d.address?.state_code || d.address?.state || '';
+            const label = state ? `${city}, ${state}` : city;
+            currentLoc.label = label;
+            document.getElementById('location-text').textContent = '📍 ' + label;
+          }).catch(() => {
+            document.getElementById('location-text').textContent = '📍 Current Location';
+          });
+        const btn = document.getElementById('use-location-btn');
+        btn.textContent = 'Use Home';
+        btn.onclick = useHomeLocation;
+        loadPlaces();
+      },
+      () => { /* permission denied or unavailable — stay on home */ },
+      { timeout: 8000, enableHighAccuracy: false }
+    );
   }
 });
