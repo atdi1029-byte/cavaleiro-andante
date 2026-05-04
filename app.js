@@ -120,6 +120,75 @@ const SK = {
 };
 
 // ================================================
+// CLOUD SYNC (Google Sheets via Apps Script)
+// ================================================
+const SYNC_URL = 'https://script.google.com/macros/s/AKfycbyRQc5H6hcG3S-h3it4J48bemgpelQgXxmCy1KX-MlTVnAhThuOEDmm3JL2UyB22Ce5/exec';
+const SYNC_KEYS = ['ca_favorites','ca_visited','ca_bad','ca_hidden','ca_taste'];
+let syncTimer = null;
+
+function cloudLoad() {
+  return new Promise(resolve => {
+    const cb = 'ca_cb_' + Date.now();
+    const s  = document.createElement('script');
+    s.src = `${SYNC_URL}?action=load&callback=${cb}`;
+    window[cb] = res => {
+      delete window[cb];
+      s.remove();
+      if (!res.ok || !res.data || res.data === '{}') return resolve(false);
+      try {
+        const saved = JSON.parse(res.data);
+        // Only restore if localStorage is empty (first install / new device)
+        const hasLocal = SYNC_KEYS.some(k => localStorage.getItem(k));
+        if (!hasLocal) {
+          Object.entries(saved).forEach(([k, v]) =>
+            localStorage.setItem(k, JSON.stringify(v))
+          );
+          console.log('Cloud restore done');
+        }
+        resolve(true);
+      } catch { resolve(false); }
+    };
+    s.onerror = () => { delete window[cb]; s.remove(); resolve(false); };
+    document.head.appendChild(s);
+  });
+}
+
+function cloudSave() {
+  const data = {};
+  SYNC_KEYS.forEach(k => {
+    const v = localStorage.getItem(k);
+    if (v) try { data[k] = JSON.parse(v); } catch {}
+  });
+  const json   = JSON.stringify(data);
+  const chunks = [];
+  const SIZE   = 40000;
+  for (let i = 0; i < json.length; i += SIZE)
+    chunks.push(json.slice(i, i + SIZE));
+
+  // Send chunks sequentially then save_done
+  chunks.reduce((p, chunk, i) => p.then(() => new Promise(resolve => {
+    const cb = 'ca_save_' + Date.now() + '_' + i;
+    const s  = document.createElement('script');
+    s.src = `${SYNC_URL}?action=save_chunk&i=${i}&cd=${encodeURIComponent(chunk)}&callback=${cb}`;
+    window[cb] = () => { delete window[cb]; s.remove(); resolve(); };
+    s.onerror  = () => { delete window[cb]; s.remove(); resolve(); };
+    document.head.appendChild(s);
+  })), Promise.resolve()).then(() => {
+    const cb = 'ca_done_' + Date.now();
+    const s  = document.createElement('script');
+    s.src = `${SYNC_URL}?action=save_done&n=${chunks.length}&callback=${cb}`;
+    window[cb] = () => { delete window[cb]; s.remove(); };
+    s.onerror  = () => { delete window[cb]; s.remove(); };
+    document.head.appendChild(s);
+  });
+}
+
+function scheduleSave() {
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(cloudSave, 3000);
+}
+
+// ================================================
 // TASTE PROFILE
 // ================================================
 
@@ -196,6 +265,7 @@ function toggleFavorite(id, tagsJson) {
     applyTasteDelta(tags, +0.15);
   }
   saveSet(SK.favorites, favs);
+  scheduleSave();
   rerenderCard(id);
 }
 
@@ -209,6 +279,7 @@ function toggleVisited(id, tagsJson) {
     applyTasteDelta(tags, +0.05);
   }
   saveSet(SK.visited, vis);
+  scheduleSave();
   rerenderCard(id);
 }
 
@@ -216,6 +287,7 @@ function hidePlace(id) {
   const hidden = loadSet(SK.hidden);
   hidden.add(id);
   saveSet(SK.hidden, hidden);
+  scheduleSave();
   const el = document.querySelector(`.place-card[data-id="${id}"]`);
   if (el) el.remove();
   closeModal();
@@ -235,7 +307,7 @@ function toggleBad(id, tagsJson) {
     applyTasteDelta(tags, -0.15);
   }
   saveSet(SK.bad, bad);
-  // Remove from list view and close modal if open
+  scheduleSave();
   rerenderCard(id);
   closeModal();
 }
@@ -1094,6 +1166,9 @@ async function searchLocation(query) {
 
 document.addEventListener('DOMContentLoaded', () => {
 
+  // Cloud sync — restore from sheet on first load (new device / cleared browser)
+  cloudLoad().then(() => loadPlaces());
+
   // Category photo cards
   document.querySelectorAll('.cat-card').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -1197,8 +1272,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-  // Initial load — show seed data immediately, then auto-locate
-  loadPlaces();
+  // Auto-locate (cloudLoad above already called loadPlaces once)
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(
       pos => {
