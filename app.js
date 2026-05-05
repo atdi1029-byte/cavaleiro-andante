@@ -137,14 +137,41 @@ function cloudLoad() {
       if (!res.ok || !res.data || res.data === '{}') return resolve(false);
       try {
         const saved = JSON.parse(res.data);
-        // Only restore if localStorage is empty (first install / new device)
-        const hasLocal = SYNC_KEYS.some(k => localStorage.getItem(k));
-        if (!hasLocal) {
-          Object.entries(saved).forEach(([k, v]) =>
-            localStorage.setItem(k, JSON.stringify(v))
-          );
-          console.log('Cloud restore done');
+        // Union-merge set keys so edits from two devices both survive
+        const setKeys = ['ca_favorites', 'ca_visited', 'ca_bad', 'ca_hidden'];
+        setKeys.forEach(k => {
+          const cloud = saved[k];
+          if (!cloud) return;
+          const cloudArr = Array.isArray(cloud) ? cloud : Object.keys(cloud);
+          if (!cloudArr.length) return;
+          try {
+            const local = JSON.parse(localStorage.getItem(k) || '[]');
+            const localArr = Array.isArray(local) ? local : Object.keys(local);
+            const merged = Array.from(new Set([...localArr, ...cloudArr]));
+            // Preserve original format (array or object)
+            if (Array.isArray(local) || !localStorage.getItem(k)) {
+              localStorage.setItem(k, JSON.stringify(merged));
+            } else {
+              const obj = {};
+              merged.forEach(id => { obj[id] = (local[id] !== undefined ? local[id] : (cloud[id] !== undefined ? cloud[id] : true)); });
+              localStorage.setItem(k, JSON.stringify(obj));
+            }
+          } catch {}
+        });
+        // Taste: merge by taking the higher weight per key
+        if (saved['ca_taste']) {
+          try {
+            const localTaste = JSON.parse(localStorage.getItem('ca_taste') || '{}');
+            const cloudTaste = saved['ca_taste'];
+            const merged = Object.assign({}, cloudTaste, localTaste);
+            Object.keys(cloudTaste).forEach(k => {
+              if ((cloudTaste[k] || 0) > (localTaste[k] || 0)) merged[k] = cloudTaste[k];
+            });
+            localStorage.setItem('ca_taste', JSON.stringify(merged));
+          } catch {}
         }
+        console.log('[CA] Cloud merge done');
+        if (res.ts) localStorage.setItem('ca_lastSyncedAt', res.ts);
         resolve(true);
       } catch { resolve(false); }
     };
@@ -808,8 +835,8 @@ ${p.url ? `<a class="modal-maps-btn" href="${p.url}" target="_blank" rel="noopen
 }
 
 const TYPE_FALLBACK_PHOTO = {
-  waterfall: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=700&h=400&q=80&auto=format&fit=crop',
-  water:     'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=700&h=400&q=80&auto=format&fit=crop',
+  waterfall: 'https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=700&h=400&q=80&auto=format&fit=crop',
+  water:     'https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=700&h=400&q=80&auto=format&fit=crop',
   trail:     'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=700&h=400&q=80&auto=format&fit=crop',
   hike:      'https://images.unsplash.com/photo-1551632811-561732d1e306?w=700&h=400&q=80&auto=format&fit=crop',
   park:      'https://images.unsplash.com/photo-1448375240586-882707db888b?w=700&h=400&q=80&auto=format&fit=crop',
@@ -1298,3 +1325,16 @@ document.addEventListener('DOMContentLoaded', () => {
     );
   }
 });
+
+// Pull cloud on tab focus — catch changes from other devices
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') cloudLoad().then(() => renderList());
+});
+
+// Reconnect after going offline
+window.addEventListener('online', () => {
+  setTimeout(() => cloudLoad().then(() => { scheduleSave(); renderList(); }), 1000);
+});
+
+// Last-resort save on app close
+document.addEventListener('pagehide', () => { cloudSave(); });
