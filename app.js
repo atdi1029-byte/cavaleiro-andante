@@ -119,6 +119,19 @@ const SK = {
   hidden:    'ca_hidden'
 };
 
+// ---- Render-time set cache ----
+// Refreshed once at the top of each render pass so we're not
+// calling JSON.parse(localStorage.getItem(...)) thousands of times.
+let _cache = { favs: null, vis: null, bad: null, hidden: null, taste: null };
+
+function refreshCache() {
+  _cache.favs   = loadSet(SK.favorites);
+  _cache.vis    = loadSet(SK.visited);
+  _cache.bad    = loadSet(SK.bad);
+  _cache.hidden = loadSet(SK.hidden);
+  _cache.taste  = loadTaste();
+}
+
 // ================================================
 // CLOUD SYNC (Google Sheets via Apps Script)
 // ================================================
@@ -260,7 +273,7 @@ function applyTasteDelta(tags, delta) {
 
 function tasteScore(tags) {
   if (!tags || !tags.length) return 1.0;
-  const taste = loadTaste();
+  const taste = _cache.taste || loadTaste();
   const sum = tags.reduce((acc, t) => acc + (taste[t] || 1.0), 0);
   return Math.round((sum / tags.length) * 100) / 100;
 }
@@ -395,10 +408,10 @@ function getPlaceTags(t) {
 
 function matchesFilter(p) {
   if (p.dist > maxDist) return false;
-  if (loadSet(SK.hidden).has(p.id)) return false;
+  if (_cache.hidden.has(p.id)) return false;
 
-  const isFav     = loadSet(SK.favorites).has(p.id);
-  const isVisited = loadSet(SK.visited).has(p.id);
+  const isFav     = _cache.favs.has(p.id);
+  const isVisited = _cache.vis.has(p.id);
 
   // ❤️ My Places: only hearted spots (heart dominates — shows even if visited)
   if (activeFilter === 'saved') return isFav;
@@ -558,8 +571,8 @@ function parseResults(data, userLat, userLng) {
 // ================================================
 
 function ranked(list) {
-  const favs = loadSet(SK.favorites);
-  const bad  = loadSet(SK.bad);
+  const favs = _cache.favs;
+  const bad  = _cache.bad;
   return list
     .filter(p => !bad.has(p.id))
     .map(p => ({ ...p, score: tasteScore(p.tags) }))
@@ -591,9 +604,9 @@ const TYPE_EMOJI = {
 };
 
 function cardHtml(p) {
-  const favs = loadSet(SK.favorites);
-  const vis  = loadSet(SK.visited);
-  const bad  = loadSet(SK.bad);
+  const favs = _cache.favs;
+  const vis  = _cache.vis;
+  const bad  = _cache.bad;
   const isFav  = favs.has(p.id);
   const isVis  = vis.has(p.id);
   const isBad  = bad.has(p.id);
@@ -638,6 +651,7 @@ function cardHtml(p) {
 }
 
 function renderList() {
+  refreshCache();
   const container = document.getElementById('places-list');
   const list = ranked(places.filter(matchesFilter));
   document.getElementById('count-label').textContent =
@@ -655,6 +669,7 @@ function renderList() {
 }
 
 function rerenderCard(id) {
+  refreshCache();
   const el = document.querySelector(`.place-card[data-id="${id}"]`);
   if (!el) return;
   const p = places.find(x => x.id === id);
@@ -685,10 +700,11 @@ function initMap() {
 
 function renderMapMarkers() {
   if (!leafletMap) return;
+  refreshCache();
   mapMarkers.forEach(m => m.remove());
   mapMarkers = [];
 
-  const favs = loadSet(SK.favorites);
+  const favs = _cache.favs;
   const list = ranked(places.filter(matchesFilter)).slice(0, 250);
 
   list.forEach(p => {
@@ -737,11 +753,10 @@ function _openModal(id) {
   const p = places.find(x => x.id === id);
   if (!p) { console.warn('place not found:', id); return; }
   modalPlaceId = id;
+  refreshCache();
 
-  const favs  = loadSet(SK.favorites);
-  const vis   = loadSet(SK.visited);
-  const isFav = favs.has(id);
-  const isVis = vis.has(id);
+  const isFav = _cache.favs.has(id);
+  const isVis = _cache.vis.has(id);
 
   const emoji     = TYPE_EMOJI[p.type] || '📍';
   const tagsJson  = JSON.stringify(p.tags).replace(/"/g, '&quot;');
@@ -1193,8 +1208,9 @@ async function searchLocation(query) {
 
 document.addEventListener('DOMContentLoaded', () => {
 
-  // Cloud sync — restore from sheet on first load (new device / cleared browser)
-  cloudLoad().then(() => loadPlaces());
+  // Show places immediately, then sync cloud in background
+  loadPlaces();
+  cloudLoad().then(() => renderList());
 
   // Category photo cards
   document.querySelectorAll('.cat-card').forEach(btn => {
