@@ -139,58 +139,57 @@ const SYNC_URL = 'https://script.google.com/macros/s/AKfycbyRQc5H6hcG3S-h3it4J48
 const SYNC_KEYS = ['ca_favorites','ca_visited','ca_bad','ca_hidden','ca_taste'];
 let syncTimer = null;
 
-function cloudLoad() {
-  return new Promise(resolve => {
-    const cb = 'ca_cb_' + Date.now();
-    const s  = document.createElement('script');
-    s.src = `${SYNC_URL}?action=load&callback=${cb}`;
-    window[cb] = res => {
-      delete window[cb];
-      s.remove();
-      if (!res.ok || !res.data || res.data === '{}') return resolve(false);
+async function cloudLoad() {
+  try {
+    const res  = await fetch(`${SYNC_URL}?action=load&callback=cb`);
+    if (!res.ok) return false;
+    const text = await res.text();
+    // Parse JSONP: strip leading "cb(" and trailing ")"
+    const json = JSON.parse(text.slice(text.indexOf('(') + 1, text.lastIndexOf(')')));
+    if (!json.ok || !json.data || json.data === '{}') return false;
+    const saved = JSON.parse(json.data);
+    // Union-merge set keys so edits from two devices both survive
+    const setKeys = ['ca_favorites', 'ca_visited', 'ca_bad', 'ca_hidden'];
+    setKeys.forEach(k => {
+      const cloud = saved[k];
+      if (!cloud) return;
+      const cloudArr = Array.isArray(cloud) ? cloud : Object.keys(cloud);
+      if (!cloudArr.length) return;
       try {
-        const saved = JSON.parse(res.data);
-        // Union-merge set keys so edits from two devices both survive
-        const setKeys = ['ca_favorites', 'ca_visited', 'ca_bad', 'ca_hidden'];
-        setKeys.forEach(k => {
-          const cloud = saved[k];
-          if (!cloud) return;
-          const cloudArr = Array.isArray(cloud) ? cloud : Object.keys(cloud);
-          if (!cloudArr.length) return;
-          try {
-            const local = JSON.parse(localStorage.getItem(k) || '[]');
-            const localArr = Array.isArray(local) ? local : Object.keys(local);
-            const merged = Array.from(new Set([...localArr, ...cloudArr]));
-            // Preserve original format (array or object)
-            if (Array.isArray(local) || !localStorage.getItem(k)) {
-              localStorage.setItem(k, JSON.stringify(merged));
-            } else {
-              const obj = {};
-              merged.forEach(id => { obj[id] = (local[id] !== undefined ? local[id] : (cloud[id] !== undefined ? cloud[id] : true)); });
-              localStorage.setItem(k, JSON.stringify(obj));
-            }
-          } catch {}
-        });
-        // Taste: merge by taking the higher weight per key
-        if (saved['ca_taste']) {
-          try {
-            const localTaste = JSON.parse(localStorage.getItem('ca_taste') || '{}');
-            const cloudTaste = saved['ca_taste'];
-            const merged = Object.assign({}, cloudTaste, localTaste);
-            Object.keys(cloudTaste).forEach(k => {
-              if ((cloudTaste[k] || 0) > (localTaste[k] || 0)) merged[k] = cloudTaste[k];
-            });
-            localStorage.setItem('ca_taste', JSON.stringify(merged));
-          } catch {}
+        const local = JSON.parse(localStorage.getItem(k) || '[]');
+        const localArr = Array.isArray(local) ? local : Object.keys(local);
+        const merged = Array.from(new Set([...localArr, ...cloudArr]));
+        if (Array.isArray(local) || !localStorage.getItem(k)) {
+          localStorage.setItem(k, JSON.stringify(merged));
+        } else {
+          const obj = {};
+          merged.forEach(id => { obj[id] = (local[id] !== undefined ? local[id] : (cloud[id] !== undefined ? cloud[id] : true)); });
+          localStorage.setItem(k, JSON.stringify(obj));
         }
-        console.log('[CA] Cloud merge done');
-        if (res.ts) localStorage.setItem('ca_lastSyncedAt', res.ts);
-        resolve(true);
-      } catch { resolve(false); }
-    };
-    s.onerror = () => { delete window[cb]; s.remove(); resolve(false); };
-    document.head.appendChild(s);
-  });
+      } catch {}
+    });
+    // Taste: merge by taking the higher weight per key
+    if (saved['ca_taste']) {
+      try {
+        const localTaste = JSON.parse(localStorage.getItem('ca_taste') || '{}');
+        const cloudTaste = saved['ca_taste'];
+        const merged = Object.assign({}, cloudTaste, localTaste);
+        Object.keys(cloudTaste).forEach(k => {
+          if ((cloudTaste[k] || 0) > (localTaste[k] || 0)) merged[k] = cloudTaste[k];
+        });
+        localStorage.setItem('ca_taste', JSON.stringify(merged));
+      } catch {}
+    }
+    console.log('[CA] Cloud merge done');
+    if (json.ts) localStorage.setItem('ca_lastSyncedAt', json.ts);
+    return true;
+  } catch { return false; }
+}
+
+// Fire-and-forget GET via img tag — no JS execution, no GC pressure
+function fireGet(url) {
+  const img = new Image();
+  img.src = url;
 }
 
 function cloudSave() {
@@ -205,22 +204,14 @@ function cloudSave() {
   for (let i = 0; i < json.length; i += SIZE)
     chunks.push(json.slice(i, i + SIZE));
 
-  // Send chunks sequentially then save_done
-  chunks.reduce((p, chunk, i) => p.then(() => new Promise(resolve => {
-    const cb = 'ca_save_' + Date.now() + '_' + i;
-    const s  = document.createElement('script');
-    s.src = `${SYNC_URL}?action=save_chunk&i=${i}&cd=${encodeURIComponent(chunk)}&callback=${cb}`;
-    window[cb] = () => { delete window[cb]; s.remove(); resolve(); };
-    s.onerror  = () => { delete window[cb]; s.remove(); resolve(); };
-    document.head.appendChild(s);
-  })), Promise.resolve()).then(() => {
-    const cb = 'ca_done_' + Date.now();
-    const s  = document.createElement('script');
-    s.src = `${SYNC_URL}?action=save_done&n=${chunks.length}&callback=${cb}`;
-    window[cb] = () => { delete window[cb]; s.remove(); };
-    s.onerror  = () => { delete window[cb]; s.remove(); };
-    document.head.appendChild(s);
+  // Send chunks then save_done — img tags, no script execution
+  chunks.forEach((chunk, i) => {
+    fireGet(`${SYNC_URL}?action=save_chunk&i=${i}&cd=${encodeURIComponent(chunk)}&callback=cb`);
   });
+  // Delay save_done slightly so chunks land first
+  setTimeout(() => {
+    fireGet(`${SYNC_URL}?action=save_done&n=${chunks.length}&callback=cb`);
+  }, chunks.length * 300 + 500);
 }
 
 function scheduleSave() {
