@@ -11,14 +11,19 @@ import * as store from './store.js';
 // Each request is a GET, so the payload has to fit in a URL
 const MAX_OPS_CHARS = 1500;
 const DEBOUNCE_MS = 1500;
+// Apps Script sometimes takes a minute to answer, or does not answer at all.
+// Give up on a request after this long and try the whole sync again later.
+const TIMEOUT_MS = 40000;
+const RETRY_MS = [60000, 120000, 300000];
 
 let running = null;
 let again = false;
 let timer = null;
+let failures = 0;
 
 async function call(params) {
   const url = SYNC_URL + '?' + new URLSearchParams(params);
-  const res = await fetch(url, { redirect: 'follow' });
+  const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(TIMEOUT_MS) });
   if (!res.ok) throw new Error('sync HTTP ' + res.status);
   const data = await res.json();
   if (!data.ok) throw new Error(data.error || 'sync refused');
@@ -64,24 +69,27 @@ async function push() {
 export function syncNow() {
   if (running) { again = true; return running; }
   running = (async () => {
+    let ok = false;
     try {
       await pull();
       await push();
-      return true;
+      ok = true;
     } catch (e) {
       console.warn('[sync]', e.message);
-      return false;
     } finally {
       running = null;
+      failures = ok ? 0 : failures + 1;
       if (again) { again = false; syncSoon(); }
+      else if (!ok) syncSoon(RETRY_MS[Math.min(failures, RETRY_MS.length) - 1]);
     }
+    return ok;
   })();
   return running;
 }
 
-export function syncSoon() {
+export function syncSoon(delay = DEBOUNCE_MS) {
   clearTimeout(timer);
-  timer = setTimeout(syncNow, DEBOUNCE_MS);
+  timer = setTimeout(syncNow, delay);
 }
 
 export function startSync() {
