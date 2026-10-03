@@ -123682,3 +123682,6 @@ const PARK_PLACES = [
 
 // Sunset viewing spots
 const SUNSET_PLACES = [];
+
+// Swimming holes and beaches
+const SWIM_PLACES = [];
