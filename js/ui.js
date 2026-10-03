@@ -37,7 +37,7 @@ export function renderSubs(categoryId, activeSub) {
   const cat = CATEGORIES.find(c => c.id === categoryId);
   const el = $('subs');
   if (!cat?.subs) { el.classList.add('hidden'); el.innerHTML = ''; return; }
-  const first = cat.id === 'saved' ? 'Saved' : 'All ' + cat.label.toLowerCase();
+  const first = cat.allLabel || 'All ' + cat.label.toLowerCase();
   el.classList.remove('hidden');
   el.innerHTML = [{ id: '', label: first }, ...cat.subs].map(s =>
     `<button class="chip${(s.id || null) === (activeSub || null) ? ' active' : ''}" data-sub="${s.id}">${esc(s.label)}</button>`).join('');

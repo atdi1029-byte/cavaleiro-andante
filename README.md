@@ -40,9 +40,12 @@ node data/build.js         # merge with data/curated/, add Wikipedia photos and 
 ```
 
 - `data/curated/*.json` are hand-checked lists (Alex's own in `00_alex.json`,
-  then one research list per region and one for abandoned places). A curated
-  entry always wins over the OpenStreetMap entry for the same place. **To add
-  or fix a place, edit these files and run `node data/build.js`.**
+  then one research list per region, one for abandoned places and one for
+  rainy days). A curated entry always wins over the OpenStreetMap entry for
+  the same place. **To add or fix a place, edit these files and run
+  `node data/build.js`.**
+- The research lists were compiled from the web in October 2026. Fees, hours
+  and closures in them go stale; the app shows them as notes, not promises.
 - `data/lib/osm.js` decides which OpenStreetMap features are worth showing
   and scores them (`q`, 0-100). Curated places score 60-92.
 - `data/region.js` is the area covered: the box around MD/DC/VA/WV/PA/DE and

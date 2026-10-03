@@ -36,7 +36,7 @@ const FAMILY = {
   hike: 'trail', trail: 'trail', run: 'trail',
   waterfall: 'waterfall', viewpoint: 'view',
   beach: 'water', water: 'water', swim: 'water',
-  gems: 'gem', caves: 'gem', historic: 'gem',
+  gems: 'gem', caves: 'gem', historic: 'gem', indoor: 'gem',
 };
 
 // ── Curated lists ───────────────────────────────────────────
@@ -136,6 +136,10 @@ function mergeCurated(list) {
       const seed = k.id?.startsWith('seed:');
       if (m >= 0.97 && d < 12) return true;
       if (subArea(bare(k.name), bare(c.name))) return false;
+      // The same spot and the same kind of place: "Fort Miles" and "Fort Miles
+      // Museum (Battery 519)", or two spellings of one building
+      if (sameFamily && ((d < 0.15 && geo.coreInside(bare(k.name), bare(c.name))) ||
+                         (d < 0.05 && geo.coreOverlap(bare(k.name), bare(c.name)) >= 0.6))) return true;
       // Otherwise only when the names differ in nothing but generic words: a
       // more specific name ("… Choate Chrome Mine") is a different entry
       if (!geo.sameCore(bare(k.name), bare(c.name))) return false;

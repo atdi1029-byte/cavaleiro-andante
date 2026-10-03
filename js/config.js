@@ -94,7 +94,7 @@ export const CATEGORIES = [
 
   // Indoors, underground or under cover: places tagged "rainy" by data/build.js
   { id: 'rain', label: 'Rainy day', emoji: '☔', photo: photo('1515694346937-94d85e41e6f0'),
-    match: p => has(p, 'rainy'),
+    match: p => has(p, 'rainy'), allLabel: 'Everything',
     subs: [
       { id: 'caves',   label: 'Caves & tunnels',     match: p => has(p, 'cave', 'tunnel') },
       { id: 'museums', label: 'Museums & oddities',  match: p => has(p, 'museum', 'interior', 'aquarium', 'market', 'nature-center') },
@@ -122,7 +122,7 @@ export const CATEGORIES = [
 
   // My Places is special-cased in places.js: it lists what you saved
   { id: 'saved', label: 'My Places', emoji: '❤️', photo: photo('1476514525535-07fb3b4ae5f1'),
-    match: () => true,
+    match: () => true, allLabel: 'Saved',
     subs: [
       { id: 'been',   label: 'Been there' },
       { id: 'hidden', label: 'Hidden' },

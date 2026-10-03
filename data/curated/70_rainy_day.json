@@ -1,0 +1,3447 @@
+[
+ {
+  "name": "Luray Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.664306,
+  "lng": -78.483806,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Largest show cave in the East: a paved 1.25-mile loop past Dream Lake, Giant's Hall and the Great Stalacpipe Organ, which plays the stalactites. The ticket also covers the Car and Carriage Caravan museum.",
+  "facts": {
+   "fee": "$36 adult"
+  },
+  "url": "https://luraycaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Skyline Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.8996,
+  "lng": -78.21614,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "One-hour guided tour of a cave known for anthodites, rare needle-like white crystal clusters on the ceiling, plus underground streams and the 37-foot Rainbow Falls.",
+  "facts": {
+   "fee": "$30 adult"
+  },
+  "url": "https://skylinecaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Shenandoah Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.715556,
+  "lng": -78.669278,
+  "town": "Quicksburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Hour-long guided tour reached by elevator, the only Virginia show cave with one, known for its striped 'bacon' formations. The parade-float warehouse next door is seasonal (closed since Sept 7).",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://shenandoahcaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Endless Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.5949,
+  "lng": -78.6756,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Guided tour through winding passages lit mostly in white light. More than five miles have been surveyed and no end to the cave has been found.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Seasonal: 2026 season runs Mar 27-Nov 15"
+  },
+  "url": "https://endlesscaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Grand Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology",
+   "historic"
+  ],
+  "lat": 38.260278,
+  "lng": -78.835278,
+  "town": "Grottoes",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "America's oldest continuously operated show cave, open since 1806. The 70-minute tour passes rare shield formations, Cathedral Hall and signatures left by Civil War soldiers.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Daily; 10-4 from Nov 1 to Mar 31"
+  },
+  "url": "https://grandcaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Melrose Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology",
+   "historic"
+  ],
+  "lat": 38.517222,
+  "lng": -78.791667,
+  "town": "Harrisonburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Small family-run cave north of Harrisonburg where Civil War soldiers camped and carved names and drawings into the walls. Guided tours leave every 90 minutes.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun; closed Mon"
+  },
+  "url": "https://www.melrosecaverns.com/",
+  "coord_source": "wikipedia (Melrose Caverns and Harrison Farmstead)"
+ },
+ {
+  "name": "Crystal Grottoes Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 39.498,
+  "lng": -77.677,
+  "town": "Boonsboro",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Maryland's only show cave, found by quarry blasting in 1920. A guided walk of about 40 minutes through narrow passages densely packed with stalactites, columns and flowstone.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Daily 10-5 Apr 17-Nov 30; Fri-Sun Dec 1-14; groups by reservation only mid-Dec to mid-Mar"
+  },
+  "url": "https://www.crystalgrottoescaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Indian Echo Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 40.2529,
+  "lng": -76.7168,
+  "town": "Hummelstown",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "45-minute guided tour of a limestone cave on Swatara Creek near Hershey, 52 degrees year-round, with the story of the 'Pennsylvania Hermit' who lived inside for 19 years.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://indianechocaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lincoln Caverns & Whisper Rocks",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 40.508718,
+  "lng": -78.072938,
+  "town": "Huntingdon",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Two separate caves on one ticket, Lincoln Caverns and Whisper Rocks, with flowstone, crystals and winding passages; about an hour underground with a guide.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://lincolncaverns.com/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Lost River Caverns",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 40.580833,
+  "lng": -75.330833,
+  "town": "Hellertown",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Five-chamber limestone cave with an underground stream whose source and outlet are unknown. The 30-45 minute guided tour starts from a lobby with a rock, mineral and fossil museum.",
+  "facts": {
+   "fee": "Paid admission",
+   "reserve": "reservations required for tours"
+  },
+  "url": "https://lostcave.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Crystal Cave",
+  "kind": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 40.5257,
+  "lng": -75.8426,
+  "town": "Kutztown",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Pennsylvania's oldest show cave, discovered in 1871; a 55-minute guided tour past crystal-lined formations. Seasonal, so check dates before driving.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Seasonal (roughly Mar-Nov); check site for dates"
+  },
+  "url": "https://crystalcavepa.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Howard Peters Rawlings Conservatory",
+  "kind": "conservatory",
+  "tags": [
+   "garden",
+   "historic",
+   "architecture"
+  ],
+  "lat": 39.318611,
+  "lng": -76.646111,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1888 Victorian Palm House and connected greenhouses in Druid Hill Park: orchid, Mediterranean, tropical and desert rooms. Warm and dry in any weather.",
+  "facts": {
+   "fee": "Paid admission (ticket by donation)",
+   "hours": "Wed-Fri 11-3, Sat-Sun 10-4; closed Mon-Tue"
+  },
+  "url": "https://rawlingsconservatory.org/visit-us/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "United States Botanic Garden Conservatory",
+  "kind": "conservatory",
+  "tags": [
+   "garden",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.888,
+  "lng": -77.013,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "Glass conservatory at the foot of the Capitol: a jungle room crossed by a canopy walkway, plus desert, orchid, primeval and medicinal plant houses.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.usbg.gov/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Brookside Gardens Conservatory",
+  "kind": "conservatory",
+  "tags": [
+   "garden",
+   "free"
+  ],
+  "lat": 39.058056,
+  "lng": -77.036667,
+  "town": "Wheaton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Two connected conservatories in Wheaton Regional Park with tropical plants and changing seasonal displays; the visitor center and its exhibits are a short walk away.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/brookside-gardens/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Longwood Gardens Conservatory",
+  "kind": "conservatory",
+  "tags": [
+   "garden",
+   "architecture"
+  ],
+  "lat": 39.8712,
+  "lng": -75.6747,
+  "town": "Kennett Square",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Acres under glass: the 2024 West Conservatory set on a pool, the Orchid House, palm and fern houses and a 10,010-pipe organ in the ballroom. Easily half a day indoors.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Closed Tuesdays this season",
+   "reserve": "timed tickets required"
+  },
+  "url": "https://longwoodgardens.org/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hershey Gardens Conservatory & Butterfly Atrium",
+  "kind": "conservatory",
+  "tags": [
+   "garden",
+   "wildlife"
+  ],
+  "lat": 40.2987,
+  "lng": -76.657,
+  "town": "Hershey",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "The Milton & Catherine Hershey Conservatory holds a year-round indoor Butterfly Atrium with hundreds of tropical butterflies; 23 acres of gardens outside.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://www.hersheygardens.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hillwood Estate, Museum & Gardens",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "historic",
+   "garden"
+  ],
+  "lat": 38.943653,
+  "lng": -77.052653,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Marjorie Merriweather Post's mansion: Faberge eggs, Russian imperial art and French decorative arts, plus a working greenhouse full of orchids.",
+  "facts": {
+   "fee": "Paid admission (suggested donation)",
+   "hours": "Tue-Sun 10-5; closed Mon and several weeks in January"
+  },
+  "url": "https://hillwoodmuseum.org/visit",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Aquarium",
+  "kind": "aquarium",
+  "tags": [
+   "wildlife",
+   "science"
+  ],
+  "lat": 39.284398,
+  "lng": -76.606936,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Multi-level aquarium on Pier 3: Atlantic coral reef and shark ring tanks, a glass-roofed tropical rain forest, an Australian river gorge and a jellyfish gallery.",
+  "facts": {
+   "fee": "$49.95 adult"
+  },
+  "url": "https://aqua.org/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "George Peabody Library",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "free"
+  ],
+  "lat": 39.297361,
+  "lng": -76.615,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "1878 library with a 61-foot skylit atrium ringed by five tiers of cast-iron balconies holding 300,000 books. Visitors may walk into the reading room floor and take photos.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Closed to visitors on Fridays; check the hours page"
+  },
+  "url": "https://www.library.jhu.edu/library-hours/george-peabody-library/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Library of Congress, Thomas Jefferson Building",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "free"
+  ],
+  "lat": 38.8887,
+  "lng": -77.0046,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "The Great Hall's marble staircases and mosaics, the Main Reading Room overlook, a Gutenberg Bible and Thomas Jefferson's own library.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sat 10-5 (Thu to 8); closed Sun-Mon",
+   "reserve": "free timed-entry ticket required"
+  },
+  "url": "https://www.loc.gov/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Washington National Cathedral",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic"
+  ],
+  "lat": 38.930556,
+  "lng": -77.070833,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "Gothic cathedral with a Space Window holding a moon rock, crypt chapels, the tomb of Woodrow Wilson and hundreds of carvings. Sightseeing hours shift around services.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Sightseeing hours vary by day"
+  },
+  "url": "https://cathedral.org/visit-tour/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Basilica of the National Shrine of the Immaculate Conception",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "art",
+   "free"
+  ],
+  "lat": 38.933333,
+  "lng": -77.000556,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Largest Catholic church in North America: a Byzantine-Romanesque upper church covered in mosaics above the low-vaulted Crypt Church and more than 80 chapels.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.nationalshrine.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Baltimore Basilica",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "free"
+  ],
+  "lat": 39.294392,
+  "lng": -76.616161,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "America's first Catholic cathedral, finished in 1821 to Benjamin Latrobe's design: a skylit dome above, and an undercroft of brick inverted arches with the archbishops' crypt.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Open daily; closes 1 pm on weekdays"
+  },
+  "url": "https://www.americasfirstcathedral.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Franciscan Monastery of the Holy Land",
+  "kind": "interior",
+  "tags": [
+   "weird",
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.9375,
+  "lng": -76.985306,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "Guided tour through full-size replicas of Holy Land shrines, then down into dim replica Roman catacombs under the church. The cloister and church are open without a tour.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tours Tue, Wed, Fri, Sat at 1 and 2; Sun at 12 and 1:30; no Mon or Thu tours"
+  },
+  "url": "https://myfranciscan.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Building Museum (Great Hall)",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "free"
+  ],
+  "lat": 38.8975,
+  "lng": -77.0181,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "The Great Hall of the 1887 Pension Building: a 316-foot atrium with eight 75-foot Corinthian columns, among the tallest interior columns anywhere. The hall is free.",
+  "facts": {
+   "fee": "Free (Great Hall); exhibitions $10 adult",
+   "hours": "Thu-Mon 10-5; closed Tue-Wed"
+  },
+  "url": "https://nbm.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bromo Seltzer Arts Tower",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "weird",
+   "historic",
+   "art",
+   "free"
+  ],
+  "lat": 39.287694,
+  "lng": -76.620639,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1911 clock tower modeled on Florence's Palazzo Vecchio, with artist studios on 15 floors, a Bromo-Seltzer bottle museum and tours inside the working clock room.",
+  "facts": {
+   "fee": "Free entry; clock room tour $8",
+   "hours": "Saturdays 11-4 only"
+  },
+  "url": "https://www.bromoseltzertower.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Maryland State House",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.978889,
+  "lng": -76.491111,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Oldest state capitol in continuous legislative use. See the Old Senate Chamber where Washington resigned his commission, under the largest wooden dome built without nails.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Daily 8:30-5; photo ID required"
+  },
+  "url": "https://msa.maryland.gov/msa/mdstatehouse/html/visitor.html",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "U.S. Naval Academy Chapel & Crypt of John Paul Jones",
+  "kind": "interior",
+  "tags": [
+   "military",
+   "historic",
+   "architecture",
+   "maritime",
+   "free"
+  ],
+  "lat": 38.981547,
+  "lng": -76.486289,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Domed chapel with Tiffany windows; beneath it John Paul Jones lies in a marble sarcophagus held up by bronze dolphins. Preble Hall's ship models are a short walk away.",
+  "facts": {
+   "fee": "Free (guided tours are paid)",
+   "hours": "Walk in at the Gate 1 visitor center with REAL ID; no visitor vehicles"
+  },
+  "url": "https://www.usnabsd.com/visit/for-visitors/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Pennsylvania State Capitol",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "art",
+   "historic",
+   "free"
+  ],
+  "lat": 40.264444,
+  "lng": -76.883611,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "1906 capitol with a dome modeled on St. Peter's, a Moravian tile floor by Henry Mercer and Violet Oakley murals, shown on free guided tours.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tours every half hour Mon-Fri 8:30-4; weekends at 9, 11, 1 and 3"
+  },
+  "url": "https://www.pacapitol.com/plan-a-visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Masonic Temple of Philadelphia",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "weird",
+   "historic"
+  ],
+  "lat": 39.953611,
+  "lng": -75.163056,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "1873 temple beside City Hall with seven lodge halls, each in a different style: Egyptian, Norman, Gothic, Ionic, Corinthian, Renaissance and Oriental. Seen by guided tour.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Guided tours only, Wed-Sat at 10, 11, 1, 2 and 3"
+  },
+  "url": "https://pamasonictemple.org/tour-hours/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "George Washington Masonic National Memorial",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.80748,
+  "lng": -77.06598,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "333-foot tower modeled on the ancient Lighthouse of Alexandria. Tours ride slanted elevators past a replica lodge room and Washington relics to an observation deck.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Thu-Mon; guided tours at 9:30, 11, 12:30, 2 and 3:30; closed federal holidays"
+  },
+  "url": "https://gwmemorial.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Kogod Courtyard (American Art Museum & National Portrait Gallery)",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "art",
+   "free"
+  ],
+  "lat": 38.897806,
+  "lng": -77.023,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Two museums share the old Patent Office Building and its glass-roofed Kogod Courtyard, a dry place to sit. Upstairs are the tiled Great Hall and the visible-storage Luce Center.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Daily 11:30-7"
+  },
+  "url": "https://americanart.si.edu/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Glencairn Museum",
+  "kind": "museum",
+  "tags": [
+   "architecture",
+   "art",
+   "weird",
+   "historic"
+  ],
+  "lat": 40.136633,
+  "lng": -75.064286,
+  "town": "Bryn Athyn",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Castle-like 1930s home built for Raymond Pitcairn's collection: medieval stained glass and sculpture, Egyptian, Greek and Roman antiquities and a mosaic-lined great hall.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun 1-4:30 through Nov 8, 2026"
+  },
+  "url": "https://www.glencairnmuseum.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fonthill Castle",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "weird",
+   "historic",
+   "art"
+  ],
+  "lat": 40.321158,
+  "lng": -75.122902,
+  "town": "Doylestown",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Henry Mercer's 1912 poured-concrete castle: 44 rooms, 18 fireplaces and 32 stairwells, with his handmade tiles set into nearly every surface. Seen by guided tour.",
+  "facts": {
+   "fee": "$20 adult",
+   "hours": "Tue-Sun 10-5; closed Mon; some early closings for private events"
+  },
+  "url": "https://www.mercermuseum.org/visit/fonthill-castle/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mercer Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "industrial",
+   "architecture"
+  ],
+  "lat": 40.307778,
+  "lng": -75.127222,
+  "town": "Doylestown",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Six-story concrete castle holding some 50,000 pre-industrial tools. A whaleboat, wagons and a gallows hang in the open central court.",
+  "facts": {
+   "fee": "$20 adult",
+   "hours": "Tue-Sun 10-5; closed Mon"
+  },
+  "url": "https://www.mercermuseum.org/visit/mercer-museum/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Folger Shakespeare Library",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "architecture",
+   "art",
+   "free"
+  ],
+  "lat": 38.889444,
+  "lng": -77.003056,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Home of the world's largest Shakespeare collection, with a gallery displaying all 82 of its First Folios, a Tudor-style Great Hall cafe and an Elizabethan theatre.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sun 11-6 (Fri to 9); closed Mon",
+   "reserve": "timed-entry pass"
+  },
+  "url": "https://www.folger.edu/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "The Mansion on O Street",
+  "kind": "interior",
+  "tags": [
+   "weird",
+   "architecture"
+  ],
+  "lat": 38.9083,
+  "lng": -77.0459,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Joined row houses with more than 100 rooms and some 70 secret doors, crammed with memorabilia. You wander on your own hunting for the hidden doors.",
+  "facts": {
+   "fee": "From $33",
+   "reserve": "online reservation required"
+  },
+  "url": "https://www.omuseum.org/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Shrine of Saint Elizabeth Ann Seton",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 39.697778,
+  "lng": -77.331111,
+  "town": "Emmitsburg",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Basilica holding the tomb of the first U.S.-born saint, a museum and visitor center opened in 2023, and the Stone House and White House where she lived and taught.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://setonshrine.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hampton National Historic Site",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 39.416111,
+  "lng": -76.5875,
+  "town": "Towson",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Georgian mansion that was the largest private house in America when finished in 1790. Rangers lead tours of the furnished rooms; slave quarters and farm buildings nearby.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Thu-Sun 9-4; mansion by tour only"
+  },
+  "url": "https://www.nps.gov/hamp/planyourvisit/hours.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Westminster Hall Catacombs & Poe's Grave",
+  "kind": "interior",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 39.29,
+  "lng": -76.623889,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Edgar Allan Poe is buried in the churchyard. The 1852 church was raised on brick arches over older graves, creating catacombs you can enter on monthly tours.",
+  "facts": {
+   "fee": "$5 adult (catacomb tour); grounds free",
+   "hours": "Catacomb tours first Saturday of the month at 11 and 1; burying ground daily 9-5"
+  },
+  "url": "https://www.westminsterhall.org/tours",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Dupont Underground",
+  "kind": "interior",
+  "tags": [
+   "weird",
+   "tunnel",
+   "art",
+   "historic"
+  ],
+  "lat": 38.910485,
+  "lng": -77.043523,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Abandoned 1949 streetcar station and curved platforms under Dupont Circle, reused as an art space. Open only when an exhibition or event is on.",
+  "facts": {
+   "fee": "Paid admission (some shows free)",
+   "hours": "Gallery hours Fri 4-7:30, Sat-Sun 11-5 during exhibitions"
+  },
+  "url": "https://dupontunderground.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Eastern State Penitentiary",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "weird",
+   "architecture"
+  ],
+  "lat": 39.9683,
+  "lng": -75.1725,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Crumbling 1829 radial prison with vaulted, skylit cellblocks, Al Capone's cell and death row, toured with an audio guide. Mostly under roof but unheated.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Daily 10-5"
+  },
+  "url": "https://easternstate.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Archives Rotunda",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.892778,
+  "lng": -77.023056,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "The Rotunda displays the original Declaration of Independence, Constitution and Bill of Rights under dim light; a 1297 Magna Carta is in the galleries.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://visit.archives.gov/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "American Visionary Art Museum",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "weird"
+  ],
+  "lat": 39.280278,
+  "lng": -76.606944,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Self-taught and outsider art across three buildings: obsessive, strange and funny works, kinetic sculpture, a 55-foot whirligig and a mirror-mosaic exterior.",
+  "facts": {
+   "fee": "$20 adult",
+   "hours": "Wed-Sun 10-5; closed Mon-Tue"
+  },
+  "url": "https://www.avam.org/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Baltimore Museum of Industry",
+  "kind": "museum",
+  "tags": [
+   "industrial",
+   "historic",
+   "maritime"
+  ],
+  "lat": 39.273889,
+  "lng": -76.601389,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "An 1865 oyster cannery on the harbor with a belt-driven machine shop, garment loft, print shop and cannery line, and the 1906 steam tug Baltimore at the pier.",
+  "facts": {
+   "fee": "$15 adult",
+   "hours": "Tue-Sun 9-4; closed Mon"
+  },
+  "url": "https://www.thebmi.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "B&O Railroad Museum (National Museum of Railroad History & Innovation)",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic",
+   "industrial",
+   "architecture"
+  ],
+  "lat": 39.285394,
+  "lng": -76.632397,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Birthplace of American railroading, now renamed: the 1884 roundhouse with a 22-sided dome full of 19th-century locomotives, plus more engines in the car shops.",
+  "facts": {
+   "fee": "$20 adult"
+  },
+  "url": "https://nationalrailroad.org/visit-the-bo/plan-your-visit/admissions-hours/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Historic Ships in Baltimore",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "military",
+   "historic"
+  ],
+  "lat": 39.285528,
+  "lng": -76.611194,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Go below decks on the 1854 sloop-of-war Constellation, the WWII submarine Torsk, Coast Guard cutter 37 and the lightship Chesapeake. Seven Foot Knoll Lighthouse is closed for now.",
+  "facts": {
+   "fee": "$21.95 adult"
+  },
+  "url": "https://historicships.org/visit/tickets",
+  "coord_source": "wikipedia (USS Constellation, Pier 1)"
+ },
+ {
+  "name": "Walters Art Museum",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "historic",
+   "free"
+  ],
+  "lat": 39.296425,
+  "lng": -76.616499,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Free museum of mummies, armor, medieval ivories and illuminated manuscripts, with a recreated Chamber of Wonders, a 1600s nobleman's cabinet of curiosities.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Check site for open days (not confirmed)"
+  },
+  "url": "https://thewalters.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Baltimore Museum of Art",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "free"
+  ],
+  "lat": 39.326111,
+  "lng": -76.619167,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Free museum with the Cone Collection, the largest public holding of Matisse, plus African art, period rooms and Roman mosaics from Antioch.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Closed Mon-Tue"
+  },
+  "url": "https://artbma.org/plan-your-visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Baltimore Streetcar Museum",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic"
+  ],
+  "lat": 39.311667,
+  "lng": -76.62,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Car barn of restored Baltimore streetcars from the horsecar era to the 1940s; a visit includes rides along the old Ma & Pa right of way on Falls Road.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Sundays 11-5 from Sept 1 to Dec 1; closed Jan-Feb"
+  },
+  "url": "https://baltimorestreetcarmuseum.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fire Museum of Maryland",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "industrial"
+  ],
+  "lat": 39.418829,
+  "lng": -76.613548,
+  "town": "Lutherville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "More than 40 fire engines, from 1806 hand pumpers to mid-century trucks, plus a working fire-alarm telegraph office.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Saturdays 10-4 year-round; Wed-Sat June-Aug"
+  },
+  "url": "https://firemuseummd.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Edgar Allan Poe House & Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 39.29129,
+  "lng": -76.6331,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The small brick row house where Poe lived in the 1830s and began writing fiction, with narrow winder stairs up to his garret room.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Thu-Sun 11-4 (also Wed, May-Oct)",
+   "reserve": "reservation required (timed entry)"
+  },
+  "url": "https://www.poeinbaltimore.org/tickets-visit/what-to-know/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Star-Spangled Banner Flag House",
+  "kind": "museum",
+  "tags": [
+   "historic"
+  ],
+  "lat": 39.287507,
+  "lng": -76.603334,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The 1793 house where Mary Pickersgill sewed the Star-Spangled Banner in 1813, with a small museum on the flag next door.",
+  "facts": {
+   "fee": "$9 adult",
+   "hours": "Tue-Fri 10-3, Sat 10-4; closed Sun-Mon"
+  },
+  "url": "https://flaghouse.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Great Blacks In Wax Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 39.31182,
+  "lng": -76.59685,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "More than 100 life-size wax figures tell Black history, including a walk-through replica of a slave ship's hold.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Thu-Sun 10-5 (Sun from noon)"
+  },
+  "url": "https://www.greatblacksinwax.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Jewish Museum of Maryland & Lloyd Street Synagogue",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "architecture"
+  ],
+  "lat": 39.29024,
+  "lng": -76.60113,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Tour the 1845 Lloyd Street Synagogue, the third-oldest standing synagogue in the U.S., with its excavated mikveh, plus changing exhibits.",
+  "facts": {
+   "fee": "$10 adult",
+   "hours": "Sun 10-4, Mon-Wed 12-4; closed Thu-Sat"
+  },
+  "url": "https://jewishmuseummd.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Maryland Aviation Museum (Glenn L. Martin)",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "military",
+   "industrial"
+  ],
+  "lat": 39.332126,
+  "lng": -76.434549,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Glenn L. Martin Company history at the old Middle River plant: models, engines and photographs, with aircraft on the flight line. Recently moved; the entrance is at the rear.",
+  "facts": {
+   "fee": "$8 adult",
+   "hours": "Check site for hours (not confirmed after the move)"
+  },
+  "url": "https://www.mdairmuseum.org/hours-price-directions",
+  "coord_source": "photon"
+ },
+ {
+  "name": "SS John W. Brown",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "military",
+   "historic",
+   "industrial"
+  ],
+  "lat": 39.259722,
+  "lng": -76.556111,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "One of two WWII Liberty ships still able to sail. Tours cover the triple-expansion steam engine room, crew quarters, bridge and gun tubs.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tours most Wed and Sat, starting 9 am",
+   "reserve": "book the tour online"
+  },
+  "url": "https://www.ssjohnwbrown.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Cryptologic Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "military",
+   "weird",
+   "free"
+  ],
+  "lat": 39.1148,
+  "lng": -76.7748,
+  "town": "Annapolis Junction",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "NSA's public museum beside Fort Meade: Enigma machines you can try, Navajo code talker and Cold War cipher gear, and early supercomputers.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Fri 10-4 plus first Saturday of the month; closed federal holidays"
+  },
+  "url": "https://www.nsa.gov/museum/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Annapolis Maritime Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "historic"
+  ],
+  "lat": 38.968818,
+  "lng": -76.476256,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "In the last oyster packing plant in Annapolis: exhibits on oystering, watermen and Bay ecology, with aquarium tanks and a view over Back Creek.",
+  "facts": {
+   "fee": "$7 adult",
+   "hours": "Tue-Sun 10-3; closed Mon"
+  },
+  "url": "https://amaritime.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Banneker-Douglass-Tubman Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "art",
+   "free"
+  ],
+  "lat": 38.977556,
+  "lng": -76.493639,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Maryland's museum of African American history, built around the brick 1875 Mount Moriah AME Church; changing art and history exhibitions.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sat 10-4"
+  },
+  "url": "https://bdmuseum.maryland.gov/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Historic London Town & Gardens",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "garden"
+  ],
+  "lat": 38.940484,
+  "lng": -76.541586,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Visitor center exhibit on the lost colonial port with artifacts dug on site, and the c.1760 brick William Brown House on the South River. The gardens are outdoors.",
+  "facts": {
+   "fee": "$11 adult",
+   "hours": "Tue-Sat 10-4"
+  },
+  "url": "https://historiclondontown.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Robinson Nature Center",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife",
+   "science"
+  ],
+  "lat": 39.190606,
+  "lng": -76.894898,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Exhibits on local habitats, a domed planetarium and a discovery room, in a building above the Middle Patuxent River.",
+  "facts": {
+   "fee": "$5 adult",
+   "hours": "Tue-Sun 9-5; closed Mon"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/robinson-nature-center",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Oregon Ridge Nature Center",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife",
+   "geology",
+   "free"
+  ],
+  "lat": 39.493669,
+  "lng": -76.6922,
+  "town": "Cockeysville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Exhibits on local wildlife and the iron ore and marble once dug at Oregon Ridge, with live reptiles and amphibians and a glass-walled beehive.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.friendsoforegonridge.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Marshy Point Nature Center",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife",
+   "free"
+  ],
+  "lat": 39.35054,
+  "lng": -76.37878,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Live turtles, snakes and tanks of upper Bay fish, with exhibits on the Dundee and Saltpeter Creek marshes; a short path leads down to the water.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.marshypoint.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Havre de Grace Decoy Museum",
+  "kind": "museum",
+  "tags": [
+   "wildlife",
+   "art",
+   "historic",
+   "maritime"
+  ],
+  "lat": 39.539859,
+  "lng": -76.08689,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "More than 1,200 working and decorative decoys and the tools of the Susquehanna Flats carvers, with figures of the carvers in a recreated workshop.",
+  "facts": {
+   "fee": "$8 adult"
+  },
+  "url": "https://decoymuseum.com/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Havre de Grace Maritime Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "historic"
+  ],
+  "lat": 39.540431,
+  "lng": -76.086095,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Upper Bay boatbuilding, fishing and Underground Railroad exhibits, a wooden boat shop and an environmental center, a block from Concord Point Lighthouse.",
+  "facts": {
+   "fee": "$5 adult",
+   "hours": "Wed-Sat 10-5, Sun 1-5; closed Mon-Tue"
+  },
+  "url": "https://www.hdgmaritimemuseum.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Fort McHenry National Monument",
+  "kind": "fort",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 39.263333,
+  "lng": -76.58,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The visitor center film ends with the flag revealed through the window. Then walk the star fort's brick barracks, powder magazine and bombproofs.",
+  "facts": {
+   "fee": "$15 per person"
+  },
+  "url": "https://www.nps.gov/fomc/planyourvisit/hours.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lexington Market",
+  "kind": "market",
+  "tags": [
+   "historic",
+   "free"
+  ],
+  "lat": 39.29189,
+  "lng": -76.62175,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Public market founded in 1782, in a new market shed since 2022: Faidley's crab cakes and dozens of food stalls under one roof.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Mon-Sat; closed Sun"
+  },
+  "url": "https://lexingtonmarket.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Jericho Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.459444,
+  "lng": -76.387778,
+  "town": "Kingsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1865 Burr arch covered bridge still carrying cars over the Little Gunpowder Falls, beside the stone buildings of Jerusalem Mill village.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://jerusalemmill.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "NASA Goddard Visitor Center",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "free"
+  ],
+  "lat": 38.992753,
+  "lng": -76.846911,
+  "town": "Greenbelt",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small free NASA museum: Hubble and Webb telescope exhibits, a Science on a Sphere globe theater, a Gemini capsule model and a rocket garden outside.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Thu-Fri 10-3, Sat 12-4; closed federal holidays"
+  },
+  "url": "https://www.nasa.gov/goddard/visitor-center/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Wildlife Visitor Center (Patuxent Research Refuge)",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife",
+   "science",
+   "free"
+  ],
+  "lat": 39.026304,
+  "lng": -76.79896,
+  "town": "Laurel",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Large exhibit hall on wildlife research, habitats and endangered species such as the whooping crane, with viewing windows over Lake Redington.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sat 10-4; closed federal holidays"
+  },
+  "url": "https://www.fws.gov/refuge/patuxent-research/visit-us",
+  "coord_source": "photon"
+ },
+ {
+  "name": "College Park Aviation Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "historic"
+  ],
+  "lat": 38.978837,
+  "lng": -76.922255,
+  "town": "College Park",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "On the world's oldest continuously operating airport (1909): Wright-era aircraft, early mail planes and hands-on flight simulators in one bright hangar.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun 10-4; closed Mon"
+  },
+  "url": "https://www.pgparks.com/facilities/college-park-aviation-museum",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Capital Trolley Museum",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic"
+  ],
+  "lat": 39.095833,
+  "lng": -77.031389,
+  "town": "Colesville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Streetcars from Washington and European cities in a display hall, a model of a 1930s streetcar line, and rides on a mile of track through the woods.",
+  "facts": {
+   "fee": "$15 adult",
+   "hours": "Saturdays 12-5; also Fridays 10-3 in season"
+  },
+  "url": "https://www.dctrolley.org/plan-your-visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Museum of Health and Medicine",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "weird",
+   "military",
+   "free"
+  ],
+  "lat": 39.008889,
+  "lng": -77.053889,
+  "town": "Silver Spring",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Army medical museum begun in 1862: the bullet that killed Lincoln, skeletal and brain specimens, a human hairball, old microscopes and battlefield surgery kits.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sun 10-5:30"
+  },
+  "url": "https://medicalmuseum.health.mil/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Capital Radio & Television Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "weird",
+   "historic"
+  ],
+  "lat": 38.926305,
+  "lng": -76.73332,
+  "town": "Bowie",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "A 1906 farmhouse filled with working radios and televisions, from 1920s crystal sets to early color TVs, shown by volunteer guides.",
+  "facts": {
+   "fee": "$7 adult",
+   "hours": "Fri 9-4, Sat-Sun 12-4"
+  },
+  "url": "https://ncrtv.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Fort Washington Park",
+  "kind": "fort",
+  "tags": [
+   "military",
+   "historic",
+   "free"
+  ],
+  "lat": 38.710833,
+  "lng": -77.033056,
+  "town": "Fort Washington",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1824 masonry fort above the Potomac: walk through the sally port, casemates, barracks and gun positions; later concrete batteries dot the grounds.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Visitor center Wed-Sun"
+  },
+  "url": "https://www.nps.gov/fowa/planyourvisit/hours.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Smithsonian National Museum of Natural History",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "fossils",
+   "geology",
+   "free"
+  ],
+  "lat": 38.8913,
+  "lng": -77.0259,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "The Hope Diamond and the gem and mineral hall, the Deep Time fossil hall with a T. rex, human origins, mummies and an ocean hall with a giant squid.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://naturalhistory.si.edu/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Smithsonian National Air and Space Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "historic",
+   "free"
+  ],
+  "lat": 38.888333,
+  "lng": -77.02,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "The 1903 Wright Flyer, Spirit of St. Louis, the Apollo 11 command module and a touchable moon rock. Renovated galleries have been reopening in stages.",
+  "facts": {
+   "fee": "Free",
+   "reserve": "free timed-entry pass required"
+  },
+  "url": "https://airandspace.si.edu/visit/museum-dc",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Smithsonian National Postal Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "weird",
+   "free"
+  ],
+  "lat": 38.898056,
+  "lng": -77.008333,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Under the old City Post Office beside Union Station: airmail planes hanging in the atrium, a railway mail car, Owney the stuffed postal dog and a rare stamp gallery.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://postalmuseum.si.edu/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Gallery of Art",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.8914,
+  "lng": -77.02,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "The West Building holds the only Leonardo painting in the Americas; a moving walkway through a tunnel of lights leads to the modern East Building.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.nga.gov/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Museum of Asian Art (Peacock Room)",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.8883,
+  "lng": -77.0275,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Whistler's Peacock Room, a complete blue-and-gold 1870s London dining room, plus ancient Chinese bronzes and jades and Japanese screens.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://asia.si.edu/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "International Spy Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "science"
+  ],
+  "lat": 38.884,
+  "lng": -77.026,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Largest public collection of espionage gear: a lipstick pistol, bugs, an Enigma machine and a Bond Aston Martin, with an undercover-mission game running through it.",
+  "facts": {
+   "fee": "Paid admission",
+   "reserve": "advance timed tickets recommended"
+  },
+  "url": "https://www.spymuseum.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Eastern Market",
+  "kind": "market",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 38.886389,
+  "lng": -76.996667,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "1873 brick market hall on Capitol Hill with butchers, bakers, cheese, fish and produce stalls and a lunch counter.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sat 8-6, Sun 8-5; closed Mon"
+  },
+  "url": "https://easternmarket-dc.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "DAR Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "art",
+   "free"
+  ],
+  "lat": 38.893947,
+  "lng": -77.039968,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "31 period rooms furnished by state chapters, from a 1690s hall to a 1930s kitchen, plus quilts and decorative arts, in Memorial Continental Hall.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Mon-Fri 10-4, Sat 10-5; closed Sun and federal holidays"
+  },
+  "url": "https://www.dar.org/museum/visit",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Smithsonian National Zoo (indoor houses)",
+  "kind": "aquarium",
+  "tags": [
+   "wildlife",
+   "free"
+  ],
+  "lat": 38.931111,
+  "lng": -77.049722,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "A rainy-day route: Amazonia's indoor rainforest with free-flying birds and an aquarium level, the Reptile Discovery Center and the Small Mammal House.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Animal buildings 9-3:30",
+   "reserve": "free entry pass required"
+  },
+  "url": "https://nationalzoo.si.edu/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Steven F. Udvar-Hazy Center",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "military",
+   "free"
+  ],
+  "lat": 38.911389,
+  "lng": -77.444167,
+  "town": "Chantilly",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Two vast hangars holding Space Shuttle Discovery, an SR-71 Blackbird, the Enola Gay and a Concorde, plus an observation tower and a restoration hangar overlook.",
+  "facts": {
+   "fee": "Free (parking $15)"
+  },
+  "url": "https://airandspace.si.edu/visit/udvar-hazy-center",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Museum of the Marine Corps",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic",
+   "free"
+  ],
+  "lat": 38.544139,
+  "lng": -77.343361,
+  "town": "Triangle",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Walk-through immersive galleries, including a chilled Chosin Reservoir scene and a Vietnam hilltop landing, under a 210-foot tilted spire.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.usmcmuseum.com/plan-your-visit.html",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Museum of the United States Army",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic",
+   "free"
+  ],
+  "lat": 38.7225,
+  "lng": -77.17,
+  "town": "Fort Belvoir",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Chronological galleries of soldier stories with a Sherman tank, a D-Day Higgins boat and a Huey helicopter, in a stainless-steel building opened in 2020.",
+  "facts": {
+   "fee": "Free",
+   "reserve": "free timed ticket encouraged; walk-ups available"
+  },
+  "url": "https://www.thenmusa.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Stabler-Leadbeater Apothecary Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "science"
+  ],
+  "lat": 38.804722,
+  "lng": -77.0425,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Family pharmacy that ran from 1792 to 1933 and was left intact: hand-blown bottles with original contents, and an upstairs room of labeled herb drawers.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Closed Tue year-round and Mon in fall and winter"
+  },
+  "url": "https://www.alexandriava.gov/Apothecary",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Torpedo Factory Art Center",
+  "kind": "interior",
+  "tags": [
+   "art",
+   "industrial",
+   "free"
+  ],
+  "lat": 38.804856,
+  "lng": -77.039795,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Former naval torpedo plant with three floors of open artist studios you can walk into, plus the Alexandria Archaeology Museum upstairs.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://torpedofactory.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Colvin Run Mill",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic"
+  ],
+  "lat": 38.968889,
+  "lng": -77.293889,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Working c.1811 water-powered gristmill; weekend tours go inside among the wooden gears, and the general store sells the meal it grinds.",
+  "facts": {
+   "fee": "Paid admission (mill tour)",
+   "hours": "Mill tours Sat-Sun; general store Thu-Sun 11-4"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/colvin-run-mill",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lucy Burns Museum at the Workhouse",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "weird",
+   "art",
+   "free"
+  ],
+  "lat": 38.698083,
+  "lng": -77.254778,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Museum of the D.C. prison at Lorton in a former cell block: exhibits on the suffragists jailed here in 1917 and a guided walk through the cells. Art studios fill the old dormitories.",
+  "facts": {
+   "fee": "Free (cellblock tour $5)",
+   "hours": "Thu-Sat 11-6, Sun 12-5"
+  },
+  "url": "https://www.workhousearts.org/lorton-prison-museum/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "DEA Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "free"
+  ],
+  "lat": 38.864666,
+  "lng": -77.058122,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Free museum inside DEA headquarters on the history of drugs and drug enforcement, from patent medicines and opium dens to cartel cases and seized trafficker items.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sat 10-4"
+  },
+  "url": "https://museum.dea.gov/visit",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Inventors Hall of Fame Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "free"
+  ],
+  "lat": 38.8014,
+  "lng": -77.064,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Free museum in the atrium of the U.S. Patent and Trademark Office: a gallery of inductee icons and hands-on displays on patents and trademarks.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Mon-Fri 10-4 plus first Saturday of the month 11-3"
+  },
+  "url": "https://www.invent.org/museum/plan-your-visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "The Cold War Museum",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "weird",
+   "historic"
+  ],
+  "lat": 38.7431,
+  "lng": -77.6765,
+  "town": "Vint Hill",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Volunteer-run collection on a former Army signals intelligence base: spy cameras, Stasi and Soviet gear, U-2 and Cuban Missile Crisis items.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Sat 11-4, Sun 1-4; weekdays by appointment"
+  },
+  "url": "https://coldwar.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Pope-Leighey House",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic"
+  ],
+  "lat": 38.719431,
+  "lng": -77.135981,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Frank Lloyd Wright's 1,200-square-foot Usonian house of cypress, brick and glass, shown by guided tour on the Woodlawn estate.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Thu-Mon 10-4, Apr 16-Dec 28, 2026"
+  },
+  "url": "https://www.woodlawnpopeleighey.org/tourinformation",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Aldie Mill",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic",
+   "free"
+  ],
+  "lat": 38.975231,
+  "lng": -77.641032,
+  "town": "Aldie",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Restored 1807-09 brick gristmill with rare tandem metal waterwheels; volunteers run the machinery and grind grain on open weekends.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Sat-Sun 11-4 in season; closed Nov 2 to Mar 30"
+  },
+  "url": "https://www.novaparks.com/parks/aldie-mill-historic-park",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Museum of the Shenandoah Valley",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "art",
+   "garden"
+  ],
+  "lat": 39.18542,
+  "lng": -78.179874,
+  "town": "Winchester",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Valley history and decorative arts, a gallery of furnished miniature houses and the Glen Burnie house, with seven acres of gardens outside.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun 10-5; closed Mon"
+  },
+  "url": "https://www.themsv.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Hugh Mercer Apothecary Shop",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "science"
+  ],
+  "lat": 38.304493,
+  "lng": -77.460306,
+  "town": "Fredericksburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Costumed guides demonstrate 18th-century medicine in Dr. Hugh Mercer's shop: leeches, lancets, snakeroot and silver-coated pills. Tours start as guests arrive.",
+  "facts": {
+   "fee": "$12 adult"
+  },
+  "url": "https://www.washingtonheritagemuseums.org/museums/hugh-mercer-apothecary-shop",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Blue Ridge Tunnel",
+  "kind": "tunnel",
+  "tags": [
+   "tunnel",
+   "railway",
+   "historic",
+   "weird",
+   "free"
+  ],
+  "lat": 38.0383,
+  "lng": -78.8625,
+  "town": "Afton",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Claudius Crozet's 1858 railroad tunnel, 4,273 feet through the Blue Ridge and unlit: you walk it by flashlight with water dripping from bare rock. Trailheads at both ends.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.blueridgetunnel.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Meems Bottom Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 38.720556,
+  "lng": -78.655556,
+  "town": "Mount Jackson",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "204-foot single-span Burr arch bridge of 1894 over the North Fork of the Shenandoah, the longest covered bridge in Virginia and still open to cars.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Meems_Bottom_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Camera Heritage Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "science",
+   "historic"
+  ],
+  "lat": 38.149608,
+  "lng": -79.072799,
+  "town": "Staunton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "A downtown storefront packed with thousands of cameras, from 19th-century plate cameras to spy and aerial cameras, shown by the people who collected them.",
+  "facts": {
+   "fee": "Paid admission (donation)",
+   "hours": "Mon-Fri 9-4, Sat 9-2; closed Sun"
+  },
+  "url": "https://www.cameraheritagemuseum.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Edinburg Mill (Shenandoah Valley Cultural Heritage Museum)",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.820556,
+  "lng": -78.568333,
+  "town": "Edinburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "1848 mill that survived Sheridan's burning of the valley, now three floors of local history: farm tools, Civil War items and odd community collections.",
+  "facts": {
+   "fee": "$3 donation for the museum floors"
+  },
+  "url": "https://www.edinburgmill.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Virginia Museum of the Civil War",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 38.666111,
+  "lng": -78.668333,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Museum on the 1864 Battle of New Market, where VMI cadets charged, with a film and artifacts; the Bushong farm on the battlefield is outside.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://www.vmi.edu/research/museums-and-archives/vmcw/",
+  "coord_source": "wikipedia (New Market Battlefield State Historical Park)"
+ },
+ {
+  "name": "National Museum of Civil War Medicine",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "science",
+   "military",
+   "weird"
+  ],
+  "lat": 39.413857,
+  "lng": -77.409312,
+  "town": "Frederick",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Two floors on Civil War medicine: surgical kits, an amputation scene, a field ambulance and embalming, in a building embalmers used after Antietam.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://www.civilwarmed.org/nmcwm/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Washington County Museum of Fine Arts",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "free"
+  ],
+  "lat": 39.637167,
+  "lng": -77.73161,
+  "town": "Hagerstown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Free art museum in City Park with American paintings, old masters and a glass-roofed courtyard.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Sun 10-5; closed Mon"
+  },
+  "url": "https://wcmfa.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Hagerstown Roundhouse Museum",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic"
+  ],
+  "lat": 39.642778,
+  "lng": -77.734167,
+  "town": "Hagerstown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Model train layouts and artifacts from the railroads that met in Hagerstown, with photographs of the demolished Western Maryland roundhouse.",
+  "facts": {
+   "fee": "$6 adult",
+   "hours": "Fri-Sun 12-4"
+  },
+  "url": "https://roundhouse.org/portfolio/hours-and-admission/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Paw Paw Tunnel",
+  "kind": "tunnel",
+  "tags": [
+   "tunnel",
+   "historic",
+   "weird",
+   "free"
+  ],
+  "lat": 39.555556,
+  "lng": -78.462778,
+  "town": "Oldtown",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "3,118-foot brick-lined C&O Canal tunnel finished in 1850. Walk the towpath through the dark by flashlight, about half a mile from the parking lot; dry once you are inside.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/paw-paw-tunnel.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Harpers Ferry Lower Town Museums",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "military"
+  ],
+  "lat": 39.322778,
+  "lng": -77.729722,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Lower Town's restored buildings hold a string of small museums: John Brown's Fort, a dry goods store, and exhibits on the armory, the raid and the Civil War.",
+  "facts": {
+   "fee": "Paid admission (park entrance fee)",
+   "hours": "Museums daily 9-5"
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hours.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Berkeley Springs State Park (Roman Bath House)",
+  "kind": "interior",
+  "tags": [
+   "historic",
+   "weird",
+   "geology"
+  ],
+  "lat": 39.626667,
+  "lng": -78.227778,
+  "town": "Berkeley Springs",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Warm 74-degree mineral springs in a town-square park: soak in a private tub in the 1815 Roman Bath House. A small museum of the springs is upstairs.",
+  "facts": {
+   "fee": "Paid admission (baths)",
+   "hours": "Check park for bath hours and prices (not confirmed)"
+  },
+  "url": "https://wvstateparks.com/parks/berkeley-springs-state-park/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Utica Mills Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.524444,
+  "lng": -77.396111,
+  "town": "Lewistown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "101-foot Burr arch bridge, half of a longer Monocacy River span rebuilt here over Fishing Creek after the 1889 flood. Open to cars.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Utica_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Loys Station Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.608611,
+  "lng": -77.351389,
+  "town": "Rocky Ridge",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "90-foot bridge over Owens Creek, rebuilt on its original timbers after a 1991 arson. Drive through, then stop at the park beside it.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Loys_Station_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Roddy Road Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.640556,
+  "lng": -77.394167,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Smallest of Frederick County's three covered bridges, a 40-foot kingpost span over Owens Creek, rebuilt after a truck wrecked it in 2016.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Roddy_Road_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Museum of the Ironworker (Catoctin Furnace)",
+  "kind": "museum",
+  "tags": [
+   "industrial",
+   "historic",
+   "free"
+  ],
+  "lat": 39.576389,
+  "lng": -77.433889,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Forensic facial reconstructions of two enslaved furnace workers, iron goods and village history, a short walk from the standing furnace stack.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Fri-Sun 10-4"
+  },
+  "url": "https://catoctinfurnace.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Brunswick Heritage Museum",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic"
+  ],
+  "lat": 39.312978,
+  "lng": -77.628077,
+  "town": "Brunswick",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "A 1,700-square-foot HO-scale model of the B&O line from Washington to Brunswick fills the top floor; railroad town exhibits and C&O Canal displays below.",
+  "facts": {
+   "fee": "$5 suggested donation",
+   "hours": "Sat 10-4, Sun 1-4"
+  },
+  "url": "https://brunswickmuseum.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Gettysburg Museum & Visitor Center (Cyclorama)",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic",
+   "art"
+  ],
+  "lat": 39.811389,
+  "lng": -77.225833,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "The 377-foot Cyclorama painting of Pickett's Charge seen in the round with a diorama foreground, a film and a dozen galleries of battle artifacts.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://www.gettysburgfoundation.org/plan-your-visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Seminary Ridge Museum",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 39.832126,
+  "lng": -77.244379,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "In the 1832 seminary building that became a field hospital: exhibits on the first day's battle, the care of the wounded and the moral debates behind the war.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://www.seminaryridgemuseum.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Sachs Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "military",
+   "free"
+  ],
+  "lat": 39.797361,
+  "lng": -77.276111,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "100-foot Town lattice truss bridge of the 1850s, crossed by both armies in 1863. Closed to cars, so you walk through it.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sachs_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mister Ed's Elephant Museum & Candy Emporium",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "free"
+  ],
+  "lat": 39.898275,
+  "lng": -77.429948,
+  "town": "Orrtanna",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Roadside candy store with a museum room of more than 12,000 elephant figurines and oddities, on the Lincoln Highway west of Gettysburg.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://mistereds.com/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Watch and Clock Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "science",
+   "historic"
+  ],
+  "lat": 40.0371,
+  "lng": -76.5021,
+  "town": "Columbia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "More than 12,000 timepieces: tower clocks, automata, pocket watches and the 11-foot Engle Monumental Clock with 48 moving figures.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun; closed Mon"
+  },
+  "url": "https://www.nawcc.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Railroad Museum of Pennsylvania",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "industrial",
+   "historic"
+  ],
+  "lat": 39.9825,
+  "lng": -76.160278,
+  "town": "Strasburg",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Over 100 locomotives and cars, most inside a vast train hall you walk through, with a pit under a steam engine and a window into the restoration shop.",
+  "facts": {
+   "fee": "$10 adult",
+   "hours": "Wed-Sat 10-4, Sun 12-4; closed Mon-Tue"
+  },
+  "url": "https://www.rrmuseumpa.org/visit/hours-admissions",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lancaster Central Market",
+  "kind": "market",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 40.038265,
+  "lng": -76.306483,
+  "town": "Lancaster",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "The country's oldest continuously running public farmers market, in an 1889 brick market house: Amish produce, meats, baked goods and coffee.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue, Fri and Sat only, 6 am-3 pm"
+  },
+  "url": "https://centralmarketlancaster.com/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Ephrata Cloister",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "architecture",
+   "weird"
+  ],
+  "lat": 40.183406,
+  "lng": -76.188664,
+  "town": "Ephrata",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Medieval-style Germanic wooden buildings of an 18th-century celibate religious community: the steep-roofed meetinghouse and the Sisters' House with its low doors.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Wed-Sat 9-4, Sun 12-4; closed Mon-Tue"
+  },
+  "url": "https://ephratacloister.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Cornwall Iron Furnace",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic",
+   "architecture"
+  ],
+  "lat": 40.270556,
+  "lng": -76.406111,
+  "town": "Cornwall",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "The only intact charcoal cold-blast furnace complex in the Western Hemisphere. The guided tour goes inside the Gothic furnace building with its great wheel and blast machinery.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Check site for open days (not confirmed)"
+  },
+  "url": "https://www.cornwallironfurnace.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hunsecker's Mill Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 40.0872,
+  "lng": -76.2475,
+  "town": "Lancaster",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "At 180 feet the longest single-span covered bridge in Lancaster County, over the Conestoga River; rebuilt after Hurricane Agnes took the original.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.discoverlancaster.com/things-to-do/covered-bridges/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Kurtz's Mill Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 40.0135,
+  "lng": -76.2833,
+  "town": "Lancaster",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "1876 Burr arch bridge moved into Lancaster County Central Park after Hurricane Agnes; open to cars over Mill Creek.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://www.discoverlancaster.com/things-to-do/covered-bridges/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Civil War Museum",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 40.272034,
+  "lng": -76.855402,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Two floors covering the war from both sides, with life-size dioramas and a large artifact collection, on the hilltop of Reservoir Park.",
+  "facts": {
+   "fee": "$20 adult"
+  },
+  "url": "https://www.nationalcivilwarmuseum.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "AACA Museum",
+  "kind": "museum",
+  "tags": [
+   "industrial",
+   "historic"
+  ],
+  "lat": 40.298333,
+  "lng": -76.69,
+  "town": "Hershey",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Antique cars set in street scenes from the 1890s to the 1980s, a Tucker collection, and a lower level of buses and a diner.",
+  "facts": {
+   "fee": "$18 adult"
+  },
+  "url": "https://www.aacamuseum.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "U.S. Army Heritage and Education Center",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "historic",
+   "free"
+  ],
+  "lat": 40.205041,
+  "lng": -77.158561,
+  "town": "Carlisle",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Free Army history museum built on soldiers' own letters and gear, with a mile-long outdoor trail of trenches, a firebase and tanks if the rain lets up.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Mon-Sat 10-5; closed Sun"
+  },
+  "url": "https://ahec.armywarcollege.edu/visit.cfm",
+  "coord_source": "photon"
+ },
+ {
+  "name": "National Museum of Industrial History",
+  "kind": "museum",
+  "tags": [
+   "industrial",
+   "historic",
+   "science"
+  ],
+  "lat": 40.6128,
+  "lng": -75.371,
+  "town": "Bethlehem",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "In a 1913 Bethlehem Steel shop: huge machine tools shown at the 1876 Centennial, plus steel, silk and propane galleries, beside the blast furnaces.",
+  "facts": {
+   "fee": "$18 adult",
+   "hours": "Wed-Sun 10-5; closed Mon-Tue"
+  },
+  "url": "https://www.nmih.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mütter Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "science",
+   "historic"
+  ],
+  "lat": 39.953333,
+  "lng": -75.176667,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Medical museum of anatomical specimens in wood-and-glass cabinets: the Hyrtl skull collection, the Soap Lady and slides of Einstein's brain.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Wed-Mon 10-5; Tuesdays 3-8 through Oct 27",
+   "reserve": "advance tickets recommended on weekends"
+  },
+  "url": "https://muttermuseum.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Reading Terminal Market",
+  "kind": "market",
+  "tags": [
+   "historic",
+   "architecture",
+   "free"
+  ],
+  "lat": 39.953395,
+  "lng": -75.159008,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Market of 1893 under the old Reading Railroad train shed: about 80 merchants, Pennsylvania Dutch stalls, roast pork sandwiches and scrapple.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://readingterminalmarket.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Wagner Free Institute of Science",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "science",
+   "fossils",
+   "historic",
+   "free"
+  ],
+  "lat": 39.980556,
+  "lng": -75.163056,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Victorian natural history hall unchanged since the 1890s: 100,000 specimens in original cherry cases, including the first American saber-toothed cat found.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue-Fri 9:30-4:30; first Saturday of the month 12-4 (Sept-Dec, Feb-May)"
+  },
+  "url": "https://www.wagnerfreeinstitute.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Penn Museum",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "art",
+   "science"
+  ],
+  "lat": 39.949,
+  "lng": -75.1911,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "A 13-ton Egyptian sphinx, the royal tombs of Ur with Queen Puabi's headdress, Egyptian mummies and Maya stelae.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun 10-5; closed Mon"
+  },
+  "url": "https://www.penn.museum/visit/plan-your-visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Independence Seaport Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "military",
+   "historic"
+  ],
+  "lat": 39.94627,
+  "lng": -75.14023,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Maritime museum with a working boat shop; admission includes the 1892 cruiser Olympia, Dewey's flagship, and the WWII submarine Becuna.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Thu-Tue 10-5; closed Wed"
+  },
+  "url": "https://www.phillyseaport.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Science History Institute",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "weird",
+   "free"
+  ],
+  "lat": 39.949108,
+  "lng": -75.146533,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Free museum of chemistry and alchemy in Old City: early lab glassware and instruments, alchemical paintings and rare books.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sat 10-5"
+  },
+  "url": "https://www.sciencehistory.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Brandywine Museum of Art",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "industrial"
+  ],
+  "lat": 39.8699,
+  "lng": -75.593,
+  "town": "Chadds Ford",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Three generations of Wyeths, with N.C. Wyeth's illustrations, in a converted 1864 gristmill with glass-walled lobbies over the Brandywine.",
+  "facts": {
+   "fee": "$20 adult",
+   "hours": "Wed-Mon 9:30-4:30; closed Tue"
+  },
+  "url": "https://www.brandywine.org/museum/visit",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Christian C. Sanderson Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 39.87289,
+  "lng": -75.591065,
+  "town": "Chadds Ford",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "One collector's house crammed with oddities: melted ice from the South Pole, sand from the digging of the Panama Canal, Wyeth sketches and battle relics.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Sat-Sun 12-4 (season began Mar 1)"
+  },
+  "url": "https://sandersonmuseum.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Newlin Grist Mill",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic"
+  ],
+  "lat": 39.890235,
+  "lng": -75.505495,
+  "town": "Glen Mills",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Water-powered gristmill of 1704, still able to grind, with a guided tour of the wooden gears and millstones; a blacksmith shop is nearby.",
+  "facts": {
+   "fee": "$10 adult",
+   "hours": "Mill tours on weekends at 11, 1 and 2"
+  },
+  "url": "https://newlingristmill.org/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "American Treasure Tour Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "industrial"
+  ],
+  "lat": 40.127517,
+  "lng": -75.453486,
+  "town": "Oaks",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "A tram ride through a former tire factory filled with nickelodeons, band organs, classic cars, store displays and thousands of stuffed animals.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Fri-Sat 10-8, Sun-Mon 10-5; closed Tue-Thu"
+  },
+  "url": "https://www.americantreasuretour.com/general-admission",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Fort Mifflin",
+  "kind": "fort",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 39.8753,
+  "lng": -75.213,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Stone and brick fort on the Delaware beside the airport, besieged in 1777: walk the casemates, bombproofs, powder magazine and barracks as jets come in low overhead.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Mar 1-Dec 15, Wed-Sun 10-4"
+  },
+  "url": "https://www.fortmifflin.us/plan-your-visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hagley Museum",
+  "kind": "museum",
+  "tags": [
+   "industrial",
+   "historic",
+   "science"
+  ],
+  "lat": 39.780556,
+  "lng": -75.575,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Site of the du Pont black powder works: a visitor center with patent models, a working machine shop and the family's first home. The powder yards are outdoors.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Closed Wednesdays; 10-5 other days"
+  },
+  "url": "https://www.hagley.org/hours-tickets",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Winterthur Museum",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "historic",
+   "architecture"
+  ],
+  "lat": 39.805833,
+  "lng": -75.600833,
+  "town": "Winterthur",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Henry Francis du Pont's 175-room house of American furniture and decorative arts, plus museum galleries; the garden is outdoors.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sun 10-5; closed Mon"
+  },
+  "url": "https://www.winterthur.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Nemours Estate",
+  "kind": "interior",
+  "tags": [
+   "architecture",
+   "historic",
+   "garden"
+  ],
+  "lat": 39.7766,
+  "lng": -75.558,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Alfred I. du Pont's 77-room French-style mansion, self-guided, and a chauffeur's garage of vintage cars; formal gardens outside.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Apr 1-Dec 30, Tue-Sun 10-5"
+  },
+  "url": "https://www.nemoursestate.org/visit.html",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Delaware Museum of Nature & Science",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "wildlife",
+   "fossils"
+  ],
+  "lat": 39.798337,
+  "lng": -75.609855,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Rebuilt and reopened in 2022: a giant squid overhead, dinosaurs, a coral reef under a glass floor and galleries on regional and world ecosystems.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://delmns.org/visit/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Air Mobility Command Museum",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "science",
+   "free"
+  ],
+  "lat": 39.118692,
+  "lng": -75.456643,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Free: a WWII hangar full of aircraft and exhibits, with big cargo and tanker planes parked outside, some open to walk through.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sun 9-4; closed Mon-Tue and most federal holidays"
+  },
+  "url": "https://www.amcmuseum.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Zwaanendael Museum",
+  "kind": "museum",
+  "tags": [
+   "weird",
+   "historic",
+   "maritime",
+   "free"
+  ],
+  "lat": 38.774053,
+  "lng": -75.13918,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Built to resemble the town hall of Hoorn in the Netherlands. Exhibits on Lewes, the wreck of HMS DeBraak and a 'merman' stitched from fish and monkey.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sat 10-4:15"
+  },
+  "url": "https://history.delaware.gov/zwaanendael-museum/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Fort Delaware",
+  "kind": "fort",
+  "tags": [
+   "military",
+   "historic"
+  ],
+  "lat": 39.59,
+  "lng": -75.571944,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Granite and brick Civil War prison fort on Pea Patch Island, reached by ferry from Delaware City: casemates, cells and ramparts with costumed interpreters.",
+  "facts": {
+   "fee": "$15 adult (ferry ticket)",
+   "hours": "Seasonal: 2026 season ended Sept 27; reopens in spring"
+  },
+  "url": "https://www.destateparks.com/park/fort-delaware/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Miles Museum (Battery 519)",
+  "kind": "fort",
+  "tags": [
+   "military",
+   "historic",
+   "tunnel"
+  ],
+  "lat": 38.777222,
+  "lng": -75.086944,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "WWII coastal defense in the dunes of Cape Henlopen: tours go inside Battery 519, a gun battery buried in a dune, with big guns displayed outside.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Check site for Battery 519 tour times (not confirmed)"
+  },
+  "url": "https://www.destateparks.com/park/fort-miles/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "DiscoverSea Shipwreck Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "weird",
+   "historic",
+   "free"
+  ],
+  "lat": 38.457352,
+  "lng": -75.052475,
+  "town": "Fenwick Island",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Free museum upstairs from a shell shop: coins, cannon, bottles and thousands of artifacts recovered from Delmarva shipwrecks.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Oct-Nov Sat-Sun 11-3; closed Dec-Mar"
+  },
+  "url": "https://www.discoversea.com/",
+  "coord_source": "photon (708 Coastal Highway)"
+ },
+ {
+  "name": "Ashland Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.798275,
+  "lng": -75.657883,
+  "town": "Hockessin",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "52-foot Town lattice bridge from about 1860 over Red Clay Creek, open to cars, beside the Ashland Nature Center.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Ashland_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chesapeake Bay Maritime Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "lighthouse",
+   "historic"
+  ],
+  "lat": 38.787343,
+  "lng": -76.220229,
+  "town": "St. Michaels",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "18-acre campus: climb inside the 1879 Hooper Strait Lighthouse, watch a working shipyard and tour buildings on oystering, crabbing and waterfowling.",
+  "facts": {
+   "fee": "Paid admission"
+  },
+  "url": "https://cbmm.org/plan-your-visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Harriet Tubman Underground Railroad Visitor Center",
+  "kind": "museum",
+  "tags": [
+   "historic",
+   "free"
+  ],
+  "lat": 38.4483,
+  "lng": -76.1387,
+  "town": "Church Creek",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Exhibit hall telling Harriet Tubman's life in the marsh country where she was enslaved, with a film and sculpture; Blackwater refuge is next door.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Wed-Sun 10-4"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/tubman.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Blackwater National Wildlife Refuge Visitor Center",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife"
+  ],
+  "lat": 38.444855,
+  "lng": -76.119572,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Visitor center with eagle and osprey cams, exhibits and an upstairs observatory over the marsh; the Wildlife Drive can be done from the car in rain.",
+  "facts": {
+   "fee": "Paid admission (Wildlife Drive pass)",
+   "hours": "Wildlife Drive closes on some hunt days (Oct 22-23, Dec 4)"
+  },
+  "url": "https://www.fws.gov/refuge/blackwater/visit-us",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Wye Grist Mill",
+  "kind": "mill",
+  "tags": [
+   "industrial",
+   "historic",
+   "free"
+  ],
+  "lat": 38.941389,
+  "lng": -76.081389,
+  "town": "Wye Mills",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Oldest working mill in Maryland, grinding since 1682; it shipped flour to Washington's army. A small exhibit and the stones and gears inside.",
+  "facts": {
+   "fee": "Free",
+   "hours": "May-Oct only: Wed-Sat 10-3, Sun 1-3"
+  },
+  "url": "https://www.oldwyemill.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Ocean City Life-Saving Station Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "historic"
+  ],
+  "lat": 38.325556,
+  "lng": -75.088056,
+  "town": "Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1891 life-saving station at the boardwalk inlet: surf rescue gear, shipwreck artifacts, sands of the world and saltwater aquariums.",
+  "facts": {
+   "fee": "$6 adult",
+   "hours": "Daily 10-5 May-Oct; Sat-Sun 10-1:30 Nov-Apr"
+  },
+  "url": "https://www.ocmuseum.org/visit-1",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "NASA Wallops Flight Facility Visitor Center",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "free"
+  ],
+  "lat": 37.938434,
+  "lng": -75.457523,
+  "town": "Wallops Island",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Free NASA visitor center on sounding rockets, scientific balloons and launches from Wallops, with a rooftop deck facing the launch range.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Thu-Sat 10-3"
+  },
+  "url": "https://www.nasa.gov/wallops/visitor-center/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Delmarva Discovery Museum",
+  "kind": "museum",
+  "tags": [
+   "wildlife",
+   "historic",
+   "maritime"
+  ],
+  "lat": 38.075905,
+  "lng": -75.570359,
+  "town": "Pocomoke City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Pocomoke River museum with live river otters, a large aquarium of local fish, a walk-in steamboat deck and exhibits on Native people and watermen.",
+  "facts": {
+   "fee": "$10 adult",
+   "hours": "Tue-Sat 11-4; closed Sun-Mon"
+  },
+  "url": "https://www.delmarvadiscoverycenter.org/planyourtrip",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Massey Air Museum",
+  "kind": "museum",
+  "tags": [
+   "science",
+   "weird",
+   "free"
+  ],
+  "lat": 39.299167,
+  "lng": -75.799444,
+  "town": "Massey",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Grass-strip airport with a hangar museum: antique aircraft, a DC-3, engines and a restoration shop.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Tue, Fri, Sat, Sun 11-4"
+  },
+  "url": "https://www.masseyaero.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mermaid Museum",
+  "kind": "museum",
+  "tags": [
+   "weird"
+  ],
+  "lat": 38.324324,
+  "lng": -75.219069,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small upstairs museum of mermaid lore: a Fiji mermaid, sideshow curios, art and film memorabilia.",
+  "facts": {
+   "fee": "$11",
+   "hours": "Sat-Sun 10-5 off-season (until December)"
+  },
+  "url": "https://www.berlinmermaidmuseum.com/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Gilpin's Falls Covered Bridge",
+  "kind": "covered-bridge",
+  "tags": [
+   "bridge",
+   "historic",
+   "free"
+  ],
+  "lat": 39.648833,
+  "lng": -75.955583,
+  "town": "North East",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "119-foot Burr arch bridge of 1860 over North East Creek, the longest covered bridge standing in Maryland. Walk-through only, beside Route 272.",
+  "facts": {
+   "fee": "Free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gilpin%27s_Falls_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Academy Art Museum",
+  "kind": "museum",
+  "tags": [
+   "art",
+   "free"
+  ],
+  "lat": 38.77215,
+  "lng": -76.07407,
+  "town": "Easton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Free art museum partly in an 1820s schoolhouse, with changing exhibitions and a strong collection of works on paper.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Closed Mon"
+  },
+  "url": "https://academyartmuseum.org/visit/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Calvert Marine Museum",
+  "kind": "museum",
+  "tags": [
+   "maritime",
+   "fossils",
+   "wildlife",
+   "lighthouse"
+  ],
+  "lat": 38.331111,
+  "lng": -76.463333,
+  "town": "Solomons",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "A megalodon skeleton and Miocene fossils from Calvert Cliffs, river otters and Bay aquariums, a boat shed and the Drum Point screwpile lighthouse you can go inside.",
+  "facts": {
+   "fee": "$11 adult"
+  },
+  "url": "https://www.calvertmarinemuseum.com/27/Visitor-Information",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Battle Creek Cypress Swamp Sanctuary",
+  "kind": "nature-center",
+  "tags": [
+   "wildlife",
+   "free"
+  ],
+  "lat": 38.494444,
+  "lng": -76.594167,
+  "town": "Prince Frederick",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Nature center with live animals, then a quarter-mile boardwalk through one of the northernmost bald cypress stands, at its moodiest in rain.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Mon-Fri 9-4:30, Sat 10-4:30, Sun 1-4:30"
+  },
+  "url": "https://www.calvertparks.org/bccss.html",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chesapeake Beach Railway Museum",
+  "kind": "museum",
+  "tags": [
+   "railway",
+   "historic",
+   "free"
+  ],
+  "lat": 38.69,
+  "lng": -76.534167,
+  "town": "Chesapeake Beach",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Free museum in the 1898 station of the railway that carried Washingtonians to the Bay resort, with photos, models and a surviving passenger car.",
+  "facts": {
+   "fee": "Free",
+   "hours": "Daily 1-4 in the 2026 season"
+  },
+  "url": "https://chesapeakebeachrailwaymuseum.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Patuxent River Naval Air Museum",
+  "kind": "museum",
+  "tags": [
+   "military",
+   "science"
+  ],
+  "lat": 38.276225,
+  "lng": -76.463465,
+  "town": "Lexington Park",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Navy flight-test history: simulators, engines and cockpits inside, and more than 20 test aircraft outside, including the X-35C prototype.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sat 10-5, Sun 12-5; closed Mon"
+  },
+  "url": "https://www.paxmuseum.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Historic St. Mary's City",
+  "kind": "museum",
+  "tags": [
+   "historic"
+  ],
+  "lat": 38.180863,
+  "lng": -76.429731,
+  "town": "St. Mary's City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Maryland's first capital. The St. John's Site Museum is built over a 1638 house foundation; the reconstructed State House and visitor center exhibits. Much is outdoors.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Tue-Sat 10-4 until November; then check site"
+  },
+  "url": "https://www.hsmcdigshistory.org/visit-us/",
+  "coord_source": "photon"
+ },
+ {
+  "name": "Dr. Samuel A. Mudd House Museum",
+  "kind": "museum",
+  "tags": [
+   "historic"
+  ],
+  "lat": 38.609444,
+  "lng": -76.826667,
+  "town": "Waldorf",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Farmhouse where Dr. Mudd set John Wilkes Booth's broken leg in 1865; guided tours show the couch and the bedroom Booth used.",
+  "facts": {
+   "fee": "Paid admission",
+   "hours": "Wed and Sat 11-3"
+  },
+  "url": "https://drmudd.org/",
+  "coord_source": "wikipedia"
+ }
+]

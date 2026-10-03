@@ -79,13 +79,14 @@ const STOP = new Set(['the', 'of', 'at', 'and', 'in', 'on', 'a', 'to', 'for', 'b
 const GENERIC = new Set(['park', 'state', 'national', 'trail', 'trails', 'area', 'natural', 'nature', 'preserve',
   'recreation', 'county', 'regional', 'memorial', 'site', 'historic', 'historical', 'center', 'loop', 'overlook',
   'falls', 'mountain', 'lake', 'beach', 'point', 'island', 'river', 'creek', 'forest', 'wildlife', 'refuge',
-  'sanctuary', 'management', 'resources', 'environmental', 'environment', 'ruins', 'old', 'hike', 'circuit', 'summit', 'scenic']);
+  'sanctuary', 'management', 'resources', 'environmental', 'environment', 'ruins', 'old', 'hike', 'circuit', 'summit', 'scenic',
+  'museum', 'house', 'visitor']);
 
 function tokens(name) {
   return String(name).toLowerCase()
     .normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/&/g, ' and ').replace(/['’`.]/g, '')
-    .replace(/\bmt\b/g, 'mount').replace(/\bst\b/g, 'saint').replace(/\bft\b/g, 'fort')
+    .replace(/\bmt\b/g, 'mount').replace(/\bst\b/g, 'saint').replace(/\bft\b/g, 'fort').replace(/\bpa\b/g, 'pennsylvania')
     .replace(/[^a-z0-9]+/g, ' ').trim().split(' ')
     .filter(w => w && !STOP.has(w));
 }
@@ -121,4 +122,22 @@ function sameCore(a, b) {
   return core(a) !== '' && core(a) === core(b);
 }
 
-module.exports = { stateAt, townIndex, tokens, norm, slug, nameMatch, sameCore, miles };
+// True when one name's distinctive words are all found in the other's:
+// "Fort Miles" and "Fort Miles Museum (Battery 519)". One shared word is not
+// enough ("National Aquarium" is not "Harbor Wetland at the National Aquarium").
+function coreInside(a, b) {
+  const core = n => new Set(tokens(n).filter(w => !GENERIC.has(w)));
+  const x = core(a), y = core(b);
+  const [small, big] = x.size <= y.size ? [x, y] : [y, x];
+  return small.size >= 2 && [...small].every(w => big.has(w));
+}
+
+// Share of distinctive words two names have in common (0..1)
+function coreOverlap(a, b) {
+  const core = n => new Set(tokens(n).filter(w => !GENERIC.has(w)));
+  const x = core(a), y = core(b);
+  const both = [...x].filter(w => y.has(w)).length;
+  return both / (x.size + y.size - both || 1);
+}
+
+module.exports = { stateAt, townIndex, tokens, norm, slug, nameMatch, sameCore, coreInside, coreOverlap, miles };

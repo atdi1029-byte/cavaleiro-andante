@@ -145,6 +145,7 @@ export function saveCustomPlace(place) {
 // Deleting leaves a marker behind so the other devices drop it too
 export function deleteCustomPlace(id) {
   if (!custom[id]) return;
+  if (state[id]) setFlags(id, 0);
   saveCustomPlace({ id, deleted: true });
 }
 

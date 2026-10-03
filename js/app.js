@@ -311,10 +311,10 @@ function drawDraft() {
   openSheet('add', ui.addDraftHtml(draft, draftStatus, draftType, distance));
 }
 
-// given: text shared from another app, or { name, lat, lng, url } from the Android shell
-async function startAdd(given) {
-  draft = typeof given === 'string' ? parseShared(given) : { ...parseShared(given.text || given.url || ''), ...given };
-  if (!validCoords(draft.lat, draft.lng)) { draft.lat = draft.lng = undefined; }
+// text: what another app shared ("Pot Rocks\nhttps://maps…"), or what was
+// typed into "Add a place". The Android shell expands short links first.
+async function startAdd(text) {
+  draft = parseShared(text);
   draftType = 'gems';
   draftStatus = validCoords(draft.lat, draft.lng) ? 'found' : 'looking';
   drawDraft();
