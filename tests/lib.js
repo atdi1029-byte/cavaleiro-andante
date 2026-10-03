@@ -44,7 +44,7 @@ function serve() {
 
 // A few made-up places around Pasadena, MD
 const PLACES = [
-  { id: 'seed:downspark', name: 'Downs Park', type: 'water', tags: ['water', 'waterfront', 'park'], lat: 39.110, lng: -76.439, where: 'Pasadena, MD', q: 90, desc: 'Bay-front county park.' },
+  { id: 'seed:downspark', name: 'Downs Park', type: 'water', tags: ['water', 'waterfront', 'park'], lat: 39.110, lng: -76.439, where: 'Pasadena, MD', q: 90, desc: 'Bay-front county park.', was: ['sw:downsmemorialpark'] },
   { id: 'c:kilgorefalls', name: 'Kilgore Falls', type: 'waterfall', tags: ['waterfall', 'water'], lat: 39.690, lng: -76.423, where: 'Pylesville, MD', q: 92 },
   { id: 'c:danielsruins', name: 'Daniels Ghost Town', type: 'gems', tags: ['gems', 'abandoned', 'ruins'], lat: 39.314, lng: -76.816, where: 'Ellicott City, MD', q: 76 },
   { id: 'osm:n1', name: 'Bodkin Overlook', type: 'viewpoint', tags: ['viewpoint', 'scenic'], lat: 39.132, lng: -76.440, where: 'Pasadena, MD', q: 42 },

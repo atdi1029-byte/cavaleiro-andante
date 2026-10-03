@@ -193,6 +193,23 @@ test('saved places from the first version of the app carry over', async rig => {
 });
 
 // ── Places of your own ──────────────────────────────────────
+test('a heart on a duplicate entry the rebuild folded away moves to the entry that is left', async rig => {
+  const a = await rig.device({
+    ca_favorites: JSON.stringify(['sw:downsmemorialpark']),
+    ca_visited: JSON.stringify(['sw:downsmemorialpark']),
+    ca_hidden: JSON.stringify(['seed:downspark']),      // he had hidden the other copy
+  });
+  await a.category('saved');
+  assert.deepStrictEqual(await a.names(), ['Downs Park']);
+  await rig.until(() => rig.sheet()['seed:downspark'] === 3 && rig.sheet()['sw:downsmemorialpark'] === 0, 'the sheet has it under the current id only');
+  // The same thing arriving later from a device that has not updated yet
+  rig.gas.get({ action: 'put', d: 's~sw:downsmemorialpark~1~' + (Math.floor(Date.now() / 1000) + 600) });
+  await a.open();
+  await rig.until(() => rig.sheet()['sw:downsmemorialpark'] === 0, 'folded again');
+  await a.category('saved');
+  assert.deepStrictEqual(await a.names(), ['Downs Park']);
+});
+
 test('a place added on another device shows up under My Places', async rig => {
   const place = { id: 'user:secret_cove', name: 'Secret Cove', type: 'water', tags: ['water'], lat: 39.05, lng: -76.45 };
   rig.gas.get({ action: 'put', d: `c~user:secret_cove~500~${b64(JSON.stringify(place))}!s~user:secret_cove~1~500` });

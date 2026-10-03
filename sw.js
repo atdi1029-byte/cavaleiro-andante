@@ -1,6 +1,6 @@
 // Service worker: keeps the app opening when there is no signal.
 // Bump CACHE after every change to the app's files.
-const CACHE = 'cavaleiro-v19';
+const CACHE = 'cavaleiro-v20';
 
 const SHELL = [
   './', './index.html', './style.css', './manifest.json',

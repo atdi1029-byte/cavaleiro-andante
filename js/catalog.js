@@ -6,6 +6,7 @@ import * as store from './store.js';
 
 let places = [];
 const byId = new Map();
+let aliases = [];   // [oldId, currentId] for entries the rebuild folded together
 
 export function allPlaces() { return places; }
 export function placeById(id) { return byId.get(id); }
@@ -26,9 +27,17 @@ export async function loadPlaces() {
   places = [];
   byId.clear();
   add(await res.json());
+  aliases = places.flatMap(p => (p.was || []).map(oldId => [oldId, p.id]));
+  store.adoptAliases(aliases);
   addCustom();
   await addArchived();
   return places;
+}
+
+// Run again after a pull from the cloud: another device may still be saving
+// under an old id
+export function adoptAliases() {
+  return store.adoptAliases(aliases);
 }
 
 // Places the user added by hand. Called again whenever they change, so it

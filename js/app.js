@@ -509,8 +509,10 @@ function wire() {
       catalog.addCustom();
       catalog.measureFrom(origin);
       refresh(true);
-      // Saved places pulled from the cloud may be ones the cleanup archived
+      // Saved places pulled from the cloud may be under an old id, or be ones
+      // the cleanup archived
       if (what === 'remote') {
+        catalog.adoptAliases();
         catalog.addArchived().then(added => {
           if (added) { catalog.measureFrom(origin); refresh(true); }
         });

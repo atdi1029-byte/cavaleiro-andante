@@ -123,8 +123,8 @@ test('each category has plenty to show, near home too', () => {
   need('top picks within 40 miles of home', count(near, p => p.q >= 80), 25);
 });
 
-test('old ids still resolve: kept in places.json or in archive.json', () => {
-  const now = new Set([...places.map(p => p.id), ...archive.map(r => r[0])]);
+test('old ids still resolve: kept, folded into another entry, or in archive.json', () => {
+  const now = new Set([...places.map(p => p.id), ...places.flatMap(p => p.was || []), ...archive.map(r => r[0])]);
   assert.deepStrictEqual(legacy.map(r => r[0]).filter(id => !now.has(id)), []);
   assert.ok(places.filter(p => p.id.startsWith('seed:')).length >= 70, "Alex's own list keeps its ids");
 });

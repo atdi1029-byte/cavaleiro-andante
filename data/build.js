@@ -397,12 +397,37 @@ async function main() {
   });
   out.sort((a, b) => b.q - a.q || a.name.localeCompare(b.name));
 
+  // Old ids that now mean one of these places. The old list often had the
+  // same park twice (Alex's entry and a swept one); whichever was saved, the
+  // app moves the heart to the one entry that is left ("was" in places.json).
+  const final = new Map(out.map(o => [o.id, o]));
+  const source = new Map(places.map(p => [p.id, p]));
+  const outNear = spatialIndex(out);
+  const byName = new Map(out.map(o => [o.name, o]));
+  const manual = JSON.parse(fs.readFileSync(path.join(__dirname, 'legacy', 'aliases.json'), 'utf8'));
+  const osmOwner = new Map();
+  for (const o of out) for (const k of [source.get(o.id).osm, ...(source.get(o.id).osmAlso || [])]) if (k && !osmOwner.has(k)) osmOwner.set(k, o);
+  const aliased = new Set();
+  for (const r of legacy) {
+    const [oldId, name, , lat, lng, osmKey] = r;
+    if (final.has(oldId) || aliased.has(oldId)) continue;
+    let target = manual[oldId] ? byName.get(manual[oldId]) : null;
+    if (manual[oldId] && !target) log(`  aliases.json: no place called "${manual[oldId]}" (for ${oldId})`);
+    if (!target && osmKey) target = osmOwner.get(osmKey);
+    if (!target) {
+      target = outNear(lat, lng, 3)
+        .filter(o => geo.norm(bare(o.name)) === geo.norm(bare(name)) || (geo.sameCore(bare(o.name), bare(name)) && miles(lat, lng, o.lat, o.lng) < 1.5))
+        .sort((a, b) => miles(lat, lng, a.lat, a.lng) - miles(lat, lng, b.lat, b.lng))[0];
+    }
+    if (target) { (target.was = target.was || []).push(oldId); aliased.add(oldId); }
+  }
+
   fs.writeFileSync(path.join(ROOT, 'places.json'), '[\n' + out.map(p => JSON.stringify(p)).join(',\n') + '\n]\n');
 
   // Old places that did not make it, in case one was saved
   const keptIds = new Set(out.map(p => p.id));
   const seen = new Set();
-  const archive = legacy.filter(r => !keptIds.has(r[0]) && !seen.has(r[0]) && seen.add(r[0]))
+  const archive = legacy.filter(r => !keptIds.has(r[0]) && !aliased.has(r[0]) && !seen.has(r[0]) && seen.add(r[0]))
     .map(r => [r[0], r[1], r[2], r[3], r[4]]);
   fs.writeFileSync(path.join(ROOT, 'archive.json'), '[\n' + archive.map(r => JSON.stringify(r)).join(',\n') + '\n]\n');
 
@@ -415,7 +440,7 @@ async function main() {
     ' with photo:', out.filter(p => p.img).length, ' with description:', out.filter(p => p.desc).length);
   const far = out.map(p => miles(HOME.lat, HOME.lng, p.lat, p.lng));
   log(`  farthest from home: ${Math.round(Math.max(...far))} mi;  within 30 mi: ${far.filter(d => d <= 30).length},  30-80: ${far.filter(d => d > 30 && d <= 80).length},  80+: ${far.filter(d => d > 80).length}`);
-  log(`  kept old ids: ${out.filter(p => /^(seed|sw|pk|wp):/.test(p.id)).length};  archive.json: ${archive.length.toLocaleString()} old places left out`);
+  log(`  kept old ids: ${out.filter(p => /^(seed|sw|pk|wp):/.test(p.id)).length};  old ids folded into another entry: ${aliased.size};  archive.json: ${archive.length.toLocaleString()} old places left out`);
   if (noCoords.length) log(`  curated without coordinates (left out): ${noCoords.join('; ')}`);
   if (dropped.outside.length) log(`  curated outside the covered area (left out): ${dropped.outside.join('; ')}`);
   const ids = count(out, p => p.id);

@@ -102,6 +102,30 @@ export function setDismissed(id, on) {
   setFlags(id, on ? (f | FLAG.BAD) & ~FLAG.SAVED : f & ~(FLAG.BAD | FLAG.HIDDEN));
 }
 
+// The 2026 rebuild folded duplicate entries together. pairs = [[oldId, id], …]
+// from places.json; a heart or "been there" on an old id moves to the entry
+// that replaced it. Hidden marks are not moved: hiding a duplicate was often
+// just tidying up.
+export function adoptAliases(pairs) {
+  let any = false;
+  for (const [oldId, id] of pairs) {
+    const carry = flags(oldId) & (FLAG.SAVED | FLAG.VISITED);
+    if (!carry) continue;
+    let merged = flags(id) | carry;
+    if (merged & FLAG.SAVED) merged &= ~(FLAG.BAD | FLAG.HIDDEN);
+    state[id] = [merged, after(state[id]?.[1])];
+    state[oldId] = [flags(oldId) & ~(FLAG.SAVED | FLAG.VISITED), after(state[oldId][1])];
+    for (const x of [id, oldId]) if (!dirty.s.includes(x)) dirty.s.push(x);
+    any = true;
+  }
+  if (any) {
+    write(KEY.state, state);
+    write(KEY.dirty, dirty);
+    changed('flags');
+  }
+  return any;
+}
+
 // ── Taste ───────────────────────────────────────────────────
 export function tasteWeights() {
   const out = { ...DEFAULT_TASTE };
