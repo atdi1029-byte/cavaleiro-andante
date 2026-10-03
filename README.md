@@ -57,8 +57,10 @@ node data/build.js         # merge with data/curated/, add Wikipedia photos and 
 
 One spreadsheet row per saved place, each with a timestamp; the newest change
 wins. A device only ever sends the rows it changed, so an empty or wiped
-device cannot erase anything. Deploy the script with
-`../.clasp/gas_deploy.sh cavaleiro`.
+device cannot erase anything. Marks carried over from the first version of
+the app (the web lists, the Android database) have no real date: they are
+stamped "imported", combined across devices, and lose to any dated change.
+Deploy the script with `../.clasp/gas_deploy.sh cavaleiro`.
 
 ## Tests
 
