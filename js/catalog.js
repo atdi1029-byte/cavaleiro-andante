@@ -46,17 +46,19 @@ export function addCustom() {
 // The 2026 cleanup removed thousands of junk entries (pocket parks, plaques,
 // unnamed path segments). If one of them was saved or marked "been there",
 // it is brought back from archive.json so nothing the user chose disappears.
-async function addArchived() {
+export async function addArchived() {
   const kept = store.idsWith(store.FLAG.SAVED | store.FLAG.VISITED);
-  if (kept.every(id => byId.has(id))) return;
+  if (kept.every(id => byId.has(id))) return false;
   try {
     const res = await fetch('archive.json');
-    if (!res.ok) return;
+    if (!res.ok) return false;
     const wanted = new Set(kept);
+    const before = places.length;
     add((await res.json())
       .filter(row => wanted.has(row[0]))
       .map(([id, name, type, lat, lng]) => ({ id, name, type, lat, lng, tags: [type], q: 30 })));
-  } catch { /* offline: they come back next time */ }
+    return places.length > before;
+  } catch { return false; /* offline: they come back next time */ }
 }
 
 // ── Distance ────────────────────────────────────────────────

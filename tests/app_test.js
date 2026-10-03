@@ -141,6 +141,13 @@ test('a wiped device cannot erase the sheet; it gets everything back', async rig
   assert.deepStrictEqual(rig.sheet(), { 'seed:downspark': 1, 'c:oldrag': 1 });
 });
 
+test('a saved place that the cleanup archived still shows after a restore from the cloud', async rig => {
+  rig.gas.get({ action: 'put', d: 's~sw:oldjunk~1~500!s~seed:downspark~1~500' });
+  const fresh = await rig.device();
+  await fresh.category('saved');
+  await rig.until(async () => (await fresh.names()).sort().join() === 'Downs Park,Old Junk Park', 'both, one of them from archive.json');
+});
+
 test('changes made with no signal are kept and sent later', async rig => {
   const a = await rig.device();
   rig.state.online = false;
