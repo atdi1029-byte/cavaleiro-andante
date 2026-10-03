@@ -1,0 +1,6 @@
+# Downloaded OpenStreetMap data and Wikipedia answers (rebuilt by data/sweep_osm.js and data/build.js)
+data/raw/
+data/cache/
+node_modules/
+__pycache__/
+.DS_Store

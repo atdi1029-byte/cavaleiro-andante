@@ -1,0 +1,3488 @@
+[
+ {
+  "name": "Old Rag Mountain (Ridge Trail circuit)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 38.57004,
+  "lng": -78.29374,
+  "town": "Etlan",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "The park's most popular hike: a mile of granite scrambling through cracks and over boulders to a 360-degree summit, then down the Saddle Trail and fire road. Very strenuous; allow 7-8 hours.",
+  "facts": {
+   "length_mi": 9.4,
+   "gain_ft": 2348,
+   "fee": "$30/vehicle park entry (7 days) plus $2 Old Rag day-use ticket per person, required Mar 1-Nov 30 (recreation.gov, 800/day)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/old-rag-circuit.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Old Rag Summit via Berry Hollow",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.54865,
+  "lng": -78.33885,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "The back way up Old Rag: Berry Hollow fire road to the Saddle Trail and the summit boulders, skipping the rock scramble. Still a steep climb; same day-use ticket applies.",
+  "facts": {
+   "length_mi": 5.4,
+   "gain_ft": 1760,
+   "fee": "$30/vehicle park entry (7 days) plus $2 Old Rag day-use ticket Mar 1-Nov 30",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/old-rag-summit-berry-hollow.htm",
+  "coord_source": "hikingupward (now myhikes.org) trailhead for the Berry Hollow lot (Robertson Mountain hike page)"
+ },
+ {
+  "name": "Cedar Run - Whiteoak Canyon Circuit",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "waterfall",
+   "swimming",
+   "forest"
+  ],
+  "lat": 38.55597,
+  "lng": -78.38656,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Down Cedar Run past slides and plunge pools, then up Whiteoak Canyon past six waterfalls. Among the hardest and wettest day hikes in the park, with several stream crossings and many places to swim.",
+  "facts": {
+   "length_mi": 8.1,
+   "gain_ft": 2794,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.nps.gov/thingstodo/cedar-run-whiteoak-circuit.htm",
+  "coord_source": "official page (NPS API), Hawksbill Gap parking, mile 45.6"
+ },
+ {
+  "name": "Whiteoak Canyon Upper Falls (from Skyline Drive)",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.58589,
+  "lng": -78.38288,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Steady descent from Skyline Drive mile 42.6 to a rock ledge facing the 86-foot upper falls of Whiteoak Canyon. All the climbing is on the way back.",
+  "facts": {
+   "length_mi": 4.6,
+   "gain_ft": 1040,
+   "height_ft": 86,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/upper-whiteoak-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Lower Whiteoak Falls (boundary trailhead)",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "swimming",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.53948,
+  "lng": -78.34933,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Easy walk from the park-boundary lot near Syria to the base of the lower falls, with deep pools along the creek that fill with swimmers in summer. The park entrance fee still applies.",
+  "facts": {
+   "length_mi": 2,
+   "gain_ft": 500,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.nps.gov/thingstodo/lower-whiteoak-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Dark Hollow Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.51967,
+  "lng": -78.43078,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Short, steep, rocky descent beside Hogcamp Branch to a 70-foot stepped cascade near Big Meadows. The park's most-walked waterfall trail; go early or late to avoid crowds.",
+  "facts": {
+   "length_mi": 1.4,
+   "gain_ft": 440,
+   "height_ft": 70,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/dark-hollow-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Rose River Falls Loop",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest",
+   "swimming"
+  ],
+  "lat": 38.534,
+  "lng": -78.42105,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Loop from Fishers Gap down to a 67-foot waterfall, then along Rose River's cascades and pools and back up Hogcamp Branch near Dark Hollow Falls. Mostly in designated wilderness.",
+  "facts": {
+   "length_mi": 4,
+   "gain_ft": 910,
+   "height_ft": 67,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.nps.gov/thingstodo/rose-river-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Lewis Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.53117,
+  "lng": -78.4397,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Loop from the Big Meadows amphitheater down to a walled observation point over an 81-foot waterfall, returning on the Appalachian Trail past west-facing ledges.",
+  "facts": {
+   "length_mi": 3.3,
+   "gain_ft": 990,
+   "height_ft": 81,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/lewis-falls-trail.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "South River Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.38113,
+  "lng": -78.51687,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "From South River Picnic Grounds (mile 62.7) the trail drops to an overlook of an 83-foot waterfall that splits into two streams; a spur continues to the base. Circuit returns by fire road and AT.",
+  "facts": {
+   "length_mi": 3.3,
+   "gain_ft": 910,
+   "height_ft": 83,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/south-river-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Doyles River Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.2542,
+  "lng": -78.68291,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Trail from mile 81.1 follows a clear stream down to the upper and lower Doyles River Falls. Link it with Jones Run Falls from Browns Gap for a 6.5-mile three-waterfall circuit.",
+  "facts": {
+   "length_mi": 3.3,
+   "gain_ft": 1189,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/doyles-river-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Jones Run Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.22995,
+  "lng": -78.72608,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Out-and-back from Jones Run parking (mile 84.1) through quiet South District forest to a 42-foot waterfall over a mossy cliff.",
+  "facts": {
+   "length_mi": 3.2,
+   "gain_ft": 1045,
+   "height_ft": 42,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/jones-run-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Overall Run Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.76107,
+  "lng": -78.2823,
+  "town": "Bentonville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Hike from Mathews Arm into wilderness to ledges facing the park's tallest waterfall (93 ft) with Massanutten and the valley behind it. The falls shrink to a trickle in dry spells.",
+  "facts": {
+   "length_mi": 5.1,
+   "gain_ft": 1291,
+   "height_ft": 93,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/overall-run-falls.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Little Devils Stairs",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "waterfall",
+   "geology",
+   "forest",
+   "historic"
+  ],
+  "lat": 38.75727,
+  "lng": -78.25693,
+  "town": "Washington",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "A steep, rocky gorge trail that climbs beside Keyser Run between sheer walls, crossing the stream repeatedly, with a return on a fire road past the Bolen family cemetery.",
+  "facts": {
+   "length_mi": 7.4,
+   "gain_ft": 1897,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/little-devils-stairs-loop.htm",
+  "coord_source": "official page (NPS API), Keyser Run parking, mile 19.4"
+ },
+ {
+  "name": "Hawksbill Summit",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.55536,
+  "lng": -78.39514,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Highest point in Shenandoah (4,050 ft). A stone platform at the top gives a 360-degree view over the valley, Massanutten and the Piedmont. 1.7 miles direct, or a 2.9-mile loop using the AT.",
+  "facts": {
+   "length_mi": 2.9,
+   "gain_ft": 860,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/hawksbill-loop.htm",
+  "coord_source": "other (OpenStreetMap summit node, matches Wikipedia; NPS trailhead is Hawksbill Gap parking, mile 45.5, at 38.55627,-78.38680)"
+ },
+ {
+  "name": "Stony Man",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.593,
+  "lng": -78.37549,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Easy walk from near Skyland to cliffs at 4,011 ft looking west over the Shenandoah Valley and Massanutten. A big sunset view for very little effort.",
+  "facts": {
+   "length_mi": 1.6,
+   "gain_ft": 340,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/stony-man.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Marys Rock",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.65915,
+  "lng": -78.3216,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Steady climb on the Appalachian Trail from Panorama at Thornton Gap to a bare rock summit with a wide westward view. The shorter Meadow Spring route (mile 33.5) is 2.9 miles.",
+  "facts": {
+   "length_mi": 3.7,
+   "gain_ft": 1210,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/marys-rock-summit.htm",
+  "coord_source": "official page (NPS API), Panorama parking, mile 31.6"
+ },
+ {
+  "name": "Bearfence Rock Scramble",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 38.45236,
+  "lng": -78.46702,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Short hands-and-feet scramble over a spine of greenstone to one of the few true 360-degree views in the park. Not for wet days. An easier 1.1-mile route reaches a 180-degree viewpoint.",
+  "facts": {
+   "length_mi": 1.4,
+   "gain_ft": 311,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/bearfence-rock-scramble.htm",
+  "coord_source": "official page (NPS API), mile 56.4"
+ },
+ {
+  "name": "Compton Peak (columnar jointing)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.8191,
+  "lng": -78.17513,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "AT climb from Compton Gap to a west-facing view, then a rough spur below the east viewpoint to a wall of hexagonal basalt columns, a prime example of columnar jointing.",
+  "facts": {
+   "length_mi": 2.4,
+   "gain_ft": 855,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/compton-peak.htm",
+  "coord_source": "other (OpenStreetMap summit node; NPS trailhead is Compton Gap parking, mile 10.4, at 38.82399,-78.17043)"
+ },
+ {
+  "name": "Fort Windham Rocks",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.82399,
+  "lng": -78.17043,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short AT walk north from Compton Gap to a cluster of split greenstone outcrops, remnants of ancient lava flows, sitting in the woods beside the Dickey Ridge Trail.",
+  "facts": {
+   "length_mi": 0.8,
+   "gain_ft": 130,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/fort-windham-rocks.htm",
+  "coord_source": "official page (NPS API) (trailhead)"
+ },
+ {
+  "name": "Hightop Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.34505,
+  "lng": -78.55301,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Appalachian Trail climb from mile 66.7 up a ridge to a rocky viewpoint at about 3,300 ft, looking south and west over the South District ridges.",
+  "facts": {
+   "length_mi": 3,
+   "gain_ft": 935,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/hightop-summit.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Blackrock Summit",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 38.22306,
+  "lng": -78.73335,
+  "town": "Grottoes",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "A level mile on the AT to a huge field of broken quartzite boulders with open views over the Shenandoah Valley, Massanutten and Trayfoot Mountain. Good at sunset with little effort.",
+  "facts": {
+   "length_mi": 1,
+   "gain_ft": 175,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/blackrock-summit.htm",
+  "coord_source": "official page (NPS API), mile 84.4"
+ },
+ {
+  "name": "Riprap Hollow - Wildcat Ridge Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "viewpoint",
+   "waterfall",
+   "forest"
+  ],
+  "lat": 38.15314,
+  "lng": -78.77272,
+  "town": "Crimora",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Long wilderness loop past Calvary Rocks and Chimney Rock, down a hollow with a small waterfall and a deep, cold swimming hole, then back up Wildcat Ridge and the AT.",
+  "facts": {
+   "length_mi": 9.8,
+   "gain_ft": 2365,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.nps.gov/thingstodo/riprap-wildcat-ridge.htm",
+  "coord_source": "official page (NPS API), Wildcat Ridge parking, mile 92.1 (Riprap parking is at mile 90)"
+ },
+ {
+  "name": "Chimney Rock and Calvary Rocks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.17775,
+  "lng": -78.76516,
+  "town": "Crimora",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Out-and-back from Riprap parking (mile 90) to white quartzite outcrops with views west and north; Chimney Rock stands alone across a gap. The short version of the Riprap loop.",
+  "facts": {
+   "length_mi": 3.4,
+   "gain_ft": 830,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/chimney-rock.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Turk Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.12909,
+  "lng": -78.78449,
+  "town": "Waynesboro",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short climb to a 2,981-ft quartzite summit with talus slopes and a wide view west over Waynesboro and the valley. Quiet compared with the Central District.",
+  "facts": {
+   "length_mi": 2.2,
+   "gain_ft": 690,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/turk-mountain.htm",
+  "coord_source": "official page (NPS API), mile 94.1"
+ },
+ {
+  "name": "Hazel River Falls and Cave",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "cave",
+   "forest"
+  ],
+  "lat": 38.6381,
+  "lng": -78.3141,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "From Meadow Spring parking (mile 33.5), Hazel Mountain and White Rocks trails lead to a steep side path down to a small waterfall with a rock-shelter cave beside its pool.",
+  "facts": {
+   "length_mi": 5.3,
+   "gain_ft": 1070,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/hazel-river-falls.htm",
+  "coord_source": "official page (NPS API), Meadow Spring parking shared with the Marys Rock route"
+ },
+ {
+  "name": "Rapidan Camp (Hoover's retreat)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "historic",
+   "forest",
+   "waterfall"
+  ],
+  "lat": 38.4996,
+  "lng": -78.44576,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Walk from Milam Gap down Mill Prong, past Big Rock Falls and three stream crossings, to President Hoover's 1929 fishing camp, where three original cabins stand at the head of the Rapidan.",
+  "facts": {
+   "length_mi": 4,
+   "gain_ft": 870,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/rapidan-camp.htm",
+  "coord_source": "official page (NPS API), Milam Gap parking, mile 52.8"
+ },
+ {
+  "name": "Big Meadows",
+  "type": "park",
+  "tags": [
+   "nature",
+   "wildlife",
+   "trail",
+   "sunset",
+   "camping"
+  ],
+  "lat": 38.51649,
+  "lng": -78.43848,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Open high-elevation meadow at mile 51 of Skyline Drive with deer at dusk, summer wildflowers and dark skies for stargazing. Byrd Visitor Center, wayside, lodge and campground are alongside.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/big-meadows.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Millers Head",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.59012,
+  "lng": -78.38409,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short trail from the Skyland amphitheater over Bushytop to a stone platform at a former fire-tower site, with a broad view down to Page Valley and across to Massanutten.",
+  "facts": {
+   "length_mi": 1.6,
+   "gain_ft": 450,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/millers-head.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Limberlost Trail",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "forest",
+   "nature",
+   "geology"
+  ],
+  "lat": 38.57999,
+  "lng": -78.3812,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Level, wheelchair-accessible crushed-greenstone loop through mountain laurel (blooms in June), with a boardwalk, a bridge and a small outcrop of columnar jointing.",
+  "facts": {
+   "length_mi": 1.3,
+   "gain_ft": 130,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/limberlost.htm",
+  "coord_source": "official page (NPS API), mile 43"
+ },
+ {
+  "name": "Lands Run Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.82828,
+  "lng": -78.18914,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Fire-road walk from mile 9.2 to a string of cascades dropping about 80 feet into a small gorge. Only worth it after rain; it can be dry in summer.",
+  "facts": {
+   "length_mi": 1.3,
+   "gain_ft": 325,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/lands-run-falls.htm",
+  "coord_source": "other (OpenStreetMap waterfall node)"
+ },
+ {
+  "name": "Snead Farm and Dickey Ridge Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.87184,
+  "lng": -78.2037,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Loop from Dickey Ridge Visitor Center through old apple orchards to the white Snead barn, the last standing building of a pre-park farm. The 1.2-mile Fox Hollow loop starts at the same spot.",
+  "facts": {
+   "length_mi": 3.7,
+   "gain_ft": 580,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/snead-farm-loop.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Jeremys Run and Knob Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "swimming",
+   "fishing"
+  ],
+  "lat": 38.73881,
+  "lng": -78.30879,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Circuit from Elkwallow Wayside into the Jeremys Run drainage, a trout stream with many crossings and small pools. A longer 14-mile loop reaches the waterfall near the lower end.",
+  "facts": {
+   "length_mi": 6,
+   "gain_ft": 1303,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/thingstodo/knob-mountain-jeremys-run.htm",
+  "coord_source": "official page (NPS API), Elkwallow Wayside, mile 24"
+ },
+ {
+  "name": "Nicholson Hollow and Corbin Cabin",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "historic",
+   "swimming",
+   "forest"
+  ],
+  "lat": 38.5732,
+  "lng": -78.29561,
+  "town": "Etlan",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Dog-friendly alternative from the Old Rag lot: follow the Hughes River upstream past deep swimming holes and several crossings to Corbin Cabin, an early-1900s mountain homestead.",
+  "facts": {
+   "length_mi": 8,
+   "gain_ft": 1240,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.nps.gov/thingstodo/nicholson-hollow.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Frazier Discovery Trail (Loft Mountain)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.26287,
+  "lng": -78.66059,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short loop from Loft Mountain Wayside up to rock ledges with wide views west over the South District, passing under an overhanging cliff.",
+  "facts": {
+   "length_mi": 1.2,
+   "gain_ft": 429,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.nps.gov/thingstodo/frazier-discovery-trail.htm",
+  "coord_source": "official page (NPS API), mile 79.5"
+ },
+ {
+  "name": "Robertson Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.57012,
+  "lng": -78.34223,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Old Rag's quiet neighbor: a very steep trail (about 1,700 ft in 1.5 miles) to a rocky summit looking straight across at Old Rag, with a fire-road return. No ticket needed and few people.",
+  "facts": {
+   "length_mi": 7.2,
+   "gain_ft": 2193,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/robertson-mountain-hike",
+  "coord_source": "other (OpenStreetMap summit node, matches Wikipedia; hikingupward trailhead is the Berry Hollow lot at 38.54865,-78.33885)"
+ },
+ {
+  "name": "Big Devils Stairs",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 38.7679,
+  "lng": -78.2336,
+  "town": "Washington",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "From Gravel Springs Gap, a descent through mountain laurel to ledges on the rim of a deep, sheer-walled gorge. Narrow footing near the second overlook; the trail ends at the park boundary.",
+  "facts": {
+   "length_mi": 4.9,
+   "gain_ft": 1048,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/big-devils-stairs-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Bear Church Rock (Graves Mill)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "swimming",
+   "waterfall",
+   "forest"
+  ],
+  "lat": 38.43695,
+  "lng": -78.3671,
+  "town": "Graves Mill",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Follows the Rapidan and Staunton rivers past cascades and swimming holes, then climbs steeply through laurel to an open rock ledge. The side trail to the rock is unmarked; the lot is small.",
+  "facts": {
+   "length_mi": 7.9,
+   "gain_ft": 2241,
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/bear-church-rock-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Big Run Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "viewpoint"
+  ],
+  "lat": 38.2537,
+  "lng": -78.68429,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Quiet South District loop from Big Run Overlook down into the park's largest watershed and back on the AT past Doyles River Overlook. Chosen for solitude more than views.",
+  "facts": {
+   "length_mi": 5.8,
+   "gain_ft": 1414,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/big-run-hike",
+  "coord_source": "official page (NPS API, Big Run Overlook)"
+ },
+ {
+  "name": "Sugar Hollow: Blue Hole and Big Branch Falls (Moormans River)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.13932,
+  "lng": -78.74967,
+  "town": "White Hall",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Two easy river trails from one lot: the South Fork road reaches the Blue Hole, a deep pool with a jump rock, in 1.5 miles; the North Fork trail fords the river to swimming holes and Big Branch Falls.",
+  "facts": {
+   "length_mi": 4.2,
+   "gain_ft": 592,
+   "fee": "free",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://gohikevirginia.com/sugar-hollow-reservoir/",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (Sugar Hollow lot)"
+ },
+ {
+  "name": "Little Stony Man Cliffs",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "sunset",
+   "geology"
+  ],
+  "lat": 38.60321,
+  "lng": -78.36801,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Greenstone cliffs on the Appalachian Trail north of Stony Man with a long view down to Luray and across to Massanutten. A 3.4-mile loop links them to Stony Man via the Passamaquoddy Trail.",
+  "facts": {
+   "length_mi": 3.4,
+   "gain_ft": 664,
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://myhikes.org/trails/stony-man-mountain-loop-hike",
+  "coord_source": "other (OpenStreetMap viewpoint node)"
+ },
+ {
+  "name": "Trayfoot Mountain and Paine Run Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "geology"
+  ],
+  "lat": 38.20677,
+  "lng": -78.74977,
+  "town": "Grottoes",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "South District loop over Blackrock Summit's boulder field and along Trayfoot Mountain to Buzzard Rock, returning beside Paine Run. Ridge sections can be overgrown.",
+  "facts": {
+   "length_mi": 9.2,
+   "gain_ft": 2281,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/trayfoot-mountain-and-paine-run-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Signal Knob",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.93498,
+  "lng": -78.31996,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Rocky loop to the north tip of Massanutten, a Civil War signal station with a view over Strasburg and the valley. Extra vistas at Buzzard Rock Overlook and Fort Valley Overlook on the way up.",
+  "facts": {
+   "length_mi": 10,
+   "gain_ft": 2340,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/signal-knob-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Buzzard Rock (north approach)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.93773,
+  "lng": -78.28855,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Moderate climb to a knife-edge of tilted sandstone above Passage Creek gorge, looking into Fort Valley and across to Signal Knob. Lot holds about 15 cars; roadside parking gets towed.",
+  "facts": {
+   "length_mi": 3.8,
+   "gain_ft": 724,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/buzzard-rock-north-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Kennedy Peak",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.72795,
+  "lng": -78.51536,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Ridge walk on the Massanutten Trail to a small stone-and-timber lookout shelter with a 360-degree view of Page Valley, the bends of the South Fork and the Blue Ridge. No water on route.",
+  "facts": {
+   "length_mi": 6.8,
+   "gain_ft": 1353,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/kennedy-peak-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (Stephens trailhead; parking on VA 675 is no longer allowed)"
+ },
+ {
+  "name": "Duncan Knob",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.70868,
+  "lng": -78.56038,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Short, steep hike ending in a scramble up a pile of sandstone blocks to a pointed summit with views of the valley and New Market Gap. Crisman Hollow Road is often gated in winter and spring.",
+  "facts": {
+   "length_mi": 3.5,
+   "gain_ft": 1152,
+   "dogs": "allowed (scramble is hard for dogs)"
+  },
+  "url": "https://myhikes.org/trails/duncan-knob-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Strickler Knob",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.69121,
+  "lng": -78.58001,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Unofficial spur off the Massanutten Trail along a narrow rock spine, ending in a hands-on scramble to a pinnacle with a 360-degree view of Page Valley and New Market Gap. Blazes may be missing.",
+  "facts": {
+   "length_mi": 5.4,
+   "gain_ft": 1056,
+   "dogs": "not suitable (vertical scramble)"
+  },
+  "url": "https://myhikes.org/trails/strickler-knob-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Woodstock Tower",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "historic"
+  ],
+  "lat": 38.87028,
+  "lng": -78.44972,
+  "town": "Woodstock",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Steel observation tower built by the CCC in 1935 on Massanutten's ridge, a few minutes' walk from the road, looking straight down on the Seven Bends of the North Fork Shenandoah. Road closed in winter.",
+  "facts": {
+   "dogs": "allowed",
+   "fee": "free"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=74047",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Bird Knob and Emerald Pond",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.64255,
+  "lng": -78.61115,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Steep rocky start from New Market Gap on US 211 to ledges over the valley, then a ridge walk to a clear spring-fed pond used as a swimming hole.",
+  "facts": {
+   "length_mi": 8.3,
+   "gain_ft": 1538,
+   "dogs": "allowed",
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/emerald-pond-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Veach Gap and South Fork Overlook",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "camping"
+  ],
+  "lat": 38.87611,
+  "lng": -78.37778,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Gradual climb on an old road through Veach Gap to the Massanutten east ridge, where three overlooks look down on the bends of the South Fork Shenandoah and across to the Blue Ridge.",
+  "facts": {
+   "length_mi": 6.9,
+   "gain_ft": 1103,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/veach-gap-and-south-fork-overlook-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Massanutten Storybook Trail",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "paved",
+   "trail",
+   "geology"
+  ],
+  "lat": 38.65322,
+  "lng": -78.60318,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Flat paved path with signs on the geology of Massanutten, ending at a deck with a view east over Page Valley to the Blue Ridge. Ten minutes each way off Crisman Hollow Road.",
+  "facts": {
+   "length_mi": 0.6,
+   "gain_ft": 76,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/massanutten-storybook-trail",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Fridley Gap",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.49678,
+  "lng": -78.70936,
+  "town": "Keezletown",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Loop in the southern Massanutten with stream crossings, two ridge climbs, a vista over the Harrisonburg valley and a deep swimming hole about halfway. Some sections are overgrown.",
+  "facts": {
+   "length_mi": 5.8,
+   "gain_ft": 2106,
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/fridley-gap-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Big Schloss",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 38.94141,
+  "lng": -78.66599,
+  "town": "Columbia Furnace",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Steep climb from Wolf Gap, then a ridge walk on the VA/WV line to a castle-like sandstone outcrop reached by a wooden footbridge, with views in every direction.",
+  "facts": {
+   "length_mi": 4.6,
+   "gain_ft": 1309,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/big-schloss-hike",
+  "coord_source": "other (OpenStreetMap summit node, matches Wikipedia; hikingupward trailhead is Wolf Gap at 38.92405,-78.68949)"
+ },
+ {
+  "name": "Tibbet Knob",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.91464,
+  "lng": -78.70513,
+  "town": "Columbia Furnace",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "The other hike from Wolf Gap: two short rock scrambles lead to a ledge with a wide view west into West Virginia and back toward Big Schloss. Usually far less busy than its neighbor.",
+  "facts": {
+   "length_mi": 3.2,
+   "gain_ft": 1087,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/tibbet-knob-hike",
+  "coord_source": "other (OpenStreetMap summit node; hikingupward trailhead is Wolf Gap at 38.92369,-78.68966)"
+ },
+ {
+  "name": "Halfmoon Lookout",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.01697,
+  "lng": -78.60591,
+  "town": "Wardensville",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Loop on Great North Mountain to the stone foundation of an old fire lookout above Trout Run Valley, with several other vistas and small cascades along the creeks.",
+  "facts": {
+   "length_mi": 8.9,
+   "gain_ft": 1723
+  },
+  "url": "https://myhikes.org/trails/halfmoon-mountain-loop",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "White Rocks (Great North Mountain)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.0094,
+  "lng": -78.59166,
+  "town": "Wardensville",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Loop from Waites Run to a white quartzite cliff on the crest of Great North Mountain; on a clear day the view reaches Shenandoah National Park. Blazes near the overlook are faded.",
+  "facts": {
+   "length_mi": 8.8,
+   "gain_ft": 1742
+  },
+  "url": "https://myhikes.org/trails/white-rock-cliff-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Eagle Rock (Tuscarora Trail)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint"
+  ],
+  "lat": 39.08535,
+  "lng": -78.5108,
+  "town": "Wardensville",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Ridge walk north from VA/WV Route 55 past radio towers to a cliff-top view of Massanutten and the Blue Ridge. Part of the trail crosses hunt-club land on an easement; stay on it.",
+  "facts": {
+   "length_mi": 7.1,
+   "gain_ft": 1356
+  },
+  "url": "https://myhikes.org/trails/eagle-rock-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Kepler Overlook",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.97137,
+  "lng": -78.56316,
+  "town": "Strasburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Climb from Cedar Creek near the Van Buren Furnace over Tea Mountain to a ledge on Little North Mountain. Van Buren Road is gated from late fall to early spring, which adds walking.",
+  "facts": {
+   "length_mi": 5.9,
+   "gain_ft": 1155
+  },
+  "url": "https://myhikes.org/trails/kepler-overlook-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Falls Ridge Waterfall",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.89538,
+  "lng": -78.74089,
+  "town": "Basye",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Circuit on North Mountain with an unmarked, hard-to-follow side path to a 30-foot waterfall against a 60-foot cliff. Forest Road 252 is open only Apr 1-May 21 and Aug 1-Dec 31.",
+  "facts": {
+   "length_mi": 6.3,
+   "gain_ft": 1599,
+   "height_ft": 30
+  },
+  "url": "https://myhikes.org/trails/falls-ridge-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "High Knob Fire Tower",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "sunset"
+  ],
+  "lat": 38.5796,
+  "lng": -79.16912,
+  "town": "Brandywine",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Short climb from US 33 at the state line to a stone fire tower built in 1939-40 on Shenandoah Mountain, with a platform view west to Spruce Knob and east to the Blue Ridge.",
+  "facts": {
+   "length_mi": 2.6,
+   "gain_ft": 756
+  },
+  "url": "https://myhikes.org/trails/high-knob-tower-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Hone Quarry Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.4725,
+  "lng": -79.14483,
+  "town": "Dayton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Walk up a rutted forest road and trail past Hone Quarry Reservoir to a secluded waterfall (15 to 25 ft, depending on the source) with smaller ledge falls. High clearance helps on the access road.",
+  "facts": {
+   "length_mi": 4.3,
+   "gain_ft": 594
+  },
+  "url": "https://myhikes.org/trails/hone-quarry-falls-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Hidden Rocks (Hone Quarry)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "geology",
+   "waterfall",
+   "forest"
+  ],
+  "lat": 38.44813,
+  "lng": -79.12205,
+  "town": "Dayton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short trail across Rocky Run to a small waterfall and tall rock walls used by climbers, with a scramble route to a valley view from the top.",
+  "facts": {
+   "length_mi": 2.3,
+   "gain_ft": 425,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/hidden-rocks-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Elliott Knob via Falls Hollow",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "waterfall",
+   "forest"
+  ],
+  "lat": 38.16127,
+  "lng": -79.26996,
+  "town": "Augusta Springs",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Climb past the cascades of Falls Hollow, then a steep, shadeless gravel road to a grassy 4,463-ft summit with an old fire tower. About 162 miles from Pasadena, at the edge of range.",
+  "facts": {
+   "length_mi": 8.1,
+   "gain_ft": 2428
+  },
+  "url": "https://myhikes.org/trails/elliott-knob-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Humpback Rocks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 37.96846,
+  "lng": -78.89656,
+  "town": "Afton",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Steep mile (800 ft) from Blue Ridge Parkway milepost 6 to a jutting greenstone outcrop with views of the Shenandoah Valley and Shenandoah National Park. Loop back on the AT. About 150 miles from home.",
+  "facts": {
+   "length_mi": 4.1,
+   "gain_ft": 1170,
+   "fee": "free"
+  },
+  "url": "https://myhikes.org/trails/humpback-rocks-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Claudius Crozet Blue Ridge Tunnel",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "weird",
+   "geology"
+  ],
+  "lat": 38.0333,
+  "lng": -78.8425,
+  "town": "Afton",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Walk through a 4,273-foot railroad tunnel finished in 1858 under Rockfish Gap: brick lining gives way to bare hand-drilled rock, pitch dark and dripping. Bring a strong flashlight.",
+  "facts": {
+   "length_mi": 4.4,
+   "gain_ft": 267,
+   "fee": "free"
+  },
+  "url": "https://myhikes.org/trails/blue-ridge-tunnel-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (east trailhead, Afton)"
+ },
+ {
+  "name": "Mount Marshall (North and South)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.77503,
+  "lng": -78.21082,
+  "town": "Flint Hill",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Two Appalachian Trail summits either side of Skyline Drive mile 15.9. South Marshall's ledges are 0.8 mile from the lot; North Marshall (about 3,368 ft) has west-facing cliffs over Browntown Valley.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://gohikevirginia.com/mount-marshall-shenandoah/",
+  "coord_source": "other (OpenStreetMap trailhead node 'Mount Marshall')"
+ },
+ {
+  "name": "Upper Pocosin Mission Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.40106,
+  "lng": -78.48191,
+  "town": "Stanardsville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Walk a fire road from Skyline Drive mile 59.5, past the PATC's Pocosin Cabin, to the stone steps and collapsing frame building of an early-1900s Episcopal mission in the woods.",
+  "facts": {
+   "length_mi": 2.5,
+   "gain_ft": 450,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://gohikevirginia.com/pocosin-trail/",
+  "coord_source": "other (OpenStreetMap ruins node; trailhead is 1 mile north at mile 59.5)"
+ },
+ {
+  "name": "Luray Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology",
+   "weird"
+  ],
+  "lat": 38.66431,
+  "lng": -78.48381,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "The big one: paved paths through rooms of columns, draperies and mirror pools, plus the Great Stalacpipe Organ, which taps stalactites to play notes. Discovered 1878; open daily.",
+  "facts": {
+   "fee": "Paid admission (check the current price)"
+  },
+  "url": "https://luraycaverns.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Skyline Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.8996,
+  "lng": -78.21614,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Guided cave tour a mile south of Front Royal, close to the north entrance of Skyline Drive; known for its anthodites, rare needle-like white crystal clusters. Discovered 1937; open year-round.",
+  "facts": {
+   "fee": "Paid admission (check the current price)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Skyline_Caverns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Shenandoah Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.71556,
+  "lng": -78.66928,
+  "town": "Quicksburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Mile-long guided tour through 17 rooms, including the striped 'bacon' formations and Diamond Cascade. The only Virginia cavern with elevator access; 54 degrees year-round.",
+  "facts": {
+   "fee": "Paid admission (check the current price)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Shenandoah_Caverns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Grand Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology",
+   "historic"
+  ],
+  "lat": 38.26028,
+  "lng": -78.83528,
+  "town": "Grottoes",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "America's oldest show cave, giving tours since 1806. A National Natural Landmark for its rare shield formations; the tall main rooms carry signatures left by Civil War soldiers.",
+  "facts": {
+   "fee": "paid guided tour"
+  },
+  "url": "https://en.wikipedia.org/wiki/Grand_Caverns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Natural Chimneys",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "weird",
+   "trail",
+   "camping"
+  ],
+  "lat": 38.35764,
+  "lng": -79.08398,
+  "town": "Mount Solon",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Seven limestone towers 65 to 120 feet tall standing in a field beside the North River, in an Augusta County park. A 1.9-mile loop climbs behind and above them. Day use is free.",
+  "facts": {
+   "length_mi": 1.9,
+   "height_ft": 120,
+   "fee": "free day use"
+  },
+  "url": "https://en.wikipedia.org/wiki/Natural_Chimneys",
+  "coord_source": "other (OpenStreetMap feature) park centre"
+ },
+ {
+  "name": "Meems Bottom Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.72056,
+  "lng": -78.65556,
+  "town": "Mount Jackson",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Virginia's longest covered bridge: a 204-foot single-span Burr arch built in 1892 over the North Fork Shenandoah, still open to cars. Small pull-off and river access beside it.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Meems_Bottom_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lake Arrowhead (Luray)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "trail",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.64206,
+  "lng": -78.38087,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Town of Luray's reservoir park at the foot of the Blue Ridge: white-sand swimming beach with lifeguards in summer, boat rentals and a 1.4-mile trail around the lake.",
+  "facts": {
+   "length_mi": 1.4,
+   "fee": "Beach fee in summer; open Memorial Day to Labor Day",
+   "swim": "yes"
+  },
+  "url": "https://www.virginia.org/listing/lake-arrowhead-beach/6500/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Blue Hole Day Use Area (Bergton)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "waterfront",
+   "fishing",
+   "forest"
+  ],
+  "lat": 38.75668,
+  "lng": -78.9388,
+  "town": "Fulks Run",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Forest Service picnic spot at a deep bend of the North Fork Shenandoah off Route 259, used as a swimming hole by locals. Open sunrise to sunset; no cliff jumping or rope swings.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73597",
+  "coord_source": "official page (USFS recreation dataset) / OpenStreetMap"
+ },
+ {
+  "name": "Foamhenge",
+  "type": "gem",
+  "tags": [
+   "weird"
+  ],
+  "lat": 38.88065,
+  "lng": -77.493,
+  "town": "Centreville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Full-size styrofoam replica of Stonehenge, moved from Natural Bridge to Cox Farms in 2017. Access is limited: included with Fall Festival admission, or by free shuttle 1-2 pm on summer Saturdays.",
+  "facts": {
+   "fee": "Fall Festival admission, or free on Smokin' Saturdays (Apr-Aug)"
+  },
+  "url": "https://coxfarmsva.com/about/foamhenge/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Bull Run Mountains Natural Area Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "historic",
+   "ruins",
+   "nature"
+  ],
+  "lat": 38.82481,
+  "lng": -77.70633,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Wooded loop trails on the easternmost ridge of the Blue Ridge foothills, past mill ruins, old homesites and family cemeteries. Open Friday-Sunday only, 8-6 (8-4:30 mid-Nov to mid-Mar).",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.dcr.virginia.gov/natural-heritage/natural-area-preserves/bullrun",
+  "coord_source": "other (OpenStreetMap trailhead node at end of Beverley Mill Drive)"
+ },
+ {
+  "name": "G. Richard Thompson WMA Trillium Trail",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "nature",
+   "forest",
+   "wildlife"
+  ],
+  "lat": 38.95363,
+  "lng": -78.02705,
+  "town": "Linden",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Upper slopes of the Blue Ridge carpeted with large-flowered trillium in spring, crossed by the Appalachian Trail. Visitors need a Virginia hunting or fishing license or a DWR access permit.",
+  "facts": {
+   "fee": "DWR access permit or VA hunting/fishing license required"
+  },
+  "url": "https://dwr.virginia.gov/wma/thompson/",
+  "coord_source": "other (OpenStreetMap 'Trillium Parking' lot on Freezeland Road)"
+ },
+ {
+  "name": "Raven Rocks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.11636,
+  "lng": -77.85203,
+  "town": "Bluemont",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Out-and-back on the Appalachian Trail's 'Roller Coaster' from Snickers Gap: three rocky climbs and descents to a cliff just over the West Virginia line with a wide view west.",
+  "facts": {
+   "length_mi": 5.1,
+   "gain_ft": 1671,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/raven-rocks-via-appalachian-trail",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (Pine Grove Road, Bluemont)"
+ },
+ {
+  "name": "Sky Meadows State Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "camping",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.99167,
+  "lng": -77.96633,
+  "town": "Delaplane",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Open pastures climbing the east face of the Blue Ridge to the Appalachian Trail; the Piedmont Overlook looks back across rolling farm country. Historic Mount Bleak farm and an International Dark Sky Park.",
+  "facts": {
+   "length_mi": 6.9,
+   "gain_ft": 1305,
+   "fee": "$10 parking",
+   "dogs": "leashed"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/sky-meadows",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (visitor center lot)"
+ },
+ {
+  "name": "Shenandoah River State Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "waterfront",
+   "viewpoint",
+   "kayak",
+   "fishing",
+   "camping",
+   "swimming"
+  ],
+  "lat": 38.85229,
+  "lng": -78.30267,
+  "town": "Bentonville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "1,619 acres along the South Fork Shenandoah with river access for tubing, paddling and fishing, wooded trails, and Cullers Overlook above a wide bend with Massanutten behind.",
+  "facts": {
+   "fee": "$10 parking",
+   "dogs": "leashed"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/shenandoah-river",
+  "coord_source": "other (OpenStreetMap feature) park centre"
+ },
+ {
+  "name": "Seven Bends State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "hiking",
+   "trail"
+  ],
+  "lat": 38.84732,
+  "lng": -78.48548,
+  "town": "Woodstock",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Day-use park on the meandering North Fork Shenandoah below Massanutten, with hand-carry boat launches, riverside paths and wooded upland trails. Virginia's 41st state park.",
+  "facts": {
+   "fee": "$5 parking",
+   "dogs": "leashed"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/seven-bends",
+  "coord_source": "other (OpenStreetMap feature) park centre"
+ },
+ {
+  "name": "Lake Anna State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "hiking",
+   "fishing",
+   "camping",
+   "historic",
+   "kayak"
+  ],
+  "lat": 38.12524,
+  "lng": -77.825,
+  "town": "Spotsylvania",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Sandy swimming beach on Lake Anna (in season), shoreline trails, a fishing pier and the site of the Goodwin Gold Mine, where gold was found in 1829.",
+  "facts": {
+   "fee": "$7 weekdays / $10 weekends parking (Apr-Oct)",
+   "dogs": "leashed",
+   "swim": "yes"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/lake-anna",
+  "coord_source": "other (OpenStreetMap feature) park centre"
+ },
+ {
+  "name": "Sweet Run State Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "historic",
+   "birding"
+  ],
+  "lat": 39.28781,
+  "lng": -77.73553,
+  "town": "Hillsboro",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Virginia's 42nd state park (dedicated 2023): 884 acres of meadows, woods, streams and old farmsteads in the 'Between the Hills' valley near Harpers Ferry.",
+  "facts": {
+   "fee": "$10 parking",
+   "dogs": "leashed"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/sweet-run",
+  "coord_source": "other (OpenStreetMap feature) park centre"
+ },
+ {
+  "name": "Shenandoah Valley Overlook (Skyline Drive)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.89036,
+  "lng": -78.20331,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "First big pull-off south of the Front Royal entrance: faces north at 1,390 ft over the top of the Shenandoah Valley, with Signal Knob and the town of Front Royal below.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/shenandoah-valley-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Signal Knob Overlook (Skyline Drive)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "historic"
+  ],
+  "lat": 38.85863,
+  "lng": -78.20935,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Faces west-northwest at 2,090 ft across the valley to Massanutten and Signal Knob, the Confederate lookout used before the Battle of Cedar Creek. Good at sunset.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/signal-knob-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Range View Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.76436,
+  "lng": -78.22752,
+  "town": "Flint Hill",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Looks south at 2,810 ft down the spine of the park, from Keyser Mountain in front all the way to Old Rag and Stony Man in the distance.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/range-view-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Hogback Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.76266,
+  "lng": -78.28053,
+  "town": "Bentonville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "The longest overlook on Skyline Drive (0.2 mile), facing north at 3,385 ft over Gimlet Ridge and Browntown Valley; the Alleghenies show on clear days.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/hogback-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Thornton Hollow Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.70616,
+  "lng": -78.31915,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "East-facing window at 2,460 ft into Thornton Hollow, with Mount Marshall to the left and Oventop Mountain to the right. A sunrise stop.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/thornton-hollow-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Tunnel Parking Overlook and Marys Rock Tunnel",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "geology"
+  ],
+  "lat": 38.65122,
+  "lng": -78.31134,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "East view at 2,510 ft toward Sperryville between Oventop and Skinner Ridge, beside the 12-ft-8 rock tunnel blasted through Marys Rock in 1932. Drive through with headlights on.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/tunnel-parking-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Hazel Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.64317,
+  "lng": -78.30963,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Southeast view at 2,770 ft from a rounded granodiorite outcrop you can walk out on, toward Hazel Mountain. Popular for sunrise.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/hazel-mountain-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Pinnacles Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.62241,
+  "lng": -78.32305,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "South view at 3,320 ft down Hannah Run to Old Rag Mountain, with Pinnacles Ridge on the right and Hot Mountain on the left.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/pinnacles-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Jewell Hollow Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.62742,
+  "lng": -78.33864,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Faces north-northwest at 3,320 ft where the Blue Ridge drops into Page Valley past Leading Ridge; Morning Star Lake is visible below. The Appalachian Trail runs just below it.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/jewell-hollow-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Stony Man Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.61074,
+  "lng": -78.36399,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Large pull-off north of Skyland looking west over Page Valley, with the cliff profile of Stony Man's 'face' to the south.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/shen/index.htm",
+  "coord_source": "other (OpenStreetMap viewpoint node)"
+ },
+ {
+  "name": "Thorofare Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.58776,
+  "lng": -78.35974,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Highest overlook in the park (3,595 ft), looking east to Thorofare Mountain, Hazel Mountain and the slope of Old Rag. A sunrise stop.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/thorofare-mountain-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Crescent Rock Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.56222,
+  "lng": -78.38309,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "West-facing overlook at 3,550 ft looking straight at Hawksbill, the park's highest peak, with Nakedtop beside it.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/crescent-rock-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Old Rag View Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint"
+  ],
+  "lat": 38.54538,
+  "lng": -78.39087,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Looks east-northeast at 3,585 ft to Old Rag, about three miles away across the hollows.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/old-rag-view-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Spitler Knoll Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.54726,
+  "lng": -78.41505,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Long west-northwest overlook at 3,285 ft on former mountain pasture, open to the whole evening sky over Page Valley.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/spitler-knoll-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "The Point Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.46247,
+  "lng": -78.46088,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "West-northwest view at 3,235 ft over Powell and Grindstone mountains to the valley; a short, steep path below the wall leads to open rocks. Works well at sunset.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/the-point-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Brown Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.29257,
+  "lng": -78.65793,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Long South District overlook at 2,844 ft over Big Run, with Rocky Mountain close in and Rockytop and Trayfoot Mountain beyond.",
+  "facts": {
+   "fee": "$30/vehicle park entry (7 days)"
+  },
+  "url": "https://www.nps.gov/places/000/brown-mountain-overlook.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Big Meadows Campground",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "nature",
+   "wildlife"
+  ],
+  "lat": 38.52796,
+  "lng": -78.43694,
+  "town": "Stanley",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "The park's central campground (221 sites, mile 51.2), walking distance to Big Meadows, Dark Hollow Falls and Lewis Falls. Open spring to late November.",
+  "facts": {
+   "fee": "$30/night plus park entry"
+  },
+  "url": "https://www.nps.gov/shen/planyourvisit/big-meadows-campground.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Loft Mountain Campground",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.24641,
+  "lng": -78.6707,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "207 sites on top of Big Flat Mountain at mile 79.5, with views both east and west from the campground loop and trails into the Big Run wilderness. Open spring to early November.",
+  "facts": {
+   "fee": "$30/night plus park entry"
+  },
+  "url": "https://www.nps.gov/shen/planyourvisit/loft-mountain-campground.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "Elizabeth Furnace Recreation Area",
+  "type": "park",
+  "tags": [
+   "historic",
+   "ruins",
+   "trail",
+   "fishing",
+   "camping",
+   "forest"
+  ],
+  "lat": 38.92917,
+  "lng": -78.32941,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Picnic area and campground on Passage Creek with the stone stack of an 1836 iron furnace, short Pig Iron and Charcoal interpretive trails, a swinging bridge and stocked trout water.",
+  "facts": {
+   "fee": "free day use (mid-April to October)"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73687",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Camp Roosevelt Recreation Area",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.73306,
+  "lng": -78.51722,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Small Forest Service campground on the site of the first Civilian Conservation Corps camp in the nation; a path passes the old building foundations. Trailhead for Kennedy Peak. Seasonal.",
+  "facts": {
+   "fee": "camping $10/site/night (cash or check)"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73633",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Catherine Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.55769,
+  "lng": -78.63551,
+  "town": "Newport",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "A 32-foot pyramidal stone iron furnace built in 1836 and abandoned in 1885, standing beside a forest road in the southern Massanutten. Trailhead for Roaring Run and Morgan Run loops.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Catherine_Furnace",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Wolf Gap Recreation Area",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "hiking",
+   "forest",
+   "historic"
+  ],
+  "lat": 38.92455,
+  "lng": -78.68909,
+  "town": "Columbia Furnace",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Free primitive campground on the VA/WV line, once the site of a 1930s African American CCC camp. Big Schloss (north) and Tibbet Knob (south) both start from the lot.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=74043",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Reddish Knob",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.4626,
+  "lng": -79.24166,
+  "town": "Briery Branch",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Drive-up summit at 4,397 ft on Shenandoah Mountain: a narrow paved road ends at a small lot with a full 360-degree view into Virginia and West Virginia. Open to both sunrise and sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Reddish_Knob",
+  "coord_source": "wikipedia / OpenStreetMap peak"
+ },
+ {
+  "name": "Todd Lake Recreation Area",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "camping",
+   "trail",
+   "kayak"
+  ],
+  "lat": 38.36556,
+  "lng": -79.21139,
+  "town": "Mount Solon",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Small mountain lake with an accessible sand beach, picnic fields and a historic campground; the Trimble Mountain loop starts nearby. Seasonal: reopened May 15 in 2026, runs to late October.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$8 per vehicle day use"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73991",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Elkhorn Lake",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "kayak",
+   "forest",
+   "waterfront"
+  ],
+  "lat": 38.32834,
+  "lng": -79.2275,
+  "town": "West Augusta",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Quiet reservoir (Staunton's water supply) with a day-use area for non-motorized boating and fishing, including a wheelchair-accessible pier. Near Todd Lake and the North River Gorge.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73691",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Hone Quarry Recreation Area",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "hiking",
+   "forest",
+   "fishing"
+  ],
+  "lat": 38.46,
+  "lng": -79.13472,
+  "town": "Dayton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Streamside Forest Service campground and free picnic shelter in a narrow hollow west of Harrisonburg, a mile below Hone Quarry Reservoir. Trails lead to climbing rocks, ridges and a waterfall.",
+  "facts": {
+   "fee": "camping $5/site/night"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73759",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Sherando Lake Recreation Area",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "camping",
+   "hiking",
+   "fishing"
+  ],
+  "lat": 37.91972,
+  "lng": -79.01,
+  "town": "Lyndhurst",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Sandy beach on a 25-acre spring-fed lake below the Blue Ridge Parkway, with a campground, picnic grounds and trailheads up to Torry Ridge and White Rock Falls. About 157 miles from Pasadena.",
+  "facts": {
+   "fee": "$8 per vehicle day use",
+   "swim": "yes"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73959",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Crabtree Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 37.85144,
+  "lng": -79.07922,
+  "town": "Tyro",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Five major cascades falling a total of 1,200 ft; a graded trail climbs 1.7 miles beside them to the top, with a paved path to the first overlook. Stay off the slick rock. About 163 miles from Pasadena.",
+  "facts": {
+   "length_mi": 3.4,
+   "fee": "$3 per vehicle",
+   "dogs": "leashed"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73667",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Three Ridges Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "waterfall",
+   "camping",
+   "forest"
+  ],
+  "lat": 37.90146,
+  "lng": -78.98526,
+  "town": "Wintergreen",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Hard Appalachian Trail and Mau-Har Trail loop from Reeds Gap: repeated ridge-top overlooks, then a rough creek valley of cascades and pools. About 156 miles from home; lot fills early.",
+  "facts": {
+   "length_mi": 13.2,
+   "gain_ft": 4083,
+   "fee": "free",
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/three-ridges-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead (Reeds Gap)"
+ },
+ {
+  "name": "Bealers Ferry (South Fork Shenandoah)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.74806,
+  "lng": -78.43694,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Secluded Forest Service boat launch on the South Fork below Massanutten's east wall, with an accessible fishing pond beside it. A put-in or take-out for float trips.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73565",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Dinosaur Land",
+  "type": "gem",
+  "tags": [
+   "weird"
+  ],
+  "lat": 39.05989,
+  "lng": -78.14056,
+  "town": "White Post",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Roadside park of more than fifty painted dinosaur statues (plus a giant shark and King Kong) set among trees, running since 1963. Seasonal hours; small admission fee.",
+  "facts": {
+   "fee": "paid admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Dinosaur_Land_(Virginia)",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Cedar Creek and Belle Grove National Historical Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail"
+  ],
+  "lat": 39.02141,
+  "lng": -78.30428,
+  "town": "Middletown",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Belle Grove's 1797 limestone manor and the surrounding Cedar Creek battlefield of October 1864. The Morning Attack Trails, three linked loops, walk the ground of the dawn assault.",
+  "facts": {},
+  "url": "https://www.nps.gov/cebe/index.htm",
+  "coord_source": "official page (NPS API)"
+ },
+ {
+  "name": "State Arboretum of Virginia (Blandy Experimental Farm)",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "birding",
+   "nature"
+  ],
+  "lat": 39.06014,
+  "lng": -78.06511,
+  "town": "Boyce",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Over 5,000 trees on a UVA research farm, including a grove of 300-plus ginkgos that turns gold in late October, a native plant trail and a 3-mile loop drive. Open dawn to dusk every day.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://blandy.virginia.edu/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "River Campus at Cool Spring Battlefield",
+  "type": "park",
+  "tags": [
+   "paved",
+   "trail",
+   "running",
+   "waterfront",
+   "birding",
+   "historic"
+  ],
+  "lat": 39.14021,
+  "lng": -77.87002,
+  "town": "Bluemont",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Former golf course on the Shenandoah River, now a Shenandoah University preserve: 3.4 miles of mostly paved cart paths past an 1864 battlefield, a heron rookery and river views. Dawn to dusk.",
+  "facts": {
+   "length_mi": 3.4,
+   "fee": "free"
+  },
+  "url": "https://www.su.edu/cool-spring/visitor-information",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Bentonville Low-Water Bridge and Landing",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "kayak",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 38.84074,
+  "lng": -78.3297,
+  "town": "Bentonville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "One-lane concrete bridge that sits just above the South Fork Shenandoah on Indian Hollow Road, with a state boat landing and parking beside it. A common spot to wade, tube or launch a canoe.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.fs.usda.gov/r08/gwj/projects/61907",
+  "coord_source": "other (OpenStreetMap feature) boat-launch parking"
+ },
+ {
+  "name": "Morgan Ford Boat Landing",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 38.95733,
+  "lng": -78.12167,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Public landing on the main stem of the Shenandoah north of Front Royal. The 1925 single-lane low-water bridge here was replaced by a higher two-lane span in 2018; river access remains.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://royalexaminer.com/new-bridge-morgans-ford-opens-monday-jan-22/",
+  "coord_source": "other (OpenStreetMap feature) parking"
+ },
+ {
+  "name": "Luray Hawksbill Greenway",
+  "type": "run",
+  "tags": [
+   "paved",
+   "running",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 38.6635,
+  "lng": -78.46251,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Paved path along Hawksbill Creek through the middle of Luray, with footbridges and benches. An easy leg-stretch or run between cavern and Skyline Drive stops.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.townofluray.com/",
+  "coord_source": "other (OpenStreetMap feature) path"
+ },
+ {
+  "name": "Luray Singing Tower",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.66346,
+  "lng": -78.47888,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "A stone carillon tower (the Belle Brown Northcott Memorial) in a small park across from Luray Caverns; free recitals are played on its bells on a seasonal schedule.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://luraycaverns.com/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Bears Den Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "hiking"
+  ],
+  "lat": 39.11018,
+  "lng": -77.85403,
+  "town": "Bluemont",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Jumble of rock ledges on the Appalachian Trail facing west over the Shenandoah Valley, a quarter mile from the Bears Den lodge lot. One of the most-used sunset spots in Northern Virginia.",
+  "facts": {
+   "length_mi": 0.5,
+   "fee": "Small parking fee at the Bears Den day-use lot",
+   "dogs": "leashed"
+  },
+  "url": "https://gohikevirginia.com/bears-den-overlook-hike/",
+  "coord_source": "other (OpenStreetMap feature) day-use lot"
+ },
+ {
+  "name": "Buzzard Hill",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "waterfall"
+  ],
+  "lat": 39.08047,
+  "lng": -77.90216,
+  "town": "Bluemont",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Quiet stretch of the AT 'Roller Coaster' from a small lot on gravel Morgans Mill Road: a creek crossing, a small waterfall and west-facing ledges at 1,266 ft.",
+  "facts": {
+   "length_mi": 3.5,
+   "gain_ft": 790
+  },
+  "url": "https://gohikevirginia.com/appalachian-trail-roller-coaster-hikes-near-bluemont-va/",
+  "coord_source": "other (OpenStreetMap viewpoint node for the overlook, not the trailhead)"
+ },
+ {
+  "name": "Chapman's (Beverley) Mill Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.82456,
+  "lng": -77.71045,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Roofless five-and-a-half-story stone gristmill in Thoroughfare Gap, fought over in August 1862 and gutted by arson in 1998. Stabilized as a ruin beside I-66 and the Bull Run Mountains trailhead.",
+  "facts": {},
+  "url": "https://www.chapmansmill.org/history",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Goose Creek Stone Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.98167,
+  "lng": -77.81897,
+  "town": "Upperville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Four-arch, 200-foot stone turnpike bridge built about 1810, bypassed by US 50 and now closed to cars. Cavalry fought across it on June 21, 1863. Short walk from a small lot.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Goose_Creek_Stone_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Rappahannock County Park (Dark Sky Park)",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "birding",
+   "fishing"
+  ],
+  "lat": 38.71094,
+  "lng": -78.15205,
+  "town": "Washington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "A 7.3-acre park off US 211 certified as an International Dark Sky Park in 2019. Public star parties are held the night before each new moon; by day there is a short trail and trout stream.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://darksky.org/places/rappahannock-county-park-dark-sky-park/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Ellwood Manor and Stonewall Jackson's Arm",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.31802,
+  "lng": -77.73242,
+  "town": "Locust Grove",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "1790s plantation house on the Wilderness battlefield whose family cemetery holds a stone marker for the amputated left arm of Stonewall Jackson, buried here in May 1863.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/places/ellwood-cemetery.htm",
+  "coord_source": "official page (NPS API) (Ellwood Cemetery)"
+ },
+ {
+  "name": "Kelly's Ford (C.F. Phelps WMA)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront",
+   "historic",
+   "wildlife"
+  ],
+  "lat": 38.47751,
+  "lng": -77.78052,
+  "town": "Remington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Rappahannock River crossing with a canoe ramp and parking on the Culpeper side, in a 4,539-acre wildlife area. Site of the March 1863 cavalry battle. Access permit or VA license needed age 17+.",
+  "facts": {
+   "fee": "DWR access permit or VA hunting/fishing license required"
+  },
+  "url": "https://dwr.virginia.gov/wma/cf-phelps/",
+  "coord_source": "other (OpenStreetMap feature) (Kellys Ford Road bridge)"
+ },
+ {
+  "name": "Riverside Preserve (Fauquier County)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "fishing",
+   "nature"
+  ],
+  "lat": 38.70184,
+  "lng": -77.91581,
+  "town": "Orlean",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Fauquier County park with a short trail and walk-in access to the upper Rappahannock River for wading, fishing and launching small boats.",
+  "facts": {},
+  "url": "https://www.fauquiercounty.gov/government/departments-h-z/parks-and-recreation",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Rocky Mount",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.29877,
+  "lng": -78.64709,
+  "town": "Elkton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Rugged, little-used South District circuit with three separate climbs, crossings of Gap Run and a panoramic rock summit. Burned in the 2016 fire; expect brush and blowdowns. Park near mile 76.",
+  "facts": {
+   "length_mi": 9.5,
+   "gain_ft": 2631,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/rocky-mount-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Buck Hollow and Marys Rock Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.65789,
+  "lng": -78.28085,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "The hard way up Marys Rock, from a small lot on US 211: up the Buck Hollow stream valley, on to the summit view, and down Buck Ridge on hundreds of steep log steps.",
+  "facts": {
+   "length_mi": 9,
+   "gain_ft": 2632,
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/buck-hollow-and-marys-rock-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Hogback Mountain Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.74953,
+  "lng": -78.29428,
+  "town": "Bentonville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "North District loop over Hogback and Little Hogback on the Appalachian Trail, with views west to Massanutten, returning through laurel on side trails.",
+  "facts": {
+   "length_mi": 7,
+   "gain_ft": 1203,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/hogback-mountain-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Mudhole Gap Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "swimming",
+   "fishing"
+  ],
+  "lat": 38.92421,
+  "lng": -78.33275,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Long, gentle loop mostly on fire roads from the Elizabeth Furnace area: pools and runs along Little Passage Creek in Mudhole Gap, five fords, Strasburg Reservoir and views from Green Mountain.",
+  "facts": {
+   "length_mi": 10.9,
+   "gain_ft": 1742,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/mudhole-gap-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Kaylor's Knob (Massanutten Ridge Trail)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.42356,
+  "lng": -78.74701,
+  "town": "McGaheysville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Easy ridge-line walk on the Massanutten Resort trail system with occasional valley views. Free parking; trails are closed in daylight Nov 1-Jan 8 for hunting, except Sundays.",
+  "facts": {
+   "length_mi": 3.8,
+   "gain_ft": 529,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://myhikes.org/trails/kaylors-knob-trail",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Trimble Mountain Loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.36229,
+  "lng": -79.20546,
+  "town": "Mount Solon",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short loop over two wooded summits beside Todd Lake, with views of Big Bald and Little Bald knobs and a finish across the dam above the lake.",
+  "facts": {
+   "length_mi": 4.4,
+   "gain_ft": 1191,
+   "dogs": "allowed"
+  },
+  "url": "https://myhikes.org/trails/trimble-mountain-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "North River Gorge",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "fishing",
+   "forest",
+   "viewpoint"
+  ],
+  "lat": 38.35929,
+  "lng": -79.17579,
+  "town": "Mount Solon",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Loop with a ridge of valley views and 4.2 miles along the North River, forded about ten times, with pools for cooling off. Go in late summer or early fall when the water is low.",
+  "facts": {
+   "length_mi": 12.1,
+   "gain_ft": 1767,
+   "dogs": "allowed",
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/north-river-gorge-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead"
+ },
+ {
+  "name": "Trout Pond Recreation Area",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "camping",
+   "fishing",
+   "trail",
+   "geology"
+  ],
+  "lat": 38.9525,
+  "lng": -78.73389,
+  "town": "Lost River",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Two lakes in the national forest west of Wolf Gap: Rock Cliff Lake has a sandy beach and marked swimming area; Trout Pond, a small sinkhole pond, is the only natural lake in West Virginia.",
+  "facts": {
+   "fee": "$8 per vehicle day use",
+   "swim": "yes"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73999",
+  "coord_source": "official page (USFS recreation dataset)"
+ },
+ {
+  "name": "Switzer Lake (Skidmore Fork)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "camping",
+   "forest",
+   "waterfront"
+  ],
+  "lat": 38.56697,
+  "lng": -79.14296,
+  "town": "Rawley Springs",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Clear reservoir in a deep forested valley off US 33 below High Knob. Canoe launch, electric motors only, no swimming (it is a water supply); primitive campsites lie farther up the rough road.",
+  "facts": {
+   "fee": "free",
+   "swim": "no"
+  },
+  "url": "https://dwr.virginia.gov/vbwt/sites/switzer-lake-area",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Endless Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.5949,
+  "lng": -78.6756,
+  "town": "New Market",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Show cave at the foot of Massanutten, three miles south of New Market, seen on 75-minute guided tours. On the grounds of an RV resort; check current hours before going.",
+  "facts": {
+   "fee": "Paid admission (check the current price)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Endless_Caverns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mint Springs Valley Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "beach",
+   "swimming",
+   "fishing",
+   "forest"
+  ],
+  "lat": 38.08532,
+  "lng": -78.73461,
+  "town": "Crozet",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "County park in a mountain hollow above Crozet with three small lakes, a swimming beach and steep trails up the slope. Swimming was suspended in 2026 for an algae bloom; check before going.",
+  "facts": {
+   "fee": "Beach fee in summer for non-residents",
+   "swim": "yes"
+  },
+  "url": "https://www.albemarle.org/government/parks-recreation/parks/swimming",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Walnut Creek Park",
+  "type": "park",
+  "tags": [
+   "beach",
+   "swimming",
+   "hiking",
+   "trail",
+   "kayak",
+   "fishing",
+   "running"
+  ],
+  "lat": 37.92654,
+  "lng": -78.59145,
+  "town": "North Garden",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Albemarle County park south of Charlottesville with a summer swimming beach on its lake and 15 miles of trails for hiking, running and mountain biking.",
+  "facts": {
+   "fee": "Beach fee in summer for non-residents",
+   "swim": "yes"
+  },
+  "url": "https://www.albemarle.org/government/parks-recreation/parks/swimming",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Chris Greene Lake Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "trail",
+   "kayak",
+   "fishing",
+   "dogs"
+  ],
+  "lat": 38.16328,
+  "lng": -78.44238,
+  "town": "Earlysville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Sand beach on a lake north of Charlottesville, open for swimming 10-6 from Memorial Day weekend, with 3 miles of trails and a dog park.",
+  "facts": {
+   "fee": "Beach fee in summer for non-residents",
+   "swim": "yes"
+  },
+  "url": "https://www.albemarle.org/government/parks-recreation/parks/swimming",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Ivy Creek Natural Area",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "trail",
+   "hiking",
+   "historic"
+  ],
+  "lat": 38.09358,
+  "lng": -78.49615,
+  "town": "Charlottesville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "219 acres of woods and fields on the South Fork Rivanna Reservoir with seven miles of quiet trails and the historic River View Farm. No pets, jogging or bikes. Dawn to dusk.",
+  "facts": {
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://charlottesville.gov/926/Ivy-Creek-Natural-Area",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Ragged Mountain Natural Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "nature",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.0267,
+  "lng": -78.57186,
+  "town": "Charlottesville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Rolling six-mile loop through mature forest around Ragged Mountain Reservoir on the edge of Charlottesville. Fishing and paddling are allowed; swimming and dogs are not.",
+  "facts": {
+   "length_mi": 6,
+   "fee": "free",
+   "dogs": "not allowed",
+   "swim": "no"
+  },
+  "url": "https://gohikevirginia.com/ragged-mountain-natural-area/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Saunders-Monticello Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "forest",
+   "historic"
+  ],
+  "lat": 38.00175,
+  "lng": -78.47694,
+  "town": "Charlottesville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Two-mile graded path from Kemper Park around Carter Mountain to Monticello's visitor center, carried across ravines on ten curving wooden boardwalks. Wheelchair-friendly grade.",
+  "facts": {
+   "length_mi": 4,
+   "fee": "free"
+  },
+  "url": "https://www.traillink.com/trail/saunders-monticello-trail/",
+  "coord_source": "other (OpenStreetMap feature) (Kemper Park end of the trail)"
+ },
+ {
+  "name": "Patricia Ann Byrom Forest Preserve Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "viewpoint",
+   "nature"
+  ],
+  "lat": 38.22598,
+  "lng": -78.65763,
+  "town": "Free Union",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "680 acres of steep Blue Ridge foothill forest with 6 miles of trails; the 4.3-mile Little Flat Mountain loop climbs to ridge views next to Shenandoah National Park.",
+  "facts": {
+   "length_mi": 4.3,
+   "fee": "free"
+  },
+  "url": "https://www.cvillepedia.org/Byrom_Park",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Montpelier Trails and Landmark Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "nature",
+   "historic",
+   "trail"
+  ],
+  "lat": 38.21881,
+  "lng": -78.16842,
+  "town": "Orange",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "More than eight miles of free walking trails on James Madison's estate, through pastures and the 200-acre Landmark Forest, where oaks, beeches and poplars have stood largely undisturbed since the 1790s.",
+  "facts": {
+   "length_mi": 3.55,
+   "fee": "trails free (house tour is ticketed)"
+  },
+  "url": "https://www.montpelier.org/visit/trails/",
+  "coord_source": "other (OpenStreetMap feature) (house and visitor center)"
+ },
+ {
+  "name": "Edith J. Carrier Arboretum",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.42871,
+  "lng": -78.86477,
+  "town": "Harrisonburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "125-acre wooded preserve and gardens on the James Madison University campus, with a pond and forest paths. Open dawn to dusk every day.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.jmu.edu/arboretum/index.shtml",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Betsy Bell Wilderness Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.1368,
+  "lng": -79.05392,
+  "town": "Staunton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Wooded hill in Staunton with an observation platform at 1,959 ft looking east toward Waynesboro and the Blue Ridge. Reached by a steep access road or on foot. About 154 miles from home.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://visitstaunton.com/listing/betsy-bell-wilderness-park",
+  "coord_source": "other (OpenStreetMap feature) summit"
+ },
+ {
+  "name": "Shrine Mont Cathedral Shrine of the Transfiguration",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "forest"
+  ],
+  "lat": 38.7955,
+  "lng": -78.8165,
+  "town": "Orkney Springs",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Open-air stone sanctuary consecrated in 1925, built of boulders hauled off the mountain behind it; the country's only outdoor Episcopal cathedral. Public Sunday services April to November.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Shrine_Mont",
+  "coord_source": "nominatim (Shrine Mont grounds; the shrine itself is a short walk uphill)"
+ },
+ {
+  "name": "Whitney State Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "trail",
+   "running",
+   "dogs"
+  ],
+  "lat": 38.66936,
+  "lng": -77.8108,
+  "town": "Warrenton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "148 acres of quiet woods three miles south of Warrenton with 7 miles of interlaced forest trails and gated roads; an easy perimeter loop for a walk or trail run.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dof.virginia.gov/education-and-recreation/state-forests/virginia-state-forests/whitney-state-forest",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "C.M. Crockett Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "trail"
+  ],
+  "lat": 38.62175,
+  "lng": -77.72437,
+  "town": "Midland",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Fauquier County park on 109-acre Germantown Lake with a boat ramp, boat rentals, shoreline fishing and picnic grounds on 100 acres of rolling woods.",
+  "facts": {
+   "fee": "Entry fee"
+  },
+  "url": "https://dwr.virginia.gov/vbwt/sites/c-m-crockett-park/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Cedar Run Falls and Natural Waterslide",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 38.54229,
+  "lng": -78.36725,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Steep descent from Hawksbill Gap past small pools to a smooth rock chute used as a waterslide, then a taller waterfall with a swimming hole just below. The climb back is 1,500 ft in 1.7 miles.",
+  "facts": {
+   "length_mi": 3.9,
+   "gain_ft": 1765,
+   "fee": "$30/vehicle park entry (7 days)",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/cedar-run-hike",
+  "coord_source": "other (OpenStreetMap waterfall node; trailhead is Hawksbill Gap, mile 45.6)"
+ },
+ {
+  "name": "Ravens Roost Overlook (Blue Ridge Parkway)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 37.9353,
+  "lng": -78.9485,
+  "town": "Lyndhurst",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Parkway milepost 10.7: a cliff-edge ledge at 3,200 ft, about 1,800 ft above the Shenandoah Valley, facing west to Torry Ridge. A few minutes' walk from the car. About 153 miles from home.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://blueridgemountainstravelguide.com/best-blue-ridge-parkway-overlooks/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Warrenton Branch Greenway",
+  "type": "run",
+  "tags": [
+   "paved",
+   "running",
+   "trail",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.71073,
+  "lng": -77.79466,
+  "town": "Warrenton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Paved rail-trail from the old depot yard in Old Town Warrenton, with a restored caboose at the trailhead and two bridges; extended to about 2.2 miles each way.",
+  "facts": {
+   "length_mi": 2.2,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.traillink.com/trail/warrenton-branch-greenway",
+  "coord_source": "other (OpenStreetMap feature) (path near the 4th Street trailhead)"
+ },
+ {
+  "name": "Eastham Park and Front Royal Boat Landing",
+  "type": "park",
+  "tags": [
+   "paved",
+   "trail",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "dogs",
+   "running"
+  ],
+  "lat": 38.90954,
+  "lng": -78.21039,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Town park on the South Fork Shenandoah with about a mile of paved riverside path, a public boat launch and a dog park.",
+  "facts": {
+   "length_mi": 1,
+   "fee": "free"
+  },
+  "url": "https://dwr.virginia.gov/vbwt/sites/eastham-park-trail-and-front-royal-boat-landing/",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Riven Rock Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "forest",
+   "swimming"
+  ],
+  "lat": 38.51745,
+  "lng": -79.05566,
+  "town": "Hinton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Harrisonburg city park on 27 wooded acres along the Dry River near Rawley Springs, with picnic shelters, short trails and wading in the river. Open mid-April to October 31, until 9 pm.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.harrisonburgva.gov/riven-rock-park",
+  "coord_source": "other (OpenStreetMap feature)"
+ },
+ {
+  "name": "Staunton Dam",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.33274,
+  "lng": -79.20617,
+  "town": "West Augusta",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Picnic area at a masonry dam built in the 1920s on the North River; its water runs through a tunnel under Lookout Mountain to supply Staunton. Next to Elkhorn Lake.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=73969",
+  "coord_source": "official page (USFS recreation dataset)"
+ }
+]

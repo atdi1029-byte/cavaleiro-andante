@@ -1,0 +1,3774 @@
+[
+ {
+  "name": "Franciscan Monastery of the Holy Land",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "garden",
+   "cave"
+  ],
+  "lat": 38.9375,
+  "lng": -76.98531,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "1898 monastery with full-size replicas of Holy Land shrines and underground catacombs, shown on free guided tours (hourly, Mon-Sat from 10, Sun from 1). Rose gardens and grottoes open daily.",
+  "facts": {
+   "fee": "free (donations)"
+  },
+  "url": "https://myfranciscan.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "U.S. National Arboretum (Capitol Columns)",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "nature",
+   "historic",
+   "weird",
+   "forest",
+   "running",
+   "dogs"
+  ],
+  "lat": 38.91023,
+  "lng": -76.96754,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 1,
+  "blurb": "446-acre arboretum above the Anacostia. Twenty-two sandstone columns removed from the Capitol in 1958 stand in an open meadow; also azalea hillsides, Fern Valley and a bonsai museum.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.usna.usda.gov/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Anacostia Riverwalk Trail (Yards Park)",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "trail",
+   "kayak"
+  ],
+  "lat": 38.87353,
+  "lng": -77.0011,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Paved riverfront trail, 16.5 miles so far, on both banks of the Anacostia. From the boardwalk and footbridge at Yards Park it passes the Navy Yard and Kingman Island on the way north to Bladensburg.",
+  "facts": {
+   "length_mi": 16.5,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Anacostia_Riverwalk_Trail",
+  "coord_source": "wikipedia (Yards Park, a main access point)"
+ },
+ {
+  "name": "Dumbarton Oaks Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 38.9142,
+  "lng": -77.0633,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Terraced formal gardens by Beatrix Farrand on a Georgetown hillside: rose garden, pebble mosaic pool, orchard and cherry hill. Open Tue-Sun afternoons from 2 pm; tickets sold online in season.",
+  "facts": {
+   "fee": "$15 adults Mar 15-Oct 31 (timed tickets); free Nov 1-Mar 14"
+  },
+  "url": "https://www.doaks.org/visit/plan",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Dumbarton Oaks Park",
+  "type": "gem",
+  "tags": [
+   "garden",
+   "forest",
+   "nature",
+   "historic",
+   "trail",
+   "waterfall",
+   "dogs"
+  ],
+  "lat": 38.91528,
+  "lng": -77.06222,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "27-acre 'wild garden' laid out by Beatrix Farrand below the Dumbarton Oaks estate: a stream stepped with small stone dams, meadows and old stonework. Enter by Lovers' Lane off R Street.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/places/dumbarton-oaks-park.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fletcher's Cove",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "trail",
+   "running",
+   "historic"
+  ],
+  "lat": 38.91783,
+  "lng": -77.102,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Boathouse on a Potomac cove between the C&O towpath and the Capital Crescent Trail. Rowboat, canoe and kayak rentals in season, spring shad fishing and picnic tables under sycamores.",
+  "facts": {
+   "fee": "free (rentals charged)"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/fletchers-cove.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Hains Point loop (East Potomac Park)",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "sunset",
+   "viewpoint",
+   "fishing"
+  ],
+  "lat": 38.85774,
+  "lng": -77.02237,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Flat paved loop on Ohio Drive around the tip of East Potomac Park, with the Potomac on one side and Washington Channel on the other. Planes land across the river; cherry trees line the road.",
+  "facts": {
+   "length_mi": 4.1,
+   "fee": "free"
+  },
+  "url": "https://greatruns.com/washington-dc-east-potomac-park/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Kenilworth Park & Aquatic Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "nature",
+   "birding",
+   "wildlife",
+   "waterfront",
+   "trail",
+   "dogs"
+  ],
+  "lat": 38.91261,
+  "lng": -76.9419,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Ponds of lotus and water lilies (peak bloom late June to July) beside the Anacostia, with a boardwalk and river trail into one of the city's last tidal marshes. Herons, turtles, beavers.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/keaq/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Rock Creek Park: Beach Drive (car-free section)",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.9575,
+  "lng": -77.045,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Three sections of upper Beach Drive are closed to cars seven days a week (Broad Branch to Military Road, Picnic Grove 10 to Wise Road, West Beach Drive to the DC line), leaving a paved creekside road to run.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/rocr/faqs.htm",
+  "coord_source": "wikipedia (Rock Creek Park; the closed road runs through this part of the park)"
+ },
+ {
+  "name": "Rock Creek Park: Boulder Bridge loop",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "historic",
+   "running",
+   "dogs"
+  ],
+  "lat": 38.94833,
+  "lng": -77.04444,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "1902 arch bridge faced with rounded boulders over Rock Creek. The Valley Trail and Western Ridge Trail link it with Rapids Bridge and Pulpit Rock for wooded loops beside the creek's rapids.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/rocr/planyourvisit/hiking.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Theodore Roosevelt Island",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "nature",
+   "waterfront",
+   "birding",
+   "dogs"
+  ],
+  "lat": 38.89722,
+  "lng": -77.06417,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "blurb": "Wooded 88-acre island in the Potomac reached by footbridge from a GW Parkway lot (northbound side only). The Swamp Trail boardwalk loops through tidal marsh; memorial plaza in the middle.",
+  "facts": {
+   "length_mi": 1.5,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/this/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Adams Memorial (Rock Creek Cemetery)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.94736,
+  "lng": -77.01028,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Augustus Saint-Gaudens' shrouded bronze figure of 1891, seated in a small hedged room designed by Stanford White inside Rock Creek Cemetery. Quiet, free, open during cemetery hours.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Adams_Memorial_(Saint-Gaudens)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Battery Kemble Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "forest",
+   "trail",
+   "dogs"
+  ],
+  "lat": 38.9302,
+  "lng": -77.09411,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Grassy bowl and wooded ravine in the Palisades around the earthworks of an 1861 gun battery. A dirt trail follows the stream downhill toward the C&O Canal; popular for sledding in winter.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Battery_Kemble_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bishop's Garden (Washington National Cathedral)",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 38.92979,
+  "lng": -77.07087,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Walled garden below the cathedral's south side with a stone gazebo, herb beds, old boxwood and roses, plus views up to the towers. The Olmsted Woods path starts next door. Open daily, free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://cathedral.org/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Congressional Cemetery",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.88139,
+  "lng": -76.97778,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Active cemetery founded in 1807 above the Anacostia: rows of sandstone cenotaphs for early members of Congress and the graves of John Philip Sousa and J. Edgar Hoover. Open daily for walking.",
+  "facts": {},
+  "url": "https://congressionalcemetery.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Exorcist Steps",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "running"
+  ],
+  "lat": 38.90554,
+  "lng": -77.07016,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Steep 75-step stone staircase between Prospect Street and M Street in Georgetown, used in the 1973 film The Exorcist. A plaque marks the spot; locals run repeats on it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Exorcist_steps",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Dupont Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.87733,
+  "lng": -76.95025,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "376 wooded acres east of the Anacostia with the earthworks of a Civil War fort, picnic groves and the Fort Circle hiker-biker trail, a 7-mile path linking the ridge-top fort sites.",
+  "facts": {
+   "length_mi": 7,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/fodu/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Reno Park",
+  "type": "gem",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.952,
+  "lng": -77.0759,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Grassy hilltop in Tenleytown holding the highest natural point in DC, 409 ft, marked by a small survey disc near the water towers. Site of a Civil War fort; free summer concerts.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Reno_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Frederick Douglass National Historic Site (Cedar Hill)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 38.86333,
+  "lng": -76.98528,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Douglass's hilltop house in Anacostia. The front lawn looks across the river to the Capitol dome and Washington Monument; grounds are free to walk and the house is seen by ranger tour.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/frdo/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Georgetown Waterfront Park",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "viewpoint",
+   "paved",
+   "running",
+   "kayak"
+  ],
+  "lat": 38.90216,
+  "lng": -77.06189,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Riverside lawn, steps and promenade on the Potomac below Georgetown. West-facing views to Key Bridge and Roosevelt Island at sunset; rowers and kayaks pass close by. Joins the Capital Crescent Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/places/georgetown-waterfront-park.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Glover-Archbold Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.92537,
+  "lng": -77.08204,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Narrow wooded stream valley running north from near Georgetown toward Tenleytown, with a dirt trail under big tulip trees. NPS has the trail's southern end under emergency closure (detour via Foxhall Rd).",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/rocr/planyourvisit/conditions.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hillwood Estate gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 38.94365,
+  "lng": -77.05265,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Marjorie Merriweather Post's estate above Rock Creek, with 13 acres of formal gardens: Japanese-style garden, French parterre, rose garden and an orchid greenhouse. Closed Mondays.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://hillwoodmuseum.org/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Key Bridge Boathouse",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "waterfront"
+  ],
+  "lat": 38.90416,
+  "lng": -77.06975,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Seasonal kayak, canoe and paddleboard rentals on the Georgetown shore under Key Bridge. Paddle upstream to the Three Sisters rocks or circle Theodore Roosevelt Island.",
+  "facts": {
+   "fee": "rental fees"
+  },
+  "url": "https://boatingindc.com/boathouses/key-bridge-boathouse/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Kingman and Heritage Islands",
+  "type": "park",
+  "tags": [
+   "nature",
+   "trail",
+   "birding",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.899,
+  "lng": -76.96442,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Two wooded man-made islands in the Anacostia reached by wooden footbridges from the RFK lots. Flat trails and river overlooks with herons, ospreys and turtles; quiet on weekdays.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Kingman_and_Heritage_Islands",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "LBJ Memorial Grove (Lady Bird Johnson Park)",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "paved",
+   "garden",
+   "running"
+  ],
+  "lat": 38.87861,
+  "lng": -77.05139,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "White pine grove and a pink granite monolith on Columbia Island, with open views across the Potomac to the monuments. Flat paths, the Mount Vernon Trail alongside and daffodils in spring.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/lyba/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Meridian Hill Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "garden",
+   "weird"
+  ],
+  "lat": 38.921,
+  "lng": -77.0357,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Formal 12-acre hillside park with a 13-basin cascading fountain, exposed-aggregate concrete walls and terraces in the Italian style. Sunday afternoon drum circle on the upper level.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/places/meridian-hill-park.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Old Post Office Tower",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 38.89443,
+  "lng": -77.02759,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "270-ft observation deck in the 1899 clock tower on Pennsylvania Avenue, with open views down the Mall. Reopened Aug 2026, run by the Waldorf Astoria: Wed-Sat 9 to noon, entry from 12th St.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://wtop.com/dc/2026/08/you-can-see-everything-dcs-waldorf-astoria-reopens-historic-clock-tower-to-the-public/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Peirce Mill",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "nature",
+   "trail"
+  ],
+  "lat": 38.94,
+  "lng": -77.05222,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Stone gristmill from the 1820s, the only one left of the mills that once lined Rock Creek. Restored water wheel, a low dam cascade beside it and creekside trails in both directions.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/pimi/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Spanish Steps (Kalorama)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "garden"
+  ],
+  "lat": 38.91372,
+  "lng": -77.04879,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Small 1911 staircase with a lion-head fountain joining S Street and Decatur Place on the slope above Dupont Circle. Shaded, little visited and a good place to sit and read.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Spanish_Steps_(Washington,_D.C.)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Summerhouse (U.S. Capitol grounds)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "garden"
+  ],
+  "lat": 38.89145,
+  "lng": -77.01063,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Open-air hexagonal brick shelter built by Frederick Law Olmsted around 1880 on the Senate side of the Capitol lawn, with a fountain, stone benches and a window onto a small rock grotto.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.aoc.gov/explore-capitol-campus/buildings-grounds/capitol-building/capitol-grounds/summerhouse",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Tregaron Conservancy",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "forest",
+   "trail",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.93171,
+  "lng": -77.05899,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "blurb": "Woodland garden of a 1912 estate between Cleveland Park and Woodley Park: lily pond, stone bridges and restored paths that connect to the paved Klingle Valley Trail. Open daily, free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tregaron_Estate",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Billy Goat Trail Section A",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "geology",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.9938,
+  "lng": -77.2458,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "1.75-mile rock scramble along the cliffs of Bear Island above Mather Gorge, including a steep climb up a 50-ft rock face. Hiked one way downstream, returning on the towpath; allow 2-3 hours. No dogs.",
+  "facts": {
+   "length_mi": 1.75,
+   "dogs": "not allowed",
+   "fee": "$20 per vehicle at the Great Falls Tavern entrance"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/billy-goat-trail.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Great Falls Overlook (Olmsted Island), C&O Canal",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "viewpoint",
+   "trail",
+   "geology",
+   "historic"
+  ],
+  "lat": 38.9983,
+  "lng": -77.25,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Boardwalk and footbridges cross the rocky side channels of Olmsted Island to a platform facing the main falls. Starts on the towpath just below Great Falls Tavern. No dogs or bikes on the boardwalk.",
+  "facts": {
+   "fee": "$20 per vehicle, 7 days (also valid at Great Falls Park, VA)",
+   "dogs": "not allowed on the boardwalk",
+   "swim": "no"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/greatfallstavernvisitorcenter.htm",
+  "coord_source": "wikipedia (Olmsted Island)"
+ },
+ {
+  "name": "Patuxent River Park: Jug Bay Natural Area",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "birding",
+   "wildlife",
+   "hiking",
+   "trail",
+   "camping",
+   "fishing",
+   "nature",
+   "historic"
+  ],
+  "lat": 38.773,
+  "lng": -76.70918,
+  "town": "Upper Marlboro",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Tidal freshwater marsh on the Patuxent: boardwalks, an observation tower, wooded trails and group campsites. Canoe and kayak rentals at Jackson's Landing on weekends and holidays, April to October.",
+  "facts": {
+   "fee": "free entry (rentals and camping charged)"
+  },
+  "url": "https://www.pgparks.com/parks_trails/patuxent-river-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Jackson's Landing boat launch)"
+ },
+ {
+  "name": "Piscataway Park and National Colonial Farm",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "viewpoint",
+   "fishing",
+   "historic",
+   "trail",
+   "birding",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.69517,
+  "lng": -77.06599,
+  "town": "Accokeek",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Quiet Potomac shoreline preserved to protect the view from Mount Vernon, directly across the river. Fishing pier, riverside and woodland trails, a marsh boardwalk and a colonial-era farm.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/pisc/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: National Colonial Farm visitor center)"
+ },
+ {
+  "name": "Sugarloaf Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "viewpoint",
+   "forest",
+   "geology",
+   "sunset",
+   "dogs"
+  ],
+  "lat": 39.26248,
+  "lng": -77.39323,
+  "town": "Dickerson",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Privately owned 1,282-ft mountain standing alone above the farmland, open daily 8 to sunset (entrance gate shuts at 4). Short steep trails climb from the upper lots to cliff-top views; longer loops circle it.",
+  "facts": {
+   "fee": "free (voluntary $5+ donation requested)",
+   "dogs": "leashed"
+  },
+  "url": "https://sugarloafmd.com/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: summit)"
+ },
+ {
+  "name": "Billy Goat Trail Section C (Carderock)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "waterfall",
+   "geology",
+   "dogs"
+  ],
+  "lat": 38.97047,
+  "lng": -77.1927,
+  "town": "Bethesda",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1.6-mile mostly wooded riverside trail from the Carderock Recreation Area with river views, a small waterfall and the cliffs that are the area's main climbing crag. Loop back on the towpath.",
+  "facts": {
+   "length_mi": 1.6,
+   "dogs": "leashed",
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/billy-goat-trail.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Black Hill Regional Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "trail",
+   "paved",
+   "running",
+   "sunset",
+   "birding",
+   "dogs"
+  ],
+  "lat": 39.19194,
+  "lng": -77.2948,
+  "town": "Boyds",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "More than 2,000 acres on the wooded peninsulas of Little Seneca Lake, with over 20 miles of paved and natural trails, a visitor center above the water and canoe, kayak and rowboat rentals.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/black-hill-regional-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Blockhouse Point Conservation Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "viewpoint",
+   "forest",
+   "historic",
+   "nature"
+  ],
+  "lat": 39.06594,
+  "lng": -77.30473,
+  "town": "Darnestown",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "More than 7 miles of forest trails leading to rock outcrops high above the C&O Canal and the Potomac, with long views up and down the valley. Site of Civil War blockhouses; rarely busy.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/blockhouse-point-conservation-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: main parking lot on River Road)"
+ },
+ {
+  "name": "Brookside Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "nature",
+   "paved"
+  ],
+  "lat": 39.05806,
+  "lng": -77.03667,
+  "town": "Wheaton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "50-acre public garden inside Wheaton Regional Park: two conservatories, a Japanese-style tea house on a pond, and azalea, rose and perennial gardens. Free; no dogs.",
+  "facts": {
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/brookside-gardens/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "C&O Canal Towpath at Widewater (Angler's access)",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "waterfront",
+   "birding",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.98253,
+  "lng": -77.22649,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Lot opposite Old Angler's Inn puts you on the 184.5-mile towpath beside Widewater, a lake-like stretch of canal in an old river channel. Flat running north to Great Falls or south to Carderock.",
+  "facts": {
+   "length_mi": 184.5,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/choh/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Old Angler's Inn, across MacArthur Blvd from the lot)"
+ },
+ {
+  "name": "Capital Crescent Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest",
+   "waterfront",
+   "dogs"
+  ],
+  "lat": 38.94355,
+  "lng": -77.11579,
+  "town": "Bethesda",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved rail trail from the Georgetown waterfront to Bethesda: along the Potomac and canal, over the Arizona Avenue trestle, through the brick Dalecarlia Tunnel and uphill under a tree canopy.",
+  "facts": {
+   "length_mi": 7,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.cctrail.org/",
+  "coord_source": "wikipedia (Dalecarlia Tunnel, a landmark midway along the trail)"
+ },
+ {
+  "name": "Fort Washington Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "sunset",
+   "historic",
+   "lighthouse",
+   "fishing",
+   "trail",
+   "dogs"
+  ],
+  "lat": 38.71207,
+  "lng": -77.03028,
+  "town": "Fort Washington",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Intact masonry fort completed in 1824 on a bluff over the Potomac, with a small light at the point, shoreline fishing and a riverside trail. Views upriver toward Alexandria and DC.",
+  "facts": {
+   "dogs": "leashed",
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/fowa/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Glenstone",
+  "type": "gem",
+  "tags": [
+   "garden",
+   "nature",
+   "trail",
+   "weird"
+  ],
+  "lat": 39.05921,
+  "lng": -77.24871,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Art museum spread over nearly 300 acres of meadow and woodland, with outdoor sculpture and walking paths between pavilions. Always free, but visits must be scheduled online in advance.",
+  "facts": {
+   "fee": "free (advance scheduling required)"
+  },
+  "url": "https://www.glenstone.org/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Lake Artemesia",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "fishing",
+   "birding",
+   "dogs"
+  ],
+  "lat": 38.98656,
+  "lng": -76.92227,
+  "town": "College Park",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1.35-mile paved loop around a 38-acre lake with fishing piers and gazebos, dug during Metro's Green Line construction. Connects to the Paint Branch, Indian Creek and Northeast Branch trails.",
+  "facts": {
+   "length_mi": 1.35,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lake_Artemesia",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Little Bennett Regional Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "camping",
+   "historic",
+   "nature",
+   "running",
+   "dogs"
+  ],
+  "lat": 39.26674,
+  "lng": -77.28209,
+  "town": "Clarksburg",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Montgomery County's largest natural area: 3,700 acres of forest, meadow and creek valley with over 25 miles of natural-surface trails, the Kingsley one-room schoolhouse, Hyattstown Mill and a campground.",
+  "facts": {
+   "dogs": "leashed",
+   "fee": "free (camping charged)"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/little-bennett-regional-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Merkle Natural Resources Management Area",
+  "type": "park",
+  "tags": [
+   "wildlife",
+   "birding",
+   "nature",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 38.72786,
+  "lng": -76.70805,
+  "town": "Upper Marlboro",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Fields and ponds on the Patuxent that hold the largest wintering flock of Canada geese on the Bay's western shore. Trails and a driving-tour road; grounds open sunrise to sunset, visitor center by reservation.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/merkle.aspx",
+  "coord_source": "nominatim (visitor center, 11704 Fenno Road)"
+ },
+ {
+  "name": "Monocacy Aqueduct",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "trail",
+   "running"
+  ],
+  "lat": 39.22388,
+  "lng": -77.45212,
+  "town": "Dickerson",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Seven-arch stone aqueduct that carries the canal towpath across the mouth of the Monocacy River, the largest of the canal's 11 aqueducts. Boat ramp, picnic tables and flat towpath walking.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/places/monocacy-aqueduct.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Mount Calvert Historical and Archaeological Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "waterfront",
+   "historic",
+   "birding"
+  ],
+  "lat": 38.78524,
+  "lng": -76.71456,
+  "town": "Upper Marlboro",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1780s brick house on a bluff where Western Branch meets the Patuxent, on the site of colonial Charles Town. The lawn gives a wide view over the marshes; grounds open daily 8 to sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.visitmaryland.org/listing/attraction/mount-calvert-historical-archaeological-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "National Park Seminary (Forest Glen)",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 39.01194,
+  "lng": -77.05583,
+  "town": "Silver Spring",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Former girls' school whose sorority houses were built as a Japanese pagoda, Dutch windmill, Swiss chalet and castle, now restored as homes. Walk the public streets; Save Our Seminary leads tours.",
+  "facts": {},
+  "url": "https://saveourseminary.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Northwest Branch gorge (Burnt Mills)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfall",
+   "geology",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.03017,
+  "lng": -77.00486,
+  "town": "Silver Spring",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Below the old dam at Colesville Road the Northwest Branch drops over a waterfall into a boulder-filled gorge. A rough, rocky trail on the Rachel Carson Greenway follows the cascades downstream.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rachel_Carson_Greenway",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Burnt Mills East Special Park trailhead)"
+ },
+ {
+  "name": "Patuxent Research Refuge: South Tract",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "wildlife",
+   "birding",
+   "nature",
+   "fishing",
+   "forest",
+   "dogs"
+  ],
+  "lat": 39.0263,
+  "lng": -76.79896,
+  "town": "Laurel",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Five miles of flat walking trails around two lakes, plus the National Wildlife Visitor Center (Wed-Sat 10 to 4). Seasonal fishing on Cash Lake; waterfowl, beavers and bald eagles.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "free",
+   "dogs": "leashed",
+   "swim": "no"
+  },
+  "url": "https://www.fws.gov/refuge/patuxent-research/visit-us",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Riley's Lock and Seneca Aqueduct",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "kayak",
+   "sunset",
+   "fishing",
+   "weird"
+  ],
+  "lat": 39.06874,
+  "lng": -77.34117,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The only place on the canal where a lock and an aqueduct are one structure, built of red Seneca sandstone over Seneca Creek. Flat water at the creek mouth for kayaks; aqueduct recently restored.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.canaltrust.org/pyv/rileys-lock-24-seneca-aqueduct/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Seneca Creek State Park (Clopper Lake)",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "forest",
+   "dogs"
+  ],
+  "lat": 39.14225,
+  "lng": -77.25109,
+  "town": "Gaithersburg",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The 3.7-mile Lake Shore Trail circles 90-acre Clopper Lake; boat rentals in season. The park's 50+ miles of trails include the 16.5-mile Seneca Creek Greenway down to the Potomac.",
+  "facts": {
+   "length_mi": 3.7,
+   "fee": "$3 per person MD residents, $5 others (weekends and holidays, Apr-Oct)",
+   "dogs": "allowed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Clopper Lake)"
+ },
+ {
+  "name": "Seneca Quarry and stone-cutting mill ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "weird",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.06889,
+  "lng": -77.34583,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Roofless red-sandstone mill in the woods just west of Riley's Lock, where stone for the Smithsonian Castle was cut. Overgrown quarry faces lie behind it; the path is unmarked and brushy in summer.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Seneca_Quarry",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Billy Goat Trail Section B",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "birding",
+   "dogs"
+  ],
+  "lat": 38.97739,
+  "lng": -77.21291,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1.4-mile riverside section reached from the Angler's parking area, quieter than Section A with a few easy scrambles. Closed for years by erosion; NPS listed it open in late September 2026.",
+  "facts": {
+   "length_mi": 1.4,
+   "dogs": "leashed",
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/conditions.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Black Rock Mill",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.12725,
+  "lng": -77.31463,
+  "town": "Germantown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stone shell of an 1815 grist and sawmill beside Great Seneca Creek, stabilized with interpretive panels inside. Roadside stop on Black Rock Road and a landmark on the Seneca Creek Greenway Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Bladensburg Waterfront Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "paved",
+   "running",
+   "fishing",
+   "historic",
+   "trail"
+  ],
+  "lat": 38.93576,
+  "lng": -76.9391,
+  "town": "Bladensburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on the tidal Anacostia with a boat ramp, fishing pier, kayak and canoe rentals and pontoon tours in season. The Anacostia River Trail heads south from here to Kenilworth and DC.",
+  "facts": {},
+  "url": "https://www.pgparks.com/parks_trails/bladensburg-waterfront-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Brighton Dam Azalea Garden",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 39.19154,
+  "lng": -77.00845,
+  "town": "Brookeville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Five acres of woodland with more than 22,000 azaleas beside Triadelphia Reservoir, peaking in late April and early May. Open daily in season from 7 am to sunset; no pets.",
+  "facts": {
+   "dogs": "not allowed"
+  },
+  "url": "https://www.wsscwater.com/azaleas",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Buddy Attick Lake Park (Greenbelt Lake)",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "waterfront",
+   "fishing",
+   "birding",
+   "dogs"
+  ],
+  "lat": 39.00336,
+  "lng": -76.88933,
+  "town": "Greenbelt",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Crushed-stone path of about 1.25 miles around Greenbelt Lake, built with the New Deal town in the 1930s. Shaded, flat and a short walk from the historic Roosevelt Center.",
+  "facts": {
+   "length_mi": 1.25,
+   "fee": "free"
+  },
+  "url": "https://www.greenbeltmd.gov/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Cabin John Stream Valley Trail",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "dogs"
+  ],
+  "lat": 39.03115,
+  "lng": -77.15266,
+  "town": "Bethesda",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Natural-surface trail of 8.8 miles following Cabin John Creek from MacArthur Boulevard near the Potomac up to Cabin John Regional Park, in a wooded corridor between neighborhoods.",
+  "facts": {
+   "length_mi": 8.8,
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/cabin-john-stream-valley-trail/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Cabin John Regional Park, the upper trailhead)"
+ },
+ {
+  "name": "Cedar Haven Fishing Area",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.57611,
+  "lng": -76.68556,
+  "town": "Aquasco",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Tiny county waterfront site on the wide lower Patuxent at Eagle Harbor: 10 parking spaces, picnic tables, shoreline fishing and a soft launch for kayaks. Open 8 to sunset, free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://patuxentwatertrail.org/launches/cedar-haven-fishing-area/",
+  "coord_source": "official page (Patuxent Water Trail listing: 38°34'34\"N 76°41'08\"W)"
+ },
+ {
+  "name": "Cedarville State Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "camping",
+   "fishing",
+   "dogs"
+  ],
+  "lat": 38.64709,
+  "lng": -76.83023,
+  "town": "Brandywine",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Flat pine and holly forest at the headwaters of Zekiah Swamp with 19.5 miles of marked trails, a small fishing pond, an old charcoal kiln and a seasonal campground.",
+  "facts": {
+   "length_mi": 19.5
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/cedarville.aspx",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Cosca Regional Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "camping",
+   "nature",
+   "forest",
+   "hiking"
+  ],
+  "lat": 38.73729,
+  "lng": -76.9147,
+  "town": "Clinton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "More than 690 acres near Clinton with a small lake, the Clearwater Nature Center, natural-surface trails through forest and reservable campsites. Lake fishing is suspended after dredging.",
+  "facts": {},
+  "url": "https://www.pgparks.com/parks_trails/cosca-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Dinosaur Park",
+  "type": "gem",
+  "tags": [
+   "fossils",
+   "geology",
+   "weird",
+   "historic"
+  ],
+  "lat": 39.07044,
+  "lng": -76.86912,
+  "town": "Laurel",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Fenced clay exposure, 115 million years old, where Astrodon and other dinosaur fossils turn up. Open houses on the 1st and 3rd Saturdays let visitors search with staff; finds stay with the park.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.pgparks.com/parks_trails/dinosaur-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Edwards Ferry (Lock 25)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "historic",
+   "ruins",
+   "fishing",
+   "kayak",
+   "running"
+  ],
+  "lat": 39.10369,
+  "lng": -77.47234,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Remote canal access west of Poolesville with a boat ramp on the Potomac, the restored Lock 25 lockhouse and the brick shell of an old store. Long, empty towpath stretches in both directions.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.canaltrust.org/pyv/edwards-ferry/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fort Foote Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "waterfront",
+   "beach",
+   "forest",
+   "weird"
+  ],
+  "lat": 38.76979,
+  "lng": -77.02834,
+  "town": "Fort Washington",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded earthworks of an 1863 river fort with two 15-inch Rodman cannons still on the parapet. A path drops down the bluff to a small, usually empty beach on the Potomac.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/fofo/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Gaithersburg Latitude Observatory",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 39.13667,
+  "lng": -77.19917,
+  "town": "Gaithersburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small white hut with a roll-off roof, one of six observatories built on the same latitude around the world in 1899 to measure the wobble of Earth's axis. Stands in a neighborhood park; exterior only.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gaithersburg_Latitude_Observatory",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Glen Echo Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.96611,
+  "lng": -77.13861,
+  "town": "Glen Echo",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Former amusement park (closed 1968) kept as an arts park: Art Deco entrance and arcade, a 1921 Dentzel carousel that runs in summer, the Spanish Ballroom and artist studios. Free to walk.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/glec/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Gold Mine Loop and Maryland Mine ruins",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "historic",
+   "ruins",
+   "dogs"
+  ],
+  "lat": 38.99533,
+  "lng": -77.23231,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded loop on the bluff above Great Falls Tavern passing trenches, shafts and building remains of the Maryland Mine, which worked gold-bearing quartz here off and on from 1867 to 1939.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/choh/planyourvisit/hiking.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Maryland Mine ruins)"
+ },
+ {
+  "name": "Governor Bridge Natural Area",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "kayak",
+   "fishing",
+   "trail"
+  ],
+  "lat": 38.94373,
+  "lng": -76.69629,
+  "town": "Bowie",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Former sand and gravel pits on the Patuxent east of Bowie, now ponds, meadows and woods with informal trails and a canoe launch on the river. Quiet birding spot.",
+  "facts": {},
+  "url": "https://www.pgparks.com/parks_trails/governor-bridge-natural-area",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Greenbelt Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "camping",
+   "running",
+   "dogs"
+  ],
+  "lat": 38.98333,
+  "lng": -76.89778,
+  "town": "Greenbelt",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "National Park Service forest 12 miles from the Mall. The 5.3-mile Perimeter Trail circles the park through pine and oak woods, with three shorter loops and a large campground.",
+  "facts": {
+   "length_mi": 5.3,
+   "fee": "free (camping charged)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/gree/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lake Frank (Rock Creek Regional Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "birding",
+   "waterfront",
+   "running",
+   "dogs"
+  ],
+  "lat": 39.10616,
+  "lng": -77.11344,
+  "town": "Rockville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped lake ringed by a loop trail of mixed pavement and dirt. No boating or facilities on the water; herons along the shore and Meadowside Nature Center on the east side.",
+  "facts": {},
+  "url": "https://montgomeryparks.org/parks-and-trails/rock-creek-regional-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Lake Needwood (Rock Creek Regional Park)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "paved",
+   "running",
+   "trail",
+   "dogs"
+  ],
+  "lat": 39.12202,
+  "lng": -77.1295,
+  "town": "Rockville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "75-acre lake with seasonal boat rentals and shoreline trails. It is the northern end of the paved Rock Creek Trail, which runs 14 miles downstream to the DC line.",
+  "facts": {
+   "length_mi": 14
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/rock-creek-regional-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "McCrillis Gardens",
+  "type": "garden",
+  "tags": [
+   "garden"
+  ],
+  "lat": 39.00794,
+  "lng": -77.13994,
+  "town": "Bethesda",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Five-acre shade garden of azaleas and rhododendrons under tall trees in a Bethesda neighborhood, at its best from late April into May. Free; street parking.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/mccrillis-gardens/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "McKee-Beshers Wildlife Management Area",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "wildlife",
+   "trail"
+  ],
+  "lat": 39.07083,
+  "lng": -77.39146,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "State wildlife area on the Potomac floodplain known for sunflower fields that bloom in mid-July and for birding along the dikes of the Hughes Hollow impoundments. Flat, often muddy paths.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/wildlife/Pages/publiclands/central/mckeebeshers.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Oxon Cove Park and Oxon Hill Farm",
+  "type": "park",
+  "tags": [
+   "trail",
+   "paved",
+   "waterfront",
+   "historic",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.80195,
+  "lng": -77.00783,
+  "town": "Oxon Hill",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "National Park Service working farm with barns and animals on a bluff above Oxon Cove. A paved hiker-biker trail runs down along the cove toward the DC line; river views and herons.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/oxhi/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Rachel Carson Conservation Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding"
+  ],
+  "lat": 39.21433,
+  "lng": -77.08228,
+  "town": "Brookeville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "650 acres of quiet woods and meadows along the Hawlings River with more than 6 miles of natural-surface trails, rock outcrops and mountain laurel that blooms from late May into June.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/rachel-carson-conservation-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Rosaryville State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.77209,
+  "lng": -76.81603,
+  "town": "Upper Marlboro",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded state park around the Mount Airy Mansion with a long perimeter loop shared by trail runners, mountain bikers and horses. Rolling singletrack and few people on weekdays.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/rosaryville.aspx",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Schaeffer Farms Trails",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "running",
+   "forest",
+   "hiking",
+   "dogs"
+  ],
+  "lat": 39.14281,
+  "lng": -77.31031,
+  "town": "Germantown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stacked loops of smooth singletrack through farm fields and woods in Seneca Creek State Park, built for mountain bikes and well suited to trail running. Lot at the end of Schaeffer Road.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Schaeffer Farms trailhead)"
+ },
+ {
+  "name": "Sligo Creek Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest",
+   "dogs"
+  ],
+  "lat": 38.959,
+  "lng": -76.974,
+  "town": "Hyattsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Paved trail of about 10 miles following Sligo Creek from Wheaton through Silver Spring and Takoma Park to the Northwest Branch in Hyattsville. Shaded, gently rolling, many neighborhood access points.",
+  "facts": {
+   "length_mi": 10.2,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sligo_Creek_Trail",
+  "coord_source": "wikipedia (southern end of the trail)"
+ },
+ {
+  "name": "Suitland Bog",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "weird",
+   "trail"
+  ],
+  "lat": 38.83852,
+  "lng": -76.90213,
+  "town": "Suitland",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Fenced remnant of a rare magnolia bog with carnivorous pitcher plants, viewed from a boardwalk loop. Reached by a short trail off Regency Parkway; open dawn to dusk.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.pgparks.com/parks_trails/suitland-bog-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Swains Lock",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "running",
+   "trail",
+   "camping",
+   "kayak",
+   "historic",
+   "dogs"
+  ],
+  "lat": 39.03122,
+  "lng": -77.24347,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Lock 21, built of red Seneca sandstone, with its lockhouse, a primitive hiker-biker campsite and easy towpath access about 2 miles above Great Falls. Quieter than the Tavern, with no entrance fee.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.canaltrust.org/pyv/lock-21-swains-lock/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "The Awakening (National Harbor)",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "waterfront",
+   "sunset",
+   "beach"
+  ],
+  "lat": 38.78516,
+  "lng": -77.01719,
+  "town": "National Harbor",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Five-piece aluminum sculpture of a giant struggling out of the ground, set in a small man-made beach on the Potomac at National Harbor. The waterfront faces west toward Alexandria at sunset.",
+  "facts": {
+   "fee": "free (paid parking)"
+  },
+  "url": "https://www.nationalharbor.com/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Underground Railroad Experience Trail (Woodlawn Manor)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "historic",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.12866,
+  "lng": -77.02466,
+  "town": "Sandy Spring",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Trail from the stone barn at Woodlawn Manor through woods and field edges toward Sandy Spring, with markers on how freedom seekers used the landscape. About 4 miles out and back.",
+  "facts": {
+   "length_mi": 4,
+   "fee": "free"
+  },
+  "url": "https://montgomeryparks.org/parks-and-trails/woodlawn-manor-cultural-park/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Union Arch Bridge (Cabin John Bridge)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.97286,
+  "lng": -77.14797,
+  "town": "Cabin John",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1864 stone bridge carrying the Washington Aqueduct and MacArthur Boulevard over Cabin John Creek. Its 220-ft span was the longest single masonry arch in the world until 1903.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Union_Arch_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Violettes Lock (Lock 23)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "waterfront",
+   "sunset",
+   "historic",
+   "fishing",
+   "birding"
+  ],
+  "lat": 39.06709,
+  "lng": -77.32861,
+  "town": "Darnestown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Double lock of red Seneca sandstone beside the rubble of Dam 2, where the Potomac spreads wide. Canoe and kayak ramp, put-in for the Seneca Breaks paddle loop; open sunsets over the water.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.canaltrust.org/pyv/lock-23-violettes-lock-dam-no-2/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Watkins Regional Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "camping",
+   "nature",
+   "forest"
+  ],
+  "lat": 38.88587,
+  "lng": -76.79461,
+  "town": "Upper Marlboro",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Large county park with a nature center, wooded loop trails, a campground, the Old Maryland Farm and an antique carousel and miniature train that run in summer.",
+  "facts": {},
+  "url": "https://www.pgparks.com/parks_trails/watkins-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Woodend Nature Sanctuary",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "trail",
+   "garden",
+   "forest"
+  ],
+  "lat": 39.0026,
+  "lng": -77.06549,
+  "town": "Chevy Chase",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "40-acre headquarters of Nature Forward around a 1920s mansion: meadow, pond, restored stream and a short nature trail. Free; no dogs.",
+  "facts": {
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://natureforward.org/woodend/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Burke Lake Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "waterfront",
+   "fishing",
+   "birding",
+   "kayak",
+   "sunset",
+   "dogs"
+  ],
+  "lat": 38.76248,
+  "lng": -77.29192,
+  "town": "Fairfax Station",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "4.7-mile unpaved, mostly flat loop around a wooded lake. Herons and ospreys, fishing, rowboat and canoe rentals at the marina and evening light across the water. Swimming is prohibited.",
+  "facts": {
+   "length_mi": 4.7,
+   "swim": "no",
+   "fee": "free for Fairfax County residents; per-vehicle fee for non-residents on weekends, April-October"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/burke-lake",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Great Falls Park",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "viewpoint",
+   "hiking",
+   "trail",
+   "geology",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.99691,
+  "lng": -77.25475,
+  "town": "McLean",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Three overlooks a few minutes from the lot face the Potomac dropping through jagged rock into Mather Gorge. The River Trail then follows the cliff edge downstream. No swimming or wading.",
+  "facts": {
+   "fee": "$20 per vehicle, 7 days (also valid at C&O Canal Great Falls, MD)",
+   "dogs": "leashed",
+   "swim": "no"
+  },
+  "url": "https://www.nps.gov/grfa/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: park visitor center)"
+ },
+ {
+  "name": "Huntley Meadows Park",
+  "type": "hike",
+  "tags": [
+   "birding",
+   "wildlife",
+   "nature",
+   "trail",
+   "forest"
+  ],
+  "lat": 38.75774,
+  "lng": -77.09842,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Half-mile boardwalk across a large freshwater marsh with an observation tower. Beavers, herons, egrets and turtles are seen at close range; flat forest paths lead in. No dogs on the boardwalk.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/huntley-meadows",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: main parking lot)"
+ },
+ {
+  "name": "Leesylvania State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "hiking",
+   "trail",
+   "historic",
+   "ruins",
+   "kayak",
+   "dogs"
+  ],
+  "lat": 38.58984,
+  "lng": -77.25186,
+  "town": "Woodbridge",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Sandy Potomac shoreline with picnic lawns, a 300-ft fishing pier and a car-top boat launch. Lee's Woods Trail climbs past a Civil War gun battery and old home sites. Fills early on summer weekends.",
+  "facts": {
+   "fee": "$10 per vehicle",
+   "swim": "no (no designated swimming area)",
+   "dogs": "leashed"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/leesylvania",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: park visitor center)"
+ },
+ {
+  "name": "Mason Neck State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "hiking",
+   "trail",
+   "birding",
+   "wildlife",
+   "kayak",
+   "sunset",
+   "forest",
+   "paved",
+   "dogs"
+  ],
+  "lat": 38.65444,
+  "lng": -77.18417,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Peninsula park on Belmont Bay known for bald eagles. Six miles of dirt trails and three paved, with elevated walkways over the marsh; canoe, kayak and paddleboard rentals from Memorial Day to Labor Day.",
+  "facts": {
+   "fee": "$10 per vehicle",
+   "dogs": "leashed",
+   "swim": "no (no designated swimming area)"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/mason-neck",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mount Vernon Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "waterfront",
+   "viewpoint",
+   "birding",
+   "dogs"
+  ],
+  "lat": 38.71001,
+  "lng": -77.06135,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "18-mile paved trail along the Potomac from Theodore Roosevelt Island to Mount Vernon, passing Gravelly Point, Old Town Alexandria, Jones Point and Dyke Marsh. River views most of the way.",
+  "facts": {
+   "length_mi": 18,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/mtvernontrail.htm",
+  "coord_source": "wikipedia (a point near the trail's southern end)"
+ },
+ {
+  "name": "Prince William Forest Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "camping",
+   "running",
+   "historic",
+   "waterfall",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.55993,
+  "lng": -77.34713,
+  "town": "Triangle",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "About 15,000 acres of piedmont forest with 37 miles of trails along Quantico Creek and its small falls, 1930s cabin camps, an old pyrite mine site and a hilly scenic loop road for cycling.",
+  "facts": {
+   "fee": "$20 per vehicle, 7 days",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/prwi/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: park visitor center)"
+ },
+ {
+  "name": "Scott's Run Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfall",
+   "forest",
+   "viewpoint",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.9625,
+  "lng": -77.1975,
+  "town": "McLean",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Steep, rooty trails through hemlock and beech ravines to a small waterfall where Scott's Run drops into the Potomac, plus bluff-top river views. Two small lots fill early; no wading or swimming.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed",
+   "swim": "no"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/scotts-run",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Aquia Landing Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "historic"
+  ],
+  "lat": 38.38604,
+  "lng": -77.31944,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "32-acre park with a sand beach on a point where Aquia Creek meets the Potomac. Swimming, shoreline fishing and picnic shelters; a marsh along the entrance road is good for birds.",
+  "facts": {
+   "swim": "yes",
+   "fee": "free (daily 8 am to dusk)"
+  },
+  "url": "https://dwr.virginia.gov/vbwt/sites/aquia-landing",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Ball's Bluff Battlefield Regional Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "historic",
+   "forest",
+   "viewpoint",
+   "waterfront",
+   "dogs"
+  ],
+  "lat": 39.12989,
+  "lng": -77.52989,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Wooded trails along a steep bluff above the Potomac where the 1861 battle ended, with one of the country's smallest national cemeteries in a clearing. Paths drop to the riverbank.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.novaparks.com/parks/balls-bluff-battlefield-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Banshee Reeks Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "wildlife",
+   "forest"
+  ],
+  "lat": 39.02894,
+  "lng": -77.59725,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "699 acres of meadows, ponds and forest along Goose Creek with 15 miles of mown and wooded trails. Closed Mondays and Fridays; few visitors and good birding.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.loudoun.gov/facilities/facility/details/Banshee-Reeks-Nature-Preserve-43",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Bull Run Mountains Natural Area Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "historic",
+   "ruins",
+   "geology"
+  ],
+  "lat": 38.83672,
+  "lng": -77.70903,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "South section open Friday to Sunday only: about 7 miles of trails on the easternmost ridge of the Blue Ridge foothills, past quartzite outcrops, old home sites and cemeteries. No dogs.",
+  "facts": {
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.dcr.virginia.gov/natural-heritage/natural-area-preserves/bullrun",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: preserve centroid; the trailhead is at the end of Beverley Mill Drive beside Chapman's Mill)"
+ },
+ {
+  "name": "Bull Run Regional Park (Bluebell Trail)",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "camping",
+   "forest",
+   "dogs"
+  ],
+  "lat": 38.80755,
+  "lng": -77.47694,
+  "town": "Centreville",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "The 1.5-mile Bluebell Trail loops through a floodplain that turns blue with Virginia bluebells in mid-April. Northern trailhead of the Bull Run-Occoquan Trail; campground.",
+  "facts": {
+   "length_mi": 1.5,
+   "fee": "$12 weekdays, $14 weekends and holidays per vehicle for non-jurisdiction residents ($8/$10 for NOVA Parks jurisdictions)"
+  },
+  "url": "https://www.novaparks.com/parks/bull-run-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Bull Run-Occoquan Trail",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.725,
+  "lng": -77.33028,
+  "town": "Fairfax Station",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Blue-blazed 19.7-mile footpath through woods along Bull Run and the Occoquan Reservoir, from Bull Run Regional Park to Fountainhead. Rolling singletrack with creek crossings; mid access at Hemlock Overlook.",
+  "facts": {
+   "length_mi": 19.7,
+   "fee": "free"
+  },
+  "url": "https://www.novaparks.com/parks/bull-run-occoquan-trail",
+  "coord_source": "wikipedia (southern end at Fountainhead)"
+ },
+ {
+  "name": "Caledon State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "birding",
+   "wildlife",
+   "camping",
+   "dogs"
+  ],
+  "lat": 38.35263,
+  "lng": -77.13275,
+  "town": "King George",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "National Natural Landmark of old-growth forest on the Potomac, summer home to many bald eagles. The 2-mile Boyd's Hole Trail leads to the river shore; six primitive hike-in or paddle-in campsites.",
+  "facts": {
+   "length_mi": 2,
+   "fee": "$5 per vehicle",
+   "dogs": "leashed",
+   "swim": "no (no designated swimming area)"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/caledon",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Crow's Nest Natural Area Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "kayak",
+   "birding",
+   "waterfront"
+  ],
+  "lat": 38.37262,
+  "lng": -77.38154,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "3,344 acres of mature hardwood forest on a ridge between Accokeek and Potomac creeks. Raven Road lot (18 cars, Thu-Sun) reaches 9+ miles of trails; Brooke Road access is open daily with a kayak launch.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.dcr.virginia.gov/natural-heritage/natural-area-preserves/crowsnest",
+  "coord_source": "nominatim (81 Raven Road entrance; the hiking lot is 1.6 miles down the entrance road)"
+ },
+ {
+  "name": "Difficult Run",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.97611,
+  "lng": -77.235,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Trail follows a rocky stream past cascades and pools for about a mile to its mouth in Mather Gorge. Climb to the Ridge Trail in Great Falls Park to make a loop. Roadside lot on Georgetown Pike.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/grfa/planyourvisit/hiking.htm",
+  "coord_source": "wikipedia (stream mouth at the Potomac; the trailhead lot is on Georgetown Pike about a mile upstream)"
+ },
+ {
+  "name": "Dyke Marsh Wildlife Preserve",
+  "type": "hike",
+  "tags": [
+   "birding",
+   "wildlife",
+   "nature",
+   "trail",
+   "waterfront",
+   "kayak",
+   "dogs"
+  ],
+  "lat": 38.77369,
+  "lng": -77.05016,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Flat Haul Road trail and boardwalk lead about three-quarters of a mile into a freshwater tidal marsh on the Potomac. Ospreys, eagles and marsh wrens; park at Belle Haven and walk south.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/dykemarsh.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Haul Road trail)"
+ },
+ {
+  "name": "Fountainhead Regional Park",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 38.72359,
+  "lng": -77.32616,
+  "town": "Fairfax Station",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "2,000 wooded acres on the Occoquan Reservoir with kayak, paddleboard and jon-boat rentals, a fishing pier and the southern trailhead of the Bull Run-Occoquan Trail. Separate mountain-bike loops.",
+  "facts": {},
+  "url": "https://www.novaparks.com/parks/fountainhead-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Government Island",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "geology",
+   "trail",
+   "weird",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.44879,
+  "lng": -77.38198,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Boardwalk across marsh to a wooded island quarry that supplied Aquia sandstone for the White House and Capitol in the 1790s. Cut marks remain in the rock faces along the 1.5-mile trail.",
+  "facts": {
+   "length_mi": 1.5,
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/thingstodo/wildlife-watching-government-island.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Gravelly Point",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "waterfront",
+   "sunset",
+   "paved",
+   "running",
+   "weird"
+  ],
+  "lat": 38.8651,
+  "lng": -77.0391,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Open lawn a few hundred feet from the north end of National Airport's main runway; jets pass low overhead. The Mount Vernon Trail runs through. Reached from the northbound parkway only.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gravelly_Point",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Jones Point Park",
+  "type": "park",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "waterfront",
+   "fishing",
+   "weird",
+   "paved"
+  ],
+  "lat": 38.79039,
+  "lng": -77.04064,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "1856 river lighthouse at the tip of Alexandria, with the 1791 south cornerstone of the District of Columbia set in the seawall below it. Fishing piers and lawns under the Wilson Bridge.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/jonespoint.htm",
+  "coord_source": "wikipedia (Jones Point Light)"
+ },
+ {
+  "name": "Manassas National Battlefield Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "historic",
+   "sunset",
+   "running",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.81306,
+  "lng": -77.52164,
+  "town": "Manassas",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Open rolling fields and woods preserved from two Civil War battles. The 5.4-mile First Manassas loop runs from Henry Hill past the Stone Bridge and Stone House; wide skies at sunset.",
+  "facts": {
+   "length_mi": 5.4,
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/mana/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Henry Hill Visitor Center)"
+ },
+ {
+  "name": "Meadowlark Botanical Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "nature",
+   "paved"
+  ],
+  "lat": 38.93775,
+  "lng": -77.28097,
+  "town": "Vienna",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "95 acres of gardens around three lakes, including a Korean Bell Garden with a carved pavilion and bronze bell, native plant collections and paved loop paths. Dogs only on the outer Perimeter Trail.",
+  "facts": {
+   "fee": "$9 adults; $5 ages 6-17 and 60+",
+   "dogs": "outer Perimeter Trail only"
+  },
+  "url": "https://www.novaparks.com/parks/meadowlark-botanical-gardens",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Neabsco Creek Boardwalk",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "birding",
+   "wildlife",
+   "nature",
+   "waterfront"
+  ],
+  "lat": 38.60803,
+  "lng": -77.2794,
+  "town": "Woodbridge",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Three-quarter-mile boardwalk across the tidal marsh of Neabsco Creek with a two-story observation deck. Part of the Potomac Heritage Trail, linking Rippon Lodge and the Metz Wetlands.",
+  "facts": {
+   "length_mi": 0.75,
+   "fee": "free"
+  },
+  "url": "https://www.pwcva.gov/department/parks-recreation-tourism",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Occoquan Bay National Wildlife Refuge",
+  "type": "hike",
+  "tags": [
+   "birding",
+   "wildlife",
+   "nature",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 38.64458,
+  "lng": -77.24438,
+  "town": "Woodbridge",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Grassland and tidal marsh where the Occoquan meets the Potomac. About 4 miles of flat gravel roads on foot plus a 2-mile wildlife drive; eagles, ospreys and meadow birds. No pets inside the gates.",
+  "facts": {
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.fws.gov/refuge/occoquan-bay",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: refuge visitor center)"
+ },
+ {
+  "name": "Old Mill Park and Rappahannock River Heritage Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "historic",
+   "ruins",
+   "kayak",
+   "fishing",
+   "dogs"
+  ],
+  "lat": 38.31734,
+  "lng": -77.4675,
+  "town": "Fredericksburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Riverside park with a canoe launch on the Rappahannock. The paved 1.6-mile Heritage Trail passes old mill sites and joins the Canal Path for a loop of a little over 3 miles around the north end of town.",
+  "facts": {
+   "length_mi": 1.6,
+   "fee": "free"
+  },
+  "url": "https://www.fredericksburgva.gov/372",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Pohick Bay Regional Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "camping",
+   "fishing",
+   "birding",
+   "trail"
+  ],
+  "lat": 38.67558,
+  "lng": -77.167,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "NOVA Parks campground and boat launch on a sheltered bay off the Potomac. Kayak, canoe and paddleboard rentals in season, eagles and ospreys overhead, wooded trails along the shore.",
+  "facts": {
+   "fee": "$12 weekdays, $14 weekends and holidays per vehicle for non-jurisdiction residents ($8/$10 for NOVA Parks jurisdictions)"
+  },
+  "url": "https://www.novaparks.com/parks/pohick-bay-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: park marina)"
+ },
+ {
+  "name": "Potomac Heritage Trail (Roosevelt Island to American Legion Bridge)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "waterfall",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.92991,
+  "lng": -77.11442,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Rough 10-mile footpath along the Virginia bank from Roosevelt Island to the American Legion Bridge. Boulder scrambles, stream crossings and small falls at Windy Run, Donaldson Run and Dead Run.",
+  "facts": {
+   "length_mi": 10,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.nps.gov/pohe/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Chain Bridge, where the trail passes beneath; a midway access)"
+ },
+ {
+  "name": "Red Rock Wilderness Overlook Regional Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "viewpoint",
+   "forest",
+   "ruins",
+   "historic",
+   "waterfront",
+   "dogs"
+  ],
+  "lat": 39.11548,
+  "lng": -77.50544,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Short loop trails through woods to bluffs with views up and down the Potomac. Brick and stone ruins of a 19th-century farm (ice house, carriage house, granary) stand by the small parking lot.",
+  "facts": {
+   "length_mi": 1.2,
+   "fee": "free"
+  },
+  "url": "https://www.novaparks.com/parks/red-rock-wilderness-overlook-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Red Rock Overlook viewpoint)"
+ },
+ {
+  "name": "Riverbend Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "birding",
+   "nature",
+   "forest",
+   "dogs"
+  ],
+  "lat": 39.01926,
+  "lng": -77.25037,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Calm stretch of the Potomac above the falls with a boat launch, visitor center deck and flat riverside trail. Bluebells carpet the floodplain in April; walk downstream into Great Falls Park.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/riverbend",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Turkey Run Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.96333,
+  "lng": -77.15135,
+  "town": "McLean",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Parking areas off the GW Parkway sit on a wooded bluff; steep switchbacks drop to the Potomac Heritage Trail on the riverbank. Big sycamores, spring wildflowers and little foot traffic.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/turkeyrun.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Washington & Old Dominion Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.89177,
+  "lng": -77.1889,
+  "town": "Vienna",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "45-mile paved rail trail from Shirlington in Arlington to Purcellville in Loudoun, mostly shaded, with a gravel horse path alongside. Popular access points at Vienna, Reston and Leesburg.",
+  "facts": {
+   "length_mi": 45,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.novaparks.com/parks/washington-and-old-dominion-railroad-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: trail corridor in Vienna)"
+ },
+ {
+  "name": "Widewater State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "trail",
+   "camping"
+  ],
+  "lat": 38.42115,
+  "lng": -77.33191,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "State park on the peninsula between Aquia Creek and the Potomac. Two day-use areas with canoe and kayak launches, short trails, shoreline access and paddle-in campsites; usually uncrowded.",
+  "facts": {
+   "fee": "$7 weekdays, $10 weekends (Apr-Oct)"
+  },
+  "url": "https://www.dcr.virginia.gov/state-parks/widewater",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Winkler Botanical Preserve",
+  "type": "gem",
+  "tags": [
+   "garden",
+   "forest",
+   "nature",
+   "waterfall",
+   "trail"
+  ],
+  "lat": 38.82816,
+  "lng": -77.12121,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "44-acre native-plant preserve hidden among the Mark Center office blocks: woodland paths, a pond, streams and a built waterfall. Run by NOVA Parks; open daily 8:30 to 4.",
+  "facts": {},
+  "url": "https://www.novaparks.com/parks/winkler-botanical-preserve",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Abingdon Plantation ruins (Reagan National Airport)",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.85137,
+  "lng": -77.04444,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Excavated brick foundations of an 18th-century plantation house preserved on a grassy knoll between parking garages A and B/C at Reagan National Airport. Free; walk over from the Metro station.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.atlasobscura.com/places/abingdon-plantation-ruins",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Air Force Memorial",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.86865,
+  "lng": -77.06626,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Three stainless-steel spires up to 270 ft tall on a hill above the Pentagon. The plaza looks across the Potomac to the Washington Monument and the Capitol.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/United_States_Air_Force_Memorial",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Algonkian Regional Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "fishing",
+   "kayak",
+   "dogs"
+  ],
+  "lat": 39.05844,
+  "lng": -77.37915,
+  "town": "Sterling",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "838-acre park on the Potomac in eastern Loudoun with a boat ramp, picnic shelters, rental cottages and paved and natural trails through riverside woods. Open sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.novaparks.com/parks/algonkian-regional-park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bazil Newman Riverfront Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.09359,
+  "lng": -77.47349,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Loudoun County park (formerly Elizabeth Mills Riverfront Park) on the Potomac just below the mouth of Goose Creek. Riverside stretch of the Potomac Heritage Trail; canoe launch at adjoining Kephart Bridge Landing.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.loudoun.gov/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Bristoe Station Battlefield Heritage Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.72293,
+  "lng": -77.54156,
+  "town": "Bristow",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Open fields and woods preserved from the 1863 battle, with mown walking trails, interpretive signs and big skies. A quieter alternative to the Manassas battlefield.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.pwcva.gov/department/historic-preservation/bristoe-station-battlefield-heritage-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Bunny Man Bridge (Colchester Overpass)",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 38.78985,
+  "lng": -77.36225,
+  "town": "Clifton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "One-lane concrete tunnel under the railroad on Colchester Road, the setting of Fairfax County's 1970s 'Bunny Man' legend. No parking at the bridge; police restrict access around Halloween.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Bunny_Man",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chapman's (Beverley) Mill ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.82444,
+  "lng": -77.71083,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Stone shell of a five-and-a-half-story gristmill dating to 1742, squeezed between I-66 and the railroad at Thoroughfare Gap. Gutted by fire in 1998 and stabilized; grounds open on weekends.",
+  "facts": {},
+  "url": "https://www.chapmansmill.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chatham Manor",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "garden"
+  ],
+  "lat": 38.30883,
+  "lng": -77.45536,
+  "town": "Falmouth",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "1771 Georgian mansion on Stafford Heights with a walled garden and a river terrace looking across the Rappahannock to Fredericksburg's steeples. National Park Service site; grounds free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/frsp/learn/historyculture/chatham.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Claude Moore Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "historic",
+   "nature",
+   "fishing",
+   "forest"
+  ],
+  "lat": 39.01529,
+  "lng": -77.40733,
+  "town": "Sterling",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "County park in Sterling with ponds, woods and a preserved stretch of colonial Vestal's Gap Road, plus the Lanesville house and a farm museum. Miles of easy loop trails.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.loudoun.gov/claudemoorepark",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Colvin Run Mill",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "nature"
+  ],
+  "lat": 38.96889,
+  "lng": -77.29389,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Working water-powered gristmill from about 1811 with a wooden water wheel, a miller's house and a general store. Grounds are free; mill tours and grinding demonstrations on set days.",
+  "facts": {},
+  "url": "https://www.fairfaxcounty.gov/parks/colvin-run-mill",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Conway Robinson State Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "dogs"
+  ],
+  "lat": 38.80903,
+  "lng": -77.5867,
+  "town": "Gainesville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "444-acre state forest beside the Manassas battlefield with stands of old pine and hardwood and flat loop trails for hikers, riders and mountain bikers. Small lot on US 29.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Conway_Robinson_State_Forest",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Daingerfield Island",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "paved"
+  ],
+  "lat": 38.83118,
+  "lng": -77.04124,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "National Park Service peninsula south of the airport with the Washington Sailing Marina, a shoreline path and picnic lawns. Wide view of the river, planes and the DC skyline; on the Mount Vernon Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Doves Landing Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "waterfront",
+   "dogs"
+  ],
+  "lat": 38.69186,
+  "lng": -77.47854,
+  "town": "Manassas",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Wooded county park inside a bend of the Occoquan River south of Manassas. Natural-surface trails lead to quiet riverbank spots for fishing and sitting by the water.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.pwcva.gov/department/parks-recreation-tourism",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: park parking lot)"
+ },
+ {
+  "name": "Ellanor C. Lawrence Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "historic",
+   "dogs"
+  ],
+  "lat": 38.86101,
+  "lng": -77.43077,
+  "town": "Chantilly",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "650 acres of stream-valley woods and meadows in Chantilly, with Walney Pond, an 18th-century farmhouse visitor center, dairy and ice-house remains and several miles of loop trails.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/eclawrence",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Walney Visitor Center)"
+ },
+ {
+  "name": "Falmouth Beach (Historic Port of Falmouth Park)",
+  "type": "swim",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "kayak",
+   "historic"
+  ],
+  "lat": 38.32083,
+  "lng": -77.46857,
+  "town": "Falmouth",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Sandy bank on the Rappahannock just below the fall line, across from Fredericksburg. Wading, fishing and kayak landing; currents and drop-offs here are dangerous, so life jackets are strongly advised.",
+  "facts": {
+   "swim": "unofficial",
+   "fee": "free"
+  },
+  "url": "https://www.tourstaffordva.com/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fort C.F. Smith Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "nature",
+   "birding",
+   "garden"
+  ],
+  "lat": 38.90191,
+  "lng": -77.08981,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Quiet Arlington park preserving the earthworks of an 1863 fort, with a meadow, old trees and an early-1900s house. Good for a short walk and birding close to Rosslyn.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Fort-CF-Smith-Park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fort Hunt Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "running",
+   "paved",
+   "forest"
+  ],
+  "lat": 38.71466,
+  "lng": -77.05319,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Loop road and picnic groves around concrete gun batteries from the Spanish-American War era. During WWII it was the secret interrogation camp known as P.O. Box 1142.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/forthunt.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fort Marcy",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "forest",
+   "trail"
+  ],
+  "lat": 38.935,
+  "lng": -77.12611,
+  "town": "McLean",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Earthworks and cannon of an 1861 fort that guarded Chain Bridge, in quiet woods reached only from the northbound GW Parkway. A short path connects to the Potomac Heritage Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/planyourvisit/fortmarcy.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Ward Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "paved",
+   "running"
+  ],
+  "lat": 38.83048,
+  "lng": -77.1022,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Best-preserved of the Civil War forts that ringed Washington, with a rebuilt Northwest Bastion mounting cannon, original earthwork walls, a small museum and a shaded loop road for walking.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.alexandriava.gov/FortWard",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Founders Park (Old Town waterfront)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "viewpoint",
+   "dogs"
+  ],
+  "lat": 38.80724,
+  "lng": -77.03908,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Grassy riverfront park at the north end of Old Town's waterfront walk. Benches face east over the Potomac for sunrise; paths continue to Oronoco Bay Park and the Mount Vernon Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.alexandriava.gov/Parks",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Foxstone Park",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.91633,
+  "lng": -77.26039,
+  "town": "Vienna",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Small wooded neighborhood park in Vienna whose footbridge was a dead-drop site used by FBI agent Robert Hanssen, arrested here in February 2001 after spying for Moscow for two decades.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fxva.com/blog/post/atlas-obscura-sites-in-fairfax-county-virginia/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fredericksburg Battlefield: Sunken Road and Marye's Heights",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "viewpoint"
+  ],
+  "lat": 38.2955,
+  "lng": -77.46837,
+  "town": "Fredericksburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Walk the restored Sunken Road and its original stone wall section, then climb Marye's Heights through the national cemetery for a view over town. Free; visitor center at the foot of the hill.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/frsp/index.htm",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Fredericksburg Quarry Trails",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "running",
+   "geology",
+   "dogs"
+  ],
+  "lat": 38.32004,
+  "lng": -77.50195,
+  "town": "Fredericksburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Network of natural-surface trails along the Rappahannock upstream of town, used by hikers and mountain bikers. Rock ledges and river access points; small lot at Normandy Ave and Fall Hill Ave.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://riverrockoutfitter.com/blogs/experiences-on-your-own/quarry-trail-system-fredericksburg-va",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: a trail inside the network)"
+ },
+ {
+  "name": "Green Spring Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic",
+   "nature"
+  ],
+  "lat": 38.82456,
+  "lng": -77.15742,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Fairfax County's public garden: demonstration beds, a glasshouse, a 1784 house, native woodland and two small ponds in a stream valley. Free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/green-spring",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Gunston Hall",
+  "type": "garden",
+  "tags": [
+   "historic",
+   "garden",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 38.66389,
+  "lng": -77.16028,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "George Mason's 1755 brick house with a restored boxwood garden on a terrace above the Potomac. Trails lead through woods to the river shore. Admission covers house and grounds.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://gunstonhall.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hemlock Overlook Regional Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.77048,
+  "lng": -77.40952,
+  "town": "Clifton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Hemlock-shaded bluffs above Bull Run near Clifton. A short descent reaches the Bull Run-Occoquan Trail for out-and-back walks along the water in either direction.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.novaparks.com/parks/hemlock-overlook-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Lake Accotink Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "dogs"
+  ],
+  "lat": 38.79317,
+  "lng": -77.21832,
+  "town": "Springfield",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Loop trail of about 4 miles around a small lake, passing the dam spillway and under a tall railroad trestle. Part of the Cross County Trail; marina rentals in season.",
+  "facts": {
+   "length_mi": 4
+  },
+  "url": "https://www.fairfaxcounty.gov/parks/lake-accotink",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lake Ridge Marina (Occoquan Reservoir)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 38.69705,
+  "lng": -77.3183,
+  "town": "Woodbridge",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "County marina on the Occoquan Reservoir with seasonal boat rentals, a boat ramp and a fishing pier. Calm, wooded shoreline to paddle in either direction.",
+  "facts": {},
+  "url": "https://www.pwcva.gov/department/parks-recreation-tourism",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Leopold's Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "forest",
+   "dogs"
+  ],
+  "lat": 38.81327,
+  "lng": -77.65223,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Privately owned conservation land open to the public daily, with miles of flat trails through wetlands, meadows and woods beside a housing development near Haymarket.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.leopoldspreserve.com/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Mason Neck National Wildlife Refuge: Woodmarsh and Great Marsh trails",
+  "type": "hike",
+  "tags": [
+   "birding",
+   "wildlife",
+   "forest",
+   "trail",
+   "hiking",
+   "nature"
+  ],
+  "lat": 38.64843,
+  "lng": -77.16525,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "First national refuge created for bald eagles (1969). Woodmarsh Trail loops 3 miles through forest to marsh overlooks; the paved Great Marsh Trail runs 0.75 mile to a view over the Potomac marsh.",
+  "facts": {
+   "length_mi": 3,
+   "fee": "free"
+  },
+  "url": "https://www.fws.gov/refuge/elizabeth-hartwell-mason-neck",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data: Woodmarsh trailhead)"
+ },
+ {
+  "name": "Meadowood Recreation Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "fishing",
+   "dogs"
+  ],
+  "lat": 38.66888,
+  "lng": -77.19739,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "About 800 acres of Bureau of Land Management meadows, ponds and hardwood forest on Mason Neck, with separate hiking, horse and mountain-bike trail networks. Free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.blm.gov/visit/meadowood-special-recreation-management-area",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Merrimac Farm Wildlife Management Area",
+  "type": "hike",
+  "tags": [
+   "nature",
+   "trail",
+   "birding",
+   "wildlife",
+   "forest"
+  ],
+  "lat": 38.62707,
+  "lng": -77.54009,
+  "town": "Nokesville",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Floodplain trail along Cedar Run through one of the larger Virginia bluebell stands in the region, at peak in mid-April. Fields and wetlands managed for wildlife the rest of the year.",
+  "facts": {
+   "fee": "Virginia DWR access permit or hunting/fishing license required (age 17+)"
+  },
+  "url": "https://dwr.virginia.gov/wma/merrimac-farm/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Morven Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "garden",
+   "trail",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.13837,
+  "lng": -77.56761,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "1,000-acre estate on the edge of Leesburg with a Greek Revival mansion, boxwood gardens and wooded hiking trails on the ridge behind the house. Grounds free; mansion tours charged.",
+  "facts": {
+   "fee": "grounds free"
+  },
+  "url": "https://www.morvenpark.org/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Motts Run Reservoir",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "trail",
+   "hiking",
+   "forest",
+   "nature"
+  ],
+  "lat": 38.31568,
+  "lng": -77.55766,
+  "town": "Fredericksburg",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Wooded reservoir west of Fredericksburg run as a seasonal recreation area: boat rentals, bank fishing, a nature center and several miles of hiking trails. Check opening dates before going.",
+  "facts": {},
+  "url": "https://www.fredericksburgva.gov/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Netherlands Carillon lawn (Arlington Ridge Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "garden"
+  ],
+  "lat": 38.8882,
+  "lng": -77.0695,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Hillside lawn below the carillon tower that lines up the Lincoln Memorial, Washington Monument and Capitol in one view. Tulip beds in spring; the Marine Corps War Memorial is next door.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/learn/historyculture/netherlandscarillon.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Occoquan Regional Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "paved",
+   "running",
+   "historic",
+   "trail"
+  ],
+  "lat": 38.68361,
+  "lng": -77.25194,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "350-acre riverfront park across from the town of Occoquan: a 5 km loop trail, kayak rentals and boat launch, a preserved brick kiln from the Lorton prison brickyard and a suffragist memorial.",
+  "facts": {
+   "length_mi": 3.1
+  },
+  "url": "https://www.novaparks.com/parks/occoquan-regional-park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Occoquan Riverwalk and River Mill Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "historic",
+   "paved"
+  ],
+  "lat": 38.68598,
+  "lng": -77.2634,
+  "town": "Occoquan",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Boardwalk along the Occoquan River behind the shops of a small mill town, ending at a riverside park below the dam and a footbridge across to Fairfax County.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.occoquanva.gov/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Patowmack Canal and Matildaville ruins",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "trail",
+   "geology"
+  ],
+  "lat": 38.98944,
+  "lng": -77.24861,
+  "town": "McLean",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Remains of George Washington's canal around the falls, begun in 1785: a lock chamber cut through the cliff, stone walls and the foundations of the canal town Matildaville. Inside Great Falls Park.",
+  "facts": {
+   "fee": "$20 per vehicle (Great Falls Park entrance)"
+  },
+  "url": "https://www.nps.gov/grfa/learn/historyculture/canal.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Potomac Overlook Regional Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.91329,
+  "lng": -77.10787,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Wooded NOVA Parks property above the Potomac palisades with a nature center, gardens and loop trails. The Donaldson Run Trail continues downhill to the river and the Potomac Heritage Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.novaparks.com/parks/potomac-overlook-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "River Farm",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "waterfront",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 38.74222,
+  "lng": -77.04472,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "American Horticultural Society headquarters on land once owned by George Washington. Gardens and a meadow slope down to the Potomac; free, but check open days before going.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://ahsgardening.org/about-river-farm/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Riverside Park (GW Parkway)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "paved",
+   "viewpoint"
+  ],
+  "lat": 38.71138,
+  "lng": -77.07272,
+  "town": "Mount Vernon",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Small parkway pull-off where Little Hunting Creek meets the Potomac, a mile from Mount Vernon. Picnic tables on the bank, shoreline fishing and wide water views; Mount Vernon Trail passes through.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/gwmp/index.htm",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Seneca Regional Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "historic",
+   "dogs"
+  ],
+  "lat": 39.05259,
+  "lng": -77.32498,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "More than 500 wooded acres on the Potomac above the Seneca Falls rapids. An 0.8-mile trail drops to the river and the Potomac Heritage Trail, near traces of the Patowmack Canal.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.novaparks.com/parks/seneca-regional-park",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Stafford Civil War Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "forest"
+  ],
+  "lat": 38.39361,
+  "lng": -77.40503,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Preserved earthworks of the Union Army's 1863 winter camp: artillery batteries, hut sites, a corduroy road trace and an old sandstone quarry, linked by a driving loop and short paths.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.tourstaffordva.com/",
+  "coord_source": "other (Photon geocoder, OpenStreetMap data)"
+ },
+ {
+  "name": "Windy Run Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfall",
+   "waterfront",
+   "dogs"
+  ],
+  "lat": 38.90399,
+  "lng": -77.09784,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Short wooded trail from an Arlington neighborhood down Windy Run to the Potomac Heritage Trail, where the stream falls over a rock ledge beside the river. Steep, rocky footing near the bottom.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.funinfairfaxva.com/northern-virginia-hikes/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Workhouse Arts Center (former Lorton prison)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.69808,
+  "lng": -77.25478,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Brick quadrangle of the 1910 DC workhouse where suffragists were jailed in 1917, now artist studios and a prison museum. Grounds are free to walk; galleries keep limited hours.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.workhousearts.org/",
+  "coord_source": "wikipedia"
+ }
+]

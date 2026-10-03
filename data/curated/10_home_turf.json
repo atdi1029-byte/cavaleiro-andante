@@ -1,0 +1,3704 @@
+[
+ {
+  "name": "Downs Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "trail",
+   "running",
+   "paved",
+   "fishing",
+   "dogs",
+   "birding"
+  ],
+  "lat": 39.1096,
+  "lng": -76.44051,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Bayfront park on the Bodkin peninsula with over five miles of paved and natural trails, a fishing pier, a Chesapeake Bay overlook, Mother's Garden and a dog beach. No swimming beach for people.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "$8 per vehicle",
+   "dogs": "leashed; dog beach",
+   "swim": "no"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/downs-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Fort Smallwood Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "historic",
+   "birding",
+   "paved",
+   "kayak"
+  ],
+  "lat": 39.16299,
+  "lng": -76.48217,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Peninsula where the Patapsco River and Rock Creek meet the Bay: public swimming beach, 380-foot fishing pier, paved paths, boat ramp and an 1890s gun battery. Opens 5:30 a.m.",
+  "facts": {
+   "fee": "$8 per vehicle",
+   "swim": "yes"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/fort-smallwood-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Hancock's Resolution",
+  "type": "gem",
+  "tags": [
+   "historic"
+  ],
+  "lat": 39.13565,
+  "lng": -76.44698,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1785 stone farmhouse and farm on the Bodkin peninsula, described as the oldest structure in Maryland north of the Severn River. Open Sundays 1-4 p.m., late March to late October.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.historichancocksresolution.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Harry and Jeanette Weinberg Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.15378,
+  "lng": -76.49087,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded county park off Fairview Beach Road with walking trails and shoreline fishing, open dawn to dusk. A kayak launch and swimming beach were still under county review; closes some fall mornings for deer management.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/harry-and-jeanette-weinberg-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Lake Waterford Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "paved",
+   "fishing",
+   "nature"
+  ],
+  "lat": 39.11091,
+  "lng": -76.55868,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "108-acre park around a 12-acre lake with paved and natural trails, shoreline fishing and waterfowl. Free. A dredging project was limiting fishing and trail access in 2026.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/lake-waterford-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Kinder Farm Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "nature",
+   "fishing"
+  ],
+  "lat": 39.09602,
+  "lng": -76.58377,
+  "town": "Millersville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "288-acre former farm with a 2.4-mile paved perimeter loop, several miles of natural trails, farm animals, a 1925 farmhouse museum and fishing ponds.",
+  "facts": {
+   "length_mi": 2.4,
+   "fee": "$8 per vehicle"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/kinder-farm-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Beachwood Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "forest",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.10951,
+  "lng": -76.53113,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small wooded county park with natural trails down to the water, a cartop boat launch and fishing. Open sunrise to sunset; restrooms on site.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/beachwood-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Magothy Greenway Natural Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 39.10378,
+  "lng": -76.48824,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "369 acres of woods and wetlands near the Magothy River with about 4 miles of natural-surface trails. Park at Loopers Field on North Shore Road. Closes until 1 p.m. on deer-management days.",
+  "facts": {
+   "length_mi": 4,
+   "dogs": "leashed"
+  },
+  "url": "https://www.aacounty.org/locations/magothy-greenway-natural-area",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Green Haven Wharf",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak"
+  ],
+  "lat": 39.1455,
+  "lng": -76.55117,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county wharf at the end of Outing Avenue in Green Haven, listed by the county as a cartop launch for canoes and kayaks. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/green-haven-wharf",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Solleys Cove Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak"
+  ],
+  "lat": 39.18739,
+  "lng": -76.57263,
+  "town": "Curtis Bay",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County waterfront park on Carbide Road with a cartop launch for canoes and kayaks at the north end of the county. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/solleys-cove-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Thomas A. Dixon Jr. Aircraft Observation Area",
+  "type": "gem",
+  "tags": [
+   "viewpoint",
+   "paved",
+   "trail",
+   "weird"
+  ],
+  "lat": 39.16085,
+  "lng": -76.66239,
+  "town": "Glen Burnie",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Lawn and playground under the approach to a BWI runway where airliners pass low overhead on landing. Sits on the BWI Trail loop, with parking off Dorsey Road.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.traillink.com/trail/bwi-trail/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "BWI Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.18895,
+  "lng": -76.67698,
+  "town": "Linthicum",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "12.4-mile asphalt-and-boardwalk loop that fully circles BWI Airport, passing the Dixon observation area and linking by spur to the B&A Trail and the Linthicum light rail stop. Mostly flat.",
+  "facts": {
+   "length_mi": 12.4
+  },
+  "url": "https://www.traillink.com/trail/bwi-trail/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Baltimore & Annapolis Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.09725,
+  "lng": -76.56946,
+  "town": "Severna Park",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "13.3-mile paved rail trail from Glen Burnie to Boulters Way in Arnold, near Jonas Green Park and the Severn River, shaded for much of its length. The Earleigh Heights ranger station is the usual midpoint parking.",
+  "facts": {
+   "length_mi": 13.3,
+   "dogs": "leashed"
+  },
+  "url": "https://en.wikipedia.org/wiki/Baltimore_%26_Annapolis_Trail",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Severn Run Natural Environment Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "nature",
+   "fishing"
+  ],
+  "lat": 39.06875,
+  "lng": -76.60473,
+  "town": "Severn",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "About 1,700 acres of undeveloped state land along Severn Run, the headwaters of the Severn River. No facilities; unmarked woods trails and stream fishing from small roadside pull-offs.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Documents/Severn-Run-NEA-2022.pdf",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Piney Orchard Nature Preserve",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "nature",
+   "birding",
+   "wildlife",
+   "forest"
+  ],
+  "lat": 39.06028,
+  "lng": -76.72694,
+  "town": "Odenton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "45-acre wetland forest preserve with large ponds and 5 miles of hiking and biking trails, bordered by the Little Patuxent River and the Patuxent Research Refuge. Connects to the WB&A Trail.",
+  "facts": {
+   "length_mi": 5
+  },
+  "url": "https://en.wikipedia.org/wiki/Piney_Orchard_Nature_Preserve",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "WB&A Trail (Anne Arundel section)",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.0837,
+  "lng": -76.70003,
+  "town": "Odenton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved rail trail running 5.7 miles from Odenton to the Patuxent River, where a bridge built in 2025 joins the Prince George's section for 11.7 miles in all.",
+  "facts": {
+   "length_mi": 5.7
+  },
+  "url": "https://www.aacounty.org/locations/wba-trail",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Patuxent Research Refuge - North Tract",
+  "type": "hike",
+  "tags": [
+   "wildlife",
+   "birding",
+   "hiking",
+   "trail",
+   "fishing",
+   "forest"
+  ],
+  "lat": 39.07773,
+  "lng": -76.77173,
+  "town": "Laurel",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Former Fort Meade training land, now refuge: about 15 miles of trails for walking and biking through forest and wetlands. Register at the contact station; 2026 notices show reduced open days, so call first.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fws.gov/refuge/patuxent-research/visit-us",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Oxbow Natural Area",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "birding",
+   "wildlife",
+   "trail",
+   "weird"
+  ],
+  "lat": 39.11529,
+  "lng": -76.80641,
+  "town": "Laurel",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County preserve around Laurel Oxbow Lake, a beaver-made impoundment of the Little Patuxent described as the largest naturally occurring body of fresh water in Maryland. Short trail to a viewing platform.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/patuxent-river-greenway-oxbow-natural-area",
+  "coord_source": "official page"
+ },
+ {
+  "name": "South Shore Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.05753,
+  "lng": -76.65234,
+  "town": "Millersville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "First finished piece of a planned Annapolis-to-Odenton rail trail: 1.6 paved miles between Millersville Road and Waterbury Road through quiet woods.",
+  "facts": {
+   "length_mi": 1.6
+  },
+  "url": "https://www.aacounty.org/locations/south-shore-trail",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Broadneck Peninsula Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.03612,
+  "lng": -76.45673,
+  "town": "Arnold",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved 10-foot-wide path along College Parkway across the Broadneck peninsula toward Sandy Point, about 8 miles as planned. The last phases were reported open in spring 2026.",
+  "facts": {
+   "length_mi": 8
+  },
+  "url": "https://www.aacounty.org/node/307",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Spriggs Farm Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "forest",
+   "kayak",
+   "nature"
+  ],
+  "lat": 39.06025,
+  "lng": -76.47385,
+  "town": "Arnold",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Quiet natural area on the Magothy River with trails, picnic tables and a cartop launch down a steep 150-yard carry. Gated: request the free gate code from the county portal before going.",
+  "facts": {
+   "fee": "free; gate code required"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/community-parks/spriggs-farm-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Sandy Point State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "viewpoint",
+   "fishing",
+   "birding",
+   "lighthouse",
+   "kayak"
+  ],
+  "lat": 39.01126,
+  "lng": -76.39877,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "State park at the western foot of the Bay Bridge with a long sandy swimming beach, views of the bridge and Sandy Point Shoal Light, jetties for fishing and winter waterfowl. Fills on summer weekends.",
+  "facts": {
+   "fee": "$4 weekdays, $5 weekends per person in summer",
+   "swim": "yes"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/sandypoint.aspx",
+  "coord_source": "other (OpenStreetMap feature 'South Beach Area' via Overpass)"
+ },
+ {
+  "name": "Greenbury Point Conservation Area",
+  "type": "hike",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "trail",
+   "nature",
+   "birding",
+   "hiking"
+  ],
+  "lat": 38.98867,
+  "lng": -76.45425,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Navy-owned peninsula at the Severn River mouth with flat nature trails, three old radio towers and wide views of the Bay and Annapolis. Closed without notice when the range is in use (red light flashing).",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://ndw.cnic.navy.mil/Installations/NSA-Annapolis/Operations-and-Management/Greenbury-Point",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Greenbury Point Nature Center)"
+ },
+ {
+  "name": "Jonas Green Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "beach",
+   "fishing",
+   "kayak",
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 38.99523,
+  "lng": -76.48455,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small park under the Naval Academy Bridge on the Severn River: a strip of sand, a fishing pier on the old bridge abutment, a cartop launch and views of the Academy. Southern end of the B&A Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.aacounty.org/locations/jonas-and-anne-catharine-green-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Maryland World War II Memorial Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "waterfront",
+   "historic"
+  ],
+  "lat": 38.998,
+  "lng": -76.48191,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Open-air granite memorial on a hillside on Route 450 just north of the Naval Academy Bridge. The whole Naval Academy, the State House dome and the Annapolis skyline lie across the Severn. Free parking.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.visitannapolis.org/blog/stories/post/visit-the-maryland-wwii-memorial-in-annapolis/",
+  "coord_source": "other (OpenStreetMap feature via Overpass: World War II Memorial, Annapolis)"
+ },
+ {
+  "name": "U.S. Naval Academy Yard and Seawall",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 38.98171,
+  "lng": -76.48179,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The Academy grounds are open to walk-in visitors with government photo ID: seawall walks where the Severn meets Spa Creek, Triton Light at the point, the chapel and John Paul Jones crypt.",
+  "facts": {
+   "fee": "free; photo ID required"
+  },
+  "url": "https://www.usna.edu/Visit/index.php",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Annapolis City Dock",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 38.97656,
+  "lng": -76.48471,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The colonial harbor basin at the foot of Main Street, with the Kunta Kinte-Alex Haley Memorial and Susan Campbell Park at the water's end. Parts have been under reconstruction as a raised waterfront park.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Annapolis,_Maryland",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Truxtun Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "forest",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.96558,
+  "lng": -76.50214,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "City park on a wooded bluff above Spa Creek with natural-surface trails along the creek, a public boat ramp and kayak access close to downtown Annapolis.",
+  "facts": {},
+  "url": "https://www.annapolis.gov/189/Recreation-Parks",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Truxton Park)"
+ },
+ {
+  "name": "Ellen O. Moyer Nature Park at Back Creek",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "nature",
+   "kayak",
+   "birding"
+  ],
+  "lat": 38.96156,
+  "lng": -76.47876,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Twelve-acre waterfront park on Back Creek run with the Annapolis Maritime Museum: short paths, a living shoreline, piers and a kayak launch. Start of the walking path to Elktonia-Carr's Beach.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.amaritime.org/park-campus/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Elktonia-Carr's Beach Heritage Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 38.96149,
+  "lng": -76.47356,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Five bay-front acres bought by Annapolis in 2022, the last piece of the Black beach resorts that hosted major music acts under segregation. A quarter-mile path from the Maritime Museum park reaches the sand.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Elktonia-Carr%27s_Beach_Heritage_Park",
+  "coord_source": "other (OpenStreetMap feature 'Carr's Beach' via Overpass)"
+ },
+ {
+  "name": "Horn Point Park",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 38.97321,
+  "lng": -76.4766,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small city park at Horn Point, the northeast tip of Eastport, facing the mouth of Annapolis harbor and the Naval Academy seawall across Spa Creek. A place to sit and watch boats come in.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.annapolis.gov/189/Recreation-Parks",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Acton Cove Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 38.9753,
+  "lng": -76.49371,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small city waterfront park at Acton Cove on Spa Creek with benches overlooking the moored boats. A quiet sit-down spot a few blocks from downtown Annapolis.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.annapolis.gov/189/Recreation-Parks",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Quiet Waters Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "trail",
+   "running",
+   "paved",
+   "forest",
+   "kayak",
+   "dogs"
+  ],
+  "lat": 38.93663,
+  "lng": -76.50261,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "340 acres between the South River and Harness Creek: miles of paved forest trails, the South River Overlook, a dog beach, kayak rentals in season, gardens and outdoor sculpture.",
+  "facts": {
+   "fee": "$8 per vehicle",
+   "dogs": "leashed; dog beach",
+   "swim": "no"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/quiet-waters-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Thomas Point Park",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "lighthouse",
+   "fishing",
+   "birding",
+   "sunset"
+  ],
+  "lat": 38.90851,
+  "lng": -76.46637,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Narrow spit at the mouth of the South River with open Bay views and Thomas Point Shoal Lighthouse offshore. Very limited parking: April-October you need a pre-bought daily ($8) or monthly pass.",
+  "facts": {
+   "fee": "$8 daily parking pass Apr-Oct, bought online"
+  },
+  "url": "https://www.aacounty.org/locations/thomas-point-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Annapolis Waterworks Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs"
+  ],
+  "lat": 38.99941,
+  "lng": -76.56937,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "About 11 miles of unpaved hiking and mountain-bike trails around the old Annapolis city reservoir, linking toward Bacon Ridge. Entry is by paid city permit only (monthly, quarterly or annual).",
+  "facts": {
+   "length_mi": 11,
+   "fee": "city permit required (from $10-$15 per month)"
+  },
+  "url": "https://www.annapolis.gov/1085/Waterworks-Park",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Waterworks Park)"
+ },
+ {
+  "name": "Bacon Ridge Natural Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "dogs",
+   "running"
+  ],
+  "lat": 39.03285,
+  "lng": -76.61796,
+  "town": "Crownsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,100 acres of mature forest and wetland at the head of the South River with over 20 miles of natural-surface trails shared by hikers and mountain bikers. Lots on Bacon Ridge Road and Hawkins Road.",
+  "facts": {
+   "length_mi": 20,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.aacounty.org/locations/bacon-ridge-natural-area",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Homeport Farm Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "nature"
+  ],
+  "lat": 38.96425,
+  "lng": -76.54087,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small gated county park with a cartop launch onto Church Creek off the South River. Request the free gate code from the county portal before visiting.",
+  "facts": {
+   "fee": "free; gate code required"
+  },
+  "url": "https://www.aacounty.org/locations/homeport-farm-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "South River Farm Park",
+  "type": "hike",
+  "tags": [
+   "waterfront",
+   "hiking",
+   "trail",
+   "forest",
+   "viewpoint",
+   "nature"
+  ],
+  "lat": 38.9161,
+  "lng": -76.51618,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Rustic county park on the Mayo peninsula with 3 miles of natural-surface trails through woods and fields to views of the South River and Limehouse Cove. Small lot, picnic tables, no bikes on trails.",
+  "facts": {
+   "length_mi": 3,
+   "dogs": "leashed"
+  },
+  "url": "https://www.aacounty.org/locations/south-river-farm-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Mayo Beach Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "viewpoint"
+  ],
+  "lat": 38.89287,
+  "lng": -76.49163,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Sandy beach where the South River meets the Bay, with shallow wading water, shaded picnic tables and a cartop launch. Free, but a managed-access park: summer weekends and holidays need a free reservation pass.",
+  "facts": {
+   "fee": "free; reservation pass on summer weekends",
+   "swim": "yes"
+  },
+  "url": "https://www.aacounty.org/locations/mayo-beach-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Beverly Triton Nature Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "trail",
+   "nature",
+   "birding",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.88538,
+  "lng": -76.50209,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Chesapeake Bay beach on the Mayo peninsula with about 5 miles of natural trails around brackish ponds, a fishing pier and a cartop launch. Unguarded swimming; summer weekends need a free reservation pass.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "$8 per vehicle",
+   "dogs": "leashed; not on beach Memorial Day-Labor Day",
+   "swim": "yes"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/beverly-triton-nature-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Carrs Wharf",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.88851,
+  "lng": -76.52323,
+  "town": "Mayo",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County pier at the end of Carrs Wharf Road on the Rhode River in Mayo. A small quiet site for fishing, crabbing and launching a kayak, with only a few parking spaces.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/carrs-wharf",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Smithsonian Environmental Research Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "nature",
+   "forest",
+   "historic",
+   "ruins",
+   "birding"
+  ],
+  "lat": 38.89035,
+  "lng": -76.54965,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Research campus on the Rhode River with public trails: the 1.3-mile Java History Trail loop past the Java mansion ruins and a marsh boardwalk, plus the 1735 Woodlawn house. Sign in on arrival.",
+  "facts": {
+   "length_mi": 1.3,
+   "fee": "free"
+  },
+  "url": "https://serc.si.edu/visit",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Historic London Town and Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "waterfront",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 38.94136,
+  "lng": -76.54232,
+  "town": "Edgewater",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Site of a colonial port town on the South River: the 1760s William Brown House, reconstructed buildings and woodland and ornamental gardens stepping down to the water. Admission charged.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.historiclondontown.org/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Galesville Wharf",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.84321,
+  "lng": -76.53975,
+  "town": "Galesville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County pier at the end of Galesville's main street on the West River, with a cartop launch and room to fish or sit and watch the boats. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/galesville-wharf",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Shady Side Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.8456,
+  "lng": -76.51474,
+  "town": "Shady Side",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on the Shady Side peninsula listed as a cartop launch for canoes and kayaks. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/shady-side-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Jack Creek Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "nature",
+   "kayak",
+   "fishing",
+   "birding"
+  ],
+  "lat": 38.84081,
+  "lng": -76.49683,
+  "town": "Shady Side",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "60-acre natural area with trails and 3,000 feet of shoreline on Jack Creek and the Chesapeake Bay, plus a cartop launch. Gated: get the free code from the county portal. No swimming.",
+  "facts": {
+   "fee": "free; gate code required",
+   "swim": "no"
+  },
+  "url": "https://www.aacounty.org/locations/jack-creek-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Franklin Point State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "nature",
+   "kayak",
+   "birding"
+  ],
+  "lat": 38.81587,
+  "lng": -76.50641,
+  "town": "Shady Side",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped 477-acre peninsula between the Bay, Deep Creek and Flag Pond with volunteer-built trails and a shallow soft launch. Gated with a combination lock: request the code from DNR first.",
+  "facts": {
+   "fee": "free; gate combination required"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/FranklinPoint.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Rose Haven Memorial Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak"
+  ],
+  "lat": 38.7263,
+  "lng": -76.53751,
+  "town": "Rose Haven",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county park in Rose Haven at the southern tip of the county near Herring Bay, listed as a cartop launch for canoes and kayaks. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/rose-haven-memorial-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Deale Wharf",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 38.78261,
+  "lng": -76.55968,
+  "town": "Deale",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County fishing pier on Rockhold Creek in the working-waterfront village of Deale, listed by the county as a public fishing site.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/deale-wharf",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Jug Bay Wetlands Sanctuary",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "wildlife",
+   "birding",
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 38.78464,
+  "lng": -76.70145,
+  "town": "Lothian",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Over 1,700 protected acres on the tidal Patuxent: forest trails, marsh boardwalks and an observation deck over freshwater wetlands full of ospreys, herons and wild rice. Open Wed, Fri, Sat, Sun, 9-5.",
+  "facts": {
+   "fee": "$8 per vehicle"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/jug-bay-wetlands-sanctuary",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Glendening Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "forest",
+   "birding"
+  ],
+  "lat": 38.79663,
+  "lng": -76.6967,
+  "town": "Lothian",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Part of Jug Bay: sandy pine-barrens trails, meadows and riverside forest down to the Patuxent marshes, with entrances on Wrighton Road and Plummer Lane. The marsh boardwalk was closed in 2026.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://www.aacounty.org/node/15270",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Patuxent Wetlands Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.81134,
+  "lng": -76.71055,
+  "town": "Lothian",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Roadside county park beside the Route 4 bridge over the Patuxent River: a pier and cartop launch straight into the Jug Bay marshes. Good put-in for paddling the wild rice in late summer.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/patuxent-wetlands-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Wootons Landing Wetland Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "nature",
+   "birding",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.85944,
+  "lng": -76.68451,
+  "town": "Harwood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Restored wetlands on a former gravel mine beside the Patuxent River, with a level loop trail around the ponds and a cartop launch on the river. Quiet and good for herons and waterfowl.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/wootons-landing-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Ford Campsite at Stocketts Run",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "kayak",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 38.88215,
+  "lng": -76.67475,
+  "town": "Harwood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County paddle-in campsite on the Patuxent River near Harwood: one tent pad, picnic table and fire ring, reached only by canoe or kayak. Reserve ahead; two-night maximum, up to six people.",
+  "facts": {
+   "fee": "$10 per night",
+   "dogs": "leashed"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/popular-activities/paddle-camping",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Emory Landing Campsite",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "kayak",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 38.77091,
+  "lng": -76.6946,
+  "town": "Lothian",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Paddle-in campsite in Emory Waters Nature Preserve at Jug Bay with a tent pad, table and fire ring. Mud flats block it except near high tide, so approach from the south. No pets.",
+  "facts": {
+   "fee": "$10 per night",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.aacounty.org/recreation-parks/parks/popular-activities/paddle-camping",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Davidsonville Park (Patuxent River launch)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.93553,
+  "lng": -76.67953,
+  "town": "Davidsonville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on Patuxent River Road listed for both fishing and a cartop launch, giving access to the upper tidal Patuxent. The rest of the park is athletic fields.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/davidsonville-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Discovery Village",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak"
+  ],
+  "lat": 38.8446,
+  "lng": -76.5078,
+  "town": "Shady Side",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County-owned waterfront site on Atwell Road in Shady Side, listed as a cartop launch for canoes and kayaks. Sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/discovery-village",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Helen Avalynne Tawes Garden",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "nature"
+  ],
+  "lat": 38.98569,
+  "lng": -76.5034,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Free five-acre garden at the Department of Natural Resources headquarters that recreates Maryland landscapes in miniature, from a western mountain forest to an Eastern Shore peninsula, around ponds.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/tawesgarden.aspx",
+  "coord_source": "nominatim (580 Taylor Avenue, the garden's address)"
+ },
+ {
+  "name": "William Paca Garden",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 38.97959,
+  "lng": -76.48787,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Restored two-acre 18th-century pleasure garden behind the William Paca House: terraces, parterres, a fish-shaped pond and a summerhouse hidden inside the historic district. Admission charged.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.annapolis.org/contact/william-paca-house-garden",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Fort McHenry National Monument (Seawall Trail)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "historic",
+   "paved",
+   "running",
+   "birding",
+   "sunset"
+  ],
+  "lat": 39.26333,
+  "lng": -76.58,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Star fort that inspired the national anthem, on a point in Baltimore harbor. The grounds and the roughly one-mile seawall loop are free and give open views of the port; the fort itself has an entry fee.",
+  "facts": {
+   "length_mi": 1,
+   "fee": "grounds free; fee to enter the fort"
+  },
+  "url": "https://www.nps.gov/fomc/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Federal Hill Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "sunset"
+  ],
+  "lat": 39.27961,
+  "lng": -76.60846,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Grassy hilltop on the south side of the Inner Harbor with the classic postcard view of the downtown skyline and harbor. Short climb from Key Highway; best near dusk.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Federal_Hill_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Baltimore Waterfront Promenade",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 39.28596,
+  "lng": -76.61204,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Continuous brick-and-boardwalk path along the harbor's edge linking Canton, Fells Point, Harbor East, the Inner Harbor and Federal Hill. Flat, traffic-free waterfront running.",
+  "facts": {
+   "length_mi": 7,
+   "fee": "free"
+  },
+  "url": "https://www.waterfrontpartnership.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patterson Park",
+  "type": "park",
+  "tags": [
+   "running",
+   "paved",
+   "historic",
+   "viewpoint",
+   "birding"
+  ],
+  "lat": 39.28998,
+  "lng": -76.58371,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "East Baltimore's big 19th-century park: a four-story Victorian observation pagoda, a boat lake that draws birds, War of 1812 earthworks on Hampstead Hill and loops of paved path.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Patterson_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Druid Hill Park",
+  "type": "park",
+  "tags": [
+   "running",
+   "paved",
+   "forest",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 39.32346,
+  "lng": -76.64452,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "745-acre park opened in 1860 with Druid Lake, wooded northern trails, the Rawlings Conservatory, the Moorish Tower and the Maryland Zoo. The Jones Falls Trail passes through it.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Druid_Hill_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Howard P. Rawlings Conservatory",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 39.31855,
+  "lng": -76.64581,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1888 glass palm house in Druid Hill Park with orchid, tropical, Mediterranean and desert rooms and outdoor flower beds. A warm green stop in winter.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Howard_Peters_Rawlings_Conservatory_and_Botanic_Gardens_of_Baltimore",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Howard P. Rawlings Conservatory)"
+ },
+ {
+  "name": "Cylburn Arboretum",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "historic"
+  ],
+  "lat": 39.35427,
+  "lng": -76.65232,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "City arboretum on a wooded estate above the Jones Falls: formal gardens and tree collections around a stone mansion begun in 1863, with woodland trails beyond. Free; closed Mondays.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://cylburn.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Sherwood Gardens",
+  "type": "garden",
+  "tags": [
+   "garden"
+  ],
+  "lat": 39.34143,
+  "lng": -76.61395,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Six-acre neighborhood garden in Guilford known for tens of thousands of tulips that peak in late April, followed by summer annuals. Free and open, with street parking.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sherwood_Gardens",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Gwynns Falls/Leakin Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "historic",
+   "ruins"
+  ],
+  "lat": 39.30449,
+  "lng": -76.69505,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,216 acres of wooded stream valley in west Baltimore: miles of dirt trails along the Gwynns Falls and Dead Run, the old Crimea estate and the Carrie Murray Nature Center.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gwynns_Falls_Leakin_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Gwynns Falls Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.27563,
+  "lng": -76.65559,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "15-mile greenway trail following the Gwynns Falls stream valley from the I-70 park-and-ride through Leakin Park to the Middle Branch and Inner Harbor.",
+  "facts": {
+   "length_mi": 15
+  },
+  "url": "https://en.wikipedia.org/wiki/Gwynns_Falls_Trail",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Jones Falls Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail"
+  ],
+  "lat": 39.33821,
+  "lng": -76.64962,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Paved city trail up the Jones Falls valley, about 8 miles from the Inner Harbor through Druid Hill Park and Woodberry to Cylburn Arboretum, with a later extension toward Mount Washington.",
+  "facts": {
+   "length_mi": 8.1
+  },
+  "url": "https://en.wikipedia.org/wiki/Jones_Falls_Trail",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Round Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "historic",
+   "weird"
+  ],
+  "lat": 39.32095,
+  "lng": -76.63004,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Semicircular stone mill dam on the Jones Falls that spills as a curved curtain of water, tucked below Falls Road beside the Jones Falls Trail with a small viewing platform.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jones_Falls",
+  "coord_source": "other (OpenStreetMap feature 'Round Falls' via Overpass)"
+ },
+ {
+  "name": "Lake Montebello",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "birding"
+  ],
+  "lat": 39.33157,
+  "lng": -76.58475,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "City reservoir in northeast Baltimore ringed by a flat paved loop of about 1.35 miles with separate lanes for walkers and cyclists. Connects to Herring Run Park.",
+  "facts": {
+   "length_mi": 1.35,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lake_Montebello",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Herring Run Park",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "forest",
+   "running",
+   "nature"
+  ],
+  "lat": 39.31103,
+  "lng": -76.54776,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "375 acres of wooded stream valley in northeast Baltimore, with paved and dirt paths following Herring Run for 2.3 miles and a connector to the Lake Montebello loop.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Herring_Run",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Masonville Cove",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "nature",
+   "birding",
+   "wildlife",
+   "trail",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.24298,
+  "lng": -76.59438,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Reclaimed industrial shoreline on the Patapsco in south Baltimore, now an urban wildlife refuge partnership: walking trails, a fishing pier, kayak access and an education center. Bald eagles are regulars.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.masonvillecove.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Middle Branch Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "kayak",
+   "fishing",
+   "sunset",
+   "birding"
+  ],
+  "lat": 39.25501,
+  "lng": -76.62231,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Shoreline park on the Middle Branch of the Patapsco with a boardwalk, fishing piers, a rowing center and a long view back to the downtown skyline. On the Gwynns Falls Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://bcrp.baltimorecity.gov/parks/middle-branch",
+  "coord_source": "nominatim (3301 Waterview Avenue, the rowing center inside the park)"
+ },
+ {
+  "name": "Canton Waterfront Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "fishing",
+   "sunset"
+  ],
+  "lat": 39.2772,
+  "lng": -76.5727,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Open lawn and promenade on the harbor in Canton with a public boat ramp, fishing pier, the Korean War Memorial and views across to Fort McHenry and the working port.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Canton,_Baltimore",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Fort Armistead Park",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "historic",
+   "ruins",
+   "fishing",
+   "viewpoint",
+   "weird"
+  ],
+  "lat": 39.20865,
+  "lng": -76.53876,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Graffiti-covered concrete gun batteries of a coastal fort active 1901-1920 on Hawkins Point, with a fishing pier and boat ramp on the Patapsco beside the Key Bridge site. Unmaintained; go in daylight.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Armistead",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Stony Run Trail",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "running",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.35089,
+  "lng": -76.62881,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Narrow stream-side walking path of about three miles following Stony Run through Roland Park, Wyman Park and Remington on the bed of the old Ma & Pa Railroad.",
+  "facts": {
+   "length_mi": 3,
+   "fee": "free"
+  },
+  "url": "https://stonyrun.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Washington Monument, Mount Vernon Place",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 39.29749,
+  "lng": -76.61565,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The first major monument to George Washington, finished in 1829. A 227-step spiral stair climbs inside the column to a lookout over Mount Vernon's squares and the city. Small fee to climb; limited days.",
+  "facts": {
+   "fee": "fee to climb"
+  },
+  "url": "https://en.wikipedia.org/wiki/Washington_Monument_(Baltimore)",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Seven Foot Knoll Lighthouse",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 39.28358,
+  "lng": -76.60535,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Round red screw-pile lighthouse built in 1855, the oldest of its kind in Maryland. It stood on a shoal at the mouth of the Patapsco and now sits on Pier 5 in the Inner Harbor, where you can walk right up to it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Seven_Foot_Knoll_Light",
+  "coord_source": "other (OpenStreetMap feature 'Seven Foot Knoll Lighthouse' via Overpass)"
+ },
+ {
+  "name": "Harbor Wetland at the National Aquarium",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "nature",
+   "wildlife",
+   "weird"
+  ],
+  "lat": 39.28476,
+  "lng": -76.60769,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Floating salt-marsh habitat of about 10,000 square feet moored between Piers 3 and 4 at the Inner Harbor, opened in 2024. Free walkways pass over tidal marsh grasses planted to draw crabs, fish and birds.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://aqua.org/explore/exhibits/harbor-wetland",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patapsco Valley State Park - Avalon/Orange Grove Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "historic",
+   "waterfall",
+   "running",
+   "paved",
+   "fishing"
+  ],
+  "lat": 39.22759,
+  "lng": -76.72021,
+  "town": "Halethorpe",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "The park's busiest area, in the river gorge below Elkridge: trails to Cascade Falls, the swinging bridge at Orange Grove, Lost Lake and the paved Grist Mill Trail. Entrance on South Street; fills on weekends.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Cascade Falls (Patapsco Valley State Park)",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.23958,
+  "lng": -76.75178,
+  "town": "Elkridge",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small stepped waterfall on a side stream a short rocky walk uphill from the Orange Grove lot and swinging bridge, with a longer loop trail continuing above it. Wading pool at the base.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "other (OpenStreetMap feature 'Cascade Falls' via Overpass)"
+ },
+ {
+  "name": "Orange Grove Swinging Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "forest",
+   "weird"
+  ],
+  "lat": 39.24124,
+  "lng": -76.74951,
+  "town": "Elkridge",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Cable suspension footbridge over the Patapsco at the site of the Orange Grove flour mill, linking the Grist Mill Trail to the Cascade Falls trailhead. It bounces underfoot.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Swinging Bridge)"
+ },
+ {
+  "name": "Grist Mill Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.23065,
+  "lng": -76.72952,
+  "town": "Halethorpe",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved, nearly flat riverside trail up the Patapsco gorge from Lost Lake past the swinging bridge and the former Bloede Dam site to Ilchester. About 2.5 miles one way, closed to cars.",
+  "facts": {
+   "length_mi": 2.5,
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Grist Mill Trailhead at Lost Lake)"
+ },
+ {
+  "name": "Bloede Dam Site",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "fishing",
+   "weird"
+  ],
+  "lat": 39.24702,
+  "lng": -76.76108,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Where Bloede Dam, built in 1906 with the first hydroelectric plant housed inside its own spillway, stood until it was breached in 2018 and gone by 2019. The freed river is seen from the Grist Mill Trail.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Bloede%27s_Dam",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Thomas Viaduct",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "viewpoint",
+   "weird"
+  ],
+  "lat": 39.22153,
+  "lng": -76.71337,
+  "town": "Relay",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Curved eight-arch granite railroad bridge over the Patapsco, finished in 1835 and still carrying trains. Seen from the park road just inside the Avalon entrance of Patapsco Valley State Park.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Thomas_Viaduct",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patterson Viaduct Ruins",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "trail"
+  ],
+  "lat": 39.24889,
+  "lng": -76.76472,
+  "town": "Ilchester",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Surviving stone arch and abutments of an 1829 B&O Railroad viaduct wrecked by the 1868 flood, topped since 2006 by a footbridge over the Patapsco at Ilchester, at the upper end of the Grist Mill Trail.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Patterson_Viaduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Patapsco Valley State Park - Hilton Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.24956,
+  "lng": -76.75358,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Hilltop section above the gorge in Catonsville with a campground, a nature center, a recycled-tire playground and trails that drop to the river and connect to the swinging bridge.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patapsco Valley State Park - Hollofield Area",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "trail",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.29983,
+  "lng": -76.79362,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Ridge-top area off Route 40 with an overlook of the Patapsco valley, a campground and trails down to the river and the remains of Union Dam.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patapsco Valley State Park - Daniels Area",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "kayak",
+   "fishing",
+   "hiking",
+   "trail",
+   "swimming",
+   "weird"
+  ],
+  "lat": 39.31476,
+  "lng": -76.81654,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Ghost of a mill town emptied in the late 1960s and wrecked by the 1972 flood. Flat water above Daniels Dam for paddling and fishing, and trails upriver past church ruins and abandoned cars in the woods.",
+  "facts": {
+   "swim": "unofficial",
+   "dogs": "leashed"
+  },
+  "url": "https://en.wikipedia.org/wiki/Daniels,_Maryland",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patapsco Valley State Park - McKeldin Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfall",
+   "fishing",
+   "geology"
+  ],
+  "lat": 39.35097,
+  "lng": -76.88709,
+  "town": "Marriottsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Where the North and South branches of the Patapsco meet: the Switchback and Rapids trails loop past McKeldin Falls, a wide rock ledge the South Branch pours over. Quieter than Avalon.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "dogs": "leashed",
+   "swim": "no"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "other (OpenStreetMap feature 'McKeldin Falls' via Overpass)"
+ },
+ {
+  "name": "Buzzards Rock (Patapsco Valley State Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "trail",
+   "forest",
+   "geology"
+  ],
+  "lat": 39.25492,
+  "lng": -76.75714,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Rock outcrop high on the wooded gorge wall in the Hilton Area with a framed view down the Patapsco valley, reached by a moderate hike on the park's ridge and Sawmill Branch trails.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Buzzards Rock Trailhead parking)"
+ },
+ {
+  "name": "Benjamin Banneker Historical Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.26706,
+  "lng": -76.78532,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "142-acre county park on the homestead of the self-taught astronomer and almanac author Benjamin Banneker, with a museum, a replica cabin and wooded trails that link to the No. 9 Trolley Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Benjamin_Banneker_Historical_Park_and_Museum",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "No. 9 Trolley Line Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest",
+   "historic",
+   "geology"
+  ],
+  "lat": 39.26953,
+  "lng": -76.78073,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved path on an old streetcar line that drops from Catonsville through a deep rock cut on a boardwalk to Oella, ending a short walk from Ellicott City's Main Street.",
+  "facts": {
+   "length_mi": 1.25,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Trolley_Line_Number_9_Trail",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Soldiers Delight Natural Environment Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "geology",
+   "nature",
+   "historic",
+   "weird",
+   "viewpoint"
+  ],
+  "lat": 39.41013,
+  "lng": -76.83895,
+  "town": "Owings Mills",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "1,900 acres of serpentine barrens: stunted pines, prairie grasses and rare wildflowers on thin green rock that looks nothing like the rest of Maryland. About 7 miles of trails pass old chromite mines.",
+  "facts": {
+   "length_mi": 7,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/soldiersdelight.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Soldiers Delight Visitor Center)"
+ },
+ {
+  "name": "Liberty Dam and Reservoir",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "trail",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.37667,
+  "lng": -76.89105,
+  "town": "Eldersburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Baltimore's 1954 water-supply reservoir on the North Branch of the Patapsco. Fire roads through the forested watershed serve as hiking trails, and the concrete dam's spillway is worth seeing after rain.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Liberty_Reservoir",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Oregon Ridge Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 39.48792,
+  "lng": -76.69261,
+  "town": "Cockeysville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,000-acre county park on old iron-ore and marble workings: wooded ridge trails, a nature center, a grassy ski-slope overlook and a quarry lake. Swimming at the lake is no longer allowed.",
+  "facts": {
+   "fee": "free",
+   "swim": "no",
+   "dogs": "leashed"
+  },
+  "url": "https://en.wikipedia.org/wiki/Oregon_Ridge_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Lake Roland",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "geology",
+   "historic",
+   "dogs",
+   "kayak"
+  ],
+  "lat": 39.37846,
+  "lng": -76.6447,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Wooded park around an 1860s reservoir just north of the city line: a stone dam, boardwalk from the Falls Road light rail stop, lakeside and ridge trails, and serpentine barrens at Bare Hills.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed; dog park"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/lake-roland",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Lake Roland Nature Center)"
+ },
+ {
+  "name": "Cromwell Valley Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "historic",
+   "ruins"
+  ],
+  "lat": 39.41812,
+  "lng": -76.5489,
+  "town": "Parkville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Old farm valley along Minebank Run near Towson: meadow and wooded hill trails, restored 19th-century lime kilns, a fall hawk watch and paths that climb toward Loch Raven.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/cromwell-valley-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Loch Raven Reservoir",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "running",
+   "fishing",
+   "kayak",
+   "birding"
+  ],
+  "lat": 39.44046,
+  "lng": -76.55843,
+  "town": "Towson",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Forested Baltimore reservoir with miles of fire-road and shoreline trails. Loch Raven Drive has traditionally closed to cars on weekends (10-5) for walkers and cyclists; confirm that it still does.",
+  "facts": {
+   "fee": "free",
+   "swim": "no"
+  },
+  "url": "https://lochraventrails.com/trail-maps/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Loch Raven Dam",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "fishing"
+  ],
+  "lat": 39.4303,
+  "lng": -76.54225,
+  "town": "Towson",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stepped concrete dam from 1914 holding back Loch Raven Reservoir, with a roadside viewing area on Loch Raven Drive where water sheets down the spillway into the Gunpowder.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Loch_Raven_Dam",
+  "coord_source": "other (OpenStreetMap feature 'Loch Raven Dam' via Overpass)"
+ },
+ {
+  "name": "Torrey C. Brown Rail Trail (NCR Trail)",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "forest",
+   "historic",
+   "fishing"
+  ],
+  "lat": 39.5794,
+  "lng": -76.61554,
+  "town": "Monkton",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Crushed-stone rail trail running 19.7 miles from Ashland to the Pennsylvania line along the Gunpowder and Little Falls. The restored Monkton Station is the hub; tubers put in on the river there in summer.",
+  "facts": {
+   "length_mi": 19.7,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/tcb.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Gunpowder Falls State Park - Hereford Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "nature",
+   "swimming"
+  ],
+  "lat": 39.61165,
+  "lng": -76.67731,
+  "town": "Parkton",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "The wildest stretch of the Gunpowder, below Prettyboy Dam: narrow trails on both banks through hemlock and laurel beside a cold, clear trout river. Lots at Falls Road, Masemore Road and Bunker Hill Road.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Prettyboy Dam",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.61971,
+  "lng": -76.70722,
+  "town": "Parkton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1930s concrete dam in a steep wooded gorge at the head of the Gunpowder. A road crosses the top with a view down the face; rough trails lead to the river below and into the reservoir watershed.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Prettyboy_Reservoir",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Hemlock Gorge",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "geology",
+   "swimming"
+  ],
+  "lat": 39.68704,
+  "lng": -76.77275,
+  "town": "Freeland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Narrow ravine on the upper Gunpowder above Prettyboy Reservoir lined with old hemlocks, rock ledges and deep pools, more like the mountains than Baltimore County. Footpath from Gunpowder Road.",
+  "facts": {
+   "swim": "unofficial"
+  },
+  "url": "https://eastcoasthiker.com/best-hikes-near-baltimore/",
+  "coord_source": "other (OpenStreetMap feature 'Hemlock Gorge' via Overpass)"
+ },
+ {
+  "name": "Gunpowder Falls State Park - Sweet Air Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "fishing"
+  ],
+  "lat": 39.52669,
+  "lng": -76.51265,
+  "town": "Baldwin",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,250 acres of farm fields, pine plantations and woods on the Little Gunpowder with a web of quiet trails, river fords and Barley Pond. Shared with horses; the lot is at the end of Dalton Bevard Road.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Gunpowder Falls State Park - Hammerman Area",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.36239,
+  "lng": -76.34547,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,500 feet of guarded swimming beach on the tidal Gunpowder River with picnic groves, kayak and paddleboard rentals and the Dundee Creek marina next door. Entry fee in season.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "swim": "yes"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Marshy Point Nature Center",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "nature",
+   "birding",
+   "wildlife",
+   "trail",
+   "kayak"
+  ],
+  "lat": 39.34729,
+  "lng": -76.36816,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "County nature center on Dundee and Saltpeter creeks with easy trails through upland woods to tidal marsh, a pier and canoe launch, and live animal exhibits. Good for ospreys and winter ducks.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/marshy-point-nature-center",
+  "coord_source": "other (OpenStreetMap feature 'Marshy Point Park and Nature Center' via Overpass)"
+ },
+ {
+  "name": "North Point State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "beach",
+   "viewpoint",
+   "historic",
+   "ruins",
+   "trail",
+   "birding",
+   "fishing",
+   "nature",
+   "paved"
+  ],
+  "lat": 39.21802,
+  "lng": -76.42778,
+  "town": "Edgemere",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Bayfront park on the site of the Bay Shore amusement park (1906-1947): the restored trolley station and fountain, a long pier, a small wading beach, and trails through the Black Marsh wildland.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/northpoint.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Fort Howard Park",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "historic",
+   "ruins",
+   "viewpoint",
+   "fishing",
+   "weird"
+  ],
+  "lat": 39.19918,
+  "lng": -76.44098,
+  "town": "Fort Howard",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Tip of the North Point peninsula where the Patapsco meets the Bay. Walk through Spanish-American War-era concrete gun batteries half taken back by woods, then out to a pier and shoreline picnic spots.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/fort-howard-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Hart-Miller Island State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "camping",
+   "kayak",
+   "birding"
+  ],
+  "lat": 39.24981,
+  "lng": -76.36434,
+  "town": "Essex",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Man-made island off the mouth of Back River reached only by boat. The western shore has a 3,000-foot sandy beach with wade-in anchoring; open May through September.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/hartmiller.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Rocky Point Beach and Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "kayak",
+   "viewpoint"
+  ],
+  "lat": 39.25188,
+  "lng": -76.40443,
+  "town": "Essex",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "County waterfront park where Back River and Middle River meet the Bay: 300 feet of swimming beach open Memorial Day to Labor Day, a fishing pier, two boat ramps and shaded picnic groves.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/rocky-point-park-and-beach",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Miami Beach Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront"
+  ],
+  "lat": 39.30598,
+  "lng": -76.36997,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county beach of about 400 feet on the Chesapeake at Bowleys Quarters, east of Middle River, with picnic tables and a playground. Open for swimming in summer.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/miami-beach-park",
+  "coord_source": "other (OpenStreetMap feature 'Miami Beach' via Overpass)"
+ },
+ {
+  "name": "Cox's Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 39.29521,
+  "lng": -76.46552,
+  "town": "Essex",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on a point in Back River with a two-lane boat ramp, piers, shoreline fishing, picnic pavilions and a playground. No ramp fee.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/coxs-point-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Merritt Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "paved"
+  ],
+  "lat": 39.25315,
+  "lng": -76.50541,
+  "town": "Dundalk",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Dundalk neighborhood park on Bull Neck Creek with paved walking paths, piers, shoreline access, a two-lane boat ramp and a soft launch for kayaks added in 2023. No ramp fee.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/merritt-point-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Double Rock Park",
+  "type": "gem",
+  "tags": [
+   "waterfall",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.37032,
+  "lng": -76.52679,
+  "town": "Parkville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "102-acre county park in Parkville with wooded hiking loops; the blue trail follows Stemmers Run to the small Double Rock waterfall that gives the park its name. Take care at stream crossings.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/double-rock-park",
+  "coord_source": "other (OpenStreetMap feature 'Double Rock Waterfall' via Overpass)"
+ },
+ {
+  "name": "Hampton National Historic Site",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic"
+  ],
+  "lat": 39.41779,
+  "lng": -76.58841,
+  "town": "Towson",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1790 Georgian mansion that was once among the largest houses in America, with terraced formal gardens falling away below it and a farm side with stone slave quarters. Grounds are free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nps.gov/hamp/index.htm",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Beaver Dam Swimming Club",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "geology"
+  ],
+  "lat": 39.47927,
+  "lng": -76.65562,
+  "town": "Cockeysville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Privately run swim club at a flooded quarry about 50 feet deep, with a rope swing, diving board and rolling log, plus two shallower pools. Open to the public in summer for paid daily admission.",
+  "facts": {
+   "fee": "daily admission, about $20 adults",
+   "swim": "yes"
+  },
+  "url": "https://www.beaverdamswimmingclub.com/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Southwest Area Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "trail",
+   "birding"
+  ],
+  "lat": 39.23557,
+  "lng": -76.62606,
+  "town": "Baltimore Highlands",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park with Baltimore County's only public boat ramp on the Patapsco River (shallow-draft boats), a pier, nature trails, paved paths and a pond. No ramp fee.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/southwest-area-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Irvine Nature Center",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "nature",
+   "forest",
+   "birding",
+   "wildlife"
+  ],
+  "lat": 39.43185,
+  "lng": -76.75563,
+  "town": "Owings Mills",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Nonprofit nature center on more than 200 acres of meadow, woods and wetland in the Caves Valley, with easy walking trails and a nature museum.",
+  "facts": {},
+  "url": "https://www.explorenature.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Pot Rocks (Gunpowder Falls State Park)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "hiking",
+   "trail",
+   "forest",
+   "geology",
+   "fishing"
+  ],
+  "lat": 39.42719,
+  "lng": -76.44298,
+  "town": "Kingsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Smooth potholed rock ledges and pools in the Big Gunpowder, about a mile's walk upstream from the Belair Road (US 1) lot. A long-standing local wading and swimming spot with swift current in places.",
+  "facts": {
+   "length_mi": 2,
+   "fee": "free",
+   "swim": "unofficial",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: trailhead parking at Belair Road/US 1; Pot Rocks is about a mile upstream)"
+ },
+ {
+  "name": "Jerusalem Mill Village and Jericho Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "forest",
+   "fishing",
+   "hiking"
+  ],
+  "lat": 39.46216,
+  "lng": -76.39081,
+  "town": "Kingsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Restored 18th-century Quaker mill village on the Little Gunpowder, now Gunpowder Falls State Park headquarters, with a 1772 grist mill, a blacksmith shop and trails to the 1865 Jericho Covered Bridge.",
+  "facts": {
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.jerusalemmill.org/",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Jerusalem Mill Museum and Visitors Center)"
+ },
+ {
+  "name": "Raven Rock Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.61377,
+  "lng": -76.65898,
+  "town": "Parkton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Low-angle cascade sliding down a rock face beside the Gunpowder in the Hereford Area. Park by the York Road bridge and walk upstream along the south bank for about 30 minutes on uneven trail.",
+  "facts": {
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: trailhead parking at York Road; the falls is about a 30-minute walk upstream and its own position is not verified)"
+ },
+ {
+  "name": "Wilson Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.3225,
+  "lng": -76.42646,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County waterfront park on Dark Head Creek in Middle River with a double boat ramp, piers, a floating dock, a boardwalk and a path system. No ramp fee.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/wilson-point-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Centennial Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "fishing",
+   "kayak",
+   "birding"
+  ],
+  "lat": 39.2401,
+  "lng": -76.85121,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Howard County's flagship park: a paved loop of about 2.6 miles circling 54-acre Centennial Lake with rolling hills, boat rentals in season, fishing and plenty of waterfowl.",
+  "facts": {
+   "length_mi": 2.6,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/centennial-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Lake Elkhorn",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "fishing",
+   "birding"
+  ],
+  "lat": 39.1837,
+  "lng": -76.8386,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "37-acre Columbia lake with a paved 2-mile loop under trees, a dam-top stretch with open views and a link to the Patuxent Branch Trail toward Savage.",
+  "facts": {
+   "length_mi": 2,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lake_Elkhorn",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Wilde Lake",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "birding"
+  ],
+  "lat": 39.22389,
+  "lng": -76.86219,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Columbia's first man-made lake (1966), 22 acres circled by a 1.46-mile walking path, with a stepped dam spillway at the east end.",
+  "facts": {
+   "length_mi": 1.46,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wilde_Lake,_Columbia,_Maryland",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Wilde Lake Park)"
+ },
+ {
+  "name": "Lake Kittamaqundi",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 39.21616,
+  "lng": -76.85375,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Downtown Columbia's lakefront: a paved loop around the 27-acre lake past the People Tree plaza, fountains and a wooded far shore.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lake_Kittamaqundi",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Savage Mill Trail",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "forest",
+   "historic",
+   "geology",
+   "running"
+  ],
+  "lat": 39.13655,
+  "lng": -76.83289,
+  "town": "Savage",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Level 0.8-mile path on an old rail spur beside the Little Patuxent as it drops through boulders and rapids below the historic Savage cotton mill. Starts at the Bollman bridge.",
+  "facts": {
+   "length_mi": 0.8,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/savage-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Bollman Truss Railroad Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 39.13494,
+  "lng": -76.82508,
+  "town": "Savage",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The only surviving Bollman truss, a red 160-foot iron railroad bridge built in 1852 and moved in 1887 to the Little Patuxent at Savage Mill. Open to walk across.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bollman_Truss_Railroad_Bridge",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patuxent Branch Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "paved",
+   "trail",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.14578,
+  "lng": -76.83229,
+  "town": "Savage",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Rail trail up the Little Patuxent from Savage Park to Lake Elkhorn, mostly paved and wooded, crossing the river on the 1902 Guilford Pratt truss bridge.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Patuxent_Branch_Trail",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Wincopin Trails",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.13465,
+  "lng": -76.82059,
+  "town": "Savage",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Color-coded natural trails off Vollmerhausen Road dropping through woods to the meeting of the Middle and Little Patuxent rivers, with river overlooks and old bridge abutments.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/savage-park",
+  "coord_source": "nominatim (Savage Park parcel at 9299 Vollmerhausen Road, the trailhead address)"
+ },
+ {
+  "name": "Rockburn Branch Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running"
+  ],
+  "lat": 39.21532,
+  "lng": -76.77061,
+  "town": "Elkridge",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park with a network of wooded natural-surface trails popular with mountain bikers and trail runners, a skills park and links into Patapsco Valley State Park.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/rockburn-branch-park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Middle Patuxent Environmental Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "wildlife"
+  ],
+  "lat": 39.21257,
+  "lng": -76.91844,
+  "town": "Clarksville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1,021 acres of forest, meadow and river floodplain between Columbia and Clarksville with over 5 miles of quiet natural trails, including the Wildlife Loop and South Wind trails. Park on Trotter Road.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "free"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/middle-patuxent-environmental-area",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Trotter Road parking)"
+ },
+ {
+  "name": "Robinson Nature Center",
+  "type": "park",
+  "tags": [
+   "nature",
+   "trail",
+   "forest",
+   "historic",
+   "ruins"
+  ],
+  "lat": 39.19031,
+  "lng": -76.89469,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County nature center above the Middle Patuxent with about a mile of wooded trails down to the river and the remains of Simpsonville Mill. Trails are free; the exhibit building charges admission.",
+  "facts": {
+   "fee": "trails free; admission for exhibits"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/robinson-nature-center",
+  "coord_source": "other (OpenStreetMap feature 'Robinson Nature Center' via Overpass)"
+ },
+ {
+  "name": "Font Hill Wetland Park",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "trail",
+   "paved"
+  ],
+  "lat": 39.27273,
+  "lng": -76.86042,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small suburban wetland park with ponds, boardwalks and paved paths. An easy spot for herons, turtles and dragonflies.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/font-hill-wetlands-park",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Font Hill Wetlands Park)"
+ },
+ {
+  "name": "David Force Natural Resource Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.2895,
+  "lng": -76.87027,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped county woodland with a few miles of quiet natural-surface trails across streams and through mature forest. Small roadside trailhead.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.howardcountymd.gov/recreation-parks/david-force-natural-resource-area",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Howard County Conservancy at Mt. Pleasant",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "historic",
+   "garden"
+  ],
+  "lat": 39.31415,
+  "lng": -76.87625,
+  "town": "Woodstock",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "232-acre 18th-century farm kept as a nature preserve, with mowed and wooded trails through meadows and along streams, native-plant gardens and a nature center. Grounds open daily, free.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.howardnature.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patapsco Female Institute Historic Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "viewpoint"
+  ],
+  "lat": 39.27085,
+  "lng": -76.79709,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stabilized granite shell of an 1837 girls' boarding school on the hill above old Ellicott City, with Greek Revival columns open to the sky. Gated; open on limited tour days.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Patapsco_Female_Institute",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patuxent River State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "nature"
+  ],
+  "lat": 39.28502,
+  "lng": -77.13765,
+  "town": "Woodbine",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Largely undeveloped state park strung along the upper Patuxent on the Howard-Montgomery line: unmarked foot and horse trails, catch-and-release trout water and few people.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/patuxentriver.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "King and Queen Seat (Rocks State Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "trail",
+   "forest",
+   "geology"
+  ],
+  "lat": 39.63557,
+  "lng": -76.41246,
+  "town": "Jarrettsville",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "190-foot rock outcrop high above Deer Creek, reached by a short steep climb. Bare ledges with unfenced drops and a wide view over the wooded valley; also a rock-climbing spot.",
+  "facts": {
+   "height_ft": 190,
+   "fee": "state park day-use fee",
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/rocks.aspx",
+  "coord_source": "other (OpenStreetMap feature 'King & Queen Seat' via Overpass)"
+ },
+ {
+  "name": "Kilgore Falls (Falling Branch Area)",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "trail",
+   "forest",
+   "swimming",
+   "geology"
+  ],
+  "lat": 39.69288,
+  "lng": -76.42701,
+  "town": "Pylesville",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Maryland's second-highest free-falling waterfall, a 17-foot drop into a wading pool, a short walk from a 28-car lot. Free reservations are required on weekends and holidays, Memorial Day to Labor Day.",
+  "facts": {
+   "height_ft": 17,
+   "fee": "free; reservation on summer weekends and holidays",
+   "dogs": "leashed",
+   "swim": "unofficial"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/Rocks/Falling-Branch.aspx",
+  "coord_source": "other (OpenStreetMap feature 'Kilgore Falls' via Overpass)"
+ },
+ {
+  "name": "Deer Creek at Rocks State Park",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "fishing",
+   "forest",
+   "kayak"
+  ],
+  "lat": 39.64311,
+  "lng": -76.41408,
+  "town": "Jarrettsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Three and a half miles of Deer Creek run through the park, with picnic areas on the bank used for wading, tubing and swimming holes, and stocked trout in spring.",
+  "facts": {
+   "fee": "state park day-use fee",
+   "swim": "unofficial"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/rocks.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Wilson's Picnic Area)"
+ },
+ {
+  "name": "Susquehanna State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "historic",
+   "waterfront",
+   "fishing",
+   "camping",
+   "birding",
+   "kayak"
+  ],
+  "lat": 39.60793,
+  "lng": -76.14226,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Wooded hills dropping to the lower Susquehanna: about 15 miles of trails, the working Rock Run Grist Mill, a canal toll house, big old trees and a riverside path upstream to Conowingo Dam.",
+  "facts": {
+   "length_mi": 15,
+   "dogs": "leashed"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/susquehanna.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Rock Run Grist Mill)"
+ },
+ {
+  "name": "Conowingo Dam (Fisherman's Park)",
+  "type": "gem",
+  "tags": [
+   "wildlife",
+   "birding",
+   "fishing",
+   "viewpoint",
+   "waterfront"
+  ],
+  "lat": 39.65538,
+  "lng": -76.17436,
+  "town": "Darlington",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Shoreline park below the dam on the Harford side where bald eagles gather in large numbers to fish, peaking from November into January. Free; photographers line the fence at dawn.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Conowingo_Dam",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Conowingo Fisherman's Park)"
+ },
+ {
+  "name": "Havre de Grace Promenade and Concord Point Lighthouse",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "lighthouse",
+   "historic",
+   "paved",
+   "birding"
+  ],
+  "lat": 39.54071,
+  "lng": -76.08477,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Boardwalk of about three-quarters of a mile along the shore where the Susquehanna opens into the Bay, from Tydings Park to the 1827 Concord Point Lighthouse.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Concord_Point_Light",
+  "coord_source": "other (OpenStreetMap feature 'Concord Point Lighthouse' via Overpass)"
+ },
+ {
+  "name": "Swan Harbor Farm",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "nature",
+   "birding",
+   "fishing"
+  ],
+  "lat": 39.52394,
+  "lng": -76.11783,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County-owned bayfront farm south of Havre de Grace with a long tree-lined drive and open lawns on the upper Chesapeake. Often booked for events, so parts may be closed.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.harfordcountymd.gov/3575/Explore-ALL-Locations-download-PDF",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Eden Mill Nature Center",
+  "type": "park",
+  "tags": [
+   "nature",
+   "trail",
+   "forest",
+   "kayak",
+   "fishing",
+   "historic"
+  ],
+  "lat": 39.6752,
+  "lng": -76.45254,
+  "town": "Pylesville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Historic grist mill and dam on Deer Creek with a nature center, a canoe and kayak launch and wooded creekside trails.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.edenmill.org/",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Eden Mill Nature Center)"
+ },
+ {
+  "name": "Palmer State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "kayak",
+   "nature"
+  ],
+  "lat": 39.61537,
+  "lng": -76.28094,
+  "town": "Street",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped state park on Deer Creek with no facilities: rough woodland trails, creek fishing, canoeing and the remains of a flint mill and iron works. Small pull-off parking only.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/palmer.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Ma & Pa Heritage Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "paved",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.53394,
+  "lng": -76.36391,
+  "town": "Bel Air",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Rail trail on the old Maryland & Pennsylvania Railroad bed through Bel Air and Forest Hill, 6.25 miles in sections, with paved and fine-gravel surfaces and wooded stretches.",
+  "facts": {
+   "length_mi": 6.25,
+   "fee": "free"
+  },
+  "url": "https://www.mapatrail.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Anita C. Leight Estuary Center",
+  "type": "park",
+  "tags": [
+   "nature",
+   "waterfront",
+   "trail",
+   "birding",
+   "kayak",
+   "wildlife"
+  ],
+  "lat": 39.4499,
+  "lng": -76.26866,
+  "town": "Abingdon",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Nature center on Otter Point Creek, part of the Chesapeake Bay research reserve: wooded trails to tidal freshwater marsh, an observation deck and guided canoe trips.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.otterpointcreek.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Flying Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 39.44173,
+  "lng": -76.25795,
+  "town": "Edgewood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County waterfront park on the Bush River in Edgewood with a boat launch, a playground, pavilions and a short trail.",
+  "facts": {},
+  "url": "https://www.harfordcountymd.gov/3575/Explore-ALL-Locations-download-PDF",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Mariner Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "paved"
+  ],
+  "lat": 39.40257,
+  "lng": -76.35057,
+  "town": "Joppatowne",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on a peninsula in the tidal Gunpowder River at Joppatowne with a boat launch, a playground and a short waterside trail.",
+  "facts": {},
+  "url": "https://www.harfordcountymd.gov/3575/Explore-ALL-Locations-download-PDF",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Ladew Topiary Gardens",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "nature",
+   "historic"
+  ],
+  "lat": 39.5827,
+  "lng": -76.50796,
+  "town": "Monkton",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "22 acres with 15 garden rooms built by Harvey Ladew from the 1930s, including a topiary fox hunt and clipped swans, plus a nature walk. Open April through October; admission charged.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.ladewgardens.com/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Piney Run Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "forest",
+   "fishing",
+   "kayak",
+   "nature",
+   "hiking",
+   "birding"
+  ],
+  "lat": 39.39356,
+  "lng": -76.98444,
+  "town": "Sykesville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "550 acres of woods and fields around a 300-acre lake: over five miles of shoreline and forest trails, boat rentals, fishing piers and a nature center. Open seasonally, with a per-vehicle fee.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "$6 per vehicle Carroll residents, $12 non-residents"
+  },
+  "url": "https://www.carrollcountymd.gov/government/directory/recreation-parks/piney-run-park/",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Piney Run Park Nature Center)"
+ },
+ {
+  "name": "Hashawha Environmental Center and Bear Branch Nature Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "wildlife"
+  ],
+  "lat": 39.64709,
+  "lng": -76.98749,
+  "town": "Westminster",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "320-acre county environmental campus north of Westminster with five miles of loop trails through woods, meadows and wetlands, Lake Hashawha, a raptor mews and a nature center.",
+  "facts": {
+   "length_mi": 5,
+   "fee": "free"
+  },
+  "url": "https://www.carrollcountymd.gov/media/1772/trails.pdf",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Morgan Run Natural Environment Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "fishing",
+   "nature"
+  ],
+  "lat": 39.4718,
+  "lng": -76.99042,
+  "town": "Westminster",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "About 2,000 acres of state land around a catch-and-release trout stream feeding Liberty Reservoir, with field and forest trails shared with horses. Lots on Ben Rose Lane and Klee Mill Road.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/morganrun.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Patuxent Ponds Park",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "trail",
+   "nature",
+   "birding"
+  ],
+  "lat": 39.04127,
+  "lng": -76.72525,
+  "town": "Odenton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park in the Patuxent River Greenway built around old ponds off Patuxent Road, with walking trails and bank fishing. Open sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/patuxent-river-greenway-patuxent-ponds-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Patuxent River Greenway - Bayard",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "fishing",
+   "nature"
+  ],
+  "lat": 38.87423,
+  "lng": -76.67085,
+  "town": "Harwood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped county greenway tract on Sands Road with walking trails and bank fishing on the Patuxent River, a short way upstream of Wootons Landing. Dawn to dusk.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/patuxent-river-greenway-bayard",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Shady Side Wharf",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 38.84441,
+  "lng": -76.51055,
+  "town": "Shady Side",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County wharf at the end of Woods Wharf Road on the West River side of Shady Side, open dawn to dusk for fishing and crabbing from the pier.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/shady-side-wharf",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Sullivans Cove Natural Area",
+  "type": "park",
+  "tags": [
+   "trail",
+   "nature",
+   "forest"
+  ],
+  "lat": 39.0651,
+  "lng": -76.54533,
+  "town": "Severna Park",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county natural area off Bay Park Way in Severna Park with woodland trails around a bog at the head of Sullivans Cove. Open sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/sullivans-cove-natural-area",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Odenton Natural Area",
+  "type": "park",
+  "tags": [
+   "trail",
+   "nature",
+   "forest"
+  ],
+  "lat": 39.07453,
+  "lng": -76.68825,
+  "town": "Odenton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded county natural area on Higgins Drive with trails, picnic tables and grills. A quiet short walk if you are already in Odenton.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/odenton-natural-area",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Stoney Creek Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.16073,
+  "lng": -76.55524,
+  "town": "Glen Burnie",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped county woodland on Locust Grove Road with walking trails through the trees near the head of Stoney Creek. Open sunrise to sunset.",
+  "facts": {},
+  "url": "https://www.aacounty.org/locations/stoney-creek-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Curtis Creek Ship Graveyard",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "kayak",
+   "weird",
+   "waterfront"
+  ],
+  "lat": 39.20731,
+  "lng": -76.58181,
+  "town": "Curtis Bay",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Rotting hulls of wooden ships left along Curtis Creek beside the I-695 bridge, including World War I-era vessels and the schooner William T. Parker. Seen only from the water; paddle in by kayak.",
+  "facts": {},
+  "url": "https://www.atlasobscura.com/places/curtis-creek-ship-graveyard",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Curtis Creek Drawbridge on I-695, which the wrecks lie beside; exact wreck positions not verified)"
+ },
+ {
+  "name": "Loch Raven Fishing Center",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.46318,
+  "lng": -76.56639,
+  "town": "Phoenix",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County boat dock on Loch Raven Reservoir renting rowboats, kayaks and electric-motor boats, the only way onto the water without your own permitted boat. Daily April to Labor Day, then Fri-Mon through October.",
+  "facts": {
+   "fee": "rental fees",
+   "swim": "no"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Loch Raven Fishing Center)"
+ },
+ {
+  "name": "Watersedge Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 39.24406,
+  "lng": -76.49543,
+  "town": "Dundalk",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "9.5-acre county park at the end of Bullneck Road in Dundalk with a recreation pier, shoreline access, picnic pavilions and ball fields.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.baltimorecountymd.gov/departments/recreation/parks-directory/watersedge-park",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Watersedge Rec Pier)"
+ },
+ {
+  "name": "Fleming Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "paved"
+  ],
+  "lat": 39.23573,
+  "lng": -76.50312,
+  "town": "Turner Station",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "16-acre waterfront park on Bear Creek in historic Turner Station with a new lighted fishing pier and an accessible walking path.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.wmar2news.com/news/region/baltimore-county/new-public-fishing-pier-in-turner-station",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Fleming Park)"
+ },
+ {
+  "name": "Lower Susquehanna Heritage Greenway Trail",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "waterfront",
+   "forest",
+   "historic",
+   "birding"
+  ],
+  "lat": 39.62346,
+  "lng": -76.16398,
+  "town": "Darlington",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Flat crushed-stone path on an old rail bed along the Susquehanna from Stafford Road at Deer Creek to Conowingo Dam, past the Stafford flint furnace. About 2.2 miles each way.",
+  "facts": {
+   "length_mi": 2.2,
+   "fee": "free",
+   "dogs": "leashed"
+  },
+  "url": "https://www.traillink.com/trail/lower-susquehanna-heritage-greenway-trail",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Stafford Flint Furnace, by the Stafford Road trailhead)"
+ },
+ {
+  "name": "Hidden Valley Natural Area (Rocks State Park)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "fishing",
+   "hiking",
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.67931,
+  "lng": -76.49559,
+  "town": "White Hall",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped piece of Rocks State Park nine miles north of the main park, where Carea and Telegraph roads meet Deer Creek: a creekside trail, fishing, wading and tubing. Lot for 8-10 cars, no facilities.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/Rocks/Hidden-Valley.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Hidden Valley Trail)"
+ },
+ {
+  "name": "Dundee Creek Marina (Gunpowder Falls State Park)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "birding"
+  ],
+  "lat": 39.35256,
+  "lng": -76.35824,
+  "town": "Middle River",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "State-run marina and boat ramp on Dundee Creek next to the Hammerman Area, the put-in for paddling the tidal marshes of Dundee and Saltpeter creeks toward Marshy Point.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/gunpowder.aspx",
+  "coord_source": "other (OpenStreetMap feature via Overpass: Dundee Creek Marina)"
+ }
+]

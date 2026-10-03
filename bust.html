@@ -1,27 +1,29 @@
 <!DOCTYPE html>
-<html>
-<head><meta charset="UTF-8"><title>Cache Bust</title>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><title>Cavaleiro Andante: refresh</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-body { background:#07100a; color:#ccc; font-family:sans-serif;
-       display:flex; flex-direction:column; align-items:center;
-       justify-content:center; height:100vh; margin:0; text-align:center; }
-button { margin-top:20px; padding:14px 28px; background:#2d5a27;
-         color:#fff; border:none; border-radius:10px; font-size:16px; cursor:pointer; }
+body { background:#f2f8ea; color:#17301f; font-family:sans-serif; display:flex; flex-direction:column;
+       align-items:center; justify-content:center; min-height:100vh; margin:0; padding:24px; text-align:center; }
+a { margin-top:20px; padding:14px 28px; background:#2fa84f; color:#fff; border-radius:24px; font-weight:700; text-decoration:none; }
 </style>
 </head>
 <body>
-<h2>Clearing cache…</h2>
+<h2>Refreshing the app…</h2>
 <p id="status">Working…</p>
-<button onclick="location.href='./'">Back to App</button>
+<a id="back" href="./index.html">Back to the app</a>
 <script>
+// Clears only this app's saved files. Saved places and "been there" marks
+// live in localStorage and are NOT touched; neither are the other apps on
+// this site, which share the same cache storage.
 (async () => {
-  const keys = await caches.keys();
+  const keys = (await caches.keys()).filter(k => k.startsWith('cavaleiro-') || /^ca-v\d+$/.test(k));
   await Promise.all(keys.map(k => caches.delete(k)));
-  const reg = await navigator.serviceWorker.getRegistration();
+  const reg = await navigator.serviceWorker.getRegistration('./');
   if (reg) await reg.unregister();
-  document.getElementById('status').textContent =
-    `Done — cleared ${keys.length} cache(s). Tap the button to reload.`;
+  document.getElementById('status').textContent = 'Done. Your saved places are untouched.';
+  document.getElementById('back').href = './index.html?_=' + Date.now();
 })();
 </script>
 </body>

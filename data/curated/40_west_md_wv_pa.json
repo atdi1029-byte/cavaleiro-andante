@@ -1,0 +1,4417 @@
+[
+ {
+  "name": "Catoctin Mountain Park Loop (Chimney Rock, Wolf Rock, Hog Rock)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "geology",
+   "waterfall"
+  ],
+  "lat": 39.633883,
+  "lng": -77.4498,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Full circuit from the visitor center linking Chimney Rock, Wolf Rock, Thurmont Vista, Blue Ridge Summit Overlook and Hog Rock, ending at Cunningham Falls. Signed but unblazed, so carry the park map.",
+  "facts": {
+   "length_mi": 7.8,
+   "gain_ft": 1617,
+   "dogs": "leashed; not allowed on the rock formations"
+  },
+  "url": "https://myhikes.org/trails/catoctin-mountain-park-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Chimney Rock (Catoctin Mountain Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.62897,
+  "lng": -77.43285,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Stack of quartzite ledges with an open view south over the Catoctin ridges. A steady climb from the visitor center or the Park Central Road lot; usually paired with Wolf Rock.",
+  "facts": {
+   "dogs": "leashed; not allowed on the rock formations"
+  },
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Wolf Rock (Catoctin Mountain Park)",
+  "type": "gem",
+  "tags": [
+   "hiking",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.63394,
+  "lng": -77.43766,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Long tilted slab of quartzite split by deep crevices that you scramble across. There is no wide view; the rock is the attraction. Half a mile along the ridge from Chimney Rock.",
+  "facts": {
+   "dogs": "leashed; not allowed on the rock formations"
+  },
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Hog Rock (Catoctin Mountain Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.64289,
+  "lng": -77.45852,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Rock ledge overlook a short walk from the Hog Rock lot on Park Central Road, on a loop trail through big hardwoods. An easy fall-color stop.",
+  "facts": {
+   "dogs": "leashed; not allowed on the rock formations"
+  },
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Thurmont Vista (Catoctin Mountain Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.64573,
+  "lng": -77.43882,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Cleared overlook facing east over Thurmont and the Monocacy Valley, reached by a short uphill trail from its own lot on Park Central Road.",
+  "facts": {},
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Blue Ridge Summit Vista (Catoctin Mountain Park)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.64958,
+  "lng": -77.45179,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "North-facing overlook toward Blue Ridge Summit and the Pennsylvania line, on the ridge trail between Hog Rock and Thurmont Vista. The quietest of the park vistas.",
+  "facts": {},
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cunningham Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.63166,
+  "lng": -77.47076,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Maryland's tallest cascading waterfall, 78 ft down a rock face on Big Hunting Creek. Walk in from the Hunting Creek Lake lot or take the boardwalk from the MD 77 roadside lot.",
+  "facts": {
+   "height_ft": 78,
+   "fee": "William Houck Area: $3-5 per person in season for MD residents (+$2 out of state); $3 per vehicle off-season"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/pages/western/cunningham.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Hunting Creek Lake (Cunningham Falls State Park)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.62737,
+  "lng": -77.46182,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "43-acre mountain lake with sand swimming beaches, boat rentals and picnic lawns, in the William Houck Area. The trail to Cunningham Falls starts from the beach lot.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$3-5 per person in season for MD residents (+$2 out of state); $3 per vehicle off-season"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/pages/western/cunningham.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cat Rock (Cunningham Falls State Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.61615,
+  "lng": -77.44877,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Steep climb from MD 77 to a pile of quartzite blocks; scramble on top for a view in every direction. Far fewer people than the national park side of the road.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/pages/western/cunningham.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Bob's Hill Overlooks (Cunningham Falls State Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.59672,
+  "lng": -77.45434,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Climb the Catoctin Trail from the Manor Area to two short spur trails, one ledge facing north and one facing south over the Frederick Valley.",
+  "facts": {
+   "fee": "Manor Area: $3 per vehicle MD residents, $5 out of state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/pages/western/cunningham.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Catoctin Furnace",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "trail"
+  ],
+  "lat": 39.5813,
+  "lng": -77.43453,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stone stack of an iron furnace that shut down in 1903, with the ruined ironmaster's house and a footbridge trail over US 15 into the state park's Manor Area.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Catoctin_Furnace",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Gambrill State Park (High Knob overlooks)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.46242,
+  "lng": -77.49531,
+  "town": "Frederick",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Stone overlooks built by the CCC in the 1930s on High Knob: one looks east over Frederick, another west across the Middletown Valley to South Mountain. Trail loops start nearby.",
+  "facts": {
+   "fee": "$3 per vehicle MD residents, $5 out of state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/gambrill.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Sugarloaf Mountain",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.26248,
+  "lng": -77.39323,
+  "town": "Dickerson",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Lone 1,283-ft mountain standing about 800 ft above the farmland. A road climbs to overlook lots and short rocky trails reach the summit. Privately owned land kept open to the public.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Sugarloaf_Mountain_(Maryland)",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Monocacy National Battlefield",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "nature",
+   "waterfront"
+  ],
+  "lat": 39.37115,
+  "lng": -77.39208,
+  "town": "Frederick",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "1864 battlefield straddling the Monocacy River with farm-lane walking loops at the Worthington, Thomas and Best farms. Quiet river and field scenery just off I-270.",
+  "facts": {},
+  "url": "https://www.nps.gov/mono/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Loys Station Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.60861,
+  "lng": -77.35139,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Covered bridge over Owens Creek, rebuilt with its surviving timbers after a 1991 arson fire, set in a small park with picnic tables and creek access.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Loys_Station_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Roddy Road Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.64056,
+  "lng": -77.39417,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "One-lane king post covered bridge only 40 ft long, built in the 1850s over Owens Creek, with a small creekside park next to it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Roddy_Road_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Utica Mills Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.52444,
+  "lng": -77.39611,
+  "town": "Lewistown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Burr truss covered bridge first built in 1834 over the Monocacy; the half that survived an 1889 flood was moved here to Fishing Creek. Still open to cars.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Utica_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Monocacy Aqueduct (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "trail",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.22361,
+  "lng": -77.45194,
+  "town": "Dickerson",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The largest aqueduct on the C&O Canal: 438 ft of stone arches carrying the towpath over the Monocacy River where it meets the Potomac. Walk across; boat ramp beside it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Monocacy_Aqueduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Shrine Grotto of Our Lady of Lourdes",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 39.68256,
+  "lng": -77.35643,
+  "town": "Emmitsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Mountainside shrine above Mount St. Mary's with a replica of the Lourdes grotto, shaded garden paths, a pool and a valley view from the terrace.",
+  "facts": {},
+  "url": "https://www.nsgrotto.org/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Baker Park and Carroll Creek Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "paved",
+   "garden",
+   "running"
+  ],
+  "lat": 39.41955,
+  "lng": -77.42162,
+  "town": "Frederick",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Downtown Frederick's main park with a carillon tower and Culler Lake, linked to the Carroll Creek promenade of brick walks, footbridges and water-lily plantings.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Carroll_Creek_(Maryland)",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Fountain Rock Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "ruins",
+   "nature",
+   "fishing"
+  ],
+  "lat": 39.47534,
+  "lng": -77.36843,
+  "town": "Walkersville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Row of old stone lime kilns beside a spring-fed quarry pond, with a small nature center. A short, flat walk.",
+  "facts": {},
+  "url": "https://www.recreater.com/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Gathland State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "hiking",
+   "weird"
+  ],
+  "lat": 39.40575,
+  "lng": -77.63926,
+  "town": "Burkittsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Ruins of a Civil War correspondent's mountaintop estate and his stone War Correspondents Memorial Arch, right on the Appalachian Trail at Crampton's Gap.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/gathland.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Maryland Heights (Harpers Ferry)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "ruins",
+   "geology"
+  ],
+  "lat": 39.329168,
+  "lng": -77.73124,
+  "town": "Sandy Hook",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Steep climb to a cliff straight above Harpers Ferry and the two rivers; the longer loop adds the Civil War stone fort. Fall 2026: Lower Town footbridge closed for repairs, NPS shuttle runs to Lock 34.",
+  "facts": {
+   "length_mi": 6.5,
+   "gain_ft": 1788,
+   "fee": "$20 per vehicle or $10 per person, valid 3 days"
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hikes.htm",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Weverton Cliffs",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 39.33269,
+  "lng": -77.68207,
+  "town": "Knoxville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Switchbacks on the Appalachian Trail from the Weverton Road lot lead to open cliffs high above the Potomac, looking upriver toward Harpers Ferry. Short and steep.",
+  "facts": {
+   "length_mi": 2.0
+  },
+  "url": "https://myhikes.org/trails/c-o-canal-and-weverton-cliff-hike",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Annapolis Rock (Appalachian Trail)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset",
+   "geology",
+   "camping"
+  ],
+  "lat": 39.53555,
+  "lng": -77.604083,
+  "town": "Myersville",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Appalachian Trail north from the US 40 lot to a west-facing cliff over Greenbrier Lake and the Cumberland Valley. Continue to Black Rock Cliff for the full 7.1-mile out-and-back.",
+  "facts": {
+   "length_mi": 7.1,
+   "gain_ft": 925,
+   "fee": "free"
+  },
+  "url": "https://myhikes.org/trails/annapolis-rock-and-black-rock-cliff-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Black Rock Cliff (Appalachian Trail)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 39.57323,
+  "lng": -77.5972,
+  "town": "Myersville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Wide west-facing cliff with a talus field below, about a mile past Annapolis Rock on the AT and usually much quieter.",
+  "facts": {},
+  "url": "https://myhikes.org/trails/annapolis-rock-and-black-rock-cliff-hike",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Washington Monument State Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "hiking",
+   "birding"
+  ],
+  "lat": 39.50044,
+  "lng": -77.6232,
+  "town": "Boonsboro",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The first monument to George Washington, a 40-ft stone tower built by Boonsboro townspeople in 1827 on South Mountain. Climb the inside stairs for a valley view; the AT passes the base.",
+  "facts": {
+   "fee": "$2 per vehicle MD residents, $4 out of state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/washington.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Greenbrier State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "hiking",
+   "camping",
+   "fishing"
+  ],
+  "lat": 39.53849,
+  "lng": -77.61785,
+  "town": "Boonsboro",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "42-acre lake under South Mountain with a long sand swimming beach, boat rentals and trails that link to the AT. Summer weekends need a day-use reservation.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$3-5 per person in summer for MD residents (+$2 out of state); $3 per vehicle off-season; reservation required weekends and holidays Memorial Day-Labor Day"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/Greenbrier.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Antietam National Battlefield",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "nature",
+   "viewpoint"
+  ],
+  "lat": 39.47028,
+  "lng": -77.73806,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Preserved 1862 battlefield of farm lanes, rail fences and stone bridges along Antietam Creek. Walk the Cornfield and Bloody Lane trails or follow the tour road.",
+  "facts": {},
+  "url": "https://www.nps.gov/anti/index.htm",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Burnside Bridge (Antietam)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "hiking"
+  ],
+  "lat": 39.45053,
+  "lng": -77.73185,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Stone arch bridge of 1836 over Antietam Creek, fought over for hours in 1862. An overlook sits above it and creekside trails loop out from the bridge.",
+  "facts": {
+   "length_mi": 4.4
+  },
+  "url": "https://myhikes.org/trails/antietam-burnside-bridge-hike",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Bloody Lane Observation Tower (Antietam)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 39.46943,
+  "lng": -77.736,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stone War Department tower at the end of the Sunken Road. Climb it for a full view of the battlefield with South Mountain on the horizon.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Antietam_National_Battlefield",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Fort Frederick State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "trail",
+   "camping"
+  ],
+  "lat": 39.6103,
+  "lng": -78.0036,
+  "town": "Big Pool",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Massive stone fort from the French and Indian War with restored walls and barracks, beside the Potomac, the C&O Canal and Big Pool.",
+  "facts": {
+   "fee": "$3 per vehicle MD residents, $5 out of state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/fortfrederick.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Crystal Grottoes Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 39.49806,
+  "lng": -77.67694,
+  "town": "Boonsboro",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Maryland's only show cave: guided walks through narrow passages crowded with formations. Privately run with paid admission; check hours before driving out.",
+  "facts": {
+   "fee": "paid guided tour"
+  },
+  "url": "https://en.wikipedia.org/wiki/Crystal_Grottoes",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Devil's Backbone County Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "hiking",
+   "geology"
+  ],
+  "lat": 39.54788,
+  "lng": -77.70444,
+  "town": "Boonsboro",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county park where Antietam Creek bends around a narrow rock ridge: a dam, a footbridge, canoe access, fishing and picnic tables under big sycamores.",
+  "facts": {
+   "dogs": "allowed"
+  },
+  "url": "https://www.washco-md.net/parks-facilities/county-park/parks-devils-backbone/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "High Rock (Pen Mar)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 39.69505,
+  "lng": -77.52369,
+  "town": "Cascade",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Graffiti-covered cliff on South Mountain, a former resort observatory site and now a hang-glider launch, with a wide view west over the Cumberland Valley. Parking is right beside it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Pen_Mar_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Pen Mar Park",
+  "type": "park",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "historic",
+   "hiking"
+  ],
+  "lat": 39.71562,
+  "lng": -77.50916,
+  "town": "Cascade",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park beside the Mason-Dixon Line on the site of an old mountain resort: overlook pavilion facing west, picnic grounds and the Appalachian Trail. Open May through October, 9 am to sunset.",
+  "facts": {},
+  "url": "https://www.washco-md.net/parks-facilities/county-park/parks-pen-mar/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Slackwater (C&O Canal at McMahon's Mill)",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "waterfront",
+   "historic",
+   "geology",
+   "running"
+  ],
+  "lat": 39.53052,
+  "lng": -77.82389,
+  "town": "Williamsport",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Where canal boats once left the canal for the river, the towpath now runs on a concrete walkway under limestone cliffs at the Potomac's edge. Start at the old mill and walk downstream.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Canal_National_Historical_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Dam 4 (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.49433,
+  "lng": -77.82703,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stone canal dam with the whole Potomac pouring over it, a winch house and an old hydro plant on the far bank. Flatwater paddling above, fishing below.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Canal_National_Historical_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Dam 5 (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 39.60615,
+  "lng": -77.9227,
+  "town": "Clear Spring",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Canal feeder dam across the Potomac with a lockhouse and inlet lock at the end of a quiet road. Loud water and little company.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Canal_National_Historical_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Four Locks (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 39.61565,
+  "lng": -77.94722,
+  "town": "Clear Spring",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Four lift locks in a row where the canal cut across a river bend, with a lockhouse, mule barn and boat ramp left from the canal community that stood here.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Four_Locks",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Cushwa Basin and Conococheague Aqueduct",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 39.60134,
+  "lng": -77.82797,
+  "town": "Williamsport",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Canal hub at Williamsport: a re-watered stone aqueduct, turning basin, lift lock and warehouse visitor center within a short walk on the towpath.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Williamsport,_Maryland",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Killiansburg Cave (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "cave",
+   "historic",
+   "trail"
+  ],
+  "lat": 39.46007,
+  "lng": -77.79002,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Shallow cave in the bluff above the towpath where Sharpsburg civilians sheltered during the Battle of Antietam. Reached by walking the towpath from Snyders Landing.",
+  "facts": {},
+  "url": "https://www.atlasobscura.com/things-to-do/shepherdstown-west-virginia",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Antietam Creek Aqueduct (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "waterfront",
+   "camping"
+  ],
+  "lat": 39.41748,
+  "lng": -77.74583,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Three-arch stone aqueduct carrying the towpath over the mouth of Antietam Creek, next to a walk-in riverside campground.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Chesapeake_and_Ohio_Canal_National_Historical_Park",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Western Maryland Rail Trail",
+  "type": "run",
+  "tags": [
+   "paved",
+   "trail",
+   "running",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.6631,
+  "lng": -78.2318,
+  "town": "Hancock",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "28 miles of paved rail trail between Fort Frederick and Little Orleans, shadowing the C&O Canal and the Potomac through Hancock.",
+  "facts": {
+   "length_mi": 28
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/wmrt.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Sideling Hill Road Cut",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "viewpoint",
+   "weird"
+  ],
+  "lat": 39.71915,
+  "lng": -78.28165,
+  "town": "Hancock",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "I-68 passes through a 340-ft-deep notch blasted out of Sideling Hill, exposing rock layers bent into a giant U. Pull into the rest area and walk up to the viewing platforms.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Sideling_Hill",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Round Top Cement Mill ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "trail",
+   "weird"
+  ],
+  "lat": 39.67736,
+  "lng": -78.22721,
+  "town": "Hancock",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Brick chimney, kilns and mine openings of a 19th-century cement works squeezed between the rail trail and the canal, a few miles west of Hancock.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Western_Maryland_Rail_Trail",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Wilson Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.6575,
+  "lng": -77.84806,
+  "town": "Hagerstown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Five-arch limestone bridge of 1819 over Conococheague Creek, 210 ft long and the longest of the county's old stone bridges. It carried the National Road.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Wilson%27s_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hagerstown City Park",
+  "type": "park",
+  "tags": [
+   "paved",
+   "trail",
+   "garden",
+   "birding"
+  ],
+  "lat": 39.63777,
+  "lng": -77.73146,
+  "town": "Hagerstown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "City park around a spring-fed lake with swans, a walking loop, an art museum and a steam locomotive on display.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Hagerstown_City_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Paw Paw Tunnel (C&O Canal)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "geology",
+   "weird",
+   "camping"
+  ],
+  "lat": 39.54419,
+  "lng": -78.46119,
+  "town": "Oldtown",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "3,118-ft brick-lined canal tunnel you walk through by flashlight on the old towpath, with a rock gorge at the far end. Return over the top on the steep 2-mile Tunnel Hill Trail.",
+  "facts": {},
+  "url": "https://www.nps.gov/choh/planyourvisit/paw-paw-tunnel.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Point Lookout Overlook (Green Ridge State Forest)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "forest"
+  ],
+  "lat": null,
+  "lng": null,
+  "town": "Little Orleans",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "View at about 900 ft over a horseshoe bend of the Potomac and the West Virginia ridges, used as a Union lookout in the Civil War. On unpaved Carroll Road, off Oldtown Road.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/centennial/Pages/Centennial-Notes/PointLookout.aspx",
+  "coord_source": "none found (not in OpenStreetMap, GNIS or Nominatim); take it from the forest's overlook driving map"
+ },
+ {
+  "name": "Banner's Overlook (Green Ridge State Forest)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.59522,
+  "lng": -78.47769,
+  "town": "Flintstone",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Overlook at 1,650 ft on Mertens Avenue near the center of the forest, looking east toward the Potomac and the West Virginia ridges. Named for an early forest warden.",
+  "facts": {},
+  "url": "https://www.mdmountainside.com/blog/post/green-ridge-state-forest-scenic-overlooks-tour/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Green Ridge State Forest Headquarters Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.6644,
+  "lng": -78.44388,
+  "town": "Flintstone",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooden platform behind the forest headquarters just off I-68 with a first look across the ridges. Pick up the overlook driving map and campsite permits here.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/forests/Pages/publiclands/western_greenridgeforest.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Rocky Gap State Park (Lake Habeeb)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "hiking",
+   "camping",
+   "kayak"
+  ],
+  "lat": 39.70159,
+  "lng": -78.65317,
+  "town": "Flintstone",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "243-acre Lake Habeeb at the foot of Evitts Mountain with three public sand beaches, boat rentals and a trail around the shore. Summer weekends need a day-use reservation.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$2 per vehicle to $4 per person depending on season; reservation required weekends and holidays Memorial Day-Labor Day"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/rockygap.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Rocky Gap Gorge (Canyon Overlook Trail)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.70076,
+  "lng": -78.66194,
+  "town": "Flintstone",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Short trail near the dam to a ledge over the gorge that Rocky Gap Run cut through the mountain, lined with hemlock and rhododendron.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/rockygap.aspx",
+  "coord_source": "other (OpenStreetMap, Rocky Gap Dam next to the trail)"
+ },
+ {
+  "name": "Dan's Rock Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology"
+  ],
+  "lat": 39.58168,
+  "lng": -78.89739,
+  "town": "Midland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Painted rock outcrop at 2,895 ft, the highest point in Allegany County, with a long view east over the Potomac valley. A paved road goes to the top.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Dans_Mountain",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "The Narrows and Lovers Leap",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology",
+   "historic"
+  ],
+  "lat": 39.66593,
+  "lng": -78.7778,
+  "town": "Cumberland",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Water gap where Wills Creek, the National Road and the railroads squeeze between quartzite cliffs. Lovers Leap on the rim is reached by an unmarked path and closes for falcon nesting.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Cumberland_Narrows",
+  "coord_source": "other (USGS GNIS gazetteer)"
+ },
+ {
+  "name": "Canal Place (C&O Canal terminus)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "paved"
+  ],
+  "lat": 39.64936,
+  "lng": -78.76345,
+  "town": "Cumberland",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Western end of the 184.5-mile C&O Canal towpath and starting point of the Great Allegheny Passage, beside the scenic railroad station in downtown Cumberland.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Canal_Place",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Great Allegheny Passage: Brush Tunnel",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "historic",
+   "geology"
+  ],
+  "lat": 39.69,
+  "lng": -78.81389,
+  "town": "Corriganville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The rail trail climbs out of Cumberland through the Narrows, past the Cumberland Bone Cave, then through the 914-ft Brush Tunnel, which it shares with a steam tourist train.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Brush_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mason-Dixon Line marker (Great Allegheny Passage)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "viewpoint"
+  ],
+  "lat": 39.72295,
+  "lng": -78.90175,
+  "town": "Frostburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The Maryland-Pennsylvania border marked across the rail trail with stone blocks, between Frostburg and Big Savage Tunnel, with a long view down the valley.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Great_Allegheny_Passage",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Oldtown Low-Water Toll Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 39.5376,
+  "lng": -78.6132,
+  "town": "Oldtown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Privately owned one-lane bridge sitting just above the Potomac, where a toll is collected for crossing to West Virginia. The C&O Canal towpath crosses its approach.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Oldtown,_Maryland",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Lonaconing Iron Furnace",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins"
+  ],
+  "lat": 39.57029,
+  "lng": -78.97802,
+  "town": "Lonaconing",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Sandstone furnace stack 50 ft high that first made iron in 1839, standing in a small park in the middle of town.",
+  "facts": {
+   "height_ft": 50
+  },
+  "url": "https://en.wikipedia.org/wiki/Lonaconing_Furnace",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "LaVale Toll Gate House",
+  "type": "gem",
+  "tags": [
+   "historic"
+  ],
+  "lat": 39.63795,
+  "lng": -78.85224,
+  "town": "LaVale",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Seven-sided brick toll house built in 1835-36 on the National Road. A quick roadside stop.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/La_Vale_Tollgate_House",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Dans Mountain State Park",
+  "type": "park",
+  "tags": [
+   "swimming",
+   "viewpoint",
+   "fishing",
+   "forest"
+  ],
+  "lat": 39.55609,
+  "lng": -78.95389,
+  "town": "Lonaconing",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "482-acre park high on Dans Mountain above the Georges Creek valley, with a summer swimming pool, picnic areas and a fishing pond.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/dansmountain.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Muddy Creek Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "forest",
+   "hiking",
+   "geology"
+  ],
+  "lat": 39.50116,
+  "lng": -79.41735,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Maryland's tallest free-falling waterfall, a 54-ft drop reached by a short walk through old hemlocks, with decks at top and bottom. Summer weekends need a day-use reservation.",
+  "facts": {
+   "height_ft": 54,
+   "fee": "$3 per person MD residents, $5 out of state in season and on May, Sept and Oct weekends; $3 per car other times; reservation required weekends and holidays Memorial Day-Labor Day"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/SwallowFalls/Service-Charges.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Swallow Falls (Canyon Trail)",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "swimming",
+   "forest",
+   "hiking",
+   "geology"
+  ],
+  "lat": 39.49607,
+  "lng": -79.41726,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The Youghiogheny drops over broad sandstone ledges; people wade and swim in the pools below in summer. Part of the canyon loop through hemlocks more than 300 years old.",
+  "facts": {
+   "length_mi": 1.4,
+   "gain_ft": 195,
+   "height_ft": 16,
+   "swim": "unofficial",
+   "fee": "same day-use charge as Muddy Creek Falls"
+  },
+  "url": "https://myhikes.org/trails/swallow-falls-canyon-trail",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Tolliver Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.495,
+  "lng": -79.41819,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small ledge fall on Tolliver Run in a shaded hemlock hollow, the quietest stop on the Swallow Falls canyon loop.",
+  "facts": {
+   "height_ft": 5
+  },
+  "url": "https://myhikes.org/trails/swallow-falls-canyon-trail",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Herrington Manor State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.45668,
+  "lng": -79.45242,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "53-acre Herrington Lake with a sand beach, boat rentals and log cabins, ringed by pine forest a few miles from Swallow Falls.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$3 per person MD residents, $5 out of state in summer and on weekends; $3 per vehicle off-season"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/herrington.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Deep Creek Lake State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "hiking",
+   "camping"
+  ],
+  "lat": 39.51197,
+  "lng": -79.30635,
+  "town": "Swanton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Public beach, boat launch and discovery center on the northeast shore of Maryland's big mountain reservoir, with trails climbing Meadow Mountain behind.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$3-5 per person in season; $3 per vehicle MD residents off-season"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/deepcreek.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "New Germany State Park",
+  "type": "park",
+  "tags": [
+   "swimming",
+   "waterfront",
+   "forest",
+   "hiking",
+   "camping",
+   "kayak"
+  ],
+  "lat": 39.63495,
+  "lng": -79.12097,
+  "town": "Grantsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small lake in a hemlock valley with a swimming area, cabins and a web of easy forest trails that turn into ski trails in winter.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/newgermany.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Run State Park and Savage River Reservoir",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "kayak",
+   "fishing",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 39.54667,
+  "lng": -79.14204,
+  "town": "Swanton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Primitive campsites where Big Run and Monroe Run meet at the head of the 360-acre Savage River Reservoir, deep in state forest. Quiet paddling and trout fishing.",
+  "facts": {
+   "fee": "free day use"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/bigrun.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Monroe Run Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.57012,
+  "lng": -79.20828,
+  "town": "Swanton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Roadside overlook near the crest of Meadow Mountain on New Germany Road, looking down the forested Monroe Run valley. Best in October.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Savage_River_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cranesville Swamp Preserve",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "birding",
+   "weird",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.53139,
+  "lng": -79.48194,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Boreal bog in a frost pocket on the Maryland-West Virginia line, with plants normally found far to the north. Five short trails and a 1,500-ft boardwalk over the wettest part.",
+  "facts": {
+   "dogs": "not allowed",
+   "fee": "free"
+  },
+  "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/cranesville-swamp-preserve/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hoye-Crest (Maryland high point)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.23753,
+  "lng": -79.48537,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Maryland's highest point, 3,360 ft on Backbone Mountain, reached only from West Virginia: a steep mile up an old road from roadside parking on US 219 to a cairn, mailbox and view east.",
+  "facts": {
+   "length_mi": 2.0,
+   "gain_ft": 686
+  },
+  "url": "https://monforesttowns.org/1-state-2-summits-hiking-the-maryland-highpoint-from-west-virginia/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Kendall Trail (Youghiogheny River)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "waterfront",
+   "historic",
+   "forest"
+  ],
+  "lat": 39.6619973,
+  "lng": -79.4074004,
+  "town": "Friendsville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "1890s railroad grade heading upstream along the wild Youghiogheny to the site of the logging town of Kendall, with many places to reach the river and swim. Water rises fast on dam-release days.",
+  "facts": {
+   "length_mi": 4.0,
+   "swim": "unofficial"
+  },
+  "url": "https://www.friendsville.org/kendall-trail/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Casselman River Bridge State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 39.69676,
+  "lng": -79.14364,
+  "town": "Grantsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stone bridge built in 1813-14 for the National Road; its 80-ft span was the largest stone arch in America at the time. Walk over it, then visit the artisan village next door.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/casselman.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Finzel Swamp Preserve",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "birding",
+   "trail"
+  ],
+  "lat": 39.70121,
+  "lng": -78.94166,
+  "town": "Frostburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Nature Conservancy wetland at the head of the Savage River with tamarack and other northern holdovers. A trail crosses the swamp on short wooden bridges to a shallow pond.",
+  "facts": {},
+  "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/finzel-swamp/",
+  "coord_source": "other (OpenStreetMap wetland 'Cranberry Swamp', via Photon geocoder)"
+ },
+ {
+  "name": "Lostland Run Trail (Potomac State Forest)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "waterfall",
+   "forest",
+   "viewpoint",
+   "waterfront"
+  ],
+  "lat": 39.37313,
+  "lng": -79.25837,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Trail following Lostland Run down to the North Branch Potomac, passing Cascade Falls, a swinging bridge and a rock overlook of the river. Reached on gravel forest roads.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Potomac_State_Forest",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Rock Maze (Garrett State Forest)",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "hiking",
+   "forest",
+   "weird"
+  ],
+  "lat": 39.5024,
+  "lng": -79.45778,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Field of house-sized sandstone blocks split by passages wide and narrow that you can wander through. Short path from Snaggy Mountain Road, near Swallow Falls.",
+  "facts": {
+   "length_mi": 1.0,
+   "gain_ft": 150
+  },
+  "url": "https://midatlanticdaytrips.com/2021/05/marylands-amazing-rock-maze/",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Broadford Lake Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 39.40851,
+  "lng": -79.37362,
+  "town": "Oakland",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Town-run lake park just outside Oakland with a beach and swimming area and cheap canoe, kayak and paddle-boat rentals. Open Memorial Day weekend through Labor Day weekend.",
+  "facts": {
+   "swim": "yes",
+   "fee": "$4 per car weekdays, $5 weekends"
+  },
+  "url": "https://www.oaklandmd.gov/broadford-lake-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Sang Run State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "waterfront",
+   "hiking",
+   "kayak"
+  ],
+  "lat": 39.57422,
+  "lng": -79.4251,
+  "town": "McHenry",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "264-acre park at a put-in for the Upper Yough's Class V whitewater, with an early-1800s homestead, the old Friends Store and river meadow trails.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/sangrun.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Harpers Ferry Lower Town and The Point",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "viewpoint",
+   "trail"
+  ],
+  "lat": 39.32278,
+  "lng": -77.72972,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Restored 19th-century streets of John Brown's raid ending at The Point, where the Shenandoah meets the Potomac under the cliffs of Maryland and Loudoun Heights. Park at the visitor center and ride the shuttle.",
+  "facts": {
+   "fee": "$20 per vehicle or $10 per person, valid 3 days"
+  },
+  "url": "https://en.wikipedia.org/wiki/Harpers_Ferry_National_Historical_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Jefferson Rock",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "geology",
+   "hiking"
+  ],
+  "lat": 39.32252,
+  "lng": -77.73345,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Shale slabs on the Appalachian Trail above Lower Town looking down the Shenandoah to the water gap, the view Thomas Jefferson praised. Short climb up stone steps past church ruins.",
+  "facts": {
+   "fee": "$20 per vehicle or $10 per person, valid 3 days"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Rock",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Loudoun Heights and Split Rock",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "forest"
+  ],
+  "lat": 39.32046,
+  "lng": -77.7206,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Cross the Shenandoah on the AT and climb the Blue Ridge to Split Rock, a ledge looking straight at Harpers Ferry and Maryland Heights. Quieter than its neighbor across the river.",
+  "facts": {
+   "length_mi": 7.5,
+   "gain_ft": 1377,
+   "fee": "$20 per vehicle or $10 per person, valid 3 days"
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hikes.htm",
+  "coord_source": "other (OpenStreetMap, Split Rock viewpoint; hike starts in Lower Town)"
+ },
+ {
+  "name": "Bolivar Heights",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "trail",
+   "sunset"
+  ],
+  "lat": 39.32812,
+  "lng": -77.75807,
+  "town": "Bolivar",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Open ridge with Civil War earthworks and cannon and a clear view east through the Harpers Ferry water gap. Easy mowed loops from the lot.",
+  "facts": {
+   "length_mi": 2.4,
+   "gain_ft": 263
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hikes.htm",
+  "coord_source": "other (USGS GNIS gazetteer)"
+ },
+ {
+  "name": "Murphy-Chambers Farm",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.31239,
+  "lng": -77.76114,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Farm-field loop to a bluff overlook above the Shenandoah River, past Civil War earthworks and the site where John Brown's fort once stood.",
+  "facts": {
+   "length_mi": 3.0,
+   "gain_ft": 187
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hikes.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Virginius Island ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 39.32149,
+  "lng": -77.73916,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Flat walk from Lower Town among the stone foundations, mill races and walls of a 19th-century factory village on a 12-acre island in the Shenandoah.",
+  "facts": {
+   "length_mi": 2.0,
+   "gain_ft": 45
+  },
+  "url": "https://en.wikipedia.org/wiki/Virginius_Island,_West_Virginia",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Shannondale Springs Wildlife Management Area",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "waterfront",
+   "fishing",
+   "nature"
+  ],
+  "lat": 39.23053,
+  "lng": -77.83787,
+  "town": "Charles Town",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Site of a mineral springs resort founded in 1820 on a bend of the Shenandoah River upstream of Harpers Ferry, now public hunting and fishing land with river access.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Shannondale_Springs",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Cacapon Resort State Park",
+  "type": "park",
+  "tags": [
+   "swimming",
+   "hiking",
+   "forest",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 39.50094,
+  "lng": -78.29719,
+  "town": "Berkeley Springs",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "6,115-acre park on the east slope of Cacapon Mountain with a small lake and beach, lodge and miles of ridge trails.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/cacapon-resort-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cacapon Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.47092,
+  "lng": -78.3438,
+  "town": "Berkeley Springs",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Overlook at 2,320 ft on the crest of Cacapon Mountain, the highest point in the park and in Morgan County, reached by the park's mountain road or by trail.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Cacapon_Resort_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Berkeley Springs State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "swimming"
+  ],
+  "lat": 39.62682,
+  "lng": -78.22882,
+  "town": "Berkeley Springs",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Warm mineral springs in a small town-center park that George Washington first visited in 1748. Wade in the stone-lined channels for free or book a soak in the 1815 Roman Bathhouse.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/berkeley-springs-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Prospect Peak (Panorama Overlook)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 39.62264,
+  "lng": -78.25953,
+  "town": "Berkeley Springs",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Roadside pull-off on WV 9 west of Berkeley Springs looking down on the Potomac and Cacapon rivers with Maryland and Pennsylvania ridges behind. No walking needed.",
+  "facts": {},
+  "url": "https://berkeleysprings.com/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Ice Mountain Preserve",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "weird",
+   "nature",
+   "hiking"
+  ],
+  "lat": 39.36343,
+  "lng": -78.46695,
+  "town": "Slanesville",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Talus slope whose vents breathe cold air all summer, keeping ice into the warm months and sheltering northern plants. Visits are guided only: book a Nature Conservancy docent hike weeks ahead.",
+  "facts": {},
+  "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/ice-mountain-preserve/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Sleepy Creek Lake",
+  "type": "camp",
+  "tags": [
+   "fishing",
+   "kayak",
+   "camping",
+   "forest",
+   "waterfront"
+  ],
+  "lat": 39.51638,
+  "lng": -78.15605,
+  "town": "Hedgesville",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "205-acre lake inside the 22,928-acre Sleepy Creek Wildlife Management Area, with primitive lakeside campsites and long gravel approach roads.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Sleepy_Creek_Wildlife_Management_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Yankauer Nature Preserve",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 39.49781,
+  "lng": -77.84983,
+  "town": "Shepherdstown",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Audubon preserve with easy loop trails through cedar and hardwood forest to a bluff above the Potomac. Good spring wildflowers.",
+  "facts": {},
+  "url": "https://www.potomacaudubon.org/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Rumsey Monument Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.43282,
+  "lng": -77.7991,
+  "town": "Shepherdstown",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Tall column on a bluff above the Potomac marking where James Rumsey demonstrated his steamboat in 1787. Short walk from Shepherdstown's main street.",
+  "facts": {},
+  "url": "https://www.atlasobscura.com/things-to-do/shepherdstown-west-virginia",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cranny Crow Overlook (Lost River State Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 38.90124,
+  "lng": -78.90568,
+  "town": "Mathias",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Rock ledge at 3,200 ft on Big Ridge with a view over five counties. The climb starts at the White Oak trailhead by the stables; a longer loop adds Cheeks Rock and the old fire tower.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/lost-river-state-park/trails/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Trout Pond Recreation Area (Rockcliff Lake)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "camping",
+   "hiking",
+   "fishing"
+  ],
+  "lat": 38.9571,
+  "lng": -78.73808,
+  "town": "Lost River",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Forest Service lake with a sand swimming beach, next to tiny Trout Pond, West Virginia's only natural lake. Campground and trails up Long Mountain.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Trout_Pond",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Schloss",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 38.924046,
+  "lng": -78.689489,
+  "town": "Wolf Gap (VA/WV line)",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Climb from Wolf Gap along the state-line ridge to a white sandstone outcrop at 2,964 ft, reached by a wooden footbridge, with views over Trout Run Valley and the Shenandoah Valley.",
+  "facts": {
+   "length_mi": 4.6,
+   "gain_ft": 1309,
+   "fee": "free"
+  },
+  "url": "https://myhikes.org/trails/big-schloss-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Tibbet Knob",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.91464,
+  "lng": -78.70513,
+  "town": "Wolf Gap (VA/WV line)",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "The other hike from Wolf Gap: shorter, with two steep rock scrambles near the top and a wide ledge looking north and west over Trout Run Valley. Fewer people than Big Schloss.",
+  "facts": {
+   "length_mi": 3.2,
+   "gain_ft": 1087
+  },
+  "url": "https://myhikes.org/trails/tibbet-knob-hike",
+  "coord_source": "other (OpenStreetMap summit; trailhead is Wolf Gap, 38.9235, -78.6895)"
+ },
+ {
+  "name": "Halfmoon Lookout",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.01697,
+  "lng": -78.605915,
+  "town": "Wardensville",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Loop up Halfmoon Mountain to a rocky point with the stone base of an old fire lookout and a sweeping view down Trout Run Valley.",
+  "facts": {
+   "length_mi": 8.9,
+   "gain_ft": 1723
+  },
+  "url": "https://myhikes.org/trails/halfmoon-mountain-loop",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "The Trough (South Branch Potomac)",
+  "type": "gem",
+  "tags": [
+   "kayak",
+   "wildlife",
+   "birding",
+   "fishing",
+   "geology"
+  ],
+  "lat": 39.22361,
+  "lng": -78.8575,
+  "town": "Romney",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Six-mile roadless gorge of the South Branch between Romney and Moorefield, known for bald eagles. Seen only by canoe or kayak, or from the excursion train that runs through it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/The_Trough",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hanging Rocks",
+  "type": "viewpoint",
+  "tags": [
+   "geology",
+   "viewpoint",
+   "waterfront"
+  ],
+  "lat": 39.40026,
+  "lng": -78.74138,
+  "town": "Romney",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Vertical cliffs rising nearly 300 ft from the South Branch Potomac where WV 28 and the railroad squeeze past, four miles north of Romney.",
+  "facts": {
+   "height_ft": 300
+  },
+  "url": "https://en.wikipedia.org/wiki/Hanging_Rocks",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Fort Mill Ridge Civil War Trenches",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.32375,
+  "lng": -78.79374,
+  "town": "Romney",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Well-preserved Civil War trenches on a wooded ridge above the South Branch, dug to guard the approaches to Romney. Short interpretive loop.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_Mill_Ridge_Civil_War_Trenches",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Nancy Hanks Memorial",
+  "type": "gem",
+  "tags": [
+   "historic"
+  ],
+  "lat": 39.29066,
+  "lng": -79.06892,
+  "town": "Keyser",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Small memorial far up a narrow hollow road on Mikes Run, at the traditional birthplace of Nancy Hanks, mother of Abraham Lincoln.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Nancy_Lincoln",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Jennings Randolph Lake: Waffle Rock and West Virginia Overlook",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "weird",
+   "viewpoint",
+   "waterfront"
+  ],
+  "lat": 39.42876,
+  "lng": -79.12426,
+  "town": "Elk Garden",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Boulder with a raised waffle-grid pattern weathered into the sandstone, displayed at the Corps of Engineers overlook above the 952-acre lake on the North Branch Potomac.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Jennings_Randolph_Lake",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Greenland Gap Preserve",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "hiking",
+   "nature",
+   "fishing"
+  ],
+  "lat": 39.184,
+  "lng": -79.12615,
+  "town": "Scherr",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Deep gap through New Creek Mountain ringed by sandstone cliffs about 800 ft above the creek. A Nature Conservancy preserve with no maintained trails; two rough paths climb to the cliff tops.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/greenland-gap-preserve/",
+  "coord_source": "other (USGS GNIS gazetteer)"
+ },
+ {
+  "name": "Smoke Hole Canyon (Big Bend)",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "fishing",
+   "kayak",
+   "geology",
+   "waterfront",
+   "swimming"
+  ],
+  "lat": 38.88983,
+  "lng": -79.24065,
+  "town": "Cabins",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Narrow road following the South Branch Potomac through a 20-mile gorge walled by Cave Mountain and North Fork Mountain, ending at Big Bend Campground inside a loop of the river.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Smoke_Hole_Canyon",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Eagle Rock (Smoke Hole)",
+  "type": "viewpoint",
+  "tags": [
+   "geology",
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 38.82499,
+  "lng": -79.29197,
+  "town": "Upper Tract",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Tall fin of rock rising straight from the South Branch beside Smoke Hole Road, with a deep pool at its base. An easy pull-off inside the canyon.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Smoke_Hole_Canyon",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Chimney Top (North Fork Mountain)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 38.981593,
+  "lng": -79.231129,
+  "town": "Cabins",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Relentless climb from Smoke Hole Road up the north end of North Fork Mountain to sandstone towers and a cliff-edge view down the North Fork valley to the Allegheny Front.",
+  "facts": {
+   "length_mi": 4.9,
+   "gain_ft": 2124
+  },
+  "url": "https://myhikes.org/trails/chimney-top-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Seneca Rocks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.835956,
+  "lng": -79.372596,
+  "town": "Seneca Rocks",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Blade of white quartzite standing 900 ft over the North Fork. A graded trail with switchbacks and steps climbs to a platform near the top; the exposed summit ridge beyond is a scramble.",
+  "facts": {
+   "length_mi": 3.2,
+   "gain_ft": 941
+  },
+  "url": "https://myhikes.org/trails/seneca-rocks-trail",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Champe Rocks",
+  "type": "viewpoint",
+  "tags": [
+   "geology",
+   "viewpoint"
+  ],
+  "lat": 38.89099,
+  "lng": -79.31187,
+  "town": "Seneca Rocks",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Twin quartzite crags like a smaller Seneca Rocks, standing over the North Fork a few miles north on WV 28. Viewed from the road.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Champe_Rocks",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Seneca Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.76317,
+  "lng": -79.38889,
+  "town": "Riverton",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Show cave in Germany Valley with guided tours going 165 ft underground. Seasonal: in 2026 it opened May 1 on Fridays, Saturdays and Sundays only.",
+  "facts": {
+   "fee": "paid guided tour"
+  },
+  "url": "https://senecacaverns.com",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Smoke Hole Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology"
+  ],
+  "lat": 38.98651,
+  "lng": -79.26581,
+  "town": "Cabins",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Commercial show cave on WV 28 west of Petersburg, open since 1940, with guided tours past dense formations.",
+  "facts": {
+   "fee": "paid guided tour"
+  },
+  "url": "https://en.wikipedia.org/wiki/Smoke_Hole_Caverns",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Spruce Knob",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "hiking",
+   "forest",
+   "geology"
+  ],
+  "lat": 38.69984,
+  "lng": -79.53283,
+  "town": "Riverton",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "West Virginia's highest point at 4,863 ft: drive to the top, then walk the half-mile loop through wind-bent red spruce and boulder fields to a stone lookout tower.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Spruce_Knob",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Spruce Knob Lake",
+  "type": "camp",
+  "tags": [
+   "fishing",
+   "kayak",
+   "camping",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.70273,
+  "lng": -79.58807,
+  "town": "Whitmer",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Small trout lake high on the west side of Spruce Mountain, with a walk-around trail and a campground nearby. Very dark night skies.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Spruce_Knob%E2%80%93Seneca_Rocks_National_Recreation_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Upper Falls of Seneca Creek",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "waterfall",
+   "forest",
+   "camping",
+   "swimming"
+  ],
+  "lat": 38.71159,
+  "lng": -79.54981,
+  "town": "Riverton",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Seneca Creek Trail drops gently through spruce and old meadows, with stream crossings, to the Upper Falls and a run of cascades. A long day hike or a classic overnight.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Seneca_Creek_(North_Fork_South_Branch_Potomac_River_tributary)",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Germany Valley Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 38.70815,
+  "lng": -79.41313,
+  "town": "Riverton",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Pull-off on US 33 climbing North Fork Mountain, looking across the farms and limestone ridges of Germany Valley toward Spruce Mountain.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Germany_Valley",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Bear Rocks Preserve (Dolly Sods)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology",
+   "nature",
+   "hiking"
+  ],
+  "lat": 39.06595,
+  "lng": -79.30161,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Wind-carved sandstone outcrops and heath barrens on the rim of the Allegheny Front, looking east over ridge after ridge. Steps from the parking area; Forest Road 75 is gated from about January to April.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Bear_Rocks_Preserve",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Bear Rocks Trail (Dolly Sods North)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "nature",
+   "camping"
+  ],
+  "lat": 39.063644,
+  "lng": -79.303177,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Out across the open plateau of Dolly Sods North: blueberry heath, bogs, a ford of Red Creek and wide meadows on the way to Raven Ridge. Expect mud and wind.",
+  "facts": {
+   "length_mi": 4.8,
+   "gain_ft": 547
+  },
+  "url": "https://myhikes.org/trails/dolly-sods-wilderness-bear-rocks-trail",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Lions Head (Dolly Sods Wilderness)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "camping",
+   "forest"
+  ],
+  "lat": 38.98891,
+  "lng": -79.36664,
+  "town": "Laneville",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Sandstone prow on Breathed Mountain overlooking the Red Creek canyon. Usually climbed from the Red Creek trailhead at Laneville; the last pitch is an unmarked path among boulders.",
+  "facts": {},
+  "url": "https://myhikes.org/trails/dolly-sods-lions-head-hike",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Rohrbaugh Cliffs (Dolly Sods Wilderness)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "camping"
+  ],
+  "lat": 39.006741,
+  "lng": -79.327589,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Mostly level walk through spruce, rhododendron and rocky meadows to open cliffs above the Red Creek basin, facing Lions Head across the canyon.",
+  "facts": {
+   "length_mi": 4.6,
+   "gain_ft": 821
+  },
+  "url": "https://myhikes.org/trails/rohrbaugh-cliffs-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Forks of Red Creek (Dolly Sods Wilderness)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "hiking",
+   "waterfall",
+   "camping",
+   "forest"
+  ],
+  "lat": 39.03348,
+  "lng": -79.31424,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Loop from the Blackbird Knob trailhead down to where the forks of Red Creek meet in a run of small waterfalls and swimming holes, with campsites beside the water.",
+  "facts": {
+   "length_mi": 10.0,
+   "gain_ft": 1397,
+   "swim": "unofficial"
+  },
+  "url": "https://myhikes.org/trails/forks-of-red-creek-hike",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Red Creek Trail (Laneville trailhead)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "forest",
+   "camping",
+   "waterfront"
+  ],
+  "lat": 38.97291,
+  "lng": -79.39725,
+  "town": "Laneville",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Low-elevation way into Dolly Sods that stays reachable when the forest roads are gated for winter. The trail follows Red Creek upstream past pools and fords toward the Forks and Lions Head.",
+  "facts": {
+   "swim": "unofficial"
+  },
+  "url": "https://en.wikipedia.org/wiki/Dolly_Sods_Wilderness",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Table Rock (Canaan Mountain)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "sunset",
+   "forest"
+  ],
+  "lat": 39.05475,
+  "lng": -79.58285,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Flat sandstone ledge on the rim of Canaan Mountain with a huge view over the Dry Fork valley. A short, rooty trail from Canaan Loop Road, which is rough gravel.",
+  "facts": {},
+  "url": "https://myhikes.org/trails/canaan-mountain-and-table-rock-hike",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Canaan Valley Resort State Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "nature",
+   "wildlife",
+   "viewpoint",
+   "camping"
+  ],
+  "lat": 39.0273,
+  "lng": -79.45571,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "State park in a high, bathtub-shaped valley of wetlands and spruce: easy meadow and boardwalk trails, deer everywhere, and a chairlift ride up to Bald Knob for the view.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/canaan-valley-resort-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Freeland Boardwalk (Canaan Valley National Wildlife Refuge)",
+  "type": "park",
+  "tags": [
+   "nature",
+   "birding",
+   "wildlife",
+   "trail"
+  ],
+  "lat": 39.0255,
+  "lng": -79.42668,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Half-mile boardwalk loop over beaver ponds and wet meadows on the valley floor. Good for birds and for a flat walk after a hard hike.",
+  "facts": {
+   "length_mi": 0.5
+  },
+  "url": "https://www.fws.gov/refuge/canaan-valley",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Blackwater Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "forest",
+   "geology"
+  ],
+  "lat": 39.11351,
+  "lng": -79.48301,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "The tea-colored Blackwater River drops 57 ft into its canyon. A long staircase and boardwalk lead to decks at the base; an easier paved path reaches an overlook on the far side.",
+  "facts": {
+   "height_ft": 57
+  },
+  "url": "https://wvstateparks.com/park/blackwater-falls-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Lindy Point",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology",
+   "hiking"
+  ],
+  "lat": 39.10019,
+  "lng": -79.53158,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Railed platform on a rock tower jutting into Blackwater Canyon, reached by a short flat path through rhododendron. The standard sunset spot in the park.",
+  "facts": {},
+  "url": "https://wvstateparks.com/park/blackwater-falls-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Elakala Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.10717,
+  "lng": -79.49928,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "First of four falls on Shays Run as it tumbles into Blackwater Canyon, a few minutes from the lodge with a footbridge across its lip. The lower falls need a steep scramble.",
+  "facts": {
+   "length_mi": 0.6
+  },
+  "url": "https://en.wikipedia.org/wiki/Elakala_Falls",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Pendleton Point Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 39.11243,
+  "lng": -79.49971,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Drive-up overlook at the deepest, widest part of Blackwater Canyon, looking across to the lodge and down to the river.",
+  "facts": {},
+  "url": "https://wvstateparks.com/park/blackwater-falls-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Pase Point",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.11343,
+  "lng": -79.51755,
+  "town": "Davis",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Rock point above the junction of the Blackwater and North Fork canyons, reached by a quiet forest trail from the north-rim side of the park.",
+  "facts": {},
+  "url": "https://wvstateparks.com/park/blackwater-falls-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Douglas Falls",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "geology",
+   "trail",
+   "historic"
+  ],
+  "lat": 39.12384,
+  "lng": -79.51943,
+  "town": "Thomas",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Broad fall on the North Fork of the Blackwater pouring over ledges stained orange by old mine drainage, below Thomas on the Blackwater Canyon rail trail, past rows of coke ovens.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Blackwater_Canyon",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Olson Observation Tower",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.1068,
+  "lng": -79.60338,
+  "town": "Parsons",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Steel fire tower on Backbone Mountain that you can climb for a full-circle view over the Blackwater Canyon rim and the Cheat River country. Reached by a gravel forest road off US 219.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Olson_Observation_Tower",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Otter Creek Wilderness",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "swimming",
+   "forest",
+   "camping",
+   "waterfall"
+  ],
+  "lat": 39.03278,
+  "lng": -79.65361,
+  "town": "Parsons",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "Roadless bowl between McGowan and Shavers mountains with 45 miles of unblazed trails. The 11-mile Otter Creek Trail follows the stream past cascades and deep pools, with several fords.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Otter_Creek_Wilderness",
+  "coord_source": "wikipedia (centre of the wilderness, not a trailhead)"
+ },
+ {
+  "name": "Fairfax Stone State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 39.19493,
+  "lng": -79.48725,
+  "town": "Thomas",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Boundary stone at the spring where the North Branch of the Potomac begins, first set in 1746 to settle the limits of Lord Fairfax's land grant.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/fairfax-stone-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cathedral State Park",
+  "type": "park",
+  "tags": [
+   "forest",
+   "nature",
+   "hiking"
+  ],
+  "lat": 39.32461,
+  "lng": -79.53878,
+  "town": "Aurora",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "132 acres of old-growth hemlock right beside US 50, the largest stand of virgin timber left in West Virginia. Flat loop trails along Rhine Creek.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/cathedral-state-park/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Coopers Rock Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.63644,
+  "lng": -79.81581,
+  "town": "Bruceton Mills",
+  "state": "WV",
+  "tier": 1,
+  "blurb": "Sandstone promontory with a footbridge and railings high above the Cheat River canyon, with boulder mazes just behind it. The entrance road is closed December 31 to March 31; walk in from the I-68 lot.",
+  "facts": {},
+  "url": "https://wvstateparks.com/parks/coopers-rock-state-forest/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Raven Rock (Coopers Rock State Forest)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 39.6213,
+  "lng": -79.79877,
+  "town": "Bruceton Mills",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Forest-road walk to a second clifftop over the Cheat gorge, with the same river view as the main overlook and a fraction of the visitors.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Henry Clay Iron Furnace",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.64888,
+  "lng": -79.81792,
+  "town": "Bruceton Mills",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "Stone furnace 30 ft square and 30 ft high, built in 1834-36, standing alone in the woods of Coopers Rock State Forest at the end of a downhill trail.",
+  "facts": {
+   "height_ft": 30
+  },
+  "url": "https://en.wikipedia.org/wiki/Henry_Clay_Furnace",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Pole Steeple",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "sunset"
+  ],
+  "lat": 40.03252,
+  "lng": -77.26735,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Short, steep trail from Railroad Bed Road to a quartzite cliff nearly 500 ft above Laurel Lake, with the whole Pine Grove Furnace valley below.",
+  "facts": {
+   "length_mi": 1.5
+  },
+  "url": "https://www.visitcumberlandvalley.com/listing/pole-steeple-trail/1300/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Sunset Rocks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "historic",
+   "forest"
+  ],
+  "lat": 40.03315,
+  "lng": -77.33054,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Loop from Pine Grove Furnace on the Appalachian Trail and a boulder-scramble spur along Little Rocky Ridge to a south-facing ledge, passing the AT halfway marker and the turn for Camp Michaux.",
+  "facts": {
+   "length_mi": 7.6,
+   "gain_ft": 1178
+  },
+  "url": "https://myhikes.org/trails/sunset-rocks-hike",
+  "coord_source": "other (OpenStreetMap, Sunset Rocks outcrop; loop starts at the Pine Grove Furnace AT lot)"
+ },
+ {
+  "name": "Hammonds Rocks",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 40.06815,
+  "lng": -77.24859,
+  "town": "Mount Holly Springs",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Cluster of quartzite outcrops on the crest of South Mountain right beside Ridge Road. Scramble up for views north over the Cumberland Valley.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Michaux_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Chimney Rocks (Michaux State Forest)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.81705,
+  "lng": -77.47056,
+  "town": "Waynesboro",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Appalachian Trail climb from Old Forge to a jagged outcrop on Buzzard Peak, looking out over the Waynesboro Reservoir and the folds of South Mountain.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Michaux_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Long Pine Run Reservoir",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront",
+   "hiking",
+   "forest"
+  ],
+  "lat": 39.94269,
+  "lng": -77.44979,
+  "town": "Fayetteville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Quiet reservoir ringed by pine and oak in Michaux State Forest, with a boat launch. Popular for paddling, fishing and walks along the shore.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Michaux_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Caledonia State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "hiking",
+   "swimming",
+   "camping",
+   "forest"
+  ],
+  "lat": 39.90643,
+  "lng": -77.47788,
+  "town": "Fayetteville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "1,125-acre park on US 30 around the site of Thaddeus Stevens's iron furnace: reconstructed stack, creekside trails, a swimming pool and the Appalachian Trail passing through.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/caledonia-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Fuller Lake (Pine Grove Furnace State Park)",
+  "type": "swim",
+  "tags": [
+   "swimming",
+   "beach",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 40.03076,
+  "lng": -77.29952,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Small, cold, clear lake filling the old iron-ore pit of Pine Grove Furnace, with a sand beach a short walk from the furnace stack, the general store and the AT.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/pine-grove-furnace-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Laurel Lake (Pine Grove Furnace State Park)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "kayak",
+   "fishing",
+   "waterfront"
+  ],
+  "lat": 40.04027,
+  "lng": -77.26908,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "The larger of the park's two lakes, with a sand beach, boat rentals and Pole Steeple's cliff visible above the far shore.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/pine-grove-furnace-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Appalachian Trail Museum and halfway point",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "hiking",
+   "weird"
+  ],
+  "lat": 40.03262,
+  "lng": -77.30564,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Old stone mill turned museum of the Appalachian Trail, at the trail's traditional halfway stop, where thru-hikers attempt to eat a half gallon of ice cream at the general store.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Appalachian_Trail_Museum",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Kings Gap Environmental Education Center",
+  "type": "park",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "garden",
+   "historic",
+   "forest"
+  ],
+  "lat": 40.09321,
+  "lng": -77.2683,
+  "town": "Carlisle",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Stone mansion on top of South Mountain with a terrace view over the Cumberland Valley, a walled garden, and quiet trails across 2,531 acres of oak and pine.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/kings-gap-environmental-education-center",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mont Alto State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.83882,
+  "lng": -77.53576,
+  "town": "Mont Alto",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Pennsylvania's oldest state park: a 24-acre picnic grove on PA 233 with a distinctive old pavilion and a trout stream, surrounded by Michaux State Forest.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Mont_Alto_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "White Rocks (South Mountain)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 40.12331,
+  "lng": -77.10357,
+  "town": "Boiling Springs",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Steep trail to a spine of white quartzite at the northern tip of South Mountain, with views over the Cumberland Valley; the spur joins the Appalachian Trail on the ridge.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Michaux_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Children's Lake (Boiling Springs)",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "historic",
+   "paved"
+  ],
+  "lat": 40.14853,
+  "lng": -77.12649,
+  "town": "Boiling Springs",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Spring-fed village lake with a level path around it, an old iron furnace stack, and the Appalachian Trail running along the shore.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Boiling_Springs,_Pennsylvania",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Camp Michaux ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "forest",
+   "weird",
+   "hiking"
+  ],
+  "lat": 40.03715,
+  "lng": -77.33923,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Foundations, a stone barn wall and other remains of a secret World War II camp where German prisoners were interrogated, later a church camp. Self-guided walk in the state forest.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Pine_Grove_Furnace_Prisoner_of_War_Interrogation_Camp",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Devil's Den (Gettysburg)",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 39.79138,
+  "lng": -77.24258,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Hill of house-sized boulders with passages and crevices to climb through, used by sharpshooters on the second day of the battle. Faces Little Round Top across the valley.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Devil%27s_Den",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Little Round Top (Gettysburg)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "sunset",
+   "geology"
+  ],
+  "lat": 39.79109,
+  "lng": -77.23574,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Rocky hill at the Union left flank with paths among boulders and monuments and the widest view over the battlefield, west toward South Mountain.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Little_Round_Top",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Round Top (Gettysburg)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "historic",
+   "forest"
+  ],
+  "lat": 39.78675,
+  "lng": -77.23941,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Wooded, boulder-strewn hill that is the highest point on the battlefield. A short steep path climbs to the summit; quiet compared with its neighbor.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Big_Round_Top",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Sachs Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.79742,
+  "lng": -77.2762,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "100-ft lattice-truss covered bridge over Marsh Creek, crossed by troops of both armies in 1863. Open to walkers only.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Sachs_Covered_Bridge",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Culp's Hill Observation Tower (Gettysburg)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "forest"
+  ],
+  "lat": 39.82012,
+  "lng": -77.2205,
+  "town": "Gettysburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Steel War Department tower on the wooded hill that anchored the Union right. Climb it for a view over the town and the fields to the east.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Culp%27s_Hill",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Strawberry Hill Nature Preserve",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.81324,
+  "lng": -77.4189,
+  "town": "Fairfield",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Nonprofit preserve in the hills west of Gettysburg with streamside trails, ponds and rocky mountain forest, bordering Michaux State Forest.",
+  "facts": {},
+  "url": "https://www.strawberryhill.org/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Codorus State Park",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "waterfront",
+   "hiking",
+   "camping",
+   "swimming"
+  ],
+  "lat": 39.79105,
+  "lng": -76.90917,
+  "town": "Hanover",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "3,500-acre park around 1,275-acre Lake Marburg, with boat rentals, sailing, long shoreline trails and a large swimming pool in summer.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/codorus-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Gifford Pinchot State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "kayak",
+   "hiking",
+   "camping",
+   "geology"
+  ],
+  "lat": 40.07315,
+  "lng": -76.89447,
+  "town": "Lewisberry",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "2,338-acre park around Pinchot Lake with a lake swimming beach, boat rentals and trails through fields of rounded diabase boulders.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/gifford-pinchot-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Rocky Ridge County Park",
+  "type": "park",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "birding",
+   "forest"
+  ],
+  "lat": 40.0115,
+  "lng": -76.6514,
+  "town": "York",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Wooded ridge park north of York with observation decks facing north and south, a fall hawk watch and miles of trail.",
+  "facts": {},
+  "url": "https://yorkcountypa.gov/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Samuel S. Lewis State Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "nature"
+  ],
+  "lat": 39.99487,
+  "lng": -76.54794,
+  "town": "Wrightsville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "85-acre hilltop park on 885-ft Mt. Pisgah. Open lawns look out over the Susquehanna River valley; popular for kites, picnics and sunsets.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/samuel-s-lewis-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Highpoint Scenic Vista",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "paved",
+   "trail"
+  ],
+  "lat": 40.00168,
+  "lng": -76.5165,
+  "town": "Wrightsville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Bald grass hilltop with a paved path spiraling to the summit and a full-circle view of the Susquehanna and the Wrightsville bridges.",
+  "facts": {
+   "length_mi": 1.5
+  },
+  "url": "https://myhikes.org/trails/highpoint-scenic-vista-loop",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Native Lands County Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "hiking",
+   "viewpoint",
+   "waterfront"
+  ],
+  "lat": 39.97917,
+  "lng": -76.50319,
+  "town": "Wrightsville",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Trail across the hillside site of the last Susquehannock town, with river views, running along the Mason-Dixon Trail between Klines Run Park and Long Level.",
+  "facts": {},
+  "url": "https://yorkcountypa.gov/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Otter Creek and Urey Overlook",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "waterfront",
+   "geology"
+  ],
+  "lat": 39.8894,
+  "lng": -76.38183,
+  "town": "Airville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Mason-Dixon Trail through a rocky hemlock glen along Otter Creek, then a climb to Urey Overlook above the Susquehanna. Rough, strenuous footing and limited parking.",
+  "facts": {},
+  "url": "https://www.lancasterconservancy.org/preserves/otter-creek/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Mill Creek Falls Nature Preserve",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.813472,
+  "lng": -76.349194,
+  "town": "Airville",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Red-blazed trail dropping 240 ft from the lot to a 10-ft waterfall where two creeks meet just above the Susquehanna. Also has a mile-long accessible crushed-stone loop.",
+  "facts": {
+   "length_mi": 1.4,
+   "gain_ft": 240,
+   "height_ft": 10
+  },
+  "url": "https://www.lancasterconservancy.org/preserves/mill-creek-falls-nature-preserve/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Lock 12 Historic Area",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 39.81402,
+  "lng": -76.32863,
+  "town": "Airville",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Intact stone lock of the Susquehanna and Tidewater Canal with lime kilns and sawmill ruins, in a shady picnic grove below Holtwood Dam.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Holtwood_Dam",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Apollo County Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.90917,
+  "lng": -76.40438,
+  "town": "Brogue",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Undeveloped county park of steep wooded ravines dropping to the Susquehanna, crossed by the Mason-Dixon Trail. Rugged and little used.",
+  "facts": {},
+  "url": "https://yorkcountypa.gov/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Indian Steps Museum",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "garden"
+  ],
+  "lat": 39.86317,
+  "lng": -76.37514,
+  "town": "Airville",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Riverside cabin from the early 1900s with thousands of Native American artifacts set into its walls, on wooded grounds beside the Susquehanna. Limited seasonal hours.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Indian_Steps_Museum",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "William H. Kain County Park (Lake Redman)",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "fishing",
+   "hiking",
+   "birding",
+   "waterfront"
+  ],
+  "lat": 39.88796,
+  "lng": -76.69908,
+  "town": "York",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Two water-supply lakes just south of York with boat rentals, a bird-viewing area and miles of shoreline trail.",
+  "facts": {},
+  "url": "https://yorkcountypa.gov/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Howard Tunnel (Heritage Rail Trail)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "running",
+   "weird"
+  ],
+  "lat": 39.89147,
+  "lng": -76.74957,
+  "town": "Seven Valleys",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "275-ft brick-lined railroad tunnel in use since 1838, the second-oldest active rail tunnel in the country. The rail trail runs through it beside the track.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Howard_Tunnel",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Susquehanna Riverlands State Park (Schull's Rock)",
+  "type": "hike",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest",
+   "waterfront"
+  ],
+  "lat": 40.05565,
+  "lng": -76.63085,
+  "town": "Hellam",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Wooded 1,044-acre state park created in 2022 where Codorus Creek meets the Susquehanna. The Mason-Dixon Trail runs 2.75 miles through it past a rock overlook. No restrooms; park off River Farm Road.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/susquehanna-riverlands-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Codorus Furnace",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins"
+  ],
+  "lat": 40.05093,
+  "lng": -76.65774,
+  "town": "Mount Wolf",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Stone iron furnace from about 1836 standing beside the road near the mouth of Codorus Creek. A two-minute stop.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Codorus_Forge_and_Furnace_Historic_District",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Pinnacle Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "hiking",
+   "geology"
+  ],
+  "lat": 39.846116,
+  "lng": -76.339454,
+  "town": "Holtwood",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Rocky bluff 380 ft above Lake Aldred on the Susquehanna, with picnic tables at the rim and trail links to Kelly's Run and Tucquan Glen. Now part of Susquehannock State Park.",
+  "facts": {
+   "height_ft": 380
+  },
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/susquehannock-state-park",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Tucquan Glen Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "waterfall",
+   "nature"
+  ],
+  "lat": 39.863634,
+  "lng": -76.338621,
+  "town": "Holtwood",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Ravine of rhododendron and hemlock where Tucquan Creek tumbles to the Susquehanna. The Conservancy lists the River Road lots as closed: hike in from Pinnacle Overlook, 4 miles round trip.",
+  "facts": {
+   "length_mi": 4.0
+  },
+  "url": "https://www.lancasterconservancy.org/preserves/tucquan-glen-pyfer/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Kelly's Run Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "forest",
+   "geology",
+   "nature"
+  ],
+  "lat": 39.84066,
+  "lng": -76.3164,
+  "town": "Holtwood",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Steep loop into a boulder-filled ravine with several stream crossings, on a national recreation trail that doubles as the Conestoga Trail.",
+  "facts": {
+   "length_mi": 3.8
+  },
+  "url": "https://www.lancasterconservancy.org/preserves/kellys-run/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Susquehannock State Park (Hawk Point)",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "birding",
+   "wildlife",
+   "hiking"
+  ],
+  "lat": 39.80157,
+  "lng": -76.28932,
+  "town": "Drumore",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Overlooks on a wooded plateau high above the Susquehanna and Conowingo Reservoir. Hawk Point looks down on river islands where bald eagles nest; Wissler Run Overlook is a short walk away.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/susquehannock-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Holtwood Dam and Face Rock Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "waterfront",
+   "historic"
+  ],
+  "lat": 39.82692,
+  "lng": -76.327,
+  "town": "Holtwood",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Overlook down onto Holtwood Dam, built 1905-10 and the oldest of the three big dams on the lower Susquehanna, and the scoured bedrock below it.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Holtwood_Dam",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Shenks Ferry Wildflower Preserve",
+  "type": "park",
+  "tags": [
+   "nature",
+   "hiking",
+   "forest",
+   "garden"
+  ],
+  "lat": 39.90376,
+  "lng": -76.36304,
+  "town": "Conestoga",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Sheltered ravine along Grubb Run with more than 70 species of wildflowers; best from late March into May. An easy path follows the stream.",
+  "facts": {},
+  "url": "https://www.lancasterconservancy.org/preserves/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "House Rock and Wind Cave (Clark Nature Preserve)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "cave",
+   "geology",
+   "forest"
+  ],
+  "lat": 39.87104,
+  "lng": -76.36786,
+  "town": "Pequea",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Conestoga Trail climb from Pequea to House Rock's view over the Susquehanna, passing Wind Cave, a fracture cave in the hillside. The return trip involves a lot of up and down.",
+  "facts": {},
+  "url": "https://www.lancasterconservancy.org/preserves/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Climbers Run Nature Center",
+  "type": "park",
+  "tags": [
+   "nature",
+   "hiking",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.92008,
+  "lng": -76.29668,
+  "town": "Pequea",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Lancaster Conservancy preserve and nature center on a restored trout stream, with easy loops through woods and meadow.",
+  "facts": {},
+  "url": "https://www.lancasterconservancy.org/preserves/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Ferncliff Wildlife and Wildflower Preserve",
+  "type": "park",
+  "tags": [
+   "nature",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.78066,
+  "lng": -76.24623,
+  "town": "Drumore",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Old woods road following Barnes Run down a steep ravine to the Susquehanna. A Lancaster Conservancy preserve known for spring wildflowers and ferns.",
+  "facts": {},
+  "url": "https://www.lancasterconservancy.org/preserves/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Muddy Run Recreation Park",
+  "type": "camp",
+  "tags": [
+   "camping",
+   "kayak",
+   "fishing",
+   "waterfront",
+   "birding"
+  ],
+  "lat": 39.83068,
+  "lng": -76.29292,
+  "town": "Holtwood",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Power-company park around a recreation lake beside the pumped-storage reservoir, with a campground, boat rentals and trails.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Muddy_Run_Pumped_Storage_Facility",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Chickies Rock",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "geology",
+   "hiking"
+  ],
+  "lat": 40.05221,
+  "lng": -76.52475,
+  "town": "Columbia",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Quartzite cliff above the Susquehanna north of Columbia, described as the largest exposed anticline on the East Coast. A short overlook trail leads from the PA 441 lot; Breezyview Overlook is nearby.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Chickies_Rock",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Columbia Crossing River Trails Center",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "paved",
+   "sunset",
+   "kayak"
+  ],
+  "lat": 40.03035,
+  "lng": -76.50795,
+  "town": "Columbia",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Riverfront trailhead under the mile-long concrete-arch Veterans Memorial Bridge, start of the Northwest Lancaster County River Trail.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Columbia%E2%80%93Wrightsville_Bridge",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "White Cliffs of Conoy",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "geology",
+   "viewpoint",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 40.07231,
+  "lng": -76.6529,
+  "town": "Bainbridge",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Chalk-white bluffs of limestone quarry waste dumped beside the Susquehanna. Walk or bike 1.5 flat, paved miles south from Koser Park on the river trail.",
+  "facts": {
+   "length_mi": 3.0
+  },
+  "url": "https://uncoveringpa.com/visiting-the-white-cliffs-of-conoy",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Safe Harbor Trestle (Enola Low Grade Trail)",
+  "type": "gem",
+  "tags": [
+   "trail",
+   "viewpoint",
+   "historic",
+   "waterfront",
+   "running"
+  ],
+  "lat": 39.92498,
+  "lng": -76.38408,
+  "town": "Conestoga",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Former railroad trestle high over the mouth of the Conestoga River, now decked for walkers and cyclists, with Safe Harbor Dam and the Susquehanna in view.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Safe_Harbor_Bridge",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Martic Forge Trestle (Enola Low Grade Trail)",
+  "type": "gem",
+  "tags": [
+   "trail",
+   "viewpoint",
+   "historic",
+   "running"
+  ],
+  "lat": 39.90795,
+  "lng": -76.32841,
+  "town": "Pequea",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Long rail-trail bridge crossing high above Pequea Creek and the road at Martic Forge.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Enola_Low_Grade_Trail",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Turkey Hill Trail and overlooks",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "birding",
+   "waterfall"
+  ],
+  "lat": 39.966987,
+  "lng": -76.456605,
+  "town": "Conestoga",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Strenuous ridge trail with river overlooks at both ends; the northern one looks over the Conejohela Flats, a waterfowl stopover. Loop back on the level Enola Low Grade rail trail.",
+  "facts": {
+   "length_mi": 3.7
+  },
+  "url": "https://www.lancasterconservancy.org/preserves/turkey-hill/",
+  "coord_source": "official page"
+ },
+ {
+  "name": "Lancaster County Central Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "garden",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 40.01647,
+  "lng": -76.28776,
+  "town": "Lancaster",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Large county park on the Conestoga River at the edge of Lancaster, with wooded trails, a garden of five senses and a covered bridge.",
+  "facts": {},
+  "url": "https://co.lancaster.pa.us/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Nottingham County Park serpentine barrens",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "nature",
+   "weird",
+   "hiking",
+   "historic"
+  ],
+  "lat": 39.73434,
+  "lng": -76.03961,
+  "town": "Nottingham",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Pitch pine and prairie grass growing on green serpentine bedrock that poisons ordinary forest, a landscape unlike the farmland around it, dotted with old chrome and feldspar pits.",
+  "facts": {},
+  "url": "https://www.chesco.org/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Wolf's Hollow County Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "forest",
+   "waterfront",
+   "historic"
+  ],
+  "lat": 39.92092,
+  "lng": -75.98821,
+  "town": "Atglen",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Wooded hollow along Octoraro Creek with several miles of trail, a small waterfall and old mill ruins. Just east of the Lancaster County line.",
+  "facts": {},
+  "url": "https://www.chesco.org/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Governor Dick Observation Tower",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "hiking",
+   "forest",
+   "weird"
+  ],
+  "lat": 40.24621,
+  "lng": -76.45552,
+  "town": "Mount Gretna",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Concrete tower on a wooded hilltop; climb the ladders inside to a caged platform above the trees with views over several counties. Reached by forest trails from the nature center.",
+  "facts": {},
+  "url": "https://www.parkatgovernordick.org/",
+  "coord_source": "other (USGS GNIS gazetteer)"
+ },
+ {
+  "name": "Middle Creek Wildlife Management Area",
+  "type": "park",
+  "tags": [
+   "birding",
+   "wildlife",
+   "nature",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 40.27114,
+  "lng": -76.25013,
+  "town": "Stevens",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "6,000 acres of lakes and fields managed by the Game Commission. In late winter the main lake can hold up to 200,000 migrating snow geese; a driving loop and trails cover the rest of the year.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Middle_Creek_Wildlife_Management_Area",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Indian Echo Caverns",
+  "type": "cave",
+  "tags": [
+   "cave",
+   "geology",
+   "historic"
+  ],
+  "lat": 40.25375,
+  "lng": -76.71672,
+  "town": "Hummelstown",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Limestone show cave in a bluff above Swatara Creek near Hershey, open daily for guided tours.",
+  "facts": {
+   "fee": "paid guided tour"
+  },
+  "url": "https://en.wikipedia.org/wiki/Indian_Echo_Caverns",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Wildwood Park",
+  "type": "park",
+  "tags": [
+   "birding",
+   "nature",
+   "paved",
+   "trail",
+   "wildlife"
+  ],
+  "lat": 40.31594,
+  "lng": -76.88679,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Marshy lake on the north edge of Harrisburg circled by a flat loop of paved path and boardwalk, with a nature center. Good for herons, egrets and lotus blooms.",
+  "facts": {},
+  "url": "https://www.wildwoodlake.org/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Fort Hunter Mansion and Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "waterfront",
+   "sunset"
+  ],
+  "lat": 40.3422,
+  "lng": -76.90791,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Riverside county park around a stone mansion, with big old trees and a view upstream to the Rockville Bridge, the longest stone-arch railroad viaduct ever built.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Rockville_Bridge",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Negley Park",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset"
+  ],
+  "lat": 40.25075,
+  "lng": -76.89787,
+  "town": "Lemoyne",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Neighborhood park on a bluff across the Susquehanna from Harrisburg, with a head-on view of the skyline, the Capitol dome and the river bridges.",
+  "facts": {},
+  "url": "https://www.lemoynepa.com/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Boyd Big Tree Preserve Conservation Area",
+  "type": "park",
+  "tags": [
+   "forest",
+   "hiking",
+   "nature"
+  ],
+  "lat": 40.35644,
+  "lng": -76.85243,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "1,025 acres of mature forest on the slope of Blue Mountain north of Harrisburg, set aside for its large trees, with a network of loop trails.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Boyd_Big_Tree_Preserve_Conservation_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Peters Mountain: Table Rock (Appalachian Trail)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest"
+  ],
+  "lat": 40.42135,
+  "lng": -76.89452,
+  "town": "Dauphin",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Ridge walk on the Appalachian Trail from the PA 225 crossing to a rock ledge overlooking Clarks Valley.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Peters_Mountain_(Pennsylvania)",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Hawk Rock (Duncannon)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "geology"
+  ],
+  "lat": 40.37573,
+  "lng": -77.04109,
+  "town": "Duncannon",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Steep Appalachian Trail climb up stone steps on Cove Mountain to a ledge over Duncannon and the meeting of the Juniata and Susquehanna rivers.",
+  "facts": {
+   "length_mi": 1.9,
+   "gain_ft": 761
+  },
+  "url": "https://visithersheyharrisburg.org/trails/adventure-trail/hiking/hawk-rock/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Waggoner's Gap Hawk Watch",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "birding",
+   "wildlife",
+   "geology"
+  ],
+  "lat": 40.27719,
+  "lng": -77.27603,
+  "town": "Carlisle",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Rock pile on the spine of Kittatinny Ridge, a short walk from the PA 74 summit lot, where counters tally migrating hawks and eagles from August through December.",
+  "facts": {},
+  "url": "https://www.hawkcount.org/siteinfo.php?rsite=439",
+  "coord_source": "other (hawkcount.org site coordinates)"
+ },
+ {
+  "name": "Flat Rock (Colonel Denning State Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "geology"
+  ],
+  "lat": 40.25467,
+  "lng": -77.4135,
+  "town": "Newville",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Rocky climb of more than 900 ft from the park to an outcrop on Blue Mountain with a 180-degree view of the Cumberland Valley. Cool off afterward at the park's small lake beach.",
+  "facts": {
+   "length_mi": 5.0,
+   "gain_ft": 900
+  },
+  "url": "https://www.visitcumberlandvalley.com/listing/flat-rock-trail/1273/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Opossum Lake",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "kayak",
+   "waterfront",
+   "birding",
+   "trail"
+  ],
+  "lat": 40.23163,
+  "lng": -77.27935,
+  "town": "Carlisle",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Quiet fishing lake below Blue Mountain west of Carlisle with a shoreline trail and electric-motor-only boating.",
+  "facts": {},
+  "url": "https://www.visitcumberlandvalley.com/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Hemlocks Natural Area",
+  "type": "park",
+  "tags": [
+   "forest",
+   "nature",
+   "hiking"
+  ],
+  "lat": 40.24568,
+  "lng": -77.63821,
+  "town": "Blain",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "120 acres of old-growth hemlock in a narrow ravine of Tuscarora State Forest, a National Natural Landmark. Trails follow Patterson Run under the big trees.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Hemlocks_Natural_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Spring State Forest Picnic Area",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "weird",
+   "hiking",
+   "forest"
+  ],
+  "lat": 40.26289,
+  "lng": -77.65872,
+  "town": "Blain",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Picnic stop on PA 274 with a trail to a railroad tunnel that was started into Conococheague Mountain and never finished.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Big_Spring_State_Forest_Picnic_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Little Buffalo State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "fishing",
+   "kayak",
+   "swimming",
+   "hiking"
+  ],
+  "lat": 40.45372,
+  "lng": -77.18265,
+  "town": "Newport",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "923-acre park around Holman Lake with a covered bridge, a restored working grist mill, a swimming pool and lakeside trails.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/little-buffalo-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Box Huckleberry Natural Area",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "weird",
+   "forest"
+  ],
+  "lat": 40.40483,
+  "lng": -77.17369,
+  "town": "New Bloomfield",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Ten-acre woodlot protecting a single colony of box huckleberry more than 1,000 years old, on a short interpretive loop. The smallest state forest natural area in Pennsylvania.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Hoverter_and_Sholl_Box_Huckleberry_Natural_Area",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Cowans Gap State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "hiking",
+   "camping",
+   "kayak"
+  ],
+  "lat": 39.99864,
+  "lng": -77.92266,
+  "town": "Fort Loudon",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Mountain lake with a sand beach in a gap of Tuscarora Mountain, surrounded by Buchanan State Forest. Steep trails climb from the shore to ridge overlooks.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/cowans-gap-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Big Mountain Overlook",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "sunset",
+   "forest",
+   "hiking"
+  ],
+  "lat": 39.95032,
+  "lng": -77.93644,
+  "town": "Fort Loudon",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Open ledge and stone shelter on the Tuscarora Trail at the high point of Tuscarora Mountain, reached by a gravel forest road and a short walk south of Cowans Gap.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Tuscarora_Mountain",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Buchanan's Birthplace State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "forest",
+   "fishing"
+  ],
+  "lat": 39.87058,
+  "lng": -77.95378,
+  "town": "Mercersburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Pyramid of native stone in a wooded hollow below Tuscarora Mountain, marking the cabin site where President James Buchanan was born. An 18.5-acre park with a trout stream and picnic tables.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Buchanan%27s_Birthplace_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Martin's Mill Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.76493,
+  "lng": -77.77572,
+  "town": "Greencastle",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "205-ft Town lattice truss covered bridge built in 1849 over Conococheague Creek, in a small township park open dawn to dusk.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Martin%27s_Mill_Covered_Bridge_(Antrim_Township,_Franklin_County,_Pennsylvania)",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Jarrett Falls and Meadow Grounds Lake",
+  "type": "waterfall",
+  "tags": [
+   "waterfall",
+   "hiking",
+   "forest",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.88655,
+  "lng": -78.06275,
+  "town": "McConnellsburg",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Trail from the dam of a 204-acre mountain lake on State Game Lands 53 down Roaring Run to a set of waterfalls.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Meadow_Grounds_Lake",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Abandoned Pennsylvania Turnpike: Rays Hill Tunnel",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "trail",
+   "ruins"
+  ],
+  "lat": 40.01806,
+  "lng": -78.20389,
+  "town": "Breezewood",
+  "state": "PA",
+  "tier": 1,
+  "blurb": "Cracked four-lane highway left to the weeds since 1968, now walked and biked as the Old PA Pike Trail. From the Breezewood end it is a short ride to the unlit 3,532-ft Rays Hill Tunnel. Bring lights.",
+  "facts": {
+   "length_mi": 8.5
+  },
+  "url": "https://en.wikipedia.org/wiki/Abandoned_Pennsylvania_Turnpike",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Abandoned Pennsylvania Turnpike: Sideling Hill Tunnel",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "trail",
+   "ruins"
+  ],
+  "lat": 40.04806,
+  "lng": -78.12917,
+  "town": "Breezewood",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "The longer abandoned tunnel, 6,782 ft and pitch dark in the middle, toward the eastern end of the old turnpike. No services, rough pavement, cold air pouring from the portals.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Sideling_Hill_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Trough Creek State Park",
+  "type": "gem",
+  "tags": [
+   "geology",
+   "weird",
+   "waterfall",
+   "hiking",
+   "forest"
+  ],
+  "lat": 40.32265,
+  "lng": -78.13103,
+  "town": "James Creek",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "Narrow gorge with a run of oddities along one road: Balanced Rock perched on a cliff edge, Rainbow Falls, a suspension bridge and the Ice Mine, a pit that holds ice into summer.",
+  "facts": {},
+  "url": "https://www.pa.gov/agencies/dcnr/recreation/where-to-go/state-parks/find-a-park/trough-creek-state-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Thousand Steps",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "historic",
+   "geology"
+  ],
+  "lat": 40.391533,
+  "lng": -77.913908,
+  "town": "Mapleton",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "More than 1,000 stone steps laid by quarry workers in the 1930s, straight up Jacks Mountain from a US 22 pull-off to quarry ledges and views over the Juniata River.",
+  "facts": {
+   "length_mi": 2.7,
+   "gain_ft": 1075
+  },
+  "url": "https://myhikes.org/trails/thousand-steps-standing-stone-trail-and-overlooks",
+  "coord_source": "hikingupward (now myhikes.org) trailhead coordinates"
+ },
+ {
+  "name": "Big Savage Tunnel (Great Allegheny Passage)",
+  "type": "gem",
+  "tags": [
+   "trail",
+   "historic",
+   "viewpoint",
+   "running"
+  ],
+  "lat": 39.74135,
+  "lng": -78.89376,
+  "town": "Meyersdale",
+  "state": "PA",
+  "tier": 2,
+  "blurb": "The longest tunnel on the Great Allegheny Passage, lit inside, with a wide valley view just outside its southern portal. Closed roughly December 15 to April 10 each winter.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Big_Savage_Tunnel",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Blue Blazes Whiskey Still (Catoctin Mountain Park)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.63444,
+  "lng": -77.45102,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Short creekside trail from the visitor center to a moonshine still exhibit at the site of a large Prohibition-era operation raided in 1929.",
+  "facts": {},
+  "url": "https://www.nps.gov/cato/planyourvisit/hiking.htm",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Bickle Knob Observation Tower",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "forest",
+   "sunset"
+  ],
+  "lat": 38.9345,
+  "lng": -79.73148,
+  "town": "Elkins",
+  "state": "WV",
+  "tier": 3,
+  "blurb": "One of the last climbable observation towers in Monongahela National Forest, on a summit east of Elkins near the south end of Otter Creek Wilderness. Road access in the warm months.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Bickle_Knob",
+  "coord_source": "other (OpenStreetMap feature, via Overpass)"
+ },
+ {
+  "name": "Roaring Plains West Wilderness",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "viewpoint",
+   "forest",
+   "camping",
+   "geology"
+  ],
+  "lat": 38.93806,
+  "lng": -79.43222,
+  "town": "Laneville",
+  "state": "WV",
+  "tier": 2,
+  "blurb": "The high, wet plateau just south of Dolly Sods: 6,820 acres of spruce, bog and rim-edge rock with long canyon views and far fewer people. Trails are faint and partly unmarked; carry a map and GPS track.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Roaring_Plains_West_Wilderness",
+  "coord_source": "wikipedia (centre of the wilderness, not a trailhead)"
+ },
+ {
+  "name": "Union Canal Tunnel Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 40.34785,
+  "lng": -76.46035,
+  "town": "Lebanon",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "Hand-dug canal tunnel from the 1820s, counted as the oldest transportation tunnel still standing in the country, with a towpath walk beside a watered stretch of the old Union Canal.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Union_Canal_(Pennsylvania)",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Swatara State Park",
+  "type": "park",
+  "tags": [
+   "fossils",
+   "trail",
+   "hiking",
+   "kayak",
+   "running",
+   "historic"
+  ],
+  "lat": 40.48305,
+  "lng": -76.54564,
+  "town": "Pine Grove",
+  "state": "PA",
+  "tier": 3,
+  "blurb": "3,520-acre park along 8 miles of Swatara Creek with a long rail trail, old canal remains and a roadside shale pit where visitors may dig for fossils.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Swatara_State_Park",
+  "coord_source": "wikipedia"
+ }
+]

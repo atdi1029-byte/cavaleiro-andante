@@ -1,0 +1,3356 @@
+[
+ {
+  "name": "Shenandoah Pulp Factory Ruins (Virginius and Hall's Islands)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "mill",
+   "waterfront",
+   "hiking"
+  ],
+  "lat": 39.32208,
+  "lng": -77.73989,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 1,
+  "access": "public",
+  "blurb": "Massive stone piers and sluiceways of a pulp mill built 1887-88 on the old Hall's Rifle Works island, run until 1935 and wrecked by the 1936 flood. On the flat Virginius and Hall's Islands trail (up to 2 mi round trip) off Shenandoah St.",
+  "facts": {
+   "walk_mi": 2,
+   "built": 1888,
+   "abandoned": 1935,
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "openstreetmap (Pulp Mill Ruins feature)"
+ },
+ {
+  "name": "Virginius Island Cotton and Flour Mill Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "mill",
+   "ghost-town",
+   "waterfront"
+  ],
+  "lat": 39.32084,
+  "lng": -77.73415,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Foundations of a four-story 1848 cotton mill, later a flour mill, given up after the 1889 flood, with arched water intakes and turbine pits. Same loop trail as the pulp mill, past the foundations of a vanished mill village.",
+  "facts": {
+   "walk_mi": 2,
+   "built": 1848,
+   "abandoned": 1889,
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "openstreetmap (Virginius Island Cotton/Flour Mill Ruins feature)"
+ },
+ {
+  "name": "St. John's Episcopal Church Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 39.32303,
+  "lng": -77.73203,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Roofless stone walls of a church built 1851-52, used as a Civil War hospital and barracks and abandoned in 1895. On the stone-step path from Church St up toward Jefferson Rock, a few minutes above Lower Town. Do not climb the walls.",
+  "facts": {
+   "built": 1852,
+   "abandoned": 1895,
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "openstreetmap (Saint Johns Episcopal Church ruins feature)"
+ },
+ {
+  "name": "Harpers Ferry Armory Site and Bridge Piers at The Point",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "bridge",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.32345,
+  "lng": -77.72989,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Most of the US Musket Factory lies under the 1890s rail embankment; what shows is the excavated Smith and Forging Shop (1848), John Brown's Fort and, from The Point, the stone piers of washed-out bridges standing in both rivers.",
+  "facts": {
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "wikipedia (John Brown's Fort)"
+ },
+ {
+  "name": "Lock 33 and Lockhouse 33 Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "canal",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.32472,
+  "lng": -77.72626,
+  "town": "Sandy Hook",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone shell of C&O Canal Lockhouse 33 and the dry lock beside it, at the Maryland end of the footbridge from Harpers Ferry's Lower Town, under the Maryland Heights cliffs. Flat, a few minutes' walk; also the start of the heights trail.",
+  "facts": {},
+  "url": "https://www.nps.gov/choh/index.htm",
+  "coord_source": "openstreetmap (Lockhouse 33 ruins feature)"
+ },
+ {
+  "name": "Shepherdstown Cement Mill Ruins (Potomac Mills)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "mill",
+   "waterfront"
+  ],
+  "lat": 39.42833,
+  "lng": -77.78,
+  "town": "Shepherdstown",
+  "state": "WV",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone mill foundations, a warehouse shell and a battery of six kilns built 1829-30 to make C&O Canal cement; closed 1901. Beside River Rd about 1 mi east of town on the Battle of Shepherdstown site. County-owned; do not climb.",
+  "facts": {
+   "built": 1826,
+   "abandoned": 1901
+  },
+  "url": "https://www.jeffersoncountyhlc.org/?p=483",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Antietam Iron Works",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "bridge",
+   "historic"
+  ],
+  "lat": 39.41694,
+  "lng": -77.7425,
+  "town": "Sharpsburg",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Ironworks hamlet at the mouth of Antietam Creek: a four-arch stone bridge of 1832, the dam and race, and stone kilns and other ironworks remnants beside Harpers Ferry Rd. Roadside viewing only; the houses are private homes.",
+  "facts": {
+   "built": 1832
+  },
+  "url": "https://en.wikipedia.org/wiki/Antietam_Iron_Furnace_Site_and_Antietam_Village",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Shannondale Springs",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.23053,
+  "lng": -77.83787,
+  "town": "Charles Town",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Last traces of a spa resort begun in 1820 on the Shenandoah: a stabilized bathhouse and a spring fountain. The hotel burned in 1909. In Shannondale Springs Wildlife Management Area; unsigned woods roads, hunting in season.",
+  "facts": {
+   "built": 1820,
+   "abandoned": 1909
+  },
+  "url": "https://en.wikipedia.org/wiki/Shannondale_Springs",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Paw Paw Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "canal",
+   "historic",
+   "hiking"
+  ],
+  "lat": 39.55556,
+  "lng": -78.46278,
+  "town": "Oldtown",
+  "state": "MD",
+  "tier": 1,
+  "access": "public",
+  "blurb": "3,118 ft brick-lined C&O Canal tunnel. Walk the towpath through it with a flashlight, about 1 mi round trip from the NPS lot on MD-51, or come back over the hill on the Tunnel Hill Trail. Check NPS alerts for rockfall closures.",
+  "facts": {
+   "walk_mi": 1
+  },
+  "url": "https://en.wikipedia.org/wiki/Paw_Paw_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Indigo Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway"
+  ],
+  "lat": 39.63921,
+  "lng": -78.36093,
+  "town": "Little Orleans",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Longest tunnel of the Western Maryland Railway, built 1904 and abandoned 1975. Closed to the public to protect bats; the Western Maryland Rail Trail leaves the grade at each portal for a 2 mi bypass on the C&O towpath.",
+  "facts": {
+   "built": 1904,
+   "abandoned": 1975
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/WMRT/Trail-Sections.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Round Top Cement Mill Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "mill",
+   "canal"
+  ],
+  "lat": 39.67736,
+  "lng": -78.22721,
+  "town": "Hancock",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Brick chimney, stone kiln bank and mill walls of the Round Top cement works that supplied the C&O Canal, wedged between the Western Maryland Rail Trail and the towpath about 3 mi west of Hancock. Reached only on foot or by bike.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/western/WMRT/Trail-Sections.aspx",
+  "coord_source": "nominatim / openstreetmap (Round Top Cement Mill ruins feature)"
+ },
+ {
+  "name": "Fort Frederick",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic"
+  ],
+  "lat": 39.61028,
+  "lng": -78.00361,
+  "town": "Big Pool",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Large stone frontier fort built by Maryland in 1756-57, later a prison for captured British and German soldiers; walls restored and barracks rebuilt inside. State park by the C&O Canal and Big Pool; day-use fee in season.",
+  "facts": {
+   "built": 1756,
+   "fee": "state park day-use fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Frederick_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Monocacy Aqueduct",
+  "type": "gem",
+  "tags": [
+   "canal",
+   "bridge",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.22361,
+  "lng": -77.45194,
+  "town": "Dickerson",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Largest aqueduct on the abandoned C&O Canal: seven stone arches, 438 ft, carrying the dry canal bed over the Monocacy where it meets the Potomac. Walk across on the towpath from the NPS lot on Mouth of Monocacy Rd. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Monocacy_Aqueduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Seneca Quarry and Stonecutting Mill",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "quarry",
+   "mill",
+   "canal",
+   "industrial"
+  ],
+  "lat": 39.06987,
+  "lng": -77.34407,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Roofless red-sandstone stonecutting mill and overgrown quarry faces (quarrying ended by 1901) beside the C&O towpath, just west of Riley's Lock and the damaged Seneca Aqueduct. Unmarked paths; thick brush in summer.",
+  "facts": {
+   "abandoned": 1901
+  },
+  "url": "https://en.wikipedia.org/wiki/Seneca_Quarry",
+  "coord_source": "openstreetmap (mill ruins feature at Seneca Quarry)"
+ },
+ {
+  "name": "Maryland Mine Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "mine",
+   "hiking"
+  ],
+  "lat": 38.99533,
+  "lng": -77.23231,
+  "town": "Potomac",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Fenced remains of Maryland's best-known gold mine, worked on and off from 1867 to about 1940: a water tower, sealed shaft and building foundations at Falls Rd and MacArthur Blvd, joined to Great Falls Tavern by the Gold Mine trails.",
+  "facts": {},
+  "url": "https://www.nps.gov/choh/index.htm",
+  "coord_source": "nominatim / openstreetmap (Maryland Mine attraction)"
+ },
+ {
+  "name": "Matildaville Ruins and Patowmack Canal",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "ruins",
+   "canal",
+   "historic",
+   "hiking"
+  ],
+  "lat": 38.99722,
+  "lng": -77.26278,
+  "town": "Great Falls",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone walls and foundations of a canal town founded in 1790, plus the rock-cut locks of George Washington's Patowmack Canal around Great Falls. Easy 1-2 mi on the Matildaville and Canal trails south of the visitor center.",
+  "facts": {
+   "fee": "park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Matildaville,_Virginia",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Catoctin Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 39.5821,
+  "lng": -77.43427,
+  "town": "Thurmont",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone 'Isabella' furnace stack with a rebuilt casting shed, the roofless ironmaster's mansion and workers' houses of an ironworks that shut in 1903. Free, on MD-806 at the south end of Cunningham Falls State Park.",
+  "facts": {
+   "abandoned": 1903
+  },
+  "url": "https://en.wikipedia.org/wiki/Catoctin_Furnace",
+  "coord_source": "openstreetmap (Ironmaster's House ruins feature)"
+ },
+ {
+  "name": "Gathland State Park",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "weird",
+   "hiking"
+  ],
+  "lat": 39.40556,
+  "lng": -77.63944,
+  "town": "Burkittsville",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Ruins of the mountain estate of Civil War journalist George Alfred Townsend at Crampton's Gap: the stone War Correspondents Memorial Arch, an empty mausoleum and a roofless 1887 barn. On the Appalachian Trail; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Gathland_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fountain Rock Lime Kilns",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "quarry"
+  ],
+  "lat": 39.47552,
+  "lng": -77.36708,
+  "town": "Walkersville",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Row of stone lime kilns and a spring-fed quarry pond left from a lime works, now a small county park and nature center. Level paths around the kilns; free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.47552/-77.36708",
+  "coord_source": "openstreetmap (Fountain Rock kiln complex feature)"
+ },
+ {
+  "name": "Fort Ritchie",
+  "type": "gem",
+  "tags": [
+   "military",
+   "historic",
+   "institution"
+  ],
+  "lat": 39.70531,
+  "lng": -77.496,
+  "town": "Cascade",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Army post closed in 1998, known for its castle-style stone buildings and the WWII 'Ritchie Boys' intelligence school. Being reopened as a village with a museum and shops around the lakes; streets are open, interiors vary.",
+  "facts": {
+   "abandoned": 1998
+  },
+  "url": "https://www.ritchierevival.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lonaconing Iron Furnace",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 39.57028,
+  "lng": -78.97806,
+  "town": "Lonaconing",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "50 ft sandstone blast furnace of the George's Creek Coal and Iron Co.; first made iron in 1839 and was given up in the mid-1850s. Stands in a small town park beside MD-36. Free.",
+  "facts": {
+   "built": 1839
+  },
+  "url": "https://en.wikipedia.org/wiki/Lonaconing_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Big Savage Tunnel",
+  "type": "gem",
+  "tags": [
+   "tunnel",
+   "railway",
+   "hiking",
+   "viewpoint"
+  ],
+  "lat": 39.74083,
+  "lng": -78.89361,
+  "town": "Deal",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Long former Western Maryland Railway tunnel under Big Savage Mountain, reopened and lit for the Great Allegheny Passage rail trail. About 2.5 mi from the Deal trailhead; closed by doors each winter (roughly Dec-early Apr).",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Big_Savage_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Borden Tunnel",
+  "type": "gem",
+  "tags": [
+   "tunnel",
+   "railway",
+   "hiking"
+  ],
+  "lat": 39.68861,
+  "lng": -78.91889,
+  "town": "Frostburg",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "957 ft formerly abandoned Western Maryland Railway tunnel on the Great Allegheny Passage, about 2.5 mi up the trail from the Frostburg trailhead. Open to walkers and bikes.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Borden_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Casselman Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "historic"
+  ],
+  "lat": 39.69667,
+  "lng": -79.14361,
+  "town": "Grantsville",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Single high stone arch built 1813-14 for the National Road, long closed to cars and kept as a tiny state park you can walk over, just east of Grantsville on US-40 Alt. Free.",
+  "facts": {
+   "built": 1813
+  },
+  "url": "https://en.wikipedia.org/wiki/Casselman_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Kendall Ghost Town",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "ruins",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 39.63333,
+  "lng": -79.4175,
+  "town": "Friendsville",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Site of a 19th-century logging town on the Youghiogheny; today mostly stone foundations in the woods. Reached by the flat Kendall Trail on the old rail grade upstream from Friendsville, about 2 mi each way.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Kendall,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Coketon Coke Ovens",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "railway",
+   "hiking"
+  ],
+  "lat": 39.13212,
+  "lng": -79.51546,
+  "town": "Thomas",
+  "state": "WV",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Long banks of stone beehive coke ovens from the Davis Coal and Coke era lining the Blackwater Canyon rail trail (USFS Trail 115) between Thomas and Douglas, near Douglas Falls. Flat grade; streams run orange with mine drainage.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Blackwater_Canyon",
+  "coord_source": "openstreetmap (Historic Coke Ovens feature)"
+ },
+ {
+  "name": "Bloomery Iron Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 39.40781,
+  "lng": -78.40178,
+  "town": "Bloomery",
+  "state": "WV",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Stone iron furnace from the 1830s standing a few feet off WV-127 (Bloomery Pike) near the Cacapon River. On private ground; look from the roadside and historical marker.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.40781/-78.40178",
+  "coord_source": "nominatim / openstreetmap (Bloomery Iron Furnace feature)"
+ },
+ {
+  "name": "Fort Mill Ridge Civil War Trenches",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "hiking"
+  ],
+  "lat": 39.32444,
+  "lng": -78.79361,
+  "town": "Romney",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Well-preserved Civil War earthwork trenches on a ridge above the South Branch of the Potomac west of Romney, with a short signed loop. Inside Fort Mill Ridge Wildlife Management Area; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_Mill_Ridge_Civil_War_Trenches",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Henry Clay Furnace (Coopers Rock)",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "hiking"
+  ],
+  "lat": 39.64889,
+  "lng": -79.81861,
+  "town": "Bruceton Mills",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Lone stone iron furnace in the woods of Coopers Rock State Forest; nothing else of the furnace village survives. Reached by the Clay Furnace Trail, roughly 1 mi each way downhill from the main forest road. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Henry_Clay_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Virginia Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 39.52917,
+  "lng": -79.63333,
+  "town": "Albright",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Water-powered stone blast furnace on Muddy Creek, kept since 1933 as a small DAR roadside park on WV-26 north of Albright. Pull-off parking; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Virginia_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Martinsburg B&O Roundhouse",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "railway",
+   "historic"
+  ],
+  "lat": 39.45917,
+  "lng": -77.96,
+  "town": "Martinsburg",
+  "state": "WV",
+  "tier": 3,
+  "access": "tour",
+  "blurb": "Post-Civil War B&O shops with the oldest covered roundhouse in the US, where the 1877 rail strike began; a second roundhouse survives only as outer walls. Seen from the station footbridge; inside by tours and events.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad_Martinsburg_Shops",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Daniels Ghost Town",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "ruins",
+   "abandoned",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 39.31667,
+  "lng": -76.81639,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 1,
+  "access": "public",
+  "blurb": "Mill town closed in 1968 and finished off by the 1972 Agnes flood. Flat walk on old Alberton Rd in Patapsco Valley State Park to the stone shell of St. Stanislaus church (burned 1926), a second church, house ruins and buried cars.",
+  "facts": {
+   "abandoned": 1968
+  },
+  "url": "https://www.thebanner.com/culture/lifestyle/daniels-patapsco-baltimore-county-ruins-4QACNTYEDFBBXNBVSRU6HG3WZA",
+  "coord_source": "wikipedia (Daniels, Maryland)"
+ },
+ {
+  "name": "St. Mary's College Ruins (Hell House)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "institution",
+   "weird",
+   "hiking"
+  ],
+  "lat": 39.25059,
+  "lng": -76.76602,
+  "town": "Ilchester",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Seminary of 1868, closed 1972, burned 1997 and razed in 2006. Left in the woods above the Patapsco: a long stone staircase, foundations, a hillside basement and rubble. Unsigned paths near Ilchester Rd; scarce parking, unstable ground.",
+  "facts": {
+   "built": 1868,
+   "abandoned": 1972
+  },
+  "url": "https://www.abandonedcountry.com/2013/12/30/st-marys-college-and-chapel-or-hell-house-the-wages-of-time-and-mischief/",
+  "coord_source": "openstreetmap (St. Mary's College, former)"
+ },
+ {
+  "name": "Patterson Viaduct Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "bridge",
+   "railway",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.24889,
+  "lng": -76.76472,
+  "town": "Ilchester",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "One surviving granite arch and abutments of the B&O's 1829 Patterson Viaduct, wrecked by the 1868 flood; a footbridge has sat on top since 2006. On the Grist Mill Trail in Patapsco Valley State Park, beside the active Ilchester Tunnel.",
+  "facts": {
+   "built": 1829,
+   "abandoned": 1868
+  },
+  "url": "https://en.wikipedia.org/wiki/Patterson_Viaduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Orange Grove Flour Mill Ruins and Swinging Bridge",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "industrial",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 39.24111,
+  "lng": -76.74944,
+  "town": "Elkridge",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone walls and foundations of the Orange Grove flour mill, burned in May 1905, facing the cable Swinging Bridge that mill workers once crossed. On the paved Grist Mill Trail in the Avalon/Orange Grove area; park entry fee.",
+  "facts": {
+   "abandoned": 1905,
+   "fee": "state park day-use fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Orange_Grove,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Thomas Viaduct",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "historic"
+  ],
+  "lat": 39.22167,
+  "lng": -76.71333,
+  "town": "Elkridge",
+  "state": "MD",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Curving multi-arch granite railroad viaduct over the Patapsco, built 1833-35 and still carrying CSX and MARC trains. Not walkable; seen from below along the entrance road to the Avalon area of Patapsco Valley State Park.",
+  "facts": {
+   "built": 1835
+  },
+  "url": "https://en.wikipedia.org/wiki/Thomas_Viaduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Union Dam Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "industrial",
+   "waterfront",
+   "hiking"
+  ],
+  "lat": 39.29418,
+  "lng": -76.77981,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Remnants of the Union Manufacturing Co. dam on the Patapsco and the embankment of the long millrace it fed toward Oella, in the Hollofield area of Patapsco Valley State Park below US-40. Reached on foot by park trails.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=17/39.29418/-76.77981",
+  "coord_source": "openstreetmap (Union Dam ruins feature)"
+ },
+ {
+  "name": "Patapsco Female Institute Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "institution",
+   "historic"
+  ],
+  "lat": 39.27056,
+  "lng": -76.79694,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Stabilized granite shell of a girls' boarding school that ran 1837-1891, on a hilltop on Church Rd above Ellicott City. A fenced county historic park, opened for tours and outdoor theater on scheduled days.",
+  "facts": {
+   "built": 1837,
+   "abandoned": 1891
+  },
+  "url": "https://en.wikipedia.org/wiki/Patapsco_Female_Institute",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Trolley Line #9 Trail",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "railway",
+   "hiking"
+  ],
+  "lat": 39.2706,
+  "lng": -76.77976,
+  "town": "Catonsville",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "1.25 mi paved trail on an abandoned streetcar line between Catonsville and Ellicott City, running through a deep hand-cut rock cut and down a boardwalk to Oella and the Patapsco. Free; lots at either end.",
+  "facts": {
+   "walk_mi": 1.25
+  },
+  "url": "https://en.wikipedia.org/wiki/Trolley_Line_Number_9_Trail",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bollman Truss Railroad Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "historic",
+   "industrial"
+  ],
+  "lat": 39.13472,
+  "lng": -76.82528,
+  "town": "Savage",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Sole surviving Bollman iron truss, a 160 ft double span made in 1852 and moved in 1887 to the Savage Mill spur over the Little Patuxent. Open to walkers beside Savage Mill; free.",
+  "facts": {
+   "built": 1852
+  },
+  "url": "https://en.wikipedia.org/wiki/Bollman_Truss_Railroad_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Guilford Quarry Pratt Truss Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "quarry",
+   "hiking"
+  ],
+  "lat": 39.16556,
+  "lng": -76.84083,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Small iron railroad truss built in 1902 to reach the Guilford granite quarries, now a footbridge on the Patuxent Branch Trail between Savage and Lake Elkhorn.",
+  "facts": {
+   "built": 1902
+  },
+  "url": "https://en.wikipedia.org/wiki/Guilford_Quarry_Pratt_Through_Truss_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Simpsonville Mill Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "hiking"
+  ],
+  "lat": 39.1884,
+  "lng": -76.89367,
+  "town": "Columbia",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone walls and millrace of the Simpsonville mill on the Middle Patuxent River, on the trails below the Robinson Nature Center off Cedar Lane. Short walk; free when the grounds are open.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.1884/-76.89367",
+  "coord_source": "openstreetmap (Simpson Mill ruins feature)"
+ },
+ {
+  "name": "Soldiers Delight Choate Chrome Mine",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "mine",
+   "geology",
+   "hiking"
+  ],
+  "lat": 39.41261,
+  "lng": -76.83408,
+  "town": "Owings Mills",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Timbered, fenced entrance of the Choate chromite mine and nearby pit workings in the serpentine barrens of Soldiers Delight Natural Environment Area. On the Choate Mine Trail from the Deer Park Rd overlook; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Soldiers_Delight_Natural_Environment_Area",
+  "coord_source": "openstreetmap (Choate Mine feature)"
+ },
+ {
+  "name": "Cromwell Valley Lime Kilns",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "historic"
+  ],
+  "lat": 39.41808,
+  "lng": -76.54453,
+  "town": "Towson",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Restored stone lime kilns from the valley's 19th-century lime-burning industry, beside Minebank Run on the easy trails of Cromwell Valley Park off Cromwell Bridge Rd. Free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.41808/-76.54453",
+  "coord_source": "openstreetmap (Lime Kiln attraction)"
+ },
+ {
+  "name": "Fort Armistead Park",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "fort",
+   "military",
+   "ruins",
+   "waterfront"
+  ],
+  "lat": 39.20889,
+  "lng": -76.53389,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Graffiti-covered concrete batteries, magazines and tunnels of a harbor defense fort active 1901-1920 on Hawkins Point, next to the Key Bridge rebuild. City park open in daylight; broken glass and dark rooms, bring a light.",
+  "facts": {
+   "built": 1901,
+   "abandoned": 1920
+  },
+  "url": "https://midatlanticdaytrips.com/2022/03/the-bulldog-at-baltimores-gate-four-forgotten-forts-still-stand-sentinel/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Carroll",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "fort",
+   "military",
+   "ruins",
+   "waterfront"
+  ],
+  "lat": 39.21472,
+  "lng": -76.51917,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Hexagonal artificial-island fort in the middle of the Patapsco, abandoned and overgrown, with an 1898 lighthouse. Private; landing is trespassing. View it from the shore at Fort Armistead Park or from a boat.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_Carroll",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Howard Park",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "fort",
+   "military",
+   "ruins",
+   "waterfront"
+  ],
+  "lat": 39.19833,
+  "lng": -76.44361,
+  "town": "Fort Howard",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Reinforced-concrete gun batteries of 1902 (Key, Stricker, Nicholson, Harris, Clagett) at the tip of North Point, with signs and paths; better kept than Fort Armistead. County park; the derelict VA hospital next door is closed.",
+  "facts": {
+   "built": 1902
+  },
+  "url": "https://midatlanticdaytrips.com/2022/03/the-bulldog-at-baltimores-gate-four-forgotten-forts-still-stand-sentinel/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Curtis Creek Ship Graveyard",
+  "type": "gem",
+  "tags": [
+   "shipwreck",
+   "abandoned",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 39.2084,
+  "lng": -76.575,
+  "town": "Curtis Bay",
+  "state": "MD",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Cluster of wooden and steel hulks rotting in the shallows of Curtis Creek south of Baltimore, mapped as a dozen wrecks. The banks are industrial and private; see it from the water by kayak or boat, best at low tide.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=17/39.2084/-76.5750",
+  "coord_source": "openstreetmap (historic=wreck cluster)"
+ },
+ {
+  "name": "Bay Shore Park Remnants",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.21903,
+  "lng": -76.41948,
+  "town": "Edgemere",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "What is left of a trolley amusement park that ran 1906-1947 and was torn down by Bethlehem Steel: the restored trolley station and fountain, a pier, and the roofless power house. Flat paths in North Point State Park; fee.",
+  "facts": {
+   "built": 1906,
+   "abandoned": 1947,
+   "fee": "state park day-use fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/North_Point_State_Park",
+  "coord_source": "openstreetmap (Bay Shore Power House ruins)"
+ },
+ {
+  "name": "Clifton Park Valve House",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic"
+  ],
+  "lat": 39.31917,
+  "lng": -76.58694,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Derelict octagonal stone gatehouse built for the Lake Clifton reservoir, on Preservation Maryland's threatened list since 2014. Fenced; look from the park edge along St. Lo Dr. Exterior only.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Clifton_Park_Valve_House",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Carrollton Viaduct",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "historic"
+  ],
+  "lat": 39.27542,
+  "lng": -76.65489,
+  "town": "Baltimore",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Stone arch over the Gwynns Falls finished in 1829 for the B&O, still carrying freight trains. Seen from the Gwynns Falls Trail near Carroll Park; the bridge itself is railroad property.",
+  "facts": {
+   "built": 1829
+  },
+  "url": "https://en.wikipedia.org/wiki/Carrollton_Viaduct",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Stafford Flint Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "ghost-town",
+   "hiking"
+  ],
+  "lat": 39.62343,
+  "lng": -76.16388,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone furnace that is the last trace of the river village of Stafford, at the mouth of Deer Creek in Susquehanna State Park. On the flat Lower Susquehanna Heritage Greenway Trail (old canal and rail bed) toward Conowingo Dam.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.62343/-76.16388",
+  "coord_source": "nominatim / openstreetmap (Stafford Flint Furnace ruins)"
+ },
+ {
+  "name": "Crownsville Hospital Memorial Park",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "institution",
+   "historic"
+  ],
+  "lat": 39.02389,
+  "lng": -76.60056,
+  "town": "Crownsville",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Campus of the state psychiatric hospital founded for Black patients, open 1911-2004 and county-owned since 2022. Buildings are closed while a master plan is made; the patient cemetery is reached through Bacon Ridge Natural Area.",
+  "facts": {
+   "built": 1911,
+   "abandoned": 2004
+  },
+  "url": "https://www.aacounty.org/crownsville-hospital-memorial-park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "National Park Seminary",
+  "type": "gem",
+  "tags": [
+   "institution",
+   "historic",
+   "weird"
+  ],
+  "lat": 39.01194,
+  "lng": -77.05583,
+  "town": "Forest Glen",
+  "state": "MD",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Fantasy campus of a girls' finishing school (1894-1942) with a pagoda, windmill, chalet and castle, left to rot by the Army and since turned into housing. Walk the public streets off Linden Ln; the buildings are private homes.",
+  "facts": {
+   "built": 1894,
+   "abandoned": 1942
+  },
+  "url": "https://en.wikipedia.org/wiki/National_Park_Seminary",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Glen Echo Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.96611,
+  "lng": -77.13861,
+  "town": "Glen Echo",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Trolley amusement park that ran until 1968, kept by the Park Service as an arts center: Art Deco arcade buildings, a working carousel, the bumper-car pavilion and the surviving entrance of the Crystal Pool. Grounds free.",
+  "facts": {
+   "abandoned": 1968
+  },
+  "url": "https://en.wikipedia.org/wiki/Glen_Echo_Park_(Maryland)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Glenn Dale Hospital",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "institution",
+   "ruins"
+  ],
+  "lat": 38.96083,
+  "lng": -76.81333,
+  "town": "Glenn Dale",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Tuberculosis sanatorium of 23 buildings on 216 acres, built 1934 and closed 1981 for asbestos. Posted and regularly patrolled by Park Police, so going in is trespassing; the brick blocks are seen from Glenn Dale Rd.",
+  "facts": {
+   "built": 1934,
+   "abandoned": 1981
+  },
+  "url": "https://en.wikipedia.org/wiki/Glenn_Dale_Hospital",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Clopper Mill Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "hiking"
+  ],
+  "lat": 39.15389,
+  "lng": -77.25381,
+  "town": "Germantown",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone-and-brick walls of a grist mill on Great Seneca Creek in Seneca Creek State Park, near Clopper Rd and Waring Station Rd. A short path from the roadside; walls are unstable, look from outside.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.15389/-77.25381",
+  "coord_source": "openstreetmap (Clopper Mill Ruins feature)"
+ },
+ {
+  "name": "Fort Washington",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.71083,
+  "lng": -77.03306,
+  "town": "Fort Washington",
+  "state": "MD",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Intact early-1800s masonry river fort with a dry moat, surrounded by abandoned concrete gun batteries (Decatur, Emory, White, Humphries and more) scattered through the woods and along the Potomac. NPS park; entry fee.",
+  "facts": {
+   "fee": "park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Washington_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Foote",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.76667,
+  "lng": -77.02778,
+  "town": "Fort Washington",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Civil War earthwork fort on a wooded Potomac bluff, garrisoned 1863-1878, with two huge Rodman guns still on the parapet. Short walk from the small NPS lot on Fort Foote Rd; free and unstaffed.",
+  "facts": {
+   "built": 1863,
+   "abandoned": 1878
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Foote",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Marshall Hall Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.68493,
+  "lng": -77.09884,
+  "town": "Bryans Road",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Roofless brick shell of the 18th-century Marshall family mansion across the Potomac from Mount Vernon; later the centerpiece of a steamboat amusement park that is entirely gone. In NPS Piscataway Park; the walls are fenced.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Marshall_Hall,_Maryland",
+  "coord_source": "openstreetmap (Marshall Hall ruins feature)"
+ },
+ {
+  "name": "Fort DeRussy",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "ruins",
+   "hiking"
+  ],
+  "lat": 38.96306,
+  "lng": -77.05111,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Overgrown parapet and ditch of a Civil War fort built in 1861 on a hilltop in Rock Creek Park. Reached by a short dirt path through the woods off the trail near Oregon Ave and Military Rd NW. Free.",
+  "facts": {
+   "built": 1861
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_DeRussy_(Washington,_D.C.)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Godey Lime Kilns",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "historic"
+  ],
+  "lat": 38.90333,
+  "lng": -77.05611,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Two stone lime kiln stacks left from a lime works built in 1864 and run until 1907, marooned beside the Rock Creek Parkway ramps at 27th and L St NW. Partly restored in the 1960s; seen from the sidewalk and trail.",
+  "facts": {
+   "built": 1864,
+   "abandoned": 1907
+  },
+  "url": "https://en.wikipedia.org/wiki/Godey_Lime_Kilns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Dupont Underground",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway",
+   "weird"
+  ],
+  "lat": 38.91048,
+  "lng": -77.04352,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "access": "tour",
+  "blurb": "Curved streetcar station and tunnels under Dupont Circle, shut when the trolleys stopped in 1962 and reused as an art space. Entry only with a ticket for an exhibit, event or tour; entrance on 19th St NW.",
+  "facts": {
+   "abandoned": 1962
+  },
+  "url": "https://www.openstreetmap.org/#map=19/38.91048/-77.04352",
+  "coord_source": "nominatim (Dupont Underground Art Space)"
+ },
+ {
+  "name": "National Capitol Columns",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "viewpoint"
+  ],
+  "lat": 38.91023,
+  "lng": -76.96754,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Twenty-two sandstone Corinthian columns taken off the US Capitol's east portico and stood up in an open meadow at the National Arboretum. Free; walk or drive to the Ellipse Meadow during arboretum hours.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/National_Capitol_Columns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "New York Avenue Brickworks",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "industrial",
+   "ruins"
+  ],
+  "lat": 38.91611,
+  "lng": -76.96806,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Brick beehive kilns of the United Brick Corporation, the only brickyard left in DC, on fenced National Arboretum land in the 2800 block of New York Ave NE. Public access is restricted; look from the road.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/United_Brick_Corporation_Brick_Complex",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Aqueduct Bridge Abutment",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "bridge",
+   "canal",
+   "waterfront"
+  ],
+  "lat": 38.90417,
+  "lng": -77.07056,
+  "town": "Washington",
+  "state": "DC",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone abutment and a river pier of the Aqueduct Bridge that once carried canal boats, then traffic, across the Potomac from Georgetown. At the foot of the Capital Crescent Trail by the boathouse; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Aqueduct_Bridge_(Potomac_River)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mallows Bay Ghost Fleet",
+  "type": "gem",
+  "tags": [
+   "shipwreck",
+   "abandoned",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 38.47261,
+  "lng": -77.26858,
+  "town": "Nanjemoy",
+  "state": "MD",
+  "tier": 1,
+  "access": "public",
+  "blurb": "The largest shipwreck fleet in the Western Hemisphere: wooden WWI steamships burned and sunk in a Potomac cove, now hull-shaped islands. Outlines show from the county park shore; paddle among them from the free ramp at low tide.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Mallows_Bay",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Port Tobacco",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "historic"
+  ],
+  "lat": 38.51139,
+  "lng": -77.02,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Colonial river port that silted up and emptied; now Maryland's smallest incorporated town (18 people in 2020) with a reconstructed courthouse on a quiet green and a few 1700s houses. Free to walk around.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Port_Tobacco_Village,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Point Lookout Civil War Sites",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.04853,
+  "lng": -76.32601,
+  "town": "Scotland",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Earthworks of Fort Lincoln and the site of a huge Union prison camp for Confederates, on a peninsula where the Potomac meets the bay; much of the camp has eroded into the water. State park; day-use fee.",
+  "facts": {
+   "fee": "state park day-use fee"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/pointlookout.aspx",
+  "coord_source": "openstreetmap (Fort Lincoln feature)"
+ },
+ {
+  "name": "Coventry Parish Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "historic"
+  ],
+  "lat": 38.03833,
+  "lng": -75.66639,
+  "town": "Rehobeth",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Tall roofless brick walls of an 18th-century Episcopal church used until the late 1800s, standing in its churchyard at Rehobeth near the Pocomoke River; stabilized in 1928 and 2005. Roadside, free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Coventry_Parish_Ruins",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Nassawango Iron Furnace (Furnace Town)",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "ghost-town",
+   "historic"
+  ],
+  "lat": 38.20417,
+  "lng": -75.46889,
+  "town": "Snow Hill",
+  "state": "MD",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Bog-iron furnace stack built in 1830 and cold by 1849, last relic of a company town swallowed by the Pocomoke swamp forest. Now an outdoor museum with a boardwalk trail; paid admission, open seasonally.",
+  "facts": {
+   "built": 1830,
+   "abandoned": 1849,
+   "fee": "museum admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Nassawango_Iron_Furnace_Site",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Sharps Island Light",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "waterfront",
+   "weird",
+   "historic"
+  ],
+  "lat": 38.6391,
+  "lng": -76.3757,
+  "town": "Tilghman Island",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Cast-iron 1882 lighthouse left leaning like the Tower of Pisa by a 1977 ice floe, marking an island that washed away. Stands nearly 3 mi off the south end of Tilghman Island; seen only by boat.",
+  "facts": {
+   "built": 1882
+  },
+  "url": "https://en.wikipedia.org/wiki/Sharps_Island_Light",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Abingdon Plantation Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.85137,
+  "lng": -77.04444,
+  "town": "Arlington",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stabilized brick foundations of the 18th-century Abingdon plantation house, preserved with exhibit panels on a knoll between the parking garages at Reagan National Airport. Walk over from the Metro station or garages; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Abingdon_(plantation)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Hunt Park Batteries",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.71472,
+  "lng": -77.05306,
+  "town": "Fort Hunt",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Concrete coast-defense batteries of a Spanish-American War era fort scattered around a picnic park off the George Washington Parkway; also the site of a secret WWII interrogation center. Free, open dawn to dusk year-round.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_Hunt_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lorton Workhouse and Reformatory",
+  "type": "gem",
+  "tags": [
+   "institution",
+   "historic"
+  ],
+  "lat": 38.69805,
+  "lng": -77.25483,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Brick dormitories and yards of the District of Columbia's former Lorton prison complex, where suffragists were held in 1917. Reused as the Workhouse Arts Center with a small prison museum; grounds are free to walk.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Lorton_Reformatory",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Cabin Branch Pyrite Mine",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "mine",
+   "hiking"
+  ],
+  "lat": 38.57667,
+  "lng": -77.35056,
+  "town": "Triangle",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Capped shafts and foundations of a commissary, crusher house and mill from a pyrite mine on Quantico Creek, in Prince William Forest Park. Reached by park trails with interpretive signs; park entry fee.",
+  "facts": {
+   "fee": "park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cabin_Branch_Pyrite_Mine_Historic_District",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Leesylvania Ruins and Freestone Point Battery",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "fort",
+   "military",
+   "historic",
+   "hiking"
+  ],
+  "lat": 38.59083,
+  "lng": -77.25321,
+  "town": "Woodbridge",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Lee's Woods Trail loops past the site of the Lee family's Leesylvania house, the chimney and walls of the Fairfax house and a Confederate gun battery on Freestone Point over the Potomac. State park fee.",
+  "facts": {
+   "fee": "state park parking fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Leesylvania_State_Park",
+  "coord_source": "nominatim (Leesylvania State Park)"
+ },
+ {
+  "name": "Bull Run Hydroelectric Dam Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 38.76675,
+  "lng": -77.41483,
+  "town": "Clifton",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Broken concrete dam and powerhouse remains on Bull Run, with the Union Mills site just upstream, below Hemlock Overlook Regional Park. Downhill walk on the park trails to the Bull Run-Occoquan Trail; free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/38.76675/-77.41483",
+  "coord_source": "openstreetmap (Bull Run Hydroelectric Dam Ruins feature)"
+ },
+ {
+  "name": "Chapman's (Beverley) Mill",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "industrial",
+   "historic"
+  ],
+  "lat": 38.82444,
+  "lng": -77.71083,
+  "town": "Broad Run",
+  "state": "VA",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Towering stone shell of a mill begun in the 1700s, gutted by arson in 1998 and since stabilized; called the tallest stacked-stone building in the US. Beside I-66 in Thoroughfare Gap; site opens on limited days, else view from the gate.",
+  "facts": {},
+  "url": "https://www.chapmansmill.org/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Aldie Mill",
+  "type": "gem",
+  "tags": [
+   "mill",
+   "industrial",
+   "historic"
+  ],
+  "lat": 38.97522,
+  "lng": -77.64096,
+  "town": "Aldie",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Early-1800s brick merchant mill with twin overshot water wheels, restored and run as a small NOVA Parks historic park. Walk around the outside on US-50 any time; the interior opens for grinding demonstrations on set days.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Aldie_Mill_Historic_District",
+  "coord_source": "nominatim (Aldie Mill Historic Park)"
+ },
+ {
+  "name": "Goose Creek Stone Bridge",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "bridge",
+   "historic"
+  ],
+  "lat": 38.98169,
+  "lng": -77.81897,
+  "town": "Middleburg",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "200 ft four-arch stone bridge built about 1810 for the Ashby's Gap Turnpike, bypassed by modern US-50 and left in a meadow; fought over in June 1863. Short walk from a small lot off US-50 west of Middleburg. Free.",
+  "facts": {
+   "built": 1810
+  },
+  "url": "https://en.wikipedia.org/wiki/Goose_Creek_Stone_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Red Rock Wilderness Overlook Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "hiking",
+   "viewpoint"
+  ],
+  "lat": 39.11261,
+  "lng": -77.51018,
+  "town": "Leesburg",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Roofless brick carriage house, granary, ice house and well house of a vanished farm estate at the trailhead of a small regional park; trails go on to bluffs above the Potomac. Free gravel lot on Edwards Ferry Rd.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/39.11261/-77.51018",
+  "coord_source": "openstreetmap (Carriage House ruins feature)"
+ },
+ {
+  "name": "Government Island Quarry",
+  "type": "gem",
+  "tags": [
+   "quarry",
+   "historic",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 38.44833,
+  "lng": -77.38333,
+  "town": "Stafford",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Island quarry that supplied the Aquia sandstone for the White House and US Capitol; cut faces and tool marks remain. County park since 2010 with 1.5 mi of trail and boardwalk across the marsh. Free.",
+  "facts": {
+   "walk_mi": 1.5
+  },
+  "url": "https://en.wikipedia.org/wiki/Public_Quarry_at_Government_Island",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Catharine Furnace Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 38.28866,
+  "lng": -77.64835,
+  "town": "Spotsylvania",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone stack of an iron furnace built in 1837, shut ten years later, revived for the Confederacy and partly wrecked by Union troops in 1864. Roadside stop on Furnace Rd, on Jackson's flank march route at Chancellorsville battlefield. Free.",
+  "facts": {
+   "built": 1837
+  },
+  "url": "https://en.wikipedia.org/wiki/Catharine_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Menokin",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.00842,
+  "lng": -76.80368,
+  "town": "Warsaw",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Partly collapsed stone house of Declaration signer Francis Lightfoot Lee, being rebuilt with glass in place of the missing walls; its original woodwork is shown in the visitor center. Check menokin.org for hours and tours.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Menokin",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Barboursville Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.16237,
+  "lng": -78.28069,
+  "town": "Barboursville",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Brick walls and columns of Governor James Barbour's mansion, designed by Thomas Jefferson and burned on Christmas Day 1884. Stabilized on the grounds of Barboursville Vineyards; open to winery visitors.",
+  "facts": {
+   "abandoned": 1884
+  },
+  "url": "https://en.wikipedia.org/wiki/Barboursville_(James_Barbour)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Blue Ridge Tunnel (Crozet Tunnel)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway",
+   "hiking"
+  ],
+  "lat": 38.0383,
+  "lng": -78.8625,
+  "town": "Afton",
+  "state": "VA",
+  "tier": 1,
+  "access": "public",
+  "blurb": "Claudius Crozet's 4,237 ft railroad tunnel under Rockfish Gap, the longest in the US when finished in the 1850s, now a public trail. Unlit and dripping, bring a flashlight; trailheads at Afton (east) and Waynesboro (west). Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Blue_Ridge_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Swannanoa",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "historic",
+   "viewpoint"
+  ],
+  "lat": 38.02806,
+  "lng": -78.86861,
+  "town": "Afton",
+  "state": "VA",
+  "tier": 3,
+  "access": "tour",
+  "blurb": "Marble Italian Renaissance villa built in 1912 on the crest of Rockfish Gap, long empty inside. Privately owned and gated; open only on scheduled tour days and events for a fee.",
+  "facts": {
+   "built": 1912
+  },
+  "url": "https://en.wikipedia.org/wiki/Swannanoa_(mansion)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Elizabeth Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "hiking"
+  ],
+  "lat": 38.93139,
+  "lng": -78.32306,
+  "town": "Fort Valley",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone stack of a 19th-century blast furnace and a restored cabin in George Washington National Forest, with short interpretive loops from the picnic area on VA-678; the old pig-iron road is now the trail up Massanutten. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Elizabeth_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Catherine Furnace (Page County)",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace"
+  ],
+  "lat": 38.55778,
+  "lng": -78.63583,
+  "town": "Shenandoah",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "32 ft pyramidal stone iron furnace built in 1836 and abandoned in 1885, standing in George Washington National Forest on Cub Run Rd near Newport. Roadside; free.",
+  "facts": {
+   "built": 1836,
+   "abandoned": 1885
+  },
+  "url": "https://en.wikipedia.org/wiki/Catherine_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mount Torry Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace"
+  ],
+  "lat": 37.94558,
+  "lng": -78.96415,
+  "town": "Sherando",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone iron furnace stack on the shoulder of VA-664 in George Washington National Forest, a few miles from Sherando Lake; it was burned in an 1864 Union raid and rebuilt. Roadside pull-off; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Augusta_County,_Virginia",
+  "coord_source": "nominatim (Mount Torry Furnace locality)"
+ },
+ {
+  "name": "Confederate Breastworks (Fort Edward Johnson)",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "viewpoint",
+   "hiking"
+  ],
+  "lat": 38.31324,
+  "lng": -79.38266,
+  "town": "West Augusta",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Trenches dug in 1862 along the crest of Shenandoah Mountain where US-250 crosses it, with a short signed loop and long views west. National forest roadside lot; free.",
+  "facts": {
+   "built": 1862
+  },
+  "url": "https://www.openstreetmap.org/#map=18/38.31324/-79.38266",
+  "coord_source": "openstreetmap (Fort Edward Johnson (1862) feature)"
+ },
+ {
+  "name": "Pocosin Mission Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "ghost-town",
+   "hiking"
+  ],
+  "lat": 38.40106,
+  "lng": -78.48191,
+  "town": "Stanardsville",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone and timber remains of an Episcopal mountain mission from the early 1900s, with a small cemetery nearby. About 1 mi down the Pocosin fire road from Skyline Drive mile 59.5 (2 mi round trip). Park entry fee.",
+  "facts": {
+   "walk_mi": 2,
+   "fee": "park entry fee"
+  },
+  "url": "https://www.nps.gov/shen/index.htm",
+  "coord_source": "openstreetmap (Upper Pocosin Mission ruins feature)"
+ },
+ {
+  "name": "Corbin Cabin and Nicholson Hollow",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "ghost-town",
+   "hiking"
+  ],
+  "lat": 38.60194,
+  "lng": -78.345,
+  "town": "Luray",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Log cabin built by George Corbin in 1909 and vacated in 1938 when the park took the hollow, one of the few homes left standing. Steep hike down from Skyline Drive; the cabin is a PATC rental, so look from outside. Park entry fee.",
+  "facts": {
+   "built": 1909,
+   "abandoned": 1938,
+   "fee": "park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Corbin_Cabin",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Snead Farm",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "hiking"
+  ],
+  "lat": 38.85615,
+  "lng": -78.20039,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "White barn, stone root cellar and house foundation of an apple farm absorbed by the park. Easy fire-road walk from across the Dickey Ridge picnic area (Skyline Drive mile 5.1), or a longer loop. Park entry fee.",
+  "facts": {
+   "fee": "park entry fee"
+  },
+  "url": "https://www.nps.gov/shen/index.htm",
+  "coord_source": "openstreetmap (Snead Farm ruins feature)"
+ },
+ {
+  "name": "Fox Hollow Trail",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "ghost-town",
+   "hiking"
+  ],
+  "lat": 38.8771,
+  "lng": -78.20394,
+  "town": "Front Royal",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "1.2 mi loop from Dickey Ridge Visitor Center (Skyline Drive mile 4.6) through the Fox family's farm: long stone piles cleared from fields, a walled family cemetery and a spring box in regrown woods. Park entry fee.",
+  "facts": {
+   "walk_mi": 1.2,
+   "fee": "park entry fee"
+  },
+  "url": "https://www.nps.gov/shen/index.htm",
+  "coord_source": "nominatim (Fox Hollow Trail)"
+ },
+ {
+  "name": "Rapidan Camp",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "hiking"
+  ],
+  "lat": 38.49075,
+  "lng": -78.41992,
+  "town": "Syria",
+  "state": "VA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "President Hoover's fishing retreat on the upper Rapidan; three of the original thirteen buildings stand, restored. About 4 mi round trip down the Mill Prong Trail from Milam Gap on Skyline Drive. Park entry fee.",
+  "facts": {
+   "walk_mi": 4,
+   "fee": "park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rapidan_Camp",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Abandoned PA Turnpike: Rays Hill Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "hiking",
+   "weird"
+  ],
+  "lat": 40.01806,
+  "lng": -78.20389,
+  "town": "Breezewood",
+  "state": "PA",
+  "tier": 1,
+  "access": "public",
+  "blurb": "13 mi of four-lane turnpike bypassed in 1968, now the unmaintained Old PA Pike Trail. From the US-30/Tannery Rd lot at Breezewood it is 1.3 mi on cracked pavement to the 0.7 mi Rays Hill Tunnel. Pitch dark; strong light, own risk.",
+  "facts": {
+   "walk_mi": 2.6,
+   "abandoned": 1968
+  },
+  "url": "https://pabucketlist.com/?p=3275",
+  "coord_source": "wikipedia (Rays Hill Tunnel)"
+ },
+ {
+  "name": "Abandoned PA Turnpike: Sideling Hill Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "hiking",
+   "weird"
+  ],
+  "lat": 40.04806,
+  "lng": -78.12917,
+  "town": "Hustontown",
+  "state": "PA",
+  "tier": 1,
+  "access": "public",
+  "blurb": "The longest tunnel of the original turnpike, 1.3 mi (6,782 ft) of unlit bore abandoned in 1968. About 1.2 mi walk or ride from the Pump Station Rd parking on the old roadway to the east portal. Rough surface, no services, own risk.",
+  "facts": {
+   "walk_mi": 2.4,
+   "abandoned": 1968
+  },
+  "url": "https://pabucketlist.com/?p=3275",
+  "coord_source": "wikipedia (Sideling Hill Tunnel)"
+ },
+ {
+  "name": "Oregon Road CCC and POW Camp Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "military",
+   "historic"
+  ],
+  "lat": 40.05028,
+  "lng": -78.14926,
+  "town": "Hustontown",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone and concrete remains of CCC Camp S-52, built in 1933 on Sideling Hill, later quarters for conscientious objectors and in 1944 a camp for German POWs. In Buchanan State Forest off Oregon Rd, near the turnpike tunnel. Free.",
+  "facts": {
+   "built": 1933
+  },
+  "url": "https://en.wikipedia.org/wiki/Buchanan_State_Forest",
+  "coord_source": "openstreetmap (Oregon Camp ruins feature)"
+ },
+ {
+  "name": "Big Spring Railroad Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway",
+   "hiking"
+  ],
+  "lat": 40.26185,
+  "lng": -77.65279,
+  "town": "New Germantown",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Never-finished narrow-gauge railroad tunnel bored into Conococheague Mountain during the lumber era. A one-mile trail leads to it from Big Spring State Forest Picnic Area on PA-274. Look at the portal; do not go inside.",
+  "facts": {
+   "walk_mi": 2
+  },
+  "url": "https://en.wikipedia.org/wiki/Big_Spring_State_Forest_Picnic_Area",
+  "coord_source": "openstreetmap (Big Spring Tunnel feature)"
+ },
+ {
+  "name": "Pine Grove Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic",
+   "hiking"
+  ],
+  "lat": 40.03111,
+  "lng": -77.30667,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone stack of a charcoal iron furnace built about 1770, with the ironmaster's mansion, old works buildings and a water-filled ore pit now used as a swimming lake. At the Appalachian Trail midpoint; state park, free.",
+  "facts": {
+   "built": 1770
+  },
+  "url": "https://en.wikipedia.org/wiki/Pine_Grove_Iron_Works",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Camp Michaux",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "military",
+   "historic",
+   "hiking"
+  ],
+  "lat": 40.0375,
+  "lng": -77.3388,
+  "town": "Gardners",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Farm turned CCC camp turned secret WWII interrogation camp for German and Japanese POWs. Foundations, a stone barn wall, dam and fountain remain in Michaux State Forest off Michaux Rd; self-guided walking tour brochure. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Pine_Grove_Furnace_Prisoner_of_War_Interrogation_Camp",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Caledonia Furnace",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 39.9089,
+  "lng": -77.4783,
+  "town": "Fayetteville",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Rebuilt stone stack and blacksmith shop marking Thaddeus Stevens's ironworks, burned by Confederate cavalry in June 1863 on the way to Gettysburg. Beside US-30 at the entrance of Caledonia State Park. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Caledonia_State_Park",
+  "coord_source": "wikipedia (park coordinates)"
+ },
+ {
+  "name": "Carlisle Iron Works Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 40.14812,
+  "lng": -77.12356,
+  "town": "Boiling Springs",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "18th-century stone iron furnace stack standing beside the Appalachian Trail and Children's Lake in the village of Boiling Springs. A two-minute walk from the trail parking; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Boiling_Springs,_Pennsylvania",
+  "coord_source": "nominatim (Carlisle Iron Works Furnace)"
+ },
+ {
+  "name": "Walnut Street Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "abandoned",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 40.2575,
+  "lng": -76.886,
+  "town": "Harrisburg",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Iron truss bridge over the Susquehanna that lost three western spans to an ice flood in 1996 and was never rejoined. Walk the surviving half from downtown to City Island and look across the gap at the stranded far end. Free.",
+  "facts": {
+   "abandoned": 1996
+  },
+  "url": "https://en.wikipedia.org/wiki/Walnut_Street_Bridge_(Harrisburg,_Pennsylvania)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Rausch Gap Ghost Town",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "ruins",
+   "abandoned",
+   "railway",
+   "hiking"
+  ],
+  "lat": 40.49944,
+  "lng": -76.59778,
+  "town": "Cold Spring Township",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Once the largest coal and railroad town in St. Anthony's Wilderness (1830-1910): stone foundations, a well and a small cemetery in the woods. Roughly 3.5 mi each way on the flat Stony Valley Rail Trail from Gold Mine Rd; game lands.",
+  "facts": {
+   "walk_mi": 7,
+   "abandoned": 1910
+  },
+  "url": "https://en.wikipedia.org/wiki/Rausch_Gap,_Pennsylvania",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Union Canal Tunnel",
+  "type": "gem",
+  "tags": [
+   "tunnel",
+   "canal",
+   "historic"
+  ],
+  "lat": 40.34918,
+  "lng": -76.46081,
+  "town": "Lebanon",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Hand-dug 1820s canal tunnel, the oldest existing transportation tunnel in the US, still holding water. A small free park run by the county historical society with towpath trails; occasional boat rides through the tunnel.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Union_Canal_(Pennsylvania)",
+  "coord_source": "openstreetmap (Union Canal Tunnel feature)"
+ },
+ {
+  "name": "Cornwall Iron Furnace",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 40.27056,
+  "lng": -76.40611,
+  "town": "Cornwall",
+  "state": "PA",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "The only intact charcoal blast furnace complex left in the Western Hemisphere, in blast 1742-1883, with its casting house and blowing engine. State historic site; inside by guided tour for a fee on open days.",
+  "facts": {
+   "built": 1742,
+   "abandoned": 1883,
+   "fee": "tour admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cornwall_Iron_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lock 12 Historic Area",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "canal",
+   "industrial",
+   "hiking",
+   "waterfront"
+  ],
+  "lat": 39.81491,
+  "lng": -76.32959,
+  "town": "Airville",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Well-preserved stone lock of the Susquehanna and Tidewater Canal with lime kiln and sawmill remains in a picnic park below Holtwood Dam, off PA-372. Lock 13 is a short walk down the Mason-Dixon Trail. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Susquehanna_and_Tidewater_Canal",
+  "coord_source": "openstreetmap (Lock 12 ruins feature)"
+ },
+ {
+  "name": "Safe Harbor Trestle",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "abandoned",
+   "viewpoint",
+   "hiking"
+  ],
+  "lat": 39.92496,
+  "lng": -76.38301,
+  "town": "Conestoga",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "High steel trestle of the Pennsylvania Railroad's abandoned Atglen and Susquehanna 'Low Grade' line, now decked for walkers and bikes on the Enola Low Grade Trail above the mouth of the Conestoga and Safe Harbor Dam. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Safe_Harbor_Bridge",
+  "coord_source": "nominatim (Safe Harbor Trestle)"
+ },
+ {
+  "name": "Martic Forge Trestle",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "abandoned",
+   "hiking"
+  ],
+  "lat": 39.90796,
+  "lng": -76.32838,
+  "town": "Pequea",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Second big trestle on the abandoned Low Grade line, crossing Pequea Creek on the Enola Low Grade Trail a few miles east of Safe Harbor. Trailhead parking sits below the bridge at Martic Forge. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Atglen_and_Susquehanna_Branch",
+  "coord_source": "nominatim (Martic Forge Trestle)"
+ },
+ {
+  "name": "White Cliffs of Conoy and Billmyer Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "quarry",
+   "industrial",
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 40.07231,
+  "lng": -76.6529,
+  "town": "Bainbridge",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Bright white bluff of limestone and dolomite waste dumped over the Susquehanna by a vanished quarry town, with concrete ruins of the works along the Northwest Lancaster County River Trail. About 1.5 mi flat walk from Bainbridge.",
+  "facts": {
+   "walk_mi": 3
+  },
+  "url": "https://www.openstreetmap.org/#map=18/40.07231/-76.6529",
+  "coord_source": "nominatim (White Cliffs of Conoy)"
+ },
+ {
+  "name": "Marietta Furnace Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "hiking"
+  ],
+  "lat": 40.05818,
+  "lng": -76.53426,
+  "town": "Marietta",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Chimney, walls and foundations of the anthracite iron furnaces that lined the river below Chickies Rock, in a small furnace park with a signed path off Furnace Rd by the Northwest River Trail. Museum in the old office, limited hours.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/40.05818/-76.53426",
+  "coord_source": "openstreetmap (Marietta Iron Furnace Park)"
+ },
+ {
+  "name": "Columbia-Wrightsville Bridge Piers",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "bridge",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 40.02889,
+  "lng": -76.51694,
+  "town": "Columbia",
+  "state": "PA",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Line of old stone piers marching across the mile-wide Susquehanna beside the 1930 concrete arch bridge: relics of earlier crossings, one of them burned in June 1863 to stop the Confederate advance. Seen from either riverfront.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Columbia%E2%80%93Wrightsville_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Codorus Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace",
+   "historic"
+  ],
+  "lat": 40.05139,
+  "lng": -76.65722,
+  "town": "Mount Wolf",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone iron furnace stack beside Codorus Creek near the Susquehanna, kept by the Conservation Society of York County. Roadside on Furnace Rd; new steps lead up behind it to the charcoal house foundation. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Codorus_Forge_and_Furnace_Historic_District",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hopewell Furnace",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "furnace",
+   "historic",
+   "ghost-town"
+  ],
+  "lat": 40.19861,
+  "lng": -75.77556,
+  "town": "Elverson",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Restored iron-making village that went cold in 1883: furnace stack with water wheel, charcoal house, ironmaster's mansion and workers' houses. National historic site beside French Creek State Park; free.",
+  "facts": {
+   "abandoned": 1883
+  },
+  "url": "https://en.wikipedia.org/wiki/Hopewell_Furnace_National_Historic_Site",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Frick's Lock Village",
+  "type": "gem",
+  "tags": [
+   "ghost-town",
+   "abandoned",
+   "canal",
+   "historic"
+  ],
+  "lat": 40.2225,
+  "lng": -75.59639,
+  "town": "Pottstown",
+  "state": "PA",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Canal village emptied in the late 1900s next to the Limerick nuclear plant; eleven historic buildings now belong to East Coventry Township. Fenced; the township runs free tours part of the year, otherwise look from the road.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fricks_Locks_Historic_District",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Pennhurst State School",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "institution",
+   "historic"
+  ],
+  "lat": 40.19372,
+  "lng": -75.56016,
+  "town": "Spring City",
+  "state": "PA",
+  "tier": 3,
+  "access": "tour",
+  "blurb": "Brick halls of the notorious state institution closed in 1987; eight buildings were torn down in 2018-2020. Private. Entry only with tickets for daytime history tours, paranormal events or the fall haunted attraction.",
+  "facts": {
+   "abandoned": 1987,
+   "fee": "ticketed"
+  },
+  "url": "https://pennhurstasylum.com/",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bondsville Mill Park",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "industrial",
+   "hiking"
+  ],
+  "lat": 40.02111,
+  "lng": -75.75851,
+  "town": "Downingtown",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Township park built around the surviving stone buildings and ruins of the Bondsville textile mill on Beaver Creek, with a short loop trail. On Bondsville Rd north of Downingtown; free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/40.02111/-75.75851",
+  "coord_source": "nominatim (Bondsville Mill Park)"
+ },
+ {
+  "name": "Eastern State Penitentiary",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "institution",
+   "historic"
+  ],
+  "lat": 39.9683,
+  "lng": -75.1725,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 1,
+  "access": "tour",
+  "blurb": "Castle-walled prison that operated 1829-1971 and is kept as a stabilized ruin: long vaulted cellblocks with peeling cells radiating from a central hub. Ticketed, with a self-guided audio tour; Fairmount neighborhood.",
+  "facts": {
+   "built": 1829,
+   "abandoned": 1971,
+   "fee": "ticketed"
+  },
+  "url": "https://en.wikipedia.org/wiki/Eastern_State_Penitentiary",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Mifflin",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.8753,
+  "lng": -75.213,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Stone-and-brick fort on Mud Island, besieged in 1777, with casemates, magazines and a torpedo casemate, right under the airport flight path. Run by a nonprofit; paid admission on open days.",
+  "facts": {
+   "fee": "admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Mifflin",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mount Moriah Cemetery",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic",
+   "weird"
+  ],
+  "lat": 39.9297,
+  "lng": -75.2356,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Huge Victorian cemetery of 1855 that fell into abandonment and is being cleared by volunteers: mausoleums and monuments in young forest, and a crumbling brownstone gatehouse on Kingsessing Ave. Open in daylight; stay in cleared sections.",
+  "facts": {
+   "built": 1855
+  },
+  "url": "https://en.wikipedia.org/wiki/Mount_Moriah_Cemetery_(Philadelphia)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "The Cliffs Ruins",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "historic"
+  ],
+  "lat": 39.97941,
+  "lng": -75.19409,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone shell of a 1753 Georgian country house, vandalized and gutted by fire in the 1980s, covered in graffiti in the woods of East Fairmount Park near 33rd and Oxford Sts. Open parkland; keep out of the walls.",
+  "facts": {
+   "built": 1753
+  },
+  "url": "https://en.wikipedia.org/wiki/The_Cliffs",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Lock Ridge Furnace Park",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace"
+  ],
+  "lat": 40.50848,
+  "lng": -75.59388,
+  "town": "Alburtis",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Stone arches, walls and stacks of the Lock Ridge Iron Works, left as landscaped ruins in a 59-acre county park opened in 1976. Paved paths run through the furnace complex; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Lock_Ridge_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Coplay Cement Kilns (Saylor Park)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "industrial",
+   "ruins"
+  ],
+  "lat": 40.67611,
+  "lng": -75.495,
+  "town": "Coplay",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Nine tall red-brick Schoefer vertical kilns built in 1892-93 for Portland cement and soon obsolete, standing in a row in a small park. Exteriors only; free.",
+  "facts": {
+   "built": 1893
+  },
+  "url": "https://en.wikipedia.org/wiki/Coplay_Cement_Company_Kilns",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bethlehem Steel Stacks and Hoover-Mason Trestle",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "industrial",
+   "furnace",
+   "viewpoint"
+  ],
+  "lat": 40.61505,
+  "lng": -75.36492,
+  "town": "Bethlehem",
+  "state": "PA",
+  "tier": 1,
+  "access": "public",
+  "blurb": "1,650 ft elevated walkway, 46 ft up on an ore trestle built around 1905, running the length of Bethlehem Steel's rusting blast furnaces. Free and open daily at the SteelStacks campus, with history panels along the way.",
+  "facts": {
+   "built": 1905
+  },
+  "url": "https://en.wikipedia.org/wiki/Hoover-Mason_Trestle",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Blair Limestone Company Kilns",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "industrial",
+   "quarry",
+   "hiking"
+  ],
+  "lat": 40.48999,
+  "lng": -78.28084,
+  "town": "Hollidaysburg",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Tall bank of early-1900s lime kilns of the Blair Limestone Co. with abandoned quarries behind, on the trails of Canoe Creek State Park. Short walk from the park road; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Canoe_Creek_State_Park",
+  "coord_source": "openstreetmap (Blair Limestone Company Kilns feature)"
+ },
+ {
+  "name": "Staple Bend Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway",
+   "historic",
+   "hiking"
+  ],
+  "lat": 40.35917,
+  "lng": -78.85528,
+  "town": "Mineral Point",
+  "state": "PA",
+  "tier": 2,
+  "access": "public",
+  "blurb": "First railroad tunnel in the US: 901 ft, bored 1831-33 for the Allegheny Portage Railroad, with dressed-stone portals. Walk or bike about 2 mi each way on the old grade from the NPS trailhead near Mineral Point. Free.",
+  "facts": {
+   "built": 1833,
+   "walk_mi": 4
+  },
+  "url": "https://en.wikipedia.org/wiki/Staple_Bend_Tunnel",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Greenwood Furnace",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "furnace",
+   "ghost-town",
+   "historic"
+  ],
+  "lat": 40.65163,
+  "lng": -77.75315,
+  "town": "Belleville",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone furnace stack of an ironworks that went into blast in 1834, with a church, blacksmith shop and cemetery left from its vanished company town. State park with a self-guided historic walk; free.",
+  "facts": {
+   "built": 1834
+  },
+  "url": "https://en.wikipedia.org/wiki/Greenwood_Furnace_State_Park",
+  "coord_source": "openstreetmap (Greenwood Furnace Stack No. 2)"
+ },
+ {
+  "name": "Paradise Furnace",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "furnace"
+  ],
+  "lat": 40.31083,
+  "lng": -78.12611,
+  "town": "James Creek",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Squat 1830s stone iron furnace stack and the ironmaster's house beside Great Trough Creek in Trough Creek State Park, a gorge that also has an ice mine and a balanced rock. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Paradise_Furnace",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Delaware",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.59,
+  "lng": -75.57194,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 1,
+  "access": "public",
+  "blurb": "Massive granite-and-brick fort on Pea Patch Island that held Confederate prisoners, with a moat, casemates and later concrete batteries. Reached only by the seasonal state park ferry from Delaware City; ticket required.",
+  "facts": {
+   "fee": "ferry ticket"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Delaware",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort DuPont",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "fort",
+   "military",
+   "ruins",
+   "waterfront"
+  ],
+  "lat": 39.57139,
+  "lng": -75.58361,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 2,
+  "access": "public",
+  "blurb": "Coast-defense post that guarded the Delaware River from 1900 to 1942: overgrown concrete gun batteries and old Army buildings along a riverside trail in Fort DuPont State Park. Free; parts of the post are being redeveloped.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_DuPont",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fort Miles",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "historic",
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 38.77722,
+  "lng": -75.08694,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 1,
+  "access": "public",
+  "blurb": "WWII fort in the dunes of Cape Henlopen State Park: Battery 519 (now a museum), big guns on display, barracks and concrete fire-control towers, one of which you can climb. Park entry fee.",
+  "facts": {
+   "fee": "state park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Miles",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fire Control Tower 3",
+  "type": "gem",
+  "tags": [
+   "military",
+   "abandoned",
+   "waterfront"
+  ],
+  "lat": 38.68061,
+  "lng": -75.07138,
+  "town": "Dewey Beach",
+  "state": "DE",
+  "tier": 3,
+  "access": "view",
+  "blurb": "One of the cylindrical concrete WWII spotting towers built for Fort Miles' guns, standing in the dunes at Tower Road beach in Delaware Seashore State Park between Dewey and Indian River Inlet. Exterior only; park fee.",
+  "facts": {
+   "fee": "state park entry fee"
+  },
+  "url": "https://www.openstreetmap.org/#map=18/38.68061/-75.07138",
+  "coord_source": "openstreetmap (Tower 3 feature)"
+ },
+ {
+  "name": "Hagley Powder Yards",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "mill",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.78056,
+  "lng": -75.575,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Stone roll mills, races and ruins of the du Pont black powder works that ran along the Brandywine from 1802 to 1921. A museum property since 1957; paid admission.",
+  "facts": {
+   "built": 1802,
+   "abandoned": 1921,
+   "fee": "museum admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hagley_Museum_and_Library",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Iron Hill Ore Pits",
+  "type": "gem",
+  "tags": [
+   "mine",
+   "abandoned",
+   "geology",
+   "hiking"
+  ],
+  "lat": 39.63832,
+  "lng": -75.75888,
+  "town": "Newark",
+  "state": "DE",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Wooded hill pocked with old open iron-ore pits, crossed by the trails of Iron Hill Park and the Mason-Dixon Trail; a small museum sits nearby. County park off Old Baltimore Pike; free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Iron_Hill_Museum",
+  "coord_source": "nominatim (Iron Hill Park)"
+ },
+ {
+  "name": "Maryland Heights Stone Fort and Naval Battery",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "ruins",
+   "hiking",
+   "viewpoint"
+  ],
+  "lat": 39.34132,
+  "lng": -77.71623,
+  "town": "Sandy Hook",
+  "state": "MD",
+  "tier": 1,
+  "access": "public",
+  "blurb": "Civil War works on the mountain facing Harpers Ferry: the Naval Battery, gun pits and the unfinished 1862 Stone Fort, the park's largest stone Civil War structure, on the 1,448 ft crest. Steep 4.5-6.5 mi round trip from Lower Town.",
+  "facts": {
+   "walk_mi": 6.5,
+   "built": 1862,
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "nominatim / openstreetmap (Stone Fort, Stone Fort Trail)"
+ },
+ {
+  "name": "Potomac Power Plant and Armory Canal",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "industrial",
+   "ruins",
+   "canal",
+   "waterfront"
+  ],
+  "lat": 39.32902,
+  "lng": -77.74176,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Pulp mill of 1888 that ran as a hydroelectric plant from 1899 to 1991, with stone and brick mill remains along the old armory canal. The building is closed; see it from the 1.5 mi Armory Canal Trail off Potomac St, ending at Dam No. 3.",
+  "facts": {
+   "built": 1888,
+   "abandoned": 1991,
+   "walk_mi": 3
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "openstreetmap (Armory Canal Trail path; the plant itself is not mapped by name)"
+ },
+ {
+  "name": "Black Rock Mill",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "mill",
+   "historic",
+   "hiking"
+  ],
+  "lat": 39.12725,
+  "lng": -77.31463,
+  "town": "Germantown",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stabilized, roofless stone shell of an early-1800s grist and saw mill on Great Seneca Creek, where Black Rock Rd crosses the creek in Seneca Creek State Park. Small roadside lot; the Seneca Creek Greenway Trail passes it. Free.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Seneca_Creek_State_Park",
+  "coord_source": "nominatim (Black Rock Mill locality)"
+ },
+ {
+  "name": "Edwards Ferry: Jarboe's Store Ruins and Lock 25",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "canal",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.10353,
+  "lng": -77.47257,
+  "town": "Poolesville",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Roofless brick shell of a canal-side store next to Lock 25 and its lockhouse on the C&O Canal, at a former Potomac ferry crossing. At the end of Edwards Ferry Rd by the boat ramp; free. The lockhouse is a rental, not open.",
+  "facts": {},
+  "url": "https://www.nps.gov/choh/index.htm",
+  "coord_source": "openstreetmap (ruins feature beside Lock 25)"
+ },
+ {
+  "name": "Enchanted Forest at Clark's Elioak Farm",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "weird",
+   "historic"
+  ],
+  "lat": 39.2369,
+  "lng": -76.87588,
+  "town": "Ellicott City",
+  "state": "MD",
+  "tier": 2,
+  "access": "tour",
+  "blurb": "Storybook houses and figures rescued from the Enchanted Forest park on US-40, which closed in 1989 and sat rotting behind a fence; restored from 2005 on and set out on a farm. Paid admission ($8-13 in fall 2026), seasonal.",
+  "facts": {
+   "fee": "$8-13 admission",
+   "abandoned": 1989
+  },
+  "url": "https://clarklandfarm.com/",
+  "coord_source": "nominatim (Clark's Elioak Farm)"
+ },
+ {
+  "name": "Battery Hartshorne (Fort Smallwood Park)",
+  "type": "gem",
+  "tags": [
+   "fort",
+   "military",
+   "ruins",
+   "waterfront"
+  ],
+  "lat": 39.1662,
+  "lng": -76.47783,
+  "town": "Pasadena",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Concrete gun battery of the 1890s Patapsco coast-defense fort that gave Fort Smallwood Park its name, on Rock Point a few miles from Pasadena, near the fishing pier and beach. County park with a vehicle entry fee.",
+  "facts": {
+   "fee": "county park entry fee"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Smallwood_Park",
+  "coord_source": "nominatim / openstreetmap (Battery Hartshorne)"
+ },
+ {
+  "name": "Greenbury Point Radio Towers",
+  "type": "gem",
+  "tags": [
+   "military",
+   "abandoned",
+   "waterfront",
+   "hiking"
+  ],
+  "lat": 38.97778,
+  "lng": -76.45333,
+  "town": "Annapolis",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Three 600 ft lattice towers of 1938, all that stands of the Navy's NSS Annapolis transmitter station, on a peninsula across the Severn from Annapolis. Flat trails on Navy land; closed whenever the firing range is in use, so check first.",
+  "facts": {
+   "built": 1938
+  },
+  "url": "https://en.wikipedia.org/wiki/NSS_Annapolis",
+  "coord_source": "wikipedia (NSS Annapolis)"
+ },
+ {
+  "name": "Bazzel Church",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "historic"
+  ],
+  "lat": 38.45206,
+  "lng": -76.03105,
+  "town": "Bucktown",
+  "state": "MD",
+  "tier": 3,
+  "access": "view",
+  "blurb": "Weathered 1911 frame church alone in a field on Bestpitch Ferry Rd, on the site of an earlier chapel where Harriet Tubman's family is said to have worshipped. Fragile and on private ground; look from the roadside.",
+  "facts": {
+   "built": 1911
+  },
+  "url": "https://africanamerican.maryland.gov/wp-content/uploads/sites/3/2023/12/FY19-Annual-Report-of-the-African-American-Heritage-Preservation-Program-AAHPP.pdf",
+  "coord_source": "nominatim / openstreetmap (Bazzel Church)"
+ },
+ {
+  "name": "Old White Marsh Church Ruins",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "abandoned",
+   "historic"
+  ],
+  "lat": 38.697,
+  "lng": -76.05913,
+  "town": "Trappe",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Low brick walls of a colonial parish church that burned in the 1890s, in an old cemetery beside US-50 at Manadier Rd between Easton and Trappe. Roadside pull-in; free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/38.697/-76.05913",
+  "coord_source": "openstreetmap (Hole-in-the-Wall Cemetery, the churchyard at Manadier Rd; match by location, not by name)"
+ },
+ {
+  "name": "Baltimore Boulevard Remnants (Life of the Dunes Trail)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ruins",
+   "waterfront",
+   "hiking",
+   "weird"
+  ],
+  "lat": 38.18969,
+  "lng": -75.15953,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Broken asphalt of the main road of a 1950s resort subdivision on Assateague, destroyed by the March 1962 storm, half-buried in dunes along a short sandy loop trail in the national seashore. Park entry fee.",
+  "facts": {
+   "abandoned": 1962,
+   "fee": "park entry fee"
+  },
+  "url": "https://www.nps.gov/asis/index.htm",
+  "coord_source": "openstreetmap (Life of the Dunes Trail)"
+ },
+ {
+  "name": "Rock Run Historic Area and Canal Remains",
+  "type": "gem",
+  "tags": [
+   "canal",
+   "mill",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 39.60806,
+  "lng": -76.14278,
+  "town": "Havre de Grace",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone grist mill, a toll house for a river bridge that no longer exists and traces of the Susquehanna and Tidewater Canal, on the riverbank in Susquehanna State Park. Buildings open some summer weekends; grounds always.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Susquehanna_State_Park_(Maryland)",
+  "coord_source": "wikipedia (Susquehanna State Park)"
+ },
+ {
+  "name": "Wilkes Street Tunnel",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "tunnel",
+   "railway",
+   "historic"
+  ],
+  "lat": 38.7999,
+  "lng": -77.04299,
+  "town": "Alexandria",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Short stone-and-brick railroad tunnel from the 1850s under Wilkes St in Old Town, now a foot and bike path running from S. Royal St toward the Potomac waterfront. Free, always open.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/38.7999/-77.04299",
+  "coord_source": "openstreetmap (cycleway tunnel on Wilkes Street)"
+ },
+ {
+  "name": "Lorton Prison Beehive Brick Kiln",
+  "type": "gem",
+  "tags": [
+   "industrial",
+   "ruins",
+   "historic"
+  ],
+  "lat": 38.6818,
+  "lng": -77.25337,
+  "town": "Lorton",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Domed brick kiln surviving from the Lorton prison brickyard, where inmates made bricks for the prison and DC buildings; preserved with signs in Occoquan Regional Park on the Occoquan River. Free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/38.6818/-77.25337",
+  "coord_source": "nominatim / openstreetmap (Beehive Brick Kiln)"
+ },
+ {
+  "name": "Bolen Cemetery (Little Devils Stairs)",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "ghost-town",
+   "historic",
+   "hiking"
+  ],
+  "lat": 38.72292,
+  "lng": -78.27251,
+  "town": "Sperryville",
+  "state": "VA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone-walled family cemetery left from a mountain community removed for Shenandoah National Park, beside Keyser Run Fire Road. Passed on the Little Devils Stairs loop (about 5.5 mi) from the end of VA-614.",
+  "facts": {
+   "walk_mi": 5.5
+  },
+  "url": "https://www.nps.gov/shen/index.htm",
+  "coord_source": "nominatim (Bolen Cemetery, Rappahannock County)"
+ },
+ {
+  "name": "Lonaconing Silk Mill",
+  "type": "gem",
+  "tags": [
+   "abandoned",
+   "industrial",
+   "mill",
+   "institution"
+  ],
+  "lat": null,
+  "lng": null,
+  "town": "Lonaconing",
+  "state": "MD",
+  "tier": 2,
+  "access": "view",
+  "blurb": "Klotz Throwing Co. silk mill, shut in 1957 with machines and workers' belongings left in place. Private since; the owner (from 2022) is trying to save the failing roof. See the brick exterior from the street; tours only if offered.",
+  "facts": {
+   "abandoned": 1957
+  },
+  "url": "https://abandonedonline.net/revisiting-the-lonaconing-silk-mill/",
+  "coord_source": "null: no trustworthy coordinate found (not mapped by name in OSM/Nominatim/Wikipedia); it is in the town of Lonaconing"
+ },
+ {
+  "name": "Wilson's Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "abandoned",
+   "historic"
+  ],
+  "lat": 39.6575,
+  "lng": -77.84806,
+  "town": "Hagerstown",
+  "state": "MD",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Five-arch, 210 ft limestone bridge built in 1819 for the National Pike over Conococheague Creek; closed to traffic after Tropical Storm Agnes damaged it in 1972. Beside US-40 west of Hagerstown with a small pull-off; walk onto it.",
+  "facts": {
+   "built": 1819,
+   "abandoned": 1972
+  },
+  "url": "https://en.wikipedia.org/wiki/Wilson%27s_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Manayunk Bridge",
+  "type": "gem",
+  "tags": [
+   "bridge",
+   "railway",
+   "abandoned",
+   "viewpoint"
+  ],
+  "lat": 40.02528,
+  "lng": -75.22639,
+  "town": "Philadelphia",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Curving open-spandrel concrete arch viaduct of the Pennsylvania Railroad high over the Schuylkill, closed to trains in 1986 and reopened as a trail linking the Cynwyd Heritage Trail to Manayunk. Free.",
+  "facts": {
+   "abandoned": 1986
+  },
+  "url": "https://en.wikipedia.org/wiki/Manayunk_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Murphy Farm: John Brown's Fort Foundation",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "hiking",
+   "viewpoint"
+  ],
+  "lat": 39.30795,
+  "lng": -77.76158,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Foundation marking where John Brown's Fort stood on the Murphy farm for some years before returning to town, with Civil War earthworks and a bluff-top view over the Shenandoah. Easy 1-3 mi round trip on the Murphy-Chambers Farm trail.",
+  "facts": {
+   "walk_mi": 2,
+   "fee": "park entry fee"
+  },
+  "url": "https://www.nps.gov/hafe/planyourvisit/hikes.htm",
+  "coord_source": "nominatim / openstreetmap (John Brown Fort Foundation)"
+ },
+ {
+  "name": "Allstadt Farm Ruins (Schoolhouse Ridge South)",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "hiking"
+  ],
+  "lat": 39.30773,
+  "lng": -77.77765,
+  "town": "Harpers Ferry",
+  "state": "WV",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Stone ruin of the Greek Revival Allstadt house, its interior burned out in 1986, on the Schoolhouse Ridge South battlefield trail (up to 3.7 mi round trip) west of town. Look from outside; the park is still documenting the site.",
+  "facts": {
+   "walk_mi": 3.7,
+   "fee": "park entry fee"
+  },
+  "url": "https://home.nps.gov/hafe/learn/historyculture/top-10-ruins.htm",
+  "coord_source": "nominatim (Schoolhouse Ridge South Parking, the trailhead; ruin itself not mapped)"
+ },
+ {
+  "name": "Wrightsville Lime Kilns",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "industrial",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 40.02914,
+  "lng": -76.53,
+  "town": "Wrightsville",
+  "state": "PA",
+  "tier": 3,
+  "access": "public",
+  "blurb": "Bank of 19th-century stone lime kilns preserved beside the Susquehanna in Wrightsville, just north of the west end of the long concrete arch bridge. Roadside; free.",
+  "facts": {},
+  "url": "https://www.openstreetmap.org/#map=18/40.02914/-76.53",
+  "coord_source": "openstreetmap (Wrightsville Lime Kilns feature)"
+ }
+]

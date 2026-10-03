@@ -1,0 +1,11 @@
+{
+  "name": "cavaleiro-andante-tests",
+  "private": true,
+  "description": "Tests for Cavaleiro Andante (see ../README.md)",
+  "scripts": {
+    "test": "node gas_test.js && node data_test.js && node app_test.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^23.0.0"
+  }
+}

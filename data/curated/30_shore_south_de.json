@@ -1,0 +1,4875 @@
+[
+ {
+  "name": "Calvert Cliffs State Park",
+  "type": "hike",
+  "tags": [
+   "beach",
+   "fossils",
+   "hiking",
+   "trail",
+   "forest",
+   "geology",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 38.4004,
+  "lng": -76.42184,
+  "town": "Lusby",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "The 1.8-mile Red Trail runs past a beaver marsh to a quarter-mile Bay beach under Miocene cliffs. Sift the sand and wash line for fossil shark teeth.",
+  "facts": {
+   "length_mi": 3.6,
+   "fee": "$5 per vehicle MD residents, $7 out-of-state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/CalvertCliffs.aspx",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Flag Ponds Nature Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "fossils",
+   "swimming",
+   "hiking",
+   "nature",
+   "waterfront",
+   "fishing",
+   "birding"
+  ],
+  "lat": 38.45084,
+  "lng": -76.4637,
+  "town": "Lusby",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Half-mile walk through woods to a wide, quiet Bay beach with shark teeth in the wash line, plus ponds, boardwalks and a fishing pier. Non-county visitors pay a much higher gate fee.",
+  "facts": {
+   "fee": "Non-Calvert residents: $20 per vehicle Apr-Oct, $5 Nov-Mar",
+   "swim": "yes"
+  },
+  "url": "https://calvertcountymd.gov/FlagPonds",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Breezy Point Beach & Campground",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "fossils",
+   "fishing",
+   "camping",
+   "waterfront"
+  ],
+  "lat": 38.61889,
+  "lng": -76.51366,
+  "town": "Chesapeake Beach",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Half mile of sandy Bay beach with a netted swim area, a 200-foot fishing and crabbing pier and shark-tooth hunting. County-run; open May 1 to Oct 31 only.",
+  "facts": {
+   "fee": "Per person: non-residents $12-$20 adults, Calvert residents $6-$10",
+   "swim": "yes"
+  },
+  "url": "https://www.calvertcountymd.gov/3039/Breezy-Point-Beach-Campground",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "North Beach Boardwalk and Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "paved"
+  ],
+  "lat": 38.7075,
+  "lng": -76.53444,
+  "town": "North Beach",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Seven-block Bay boardwalk with a fishing pier and a small town beach. Walking the boardwalk is free; the sand has a daily fee in season that is far higher for visitors from outside Calvert County.",
+  "facts": {
+   "fee": "Boardwalk free; beach about $17-$25 per adult for out-of-county visitors in season",
+   "swim": "yes"
+  },
+  "url": "https://www.visitmaryland.org/listing/scenic-points-landmarks/town-north-beach",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Walton Beach Nature Preserve",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "nature",
+   "birding",
+   "beach"
+  ],
+  "lat": 38.71271,
+  "lng": -76.52956,
+  "town": "North Beach",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small town-owned preserve at the north end of North Beach where the marsh meets the Bay: a short path, benches and a strip of natural shoreline away from the paid beach.",
+  "facts": {},
+  "url": "https://baydreaming.com/destinations/north-beach-maryland",
+  "coord_source": "other (OpenStreetMap nature-reserve polygon at the north end of North Beach, via Photon; OSM names it only \"North Beach\" - verify)"
+ },
+ {
+  "name": "Chesapeake Beach Railway Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "waterfront",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.68781,
+  "lng": -76.54333,
+  "town": "Chesapeake Beach",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Flat boardwalk-and-gravel path on the old railway bed along Fishing Creek, crossing tidal marsh on long wooden bridges. Good for herons, ospreys and an easy out-and-back run.",
+  "facts": {},
+  "url": "https://www.chesapeakebeachmd.gov",
+  "coord_source": "nominatim"
+ },
+ {
+  "name": "Kings Landing Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "hiking",
+   "trail",
+   "fishing",
+   "kayak",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.62588,
+  "lng": -76.6697,
+  "town": "Huntingtown",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "260-acre county park on the Patuxent River and Cocktown Creek with a long fishing pier, marsh boardwalk, wooded trails and a kayak launch. Quiet on weekdays.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.calvertcountymd.gov/kingslanding",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Battle Creek Cypress Swamp Sanctuary",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "forest",
+   "nature",
+   "trail",
+   "birding"
+  ],
+  "lat": 38.49444,
+  "lng": -76.59417,
+  "town": "Prince Frederick",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "One of the northernmost stands of bald cypress in the country: a quarter-mile boardwalk loops among 100-foot trees and cypress knees in a swamp that looks like the Deep South.",
+  "facts": {
+   "length_mi": 0.25,
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/wildlife/Pages/NaturalAreas/Southern/Battle-Creek.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "American Chestnut Land Trust - North Side Trails (Double Oak Farm)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "kayak",
+   "birding"
+  ],
+  "lat": 38.54757,
+  "lng": -76.53385,
+  "town": "Prince Frederick",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Trailhead at Double Oak Farm for miles of wooded ravine trails down to Parkers Creek, an undeveloped tidal creek that runs to the Bay. A hand-pulled raft crosses the creek.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.acltweb.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "American Chestnut Land Trust - South Side Trails",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "historic"
+  ],
+  "lat": 38.51286,
+  "lng": -76.51828,
+  "town": "Port Republic",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Loop trails through mature forest, old farm sites and stream valleys in the Parkers Creek Preserve, starting from the trust's south trailhead off Scientists Cliffs Road.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.acltweb.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Jefferson Patterson Park & Museum",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "hiking",
+   "trail",
+   "historic",
+   "nature",
+   "beach"
+  ],
+  "lat": 38.40055,
+  "lng": -76.50701,
+  "town": "St. Leonard",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "560 acres of fields and woods on the Patuxent with shoreline trails, a recreated Woodland Indian village and the site of the 1814 Battle of St. Leonard Creek. State archaeology park.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://jefpat.maryland.gov",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Matoaka Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "fossils",
+   "geology",
+   "waterfront",
+   "swimming"
+  ],
+  "lat": 38.4708,
+  "lng": -76.48018,
+  "town": "St. Leonard",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Privately owned Bay beach below the Calvert Cliffs that sells day access: a quiet stretch of sand known for Miocene shells and shark teeth. Cash only; call ahead, it closes at capacity.",
+  "facts": {
+   "fee": "$10 per person, cash only",
+   "swim": "yes"
+  },
+  "url": "https://www.mgs.md.gov/geology/fossils/fossil_collecting.html",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Biscoe Gray Heritage Farm",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.48254,
+  "lng": -76.58696,
+  "town": "Prince Frederick",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County heritage farm beside Battle Creek with mown and wooded trails past old tobacco barns and farm buildings down to the creek marsh. Pairs well with the cypress swamp nearby.",
+  "facts": {},
+  "url": "https://www.calvertcountymd.gov",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Hallowing Point Waterfront Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "beach"
+  ],
+  "lat": 38.51024,
+  "lng": -76.66368,
+  "town": "Prince Frederick",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small state waterfront site on the Patuxent beside the Benedict bridge: two boat ramps, a kayak launch and a sandy strip of shoreline for fishing and picnicking. Open sunrise to sunset.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/Hallowing-Point-Waterfront-Park.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Solomons Riverwalk",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "paved",
+   "viewpoint",
+   "fishing"
+  ],
+  "lat": 38.31823,
+  "lng": -76.45553,
+  "town": "Solomons",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Boardwalk along the Patuxent on Solomons Island with benches, a gazebo and a public pier. Faces west across the river mouth, so it is one of the better sunset walks in Calvert County.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Solomons,_Maryland",
+  "coord_source": "other (OpenStreetMap place node for Solomons, via Photon; the Riverwalk runs along the road beside it)"
+ },
+ {
+  "name": "Calvert Marine Museum & Drum Point Lighthouse",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "fossils",
+   "waterfront"
+  ],
+  "lat": 38.33123,
+  "lng": -76.46334,
+  "town": "Solomons",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "An 1883 screwpile cottage lighthouse you can walk through, moved here from Drum Point, plus a fossil hall of Calvert Cliffs finds, river otters and a marsh walk.",
+  "facts": {
+   "fee": "museum admission"
+  },
+  "url": "https://www.calvertmarinemuseum.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Annmarie Sculpture Garden",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "forest",
+   "trail",
+   "paved"
+  ],
+  "lat": 38.34651,
+  "lng": -76.45233,
+  "town": "Solomons",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Quarter-mile paved path through 30 acres of woods lined with outdoor sculpture, including pieces on loan from the Smithsonian and National Gallery. Calm, shaded walk.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.annmariegarden.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cove Point Lighthouse",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "waterfront",
+   "viewpoint"
+  ],
+  "lat": 38.38625,
+  "lng": -76.38175,
+  "town": "Lusby",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Working 1828 brick lighthouse on a sand spit jutting into the Bay, with the LNG terminal offshore. The grounds only open on limited afternoons May-September (1-4 pm); check before driving.",
+  "facts": {},
+  "url": "https://www.calvertmarinemuseum.com",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Point Lookout State Park",
+  "type": "park",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "lighthouse",
+   "historic",
+   "camping",
+   "kayak",
+   "sunset",
+   "birding"
+  ],
+  "lat": 38.0375,
+  "lng": -76.32167,
+  "town": "Scotland",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "The tip of Southern Maryland, where the Potomac meets the Bay: swimming beach, fishing pier, an 1830 lighthouse and the remains of a Civil War prison camp. Water on both sides of the road.",
+  "facts": {
+   "fee": "$5 per vehicle; $7 per person on weekends and holidays May-Sep",
+   "swim": "yes"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/southern/PointLookout.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Elms Beach Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 38.19533,
+  "lng": -76.36781,
+  "town": "Dameron",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "County beach on the open Chesapeake south of Lexington Park: a long sandy shoreline with unsupervised swimming, fishing, crabbing and picnic tables under the pines.",
+  "facts": {
+   "fee": "Weekends and holidays: $7 county residents, $25 out-of-county",
+   "swim": "yes"
+  },
+  "url": "https://www.stmaryscountymd.gov/recreate/publiclandings/",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Myrtle Point Park",
+  "type": "park",
+  "tags": [
+   "beach",
+   "waterfront",
+   "hiking",
+   "trail",
+   "swimming",
+   "forest",
+   "fishing"
+  ],
+  "lat": 38.33335,
+  "lng": -76.49683,
+  "town": "California",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Wooded peninsula on the Patuxent across from Solomons with easy trails leading to several small sandy beaches. Unsupervised swimming, fishing and crabbing.",
+  "facts": {
+   "fee": "Weekends and holidays: $7 county residents, $25 out-of-county",
+   "swim": "yes"
+  },
+  "url": "https://www.stmaryscountymd.gov/recreate/publiclandings/",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Snow Hill Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "swimming",
+   "fishing"
+  ],
+  "lat": 38.3965,
+  "lng": -76.60656,
+  "town": "Mechanicsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Newer county waterfront park on a former farm on the Patuxent River, with a public beach, unsupervised swimming, fishing and crabbing.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://www.stmaryscountymd.gov/recreate/publiclandings/",
+  "coord_source": "other (OpenStreetMap: South Sandgates Road, the park's street, via Photon - approximate, park entrance not mapped)"
+ },
+ {
+  "name": "Greenwell State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "beach",
+   "hiking",
+   "trail",
+   "kayak",
+   "fishing",
+   "swimming"
+  ],
+  "lat": 38.36585,
+  "lng": -76.5307,
+  "town": "Hollywood",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "596 acres of farm fields and woods on the Patuxent with about 10 miles of trails, a small sandy swimming beach, a fishing pier and a kayak launch below the old Rosedale manor.",
+  "facts": {
+   "fee": "$3 per vehicle",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Greenwell_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Historic Sotterley",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "trail",
+   "garden"
+  ],
+  "lat": 38.3762,
+  "lng": -76.542,
+  "town": "Hollywood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Early-1700s Tidewater plantation above the Patuxent with an original slave cabin, colonial garden and several miles of trails through fields and woods down to the river.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.sotterley.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Newtowne Neck State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "beach",
+   "kayak",
+   "hiking",
+   "fishing",
+   "nature",
+   "historic"
+  ],
+  "lat": 38.24842,
+  "lng": -76.70434,
+  "town": "Leonardtown",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Undeveloped 794-acre peninsula between Breton Bay, St. Clements Bay and the Potomac. Farm lanes lead to several quiet sandy beaches and soft kayak launches.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/pages/southern/newtowne.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Leonardtown Wharf Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.28642,
+  "lng": -76.63832,
+  "town": "Leonardtown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small town park on Breton Bay at the foot of Washington Street with a promenade, benches, docks and a kayak launch.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.stmaryscountymd.gov/recreate/publiclandings/",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Moll Dyer Rock",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic"
+  ],
+  "lat": 38.28838,
+  "lng": -76.6342,
+  "town": "Leonardtown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "An 875-pound boulder tied to the legend of Moll Dyer, said to have frozen to death against it in 1697 after being driven out as a witch. Visitors look for her handprint in the stone.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.visitstmarysmd.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "St. Clement's Island State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "lighthouse",
+   "beach",
+   "fishing"
+  ],
+  "lat": 38.21155,
+  "lng": -76.74531,
+  "town": "Coltons Point",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Island in the Potomac where Maryland's first colonists landed in 1634, with a 40-foot cross, a rebuilt lighthouse and beaches. Reached only by boat; a seasonal water taxi runs from the museum.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/St._Clement%27s_Island_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Bushwood Wharf",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.28402,
+  "lng": -76.80191,
+  "town": "Bushwood",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County landing on the wide Wicomico River with a pier, floating dock and picnic tables. Faces west over open water, so it is a quiet local sunset spot.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.stmaryscountymd.gov/recreate/publiclandings/",
+  "coord_source": "other (OpenStreetMap hamlet node \"Bushwood Wharf\", via Photon - pier is at the end of the road)"
+ },
+ {
+  "name": "Piney Point Lighthouse Museum & Historic Park",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "waterfront",
+   "kayak"
+  ],
+  "lat": 38.1355,
+  "lng": -76.5297,
+  "town": "Piney Point",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Squat 1836 Potomac lighthouse you can climb, with a pier, boardwalk and kayak launch. A captured WWII German U-boat, U-1105, lies sunk just offshore as a state dive preserve.",
+  "facts": {
+   "fee": "small museum admission"
+  },
+  "url": "https://en.wikipedia.org/wiki/Piney_Point_Light",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "St. Mary's River State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "fishing",
+   "kayak",
+   "nature"
+  ],
+  "lat": 38.24968,
+  "lng": -76.5422,
+  "town": "Callaway",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "A 250-acre fishing lake ringed by a 7.5-mile wooded loop trail shared by hikers, runners and mountain bikers. No swimming; electric motors only, so it stays quiet.",
+  "facts": {
+   "length_mi": 7.5
+  },
+  "url": "https://en.wikipedia.org/wiki/St._Mary%27s_River_State_Park",
+  "coord_source": "other (OpenStreetMap: Camp Cosoma Road, the lake access road, via Photon)"
+ },
+ {
+  "name": "Historic St. Mary's City",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 38.18371,
+  "lng": -76.43023,
+  "town": "St. Mary's City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Outdoor museum on the site of Maryland's 1634 capital: rebuilt State House, a tall-ship replica, a tobacco plantation and miles of footpaths along the St. Mary's River.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.hsmcdigshistory.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Three Notch Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved"
+  ],
+  "lat": 38.48045,
+  "lng": -76.77872,
+  "town": "Charlotte Hall",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Paved rail-trail being built in sections along the old railroad through northern St. Mary's County. Flat and straight; the Charlotte Hall segments are the longest continuous run.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Three_Notch_Trail",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Mallows Bay Park",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "historic",
+   "kayak",
+   "waterfront",
+   "wildlife",
+   "birding",
+   "hiking",
+   "ruins"
+  ],
+  "lat": 38.47261,
+  "lng": -77.26858,
+  "town": "Nanjemoy",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "The \"Ghost Fleet\": more than 100 wooden WWI steamships scuttled in a Potomac cove, now islands of trees and osprey nests. See hulls from the shore trail at low tide or paddle among them.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mallows_Bay",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Nanjemoy WMA - Purse Area (former Purse State Park)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "fossils",
+   "geology",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 38.43028,
+  "lng": -77.25278,
+  "town": "Nanjemoy",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "A quarter-mile path from a roadside pull-off on MD 224 leads to a wild Potomac beach on Wades Bay with Paleocene shark teeth in the gravel. Go at low tide; the beach floods at high water.",
+  "facts": {
+   "length_mi": 0.5,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Purse_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Douglas Point Special Recreation Management Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "beach",
+   "historic",
+   "fossils"
+  ],
+  "lat": 38.44842,
+  "lng": -77.25599,
+  "town": "Nanjemoy",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Federal and state forest on the Potomac with two easy woodland trails, one ending at a secluded river beach and one passing the ruins of the 18th-century Chiles homesite.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.blm.gov",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Friendship Farm Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "kayak",
+   "fishing",
+   "birding"
+  ],
+  "lat": 38.45803,
+  "lng": -77.15811,
+  "town": "Nanjemoy",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on a bluff over Nanjemoy Creek: two loops totalling nearly 4 miles of field and forest trail with observation decks, plus a boat ramp for paddling the creek.",
+  "facts": {
+   "length_mi": 4.0,
+   "fee": "free"
+  },
+  "url": "https://www.charlescountyparks.com",
+  "coord_source": "other (OpenStreetMap: Friendship Landing Road, the park road, via Photon - approximate)"
+ },
+ {
+  "name": "Chapman State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "historic",
+   "nature"
+  ],
+  "lat": 38.61729,
+  "lng": -77.11615,
+  "town": "Indian Head",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Mature hardwood forest and meadows around the Mount Aventine manor, with trails dropping to a quiet Potomac shoreline that looks across to Virginia. Few visitors.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/parkmap.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Marshall Hall",
+  "type": "gem",
+  "tags": [
+   "ruins",
+   "historic",
+   "waterfront",
+   "fishing"
+  ],
+  "lat": 38.685,
+  "lng": -77.09861,
+  "town": "Bryans Road",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Brick shell of an early-1700s plantation house on the Potomac, later an amusement park, now part of the National Park Service's Piscataway Park. Boat ramp and river view across to Mount Vernon.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Marshall_Hall,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Smallwood State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "historic",
+   "camping",
+   "trail"
+  ],
+  "lat": 38.55211,
+  "lng": -77.18614,
+  "town": "Marbury",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Park on Mattawoman Creek, a tidal Potomac tributary known for bass fishing and summer lotus beds. Marina and ramps, short trails, and the restored home of General William Smallwood.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Smallwood_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Indian Head Rail Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "forest",
+   "wildlife",
+   "birding"
+  ],
+  "lat": 38.59613,
+  "lng": -76.9994,
+  "town": "White Plains",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "13 miles of flat, paved trail on a former Navy rail line between White Plains and Indian Head, passing through the Mattawoman Creek wetlands with almost no road crossings.",
+  "facts": {
+   "length_mi": 13.0,
+   "fee": "free"
+  },
+  "url": "https://www.charlescountyparks.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Chapel Point State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "beach"
+  ],
+  "lat": 38.46929,
+  "lng": -77.01386,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Undeveloped state land on the Port Tobacco River with a sandy soft launch for canoes and kayaks and a small shoreline for fishing. No facilities.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Chapel_Point_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "St. Ignatius Church Overlook, Chapel Point",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "historic",
+   "waterfront",
+   "sunset"
+  ],
+  "lat": 38.46548,
+  "lng": -77.02347,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Hilltop churchyard of a parish founded in 1641, looking down the Port Tobacco River to the Potomac. One of the widest water views in Southern Maryland.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.charlescountyparks.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Port Tobacco River Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "birding",
+   "wildlife",
+   "nature",
+   "waterfront"
+  ],
+  "lat": 38.50451,
+  "lng": -77.02072,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Three miles of easy trails with observation platforms over the Port Tobacco River marsh and a resident bald eagle nest that the county streams on a live camera.",
+  "facts": {
+   "length_mi": 3.0,
+   "fee": "free"
+  },
+  "url": "https://charlescountyparks.com/parks/eagle-cam",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Port Tobacco Historic Village",
+  "type": "gem",
+  "tags": [
+   "historic"
+  ],
+  "lat": 38.51057,
+  "lng": -77.01983,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "What is left of a colonial river port that silted up and faded: a rebuilt courthouse and a handful of 18th-century houses around a green. One of the smallest incorporated towns in Maryland.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Port_Tobacco_Village,_Maryland",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Thomas Stone National Historic Site",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "hiking"
+  ],
+  "lat": 38.53022,
+  "lng": -77.03605,
+  "town": "Port Tobacco",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Haberdeventure, the plantation home of a signer of the Declaration of Independence, set in more than 300 acres of fields and woods with a couple of miles of quiet walking paths.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Thomas_Stone_National_Historic_Site",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Allens Fresh / Zekiah Swamp Natural Environment Area",
+  "type": "gem",
+  "tags": [
+   "nature",
+   "birding",
+   "kayak",
+   "fishing",
+   "wildlife"
+  ],
+  "lat": 38.41818,
+  "lng": -76.93608,
+  "town": "Newburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Where the 20-mile Zekiah Swamp, one of the largest hardwood swamps in Maryland, drains into the Wicomico River. Roadside access on MD 234 for birding, fishing and launching a kayak; no trails.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Zekiah_Swamp",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Maxwell Hall Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "beach",
+   "nature"
+  ],
+  "lat": 38.53483,
+  "lng": -76.70777,
+  "town": "Hughesville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "About 14 miles of trails for hikers and horses across fields and woods above the Patuxent, with paths that drop to a sandy river beach near Benedict.",
+  "facts": {
+   "length_mi": 14.2,
+   "fee": "free"
+  },
+  "url": "https://www.charlescountyparks.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Gilbert Run Park",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "kayak",
+   "trail",
+   "forest",
+   "hiking"
+  ],
+  "lat": 38.49027,
+  "lng": -76.85648,
+  "town": "Dentsville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Wooded county park around the 60-acre Wheatley Lake with a two-mile lakeside trail, fishing piers and seasonal canoe and pedal-boat rentals.",
+  "facts": {
+   "length_mi": 2.0
+  },
+  "url": "https://www.charlescountyparks.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cedarville State Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "camping",
+   "fishing",
+   "nature"
+  ],
+  "lat": 38.64668,
+  "lng": -76.82999,
+  "town": "Brandywine",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "3,500 acres of pine and hardwood forest at the headwaters of Zekiah Swamp with about 19 miles of flat, marked loop trails, a fishing pond and a small campground.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Cedarville_State_Forest",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Turkey Point Lighthouse (Elk Neck State Park)",
+  "type": "hike",
+  "tags": [
+   "lighthouse",
+   "viewpoint",
+   "hiking",
+   "trail",
+   "waterfront",
+   "birding",
+   "historic",
+   "sunset"
+  ],
+  "lat": 39.44988,
+  "lng": -76.00842,
+  "town": "North East",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Easy gravel walk along 100-foot bluffs to an 1833 lighthouse at the tip of Elk Neck, where the Elk and North East rivers meet at the head of the Bay. Hawk-watch platform in fall.",
+  "facts": {
+   "length_mi": 1.5
+  },
+  "url": "https://en.wikipedia.org/wiki/Turkey_Point_Light",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Elk Neck State Park - North East Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "camping",
+   "kayak",
+   "forest"
+  ],
+  "lat": 39.49341,
+  "lng": -75.98938,
+  "town": "North East",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Sandy freshwater-tidal swimming beach on the North East River side of the Elk Neck peninsula, with picnic shelters, grills and wooded trails nearby. State park day-use fee.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/ElkNeck/Beach.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Elk Neck State Forest",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature"
+  ],
+  "lat": 39.58417,
+  "lng": -75.90556,
+  "town": "North East",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "About 3,500 acres of quiet oak and pine forest between North East and Elkton with miles of sandy forest roads and trails, including a stretch of the Mason-Dixon Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Elk_Neck_State_Forest",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fair Hill Natural Resources Management Area",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "hiking",
+   "forest",
+   "nature",
+   "historic",
+   "fishing"
+  ],
+  "lat": 39.70344,
+  "lng": -75.83161,
+  "town": "Elkton",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Former du Pont estate of 5,600 acres with about 80 miles of well-marked trails over rolling pasture and woods along Big Elk Creek. Among the best trail-running ground in the state.",
+  "facts": {
+   "fee": "$3 per vehicle MD residents, $5 out-of-state"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/FairHill/Trails.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Foxcatcher Farms Covered Bridge (Fair Hill)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "trail",
+   "fishing"
+  ],
+  "lat": 39.70968,
+  "lng": -75.83748,
+  "town": "Elkton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Red 1860 covered bridge over Big Elk Creek inside Fair Hill, one of only two historic covered bridges left in Cecil County. Trails lead out from the parking area by the bridge.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/Pages/central/FairHill/Trails.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Gilpin's Falls Covered Bridge",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfall"
+  ],
+  "lat": 39.64883,
+  "lng": -75.95558,
+  "town": "North East",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Maryland's longest surviving covered bridge, a 119-foot Burr arch span from 1860 beside MD 272. North East Creek tumbles over a rocky cascade just below; roadside parking, no formal trail to the falls.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Gilpin%27s_Falls_Covered_Bridge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bohemia River State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "waterfront"
+  ],
+  "lat": 39.46843,
+  "lng": -75.85579,
+  "town": "Chesapeake City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "State park opened in 2022 on former farmland along Great Bohemia Creek: about five miles of flat natural-surface trails through fields and woods to creek overlooks. Open 7 am to sunset.",
+  "facts": {
+   "length_mi": 5.0
+  },
+  "url": "https://en.wikipedia.org/wiki/Bohemia_River_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Ben Cardin C&D Canal Trail (Chesapeake City)",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "waterfront"
+  ],
+  "lat": 39.53303,
+  "lng": -75.79534,
+  "town": "Chesapeake City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved 1.8-mile path along the Chesapeake & Delaware Canal from Chesapeake City to the state line, where it joins Delaware's Castle Trail. Ocean-going ships pass at eye level.",
+  "facts": {
+   "length_mi": 1.8,
+   "fee": "free"
+  },
+  "url": "https://www.traillink.com/trail/ben-cardin-cd-canal-recreational-trail/",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "North East Community Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing",
+   "kayak",
+   "paved"
+  ],
+  "lat": 39.59371,
+  "lng": -75.94694,
+  "town": "North East",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Town park at the head of the North East River with a waterfront walking path, fishing pier, kayak launch and wide views down the river toward the Bay.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.cecilcountymd.gov/653/Local-Sites",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Mount Harmon Plantation",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "nature",
+   "trail",
+   "waterfront"
+  ],
+  "lat": 39.38389,
+  "lng": -75.94139,
+  "town": "Earleville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Restored 18th-century tobacco plantation at the end of a two-mile tree-tunnel lane, on a 200-acre nature preserve with trails along the Sassafras River. Seasonal hours; admission charged.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://en.wikipedia.org/wiki/Mount_Harmon",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Betterton Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "sunset"
+  ],
+  "lat": 39.37098,
+  "lng": -76.0636,
+  "town": "Betterton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Five-acre park where the Sassafras River meets the Bay: 300 feet of swimming beach in low-salinity water, a bathhouse, boardwalk and stone fishing jetty below an old resort town.",
+  "facts": {
+   "fee": "free",
+   "swim": "yes"
+  },
+  "url": "https://kentcounty.com/recreation/parks/betterton-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Ferry Park (Rock Hall Beach)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "sunset",
+   "waterfront"
+  ],
+  "lat": 39.13735,
+  "lng": -76.25678,
+  "town": "Rock Hall",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small public swimming beach and gazebo on Beach Road looking west across the widest part of the upper Bay toward the Western Shore. Known locally for sunsets.",
+  "facts": {
+   "swim": "yes"
+  },
+  "url": "https://kentcounty.com/recreation/parks/ferry-park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Eastern Neck National Wildlife Refuge",
+  "type": "park",
+  "tags": [
+   "wildlife",
+   "birding",
+   "hiking",
+   "trail",
+   "waterfront",
+   "nature",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 39.02181,
+  "lng": -76.22982,
+  "town": "Rock Hall",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Island refuge at the mouth of the Chester River reached by a small bridge. Seven short trails and boardwalks reach Bay overlooks and marsh; thousands of tundra swans and ducks in winter.",
+  "facts": {},
+  "url": "https://www.fws.gov/refuge/eastern-neck/visit-us",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Bogles Wharf Landing",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "birding"
+  ],
+  "lat": 39.03236,
+  "lng": -76.20964,
+  "town": "Rock Hall",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County landing on the Chester River side of Eastern Neck Island with a pier, ramp and a small sandy shoreline. A quiet place to sit or launch a kayak inside the refuge.",
+  "facts": {
+   "fee": "free to visit"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/bogles-wharf",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Turner's Creek Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "historic",
+   "kayak",
+   "fishing",
+   "trail",
+   "nature"
+  ],
+  "lat": 39.34936,
+  "lng": -75.98494,
+  "town": "Kennedyville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Bluff-top county park on a sheltered creek off the Sassafras River, with a public landing, an old granary, short trails and the Knocks Folly house. Lotus blooms fill the creek in summer.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/turners-creek-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Sassafras Natural Resources Management Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "beach",
+   "nature",
+   "birding"
+  ],
+  "lat": 39.34816,
+  "lng": -75.99141,
+  "town": "Kennedyville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "More than four miles of farm-lane and woodland trails across 1,200 acres to high bluffs and a sandy beach on the Sassafras River. Bald eagles are regular.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/sassafras-nrma",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Wilmer Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "sunset"
+  ],
+  "lat": 39.20523,
+  "lng": -76.06636,
+  "town": "Chestertown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Lawn and promenade on the Chester River at the foot of Chestertown's colonial waterfront, next to the college boathouse. Good for a short riverside walk.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://kentcounty.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cypress Branch State Park",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "nature",
+   "birding"
+  ],
+  "lat": 39.26922,
+  "lng": -75.83535,
+  "town": "Millington",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small state park opened in 2022 two miles north of Millington: a three-acre fishing pond with picnic tables and 314 acres of undeveloped meadow and woods to wander. Open 8 am to sunset.",
+  "facts": {},
+  "url": "https://dnr.maryland.gov/publiclands/pages/eastern/cypressbranch.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Terrapin Nature Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "hiking",
+   "trail",
+   "running",
+   "birding",
+   "sunset",
+   "nature",
+   "wildlife"
+  ],
+  "lat": 38.98996,
+  "lng": -76.32136,
+  "town": "Stevensville",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "276 acres at the foot of the Bay Bridge: a 3.25-mile oyster-shell trail through meadow, tidal ponds and woods to a long, quiet Bay beach with driftwood and bridge views.",
+  "facts": {
+   "length_mi": 3.25,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/terrapin-nature-park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Matapeake Clubhouse & Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "sunset",
+   "trail",
+   "dogs"
+  ],
+  "lat": 38.95497,
+  "lng": -76.35416,
+  "town": "Stevensville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Public swimming beach on the Bay below the old ferry clubhouse, with a Bay Bridge view, a mile of wooded trail and a separate dog beach.",
+  "facts": {
+   "fee": "No entry fee; county parking fee or permit may apply (sources differ)",
+   "swim": "yes"
+  },
+  "url": "https://www.theswimguide.org/beach/10104",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Matapeake Fishing Pier",
+  "type": "viewpoint",
+  "tags": [
+   "fishing",
+   "waterfront",
+   "sunset"
+  ],
+  "lat": 38.95361,
+  "lng": -76.3525,
+  "town": "Stevensville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Long lighted fishing pier and boat ramp at the former Bay ferry terminal, next to Matapeake Beach. Open water to the west makes it a simple sunset stop.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Matapeake_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Romancoke Fishing Pier",
+  "type": "viewpoint",
+  "tags": [
+   "fishing",
+   "waterfront",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.88081,
+  "lng": -76.33351,
+  "town": "Stevensville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County pier at the south end of Kent Island where MD 8 runs out, on the site of an old ferry landing. Long view down Eastern Bay; fishing, crabbing and a kayak launch.",
+  "facts": {
+   "fee": "county parking fee or permit"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/romancoke-pier",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Ferry Point Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "trail",
+   "hiking",
+   "birding",
+   "dogs",
+   "nature"
+  ],
+  "lat": 38.97864,
+  "lng": -76.2483,
+  "town": "Chester",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Marsh peninsula at Kent Narrows: a one-mile unpaved trail from the Chesapeake Heritage and Visitor Center ends at a shallow, sandy cove on the Chester River.",
+  "facts": {
+   "length_mi": 1.0,
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/ferry-point-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cross Island Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "waterfront",
+   "nature"
+  ],
+  "lat": 38.98106,
+  "lng": -76.29367,
+  "town": "Stevensville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Paved 6.5-mile trail across Kent Island from Terrapin Nature Park to Kent Narrows, over creeks and marsh on wooden bridges and through pine woods.",
+  "facts": {
+   "length_mi": 6.5,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cross_Island_Trail",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chesapeake Bay Environmental Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "birding",
+   "wildlife",
+   "nature",
+   "kayak",
+   "waterfront"
+  ],
+  "lat": 38.94828,
+  "lng": -76.22888,
+  "town": "Grasonville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "510-acre marsh peninsula near Kent Narrows with miles of flat trails, observation towers and blinds, a raptor aviary and kayak launches onto Marshy Creek. Non-members pay admission.",
+  "facts": {
+   "fee": "admission for non-members"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/chesapeake-bay-environmental-center",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Conquest Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "beach",
+   "birding",
+   "nature"
+  ],
+  "lat": 39.09361,
+  "lng": -76.11123,
+  "town": "Centreville",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "758 acres of fields, woods and shoreline between the Corsica and Chester rivers with more than four miles of trails. The sandy beach is run by the county and may need a reservation.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.qac.org/facilities/facility/details/Conquest-13",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Wye Island Natural Resources Management Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "nature",
+   "kayak",
+   "birding",
+   "running"
+  ],
+  "lat": 38.89345,
+  "lng": -76.13325,
+  "town": "Queenstown",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Low island of fields and old woods wrapped by the Wye River. Flat lanes and trails pass a holly tree nearly 300 years old and Schoolhouse Woods, one of the Shore's last old-growth stands.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Wye_Island_Natural_Resources_Management_Area",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Wye Island - Ferry Point Trail",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "beach",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.8794,
+  "lng": -76.18096,
+  "town": "Queenstown",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Short flat walk through a tunnel of old Osage orange trees to a small sandy beach on the Wye River at the west tip of the island, with a picnic table and rope swing.",
+  "facts": {
+   "swim": "unofficial"
+  },
+  "url": "https://www.bayjournal.com/columns/conservation_matters/wye-island-is-a-great-place-to-explore-by-land-water/article_4ee78ca3-9811-57ed-96c0-d644aabcbff0.html",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Wye Oak State Park and Wye Mill",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.94007,
+  "lng": -76.08438,
+  "town": "Wye Mills",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Tiny park around the stump of the Wye Oak, a 460-year-old white oak that was the largest in the country until a 2002 storm felled it. A clone grows on the spot; a working 1682 grist mill is next door.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wye_Oak_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Tuckahoe State Park",
+  "type": "park",
+  "tags": [
+   "hiking",
+   "trail",
+   "kayak",
+   "fishing",
+   "forest",
+   "camping",
+   "running",
+   "nature"
+  ],
+  "lat": 38.96758,
+  "lng": -75.94268,
+  "town": "Queen Anne",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Wooded stream-valley park with a 60-acre lake and flooded forest to paddle, plus 20 miles of hiking, biking and horse trails along Tuckahoe Creek.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/Tuckahoe/Trails-and-Trail-Map.aspx",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Adkins Arboretum",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "forest",
+   "nature",
+   "hiking",
+   "birding"
+  ],
+  "lat": 38.95329,
+  "lng": -75.93344,
+  "town": "Ridgely",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "400-acre native-plant garden and preserve inside Tuckahoe State Park, with five miles of paths through meadow, bottomland forest and wetland. Best for spring wildflowers and fall color.",
+  "facts": {
+   "length_mi": 5.0
+  },
+  "url": "https://www.adkinsarboretum.org",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Easton Point Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.77313,
+  "lng": -76.09062,
+  "town": "Easton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small park at Easton Point, the head of the Tred Avon River a mile west of downtown Easton, beside the public landing. Benches and open water views; an easy place to read by the river.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/kayak-boat-launches/easton-point-landing",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Pickering Creek Audubon Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "birding",
+   "wildlife",
+   "nature",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.8598,
+  "lng": -76.1235,
+  "town": "Easton",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "400-acre working farm and sanctuary on Pickering Creek with four miles of trails through forest, meadow and restored wetlands, viewing platforms and a creekside dock.",
+  "facts": {
+   "length_mi": 4.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/pickering-creek-audubon-center",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "The Strand Beach, Oxford",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "swimming"
+  ],
+  "lat": 38.69433,
+  "lng": -76.17054,
+  "town": "Oxford",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Narrow strip of town beach along The Strand in Oxford, facing the Tred Avon River and the ferry dock. Calm, shallow water and a walkable colonial-era village behind it.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/oxford-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Oxford-Bellevue Ferry",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 38.69316,
+  "lng": -76.17434,
+  "town": "Oxford",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small car ferry across the Tred Avon River, started in 1683 and believed to be the oldest privately owned ferry service in the country. Runs spring to fall; closed December to March.",
+  "facts": {
+   "fee": "About $16 car and driver one way"
+  },
+  "url": "https://en.wikipedia.org/wiki/Oxford%E2%80%93Bellevue_Ferry",
+  "coord_source": "other (OpenStreetMap: Ferry Slip Road at the Oxford dock, via Photon)"
+ },
+ {
+  "name": "Oxford Conservation Park",
+  "type": "park",
+  "tags": [
+   "nature",
+   "trail",
+   "birding"
+  ],
+  "lat": 38.68102,
+  "lng": -76.16154,
+  "town": "Oxford",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park at the edge of Oxford with mown and gravel paths looping through planted meadows, young woodland and a pond. Flat, open and quiet.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://tourtalbot.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Bellevue Landing",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "beach",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.70249,
+  "lng": -76.18175,
+  "town": "Royal Oak",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Public dock, boat ramp, picnic area and a tiny beach at the Bellevue end of the Oxford ferry crossing. Faces east over the Tred Avon, so it is a sunrise spot.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/bellevue-landing",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "St. Michaels Nature Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "waterfront"
+  ],
+  "lat": 38.77679,
+  "lng": -76.21711,
+  "town": "St. Michaels",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Short paved rail-trail across St. Michaels that crosses a creek on a covered footbridge and passes marsh and back yards. Easy walk or jog away from the busy main street.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://tourtalbot.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Chesapeake Bay Maritime Museum",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.78734,
+  "lng": -76.22023,
+  "town": "St. Michaels",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Eighteen-acre waterfront campus with the 1879 Hooper Strait screwpile lighthouse, which you can walk through, a working boatyard and a floating fleet of Bay workboats.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://cbmm.org",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Claiborne Landing",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "beach",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.83685,
+  "lng": -76.27984,
+  "town": "Claiborne",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Old steamboat and ferry landing on Eastern Bay: a stone jetty, boat ramp and a short path to a small beach and wading area. Open water to the west for sunsets.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/claiborne-landing",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Dogwood Harbor, Tilghman Island",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "historic",
+   "fishing"
+  ],
+  "lat": 38.71284,
+  "lng": -76.33427,
+  "town": "Tilghman",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Working harbor just past the Knapps Narrows drawbridge, home port to some of the last skipjacks that dredge oysters under sail. Watermen unload crabs and oysters at the docks.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Tilghman_Island,_Maryland",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Black Walnut Point Natural Resources Management Area",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "viewpoint",
+   "trail",
+   "birding",
+   "fishing",
+   "nature"
+  ],
+  "lat": 38.68087,
+  "lng": -76.34348,
+  "town": "Tilghman",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "The southern tip of Tilghman Island, with the Bay on one side and the Choptank on the other. Park at the county lot and walk in; a short loop trail runs through the woods. Gate open 9 am-5 pm.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/Black-Walnut-Point.aspx",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Bill Burton Fishing Pier State Park",
+  "type": "park",
+  "tags": [
+   "fishing",
+   "waterfront",
+   "trail",
+   "beach"
+  ],
+  "lat": 38.59002,
+  "lng": -76.04359,
+  "town": "Trappe",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The old Choptank River bridge, kept as fishing piers beside the new one, with a short trail and a strip of river beach on the Talbot side. Pier sections have been closed for repairs; check first.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bill_Burton_Fishing_Pier_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Frederick Douglass Park on the Tuckahoe",
+  "type": "park",
+  "tags": [
+   "historic",
+   "waterfront",
+   "nature",
+   "viewpoint"
+  ],
+  "lat": 38.91278,
+  "lng": -75.95363,
+  "town": "Queen Anne",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County park on Tuckahoe Creek near the farm where Frederick Douglass was born, with overlooks across the creek marsh and signs on his early life.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/frederick-douglass-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Martinak State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "camping",
+   "trail",
+   "forest"
+  ],
+  "lat": 38.8625,
+  "lng": -75.83972,
+  "town": "Denton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small wooded park where Watts Creek joins the Choptank River: a couple of miles of easy trails, fishing pier, boat ramp and campground under tall hardwoods.",
+  "facts": {
+   "length_mi": 2.2,
+   "fee": "free"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/martinak.aspx",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Idylwild Wildlife Management Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "wildlife"
+  ],
+  "lat": 38.72903,
+  "lng": -75.74144,
+  "town": "Federalsburg",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "More than 3,000 acres of sandy pine-oak forest and swamp along Marshyhope Creek, with unpaved lanes for walking. Managed for hunting, so wear orange in season.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/idylwild-wildlife-mgmt-area",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Blackwater National Wildlife Refuge - Wildlife Drive",
+  "type": "park",
+  "tags": [
+   "wildlife",
+   "birding",
+   "nature",
+   "sunset",
+   "trail",
+   "paved",
+   "kayak"
+  ],
+  "lat": 38.44539,
+  "lng": -76.09165,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Four-mile drive, also open to walkers and bikes, across tidal marsh and drowned pine forest with one of the largest bald eagle populations on the East Coast. Short side trails; huge skies at dusk.",
+  "facts": {
+   "length_mi": 4.0,
+   "fee": "$3 per vehicle, $1 walk or bike"
+  },
+  "url": "https://fws.gov/refuge/Blackwater",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Harriet Tubman Underground Railroad State Park",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "nature",
+   "trail"
+  ],
+  "lat": 38.44953,
+  "lng": -76.13791,
+  "town": "Church Creek",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Visitor center and short paths set in the marsh and farm country where Harriet Tubman was enslaved and later led people north. The landscape around it has changed little.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Harriet_Tubman_Underground_Railroad_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Hoopers Island - Tylers Cove",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "viewpoint",
+   "fishing",
+   "kayak",
+   "birding"
+  ],
+  "lat": 38.35158,
+  "lng": -76.2295,
+  "town": "Fishing Creek",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Public landing on Upper Hooper Island, the start of a narrow road that runs between the Honga River and the open Bay past crab houses and over a high causeway bridge. Water in every direction at sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hoopers_Island",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Hoopersville (end of Hoopers Island Road)",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "viewpoint",
+   "fishing"
+  ],
+  "lat": 38.26111,
+  "lng": -76.18,
+  "town": "Hoopersville",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Watermen's village on Middle Hooper Island where the public road gives out, most of an hour from Cambridge. The last stretch crosses a causeway with the Bay lapping at both shoulders.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Hoopersville,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Taylors Island",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "kayak",
+   "historic",
+   "birding"
+  ],
+  "lat": 38.46889,
+  "lng": -76.29889,
+  "town": "Taylors Island",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Low island of marsh, loblolly pine and a few old churches across the Slaughter Creek bridge, where a small cannon captured from the British in 1814 sits by the road. Very little traffic.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Taylors_Island,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Robinson Neck Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "forest"
+  ],
+  "lat": 38.43327,
+  "lng": -76.28475,
+  "town": "Taylors Island",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Nature Conservancy trail on Taylors Island, 1.35 miles each way through loblolly pine and over boardwalks to open marsh. Remote and silent; wet underfoot, buggy in summer. No dogs.",
+  "facts": {
+   "length_mi": 2.7,
+   "fee": "free",
+   "dogs": "not allowed"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/robinson-neck-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Elliott Island Road (Fishing Bay marshes)",
+  "type": "gem",
+  "tags": [
+   "wildlife",
+   "birding",
+   "nature",
+   "sunset",
+   "viewpoint",
+   "weird"
+  ],
+  "lat": 38.31,
+  "lng": -75.99639,
+  "town": "Vienna",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Dead-end road running nearly 20 miles from Vienna across the vast Fishing Bay marsh to the hamlet of Elliott. Almost no buildings, open horizon, famous among birders. It can flood at high tide.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Elliott,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Long Wharf Park and Choptank River Lighthouse",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "lighthouse",
+   "sunset",
+   "paved",
+   "historic"
+  ],
+  "lat": 38.57572,
+  "lng": -76.07385,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Cambridge's waterfront green on the broad Choptank, with a replica six-sided screwpile lighthouse at the end of the pier holding a small free museum. The skipjack Nathan docks here.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://choosecambridge.com/261/Marina-Parks",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Great Marsh Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.58341,
+  "lng": -76.07999,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "City park on a point in the Choptank River with a boat launch, fishing piers, picnic tables and an open western horizon over the water.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://choosecambridge.com/261/Marina-Parks",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Sailwinds Park and Dorchester Visitor Center",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "viewpoint"
+  ],
+  "lat": 38.57226,
+  "lng": -76.06468,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Riverside park beside the US 50 bridge with a boardwalk, a strip of sand and the visitor center under its 100-foot sail canopy. Good view of the two-mile bridge; no swimming.",
+  "facts": {
+   "fee": "free",
+   "swim": "no"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/sailwinds-park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Spocott Windmill",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.58846,
+  "lng": -76.18165,
+  "town": "Cambridge",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "A working English-style post windmill, the only one in Maryland, rebuilt in 1972 beside a one-room schoolhouse and a tenant house on the road to Hoopers Island. Grounds open daily.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://visitdorchester.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Pemberton Historical Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "historic",
+   "nature",
+   "birding",
+   "forest"
+  ],
+  "lat": 38.34845,
+  "lng": -75.64193,
+  "town": "Salisbury",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "262 acres on the Wicomico River around the 1741 Pemberton Hall, with several miles of trails through pine woods, meadow and tidal marsh on boardwalks.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/pemberton-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cedar Hill Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "sunset",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.3114,
+  "lng": -75.89193,
+  "town": "Bivalve",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "County marina park on the wide lower Nanticoke with a small beach, kayak launch, pavilions and swinging benches on a hill above the river. Faces west for sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.wicomicotourism.org/blog/eight-great-places-to-watch-the-sunset-in-wicomico-county",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Cove Road Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "sunset",
+   "kayak"
+  ],
+  "lat": 38.28768,
+  "lng": -75.90192,
+  "town": "Nanticoke",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Small county beach on the Nanticoke River at the end of Cove Road, reached by a short ramp and a few steps. Room for a handful of cars; locals come with a blanket for sunset.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/kayak-boat-launches/cove-road-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Roaring Point Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "sunset",
+   "trail",
+   "fishing",
+   "birding"
+  ],
+  "lat": 38.26572,
+  "lng": -75.91517,
+  "town": "Nanticoke",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "County park where the Nanticoke opens into Tangier Sound, with a sandy shoreline and the mile-long Bell Island Trail out to a wooden pier. Feels like the end of the map.",
+  "facts": {
+   "length_mi": 1.0,
+   "fee": "free"
+  },
+  "url": "https://www.wicomicotourism.org/blog/eight-great-places-to-watch-the-sunset-in-wicomico-county",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Tyaskin Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.32778,
+  "lng": -75.87519,
+  "town": "Tyaskin",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county park on Wetipquin Creek near the Nanticoke with a little sandy beach, pier and boat ramp. Rarely more than a few cars.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/tyaskin-park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Cherry Beach Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "kayak",
+   "fishing"
+  ],
+  "lat": 38.5451,
+  "lng": -75.71745,
+  "town": "Sharptown",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Town park on the upper Nanticoke River at Sharptown with a small sandy beach, boat ramp and picnic area on a quiet, tree-lined bend.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/cherry-beach-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Whitehaven Ferry",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 38.26917,
+  "lng": -75.79111,
+  "town": "Whitehaven",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Free three-car cable ferry across the Wicomico River at a village of old houses, on a crossing in use since the 1680s. Runs daily except Christmas, weather and tide permitting.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Whitehaven_Ferry",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Pirate's Wharf Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "trail",
+   "nature",
+   "paved"
+  ],
+  "lat": 38.31978,
+  "lng": -75.75197,
+  "town": "Quantico",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "300-acre county park on the Wicomico River, opened in 2023, with just over two miles of accessible walking trails. The boat ramp, pier and river overlooks are under construction until about 2027.",
+  "facts": {
+   "length_mi": 2.0,
+   "fee": "free"
+  },
+  "url": "https://www.wicomicorecandparks.org/park-list/pirate-s-wharf-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Mason-Dixon Middle Point Marker",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird"
+  ],
+  "lat": 38.46008,
+  "lng": -75.69366,
+  "town": "Mardela Springs",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Stones under a small brick pavilion beside Route 54 mark the midpoint of the 1751 Transpeninsular Line, the southwest corner of Delaware and the spot where Mason and Dixon began their line north.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.atlasobscura.com/places/transpeninsular-midpoint-marker",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Janes Island State Park",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "waterfront",
+   "beach",
+   "camping",
+   "sunset",
+   "birding",
+   "nature",
+   "fishing"
+  ],
+  "lat": 38.01057,
+  "lng": -75.84833,
+  "town": "Crisfield",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Marsh island on Tangier Sound with seven marked water trails starting at the park marina. Paddle through the guts to miles of empty beach that can only be reached by boat.",
+  "facts": {
+   "fee": "No day-use fee; boat ramp $7 MD residents, $9 out-of-state",
+   "swim": "unofficial"
+  },
+  "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/JanesIsland.aspx",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Deal Island Wildlife Management Area",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "birding",
+   "wildlife",
+   "nature",
+   "sunset",
+   "kayak"
+  ],
+  "lat": 38.18627,
+  "lng": -75.89343,
+  "town": "Dames Quarter",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Thousands of acres of tidal marsh with a big impoundment circled by a flat dike trail of more than seven miles. Herons, ibis and waterfowl in every season; no shade.",
+  "facts": {
+   "length_mi": 7.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/deal-island-wildlife-mgt-area",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Wenona Harbor, Deal Island",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "historic",
+   "sunset",
+   "fishing"
+  ],
+  "lat": 38.13889,
+  "lng": -75.95028,
+  "town": "Wenona",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The end of the Deal Island road: a watermen's harbor on Tangier Sound stacked with crab pots, where a few working skipjacks still tie up.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Wenona,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Raccoon Point Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "kayak",
+   "sunset"
+  ],
+  "lat": 38.14075,
+  "lng": -75.78624,
+  "town": "Westover",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Out-of-the-way county park on the Manokin River with a strand of bayside beach, a soft launch for kayaks and a pavilion. Open 7 am to 7 pm.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://visitsomerset.com/listing/raccoon-point-beach-and-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Wellington Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 37.99186,
+  "lng": -75.8561,
+  "town": "Crisfield",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small county beach just north of Crisfield, near the Janes Island channel, with a fishing pier, kayak launch, restrooms and a playground.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/wellington-beach",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Smith Island (Ewell)",
+  "type": "gem",
+  "tags": [
+   "waterfront",
+   "historic",
+   "kayak",
+   "birding",
+   "weird"
+  ],
+  "lat": 37.98809,
+  "lng": -76.03089,
+  "town": "Ewell",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Maryland's only inhabited island with no bridge, 45 minutes by passenger ferry from Crisfield's city dock. Three crabbing villages, marsh in every direction and a distinct island dialect.",
+  "facts": {
+   "fee": "Ferry about $25 round trip"
+  },
+  "url": "https://visitsmithisland.com/gettinghere.html",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Pocomoke River State Park - Shad Landing",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "forest",
+   "trail",
+   "camping",
+   "fishing",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.1405,
+  "lng": -75.44082,
+  "town": "Snow Hill",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Park on the dark, tannin-stained Pocomoke River, lined with bald cypress. Marina, canoe rentals, a pool and the short Trail of Change through the swamp forest.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Pocomoke_River_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Pocomoke River State Park - Milburn Landing",
+  "type": "hike",
+  "tags": [
+   "forest",
+   "trail",
+   "hiking",
+   "kayak",
+   "camping",
+   "nature"
+  ],
+  "lat": 38.12433,
+  "lng": -75.48985,
+  "town": "Pocomoke City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "The quieter side of the park across the river, with a boat ramp, a small campground and the Bald Cypress Nature Trail looping through loblolly pine and cypress swamp.",
+  "facts": {},
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/pocomoke-river-state-park-milburn-landing",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Furnace Town and the Paul Leifer Nature Trail",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "forest",
+   "trail",
+   "nature",
+   "birding",
+   "weird"
+  ],
+  "lat": 38.20443,
+  "lng": -75.47002,
+  "town": "Snow Hill",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "A 35-foot brick iron furnace from the 1830s stands in the forest beside a rebuilt village. The one-mile Paul Leifer Trail starts here and runs on boardwalk into the cypress swamp.",
+  "facts": {
+   "length_mi": 1.0,
+   "fee": "village admission charged"
+  },
+  "url": "https://en.wikipedia.org/wiki/Nassawango_Iron_Furnace_Site",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Cypress Park and Nature Trail, Pocomoke City",
+  "type": "park",
+  "tags": [
+   "trail",
+   "forest",
+   "waterfront",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.07785,
+  "lng": -75.57075,
+  "town": "Pocomoke City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Riverside town park with a boardwalk nature trail that leaves the lawn and winds through bald cypress swamp along the Pocomoke River.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/cypress-park-on-the-river",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Public Landing",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.14901,
+  "lng": -75.28741,
+  "town": "Snow Hill",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Old bayside resort turned quiet county landing on Chincoteague Bay: a pier, boat ramp and a small beach on shallow water looking across to Assateague Island.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Public_Landing,_Maryland",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "George Island Landing",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "birding",
+   "fishing"
+  ],
+  "lat": 38.04278,
+  "lng": -75.36167,
+  "town": "Stockton",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Remote landing at the end of a marsh road on lower Chincoteague Bay, next to a seafood dock. Launch a kayak or just watch the light on miles of open salt marsh.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/George_Island_Landing,_Maryland",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Assateague State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "camping",
+   "wildlife",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.23672,
+  "lng": -75.13819,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Two miles of wide Atlantic beach on a barrier island where wild horses wander through the dunes and parking lots. Lifeguards in summer; the bay side has marsh and a nature center.",
+  "facts": {
+   "fee": "$5 per person Memorial Day-Labor Day, $5 per vehicle off season",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Assateague_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Assateague Island National Seashore (Maryland)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "wildlife",
+   "camping",
+   "kayak",
+   "birding",
+   "nature",
+   "waterfront"
+  ],
+  "lat": 38.2476,
+  "lng": -75.1545,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 1,
+  "blurb": "Undeveloped barrier island south of the state park: ocean beach for miles, wild horses, bayside paddling and backcountry camping. Start at the visitor center before the bridge.",
+  "facts": {
+   "fee": "NPS entrance fee per vehicle",
+   "swim": "yes"
+  },
+  "url": "https://www.nps.gov/asis/planyourvisit/fees.htm",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Assateague Nature Trails (Life of the Marsh, Forest and Dunes)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "wildlife",
+   "birding",
+   "forest"
+  ],
+  "lat": 38.20587,
+  "lng": -75.16203,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "Three short walks inside the national seashore, each about half a mile: a marsh boardwalk on the bay, a pine forest walk and a sand trail through the dunes. Horses are common.",
+  "facts": {
+   "fee": "NPS entrance fee per vehicle"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/assateague-island-national-seashore%3A-life-of-the-marsh",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Old Ferry Landing, Assateague",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "kayak",
+   "fishing",
+   "wildlife"
+  ],
+  "lat": 38.20039,
+  "lng": -75.16286,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Bayside spot inside the national seashore for launching a kayak, crabbing and clamming in the shallows, and watching the sun set over Sinepuxent Bay.",
+  "facts": {
+   "fee": "NPS entrance fee per vehicle"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/assateague-island%3A-old-ferry-landing",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Rackliffe House Trail",
+  "type": "hike",
+  "tags": [
+   "historic",
+   "trail",
+   "hiking",
+   "waterfront",
+   "forest"
+  ],
+  "lat": 38.24596,
+  "lng": -75.16101,
+  "town": "Berlin",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Flat 1.3-mile loop through woods from the Assateague visitor center to a restored 1740s plantation house overlooking Sinepuxent Bay and the island.",
+  "facts": {
+   "length_mi": 1.3,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/assateague-island-state-park%3A-rackliffe-house-trail",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Ocean City Inlet and Boardwalk",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "paved",
+   "running"
+  ],
+  "lat": 38.32456,
+  "lng": -75.09046,
+  "town": "Ocean City",
+  "state": "MD",
+  "tier": 2,
+  "blurb": "South end of the nearly three-mile boardwalk, where the inlet cut by a 1933 hurricane separates Ocean City from Assateague. Wide beach, jetty fishing and boats running the inlet.",
+  "facts": {
+   "fee": "beach free; paid parking",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Ocean_City,_Maryland",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Sunset Park, Ocean City",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "viewpoint"
+  ],
+  "lat": 38.32768,
+  "lng": -75.09069,
+  "town": "Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small bayside park on South Division Street facing west over the Isle of Wight Bay channel and the fishing fleet. Built for watching the sun go down.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/sunset-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Northside Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "paved",
+   "fishing",
+   "running"
+  ],
+  "lat": 38.43256,
+  "lng": -75.05939,
+  "town": "Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "58-acre bayside park at 125th Street with a paved loop path, lagoon footbridge and fishing pier on Assawoman Bay. The quiet side of town at sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/northside-park",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Homer Gudelsky Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "viewpoint"
+  ],
+  "lat": 38.33015,
+  "lng": -75.09595,
+  "town": "West Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Small sandy beach on the West Ocean City side of the inlet, known locally as Stinky Beach, looking straight across at the boardwalk and the boats heading out to sea.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/homer-gudelsky-park-%22stinky-beach%22",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Herring Creek Nature Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "nature",
+   "birding",
+   "waterfront"
+  ],
+  "lat": 38.34787,
+  "lng": -75.12329,
+  "town": "West Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "County nature park with an easy loop path through meadow and woods to an overlook on Herring Creek, minutes from the Route 50 strip.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://visitmarylandscoast.org/stories/post/worcester-county-md-parks-and-outdoor-recreation",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Isle of Wight Nature Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.38881,
+  "lng": -75.10867,
+  "town": "Ocean City",
+  "state": "MD",
+  "tier": 3,
+  "blurb": "Quiet county park on a marsh island where Route 90 crosses to Ocean City, with two piers, a canoe and kayak launch and picnic tables on the St. Martin River.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/isle-of-wight-nature-park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Chincoteague National Wildlife Refuge - Wildlife Loop",
+  "type": "run",
+  "tags": [
+   "wildlife",
+   "birding",
+   "trail",
+   "paved",
+   "running",
+   "nature",
+   "sunset"
+  ],
+  "lat": 37.91053,
+  "lng": -75.34991,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "Paved 3.2-mile loop around Snow Goose Pool on Assateague Island, for walkers and bikes all day and cars only after 3 pm. Egrets, shorebirds and the wild ponies grazing the marsh.",
+  "facts": {
+   "length_mi": 3.2,
+   "fee": "$10 per vehicle daily, $25 weekly; free on foot or bike"
+  },
+  "url": "https://fws.gov/refuge/chincoteague/visit-us/fees",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Assateague Lighthouse",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "viewpoint",
+   "trail",
+   "forest"
+  ],
+  "lat": 37.91118,
+  "lng": -75.356,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Red-and-white striped 1867 lighthouse, 142 feet tall, on a wooded dune inside the refuge. A short loop trail climbs to its base; the tower is open for climbs in season.",
+  "facts": {
+   "length_mi": 0.4,
+   "fee": "refuge fee $10 per vehicle"
+  },
+  "url": "https://en.wikipedia.org/wiki/Assateague_Light",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Chincoteague Refuge Beach (Toms Cove)",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "wildlife",
+   "fishing",
+   "birding"
+  ],
+  "lat": 37.89001,
+  "lng": -75.3449,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 1,
+  "blurb": "The wild Atlantic beach at the end of the refuge road: no buildings beyond a small visitor center, lifeguards in summer, and miles of sand to walk south along Toms Cove.",
+  "facts": {
+   "fee": "refuge fee $10 per vehicle",
+   "swim": "yes"
+  },
+  "url": "https://fws.gov/refuge/chincoteague/visit-us/fees",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Woodland Trail (Chincoteague NWR)",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "forest",
+   "wildlife",
+   "paved",
+   "hiking"
+  ],
+  "lat": 37.89529,
+  "lng": -75.36041,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Paved 1.6-mile loop through loblolly pine forest with an overlook where the ponies often graze the marsh. Delmarva fox squirrels live in the pines.",
+  "facts": {
+   "length_mi": 1.6,
+   "fee": "refuge fee $10 per vehicle"
+  },
+  "url": "https://www.nps.gov/places/va-woodland-trail.htm",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Robert Reed Downtown Waterfront Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing"
+  ],
+  "lat": 37.93467,
+  "lng": -75.37693,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Town park on Chincoteague Channel on Main Street with a boardwalk, docks and benches facing west over the water and the working boats.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/downtown-waterfront-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Chincoteague Veterans Memorial Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 37.91751,
+  "lng": -75.38084,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Bayside park on the south part of the island with a fishing and crabbing pier, boat ramp and an open view west across the channel. A local sunset spot.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/veteran%27s-memorial-park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Chincoteague Island Nature Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "forest",
+   "paved",
+   "running",
+   "nature"
+  ],
+  "lat": 37.94038,
+  "lng": -75.35949,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Paved 1.4-mile loop through pine woods on the town side of the island, off Hallie Whealton Smith Drive. A shaded walk or jog outside the refuge.",
+  "facts": {
+   "length_mi": 1.4
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/chincoteague-island-nature-trail",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Curtis Merritt Harbor",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "sunset",
+   "fishing",
+   "viewpoint"
+  ],
+  "lat": 37.90285,
+  "lng": -75.40628,
+  "town": "Chincoteague",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Working harbor at the far south tip of Chincoteague Island. From the lot you look across the inlet to Assateague's hook and out over open marsh; seafood boats come and go.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.chincoteague.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "NASA Wallops Flight Facility Visitor Center",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "viewpoint",
+   "historic"
+  ],
+  "lat": 37.93843,
+  "lng": -75.45752,
+  "town": "Wallops Island",
+  "state": "VA",
+  "tier": 2,
+  "blurb": "Free visitor center on the road to Chincoteague with real sounding rockets on the lawn and a viewing area for launches from the island pads a few miles away. Limited open days; check hours.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.nasa.gov/wallops/visitor-center/plan-your-visit",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Saxis Island Pier and Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "sunset",
+   "fishing",
+   "birding"
+  ],
+  "lat": 37.92062,
+  "lng": -75.72985,
+  "town": "Saxis",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Watermen's village at the end of a long causeway through the Saxis marshes, with a public fishing pier and a small sandy beach on Pocomoke Sound facing the sunset.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/saxis-pier",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Guard Shore",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "sunset",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 37.84596,
+  "lng": -75.67826,
+  "town": "Bloxom",
+  "state": "VA",
+  "tier": 3,
+  "blurb": "Narrow, undeveloped public beach on the Chesapeake at the end of Guard Shore Road, with shallow water, marsh behind it and no facilities. Often empty.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/guardshore-beach",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Brandywine Creek State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "nature",
+   "birding",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 39.81122,
+  "lng": -75.56631,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Former du Pont dairy farm: more than 14 miles of trails over open hilltop meadows lined with blue-gneiss stone walls, down through 190-year-old tulip poplars to the Brandywine.",
+  "facts": {
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Brandywine_Creek_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "First State National Historical Park - Beaver Valley",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "nature",
+   "historic"
+  ],
+  "lat": 39.83928,
+  "lng": -75.56409,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "About 1,100 acres of rolling woods, pasture and old farm lanes along the Brandywine on the Delaware-Pennsylvania line, with a web of unmarked but well-worn trails. No entrance fee.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/First_State_National_Historical_Park",
+  "coord_source": "other (OpenStreetMap place node \"Beaver Valley\", via Overpass API)"
+ },
+ {
+  "name": "Alapocas Run State Park",
+  "type": "park",
+  "tags": [
+   "trail",
+   "hiking",
+   "geology",
+   "paved",
+   "running",
+   "historic",
+   "forest"
+  ],
+  "lat": 39.76915,
+  "lng": -75.5584,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Wooded park above the Brandywine with an old blue-rock quarry face that is Delaware's only natural rock-climbing wall, the Northern Delaware Greenway path and the stone Blue Ball Barn.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Alapocas_Run_State_Park",
+  "coord_source": "other (OpenStreetMap: Alapocas Rock Climbing Wall, via Overpass API)"
+ },
+ {
+  "name": "Brandywine Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "running",
+   "garden",
+   "historic",
+   "trail"
+  ],
+  "lat": 39.75742,
+  "lng": -75.55359,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Wilmington's old riverside park along both banks of the Brandywine: mill races, stone bridges, a rose garden and a ring of cherry trees around the Josephine Fountain.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Brandywine_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Bellevue State Park",
+  "type": "run",
+  "tags": [
+   "running",
+   "trail",
+   "paved",
+   "garden",
+   "historic",
+   "fishing"
+  ],
+  "lat": 39.77917,
+  "lng": -75.49583,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "A du Pont estate turned park above the Delaware River: a 1 1/8-mile fitness track on the former horse-training oval, a fishing pond, gardens and paved and woodland paths.",
+  "facts": {
+   "length_mi": 1.1,
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bellevue_State_Park_(Delaware)",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Fox Point State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "viewpoint",
+   "running"
+  ],
+  "lat": 39.75611,
+  "lng": -75.48972,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Narrow strip of reclaimed industrial shoreline on the Delaware River with a paved path, lawns and benches for watching ships head to and from Philadelphia.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fox_Point_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Hagley Museum (du Pont powder yards)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "ruins",
+   "waterfront",
+   "trail",
+   "garden"
+  ],
+  "lat": 39.78056,
+  "lng": -75.575,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "235 acres along the Brandywine where the DuPont company began in 1802: stone gunpowder mills open to the river, a working water wheel and the family's first home and garden.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.hagley.org",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Winterthur Garden",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "trail",
+   "forest",
+   "historic"
+  ],
+  "lat": 39.80583,
+  "lng": -75.60083,
+  "town": "Winterthur",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Henry Francis du Pont's 1,000-acre estate with a 60-acre naturalistic woodland garden. Peak color runs from the March bank and azalea woods in spring through fall foliage.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.winterthur.org",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Mt. Cuba Center",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "forest",
+   "trail",
+   "nature"
+  ],
+  "lat": 39.78841,
+  "lng": -75.64828,
+  "town": "Hockessin",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Botanic garden devoted to native plants of the Piedmont, with woodland paths, ponds and meadow on a former du Pont estate. Known for spring trilliums. Open seasonally.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://mtcubacenter.org",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Ashland Nature Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "birding",
+   "nature",
+   "forest"
+  ],
+  "lat": 39.79773,
+  "lng": -75.65979,
+  "town": "Hockessin",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Delaware Nature Society's home base in the Red Clay Creek valley: loop trails over meadow, marsh and wooded hills, and a hilltop hawk watch staffed during fall migration.",
+  "facts": {},
+  "url": "https://www.delawarenaturesociety.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Auburn Valley State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "trail",
+   "paved",
+   "waterfront"
+  ],
+  "lat": 39.80917,
+  "lng": -75.67972,
+  "town": "Yorklyn",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Delaware's newest state park, built around the Marshall family's 1897 mansion and steam-car collection, with trails along Red Clay Creek on a reclaimed mill site.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Auburn_Valley_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "White Clay Creek State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "nature",
+   "fishing",
+   "birding"
+  ],
+  "lat": 39.73611,
+  "lng": -75.76222,
+  "town": "Newark",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "More than 37 miles of trails through a wooded creek valley and old farm fields north of Newark. The most varied trail system in Delaware for hiking, running and mountain biking.",
+  "facts": {
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/White_Clay_Creek_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Tri-State Marker (Delaware-Maryland-Pennsylvania)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "hiking",
+   "trail",
+   "forest"
+  ],
+  "lat": 39.7222,
+  "lng": -75.78859,
+  "town": "Newark",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "A 19th-century boundary stone in the woods at the exact point where three states meet, reached by a short hike on the Tri-State Marker Trail in the White Clay Creek preserves.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/White_Clay_Creek_State_Park",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Lums Pond State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "kayak",
+   "fishing",
+   "camping"
+  ],
+  "lat": 39.55429,
+  "lng": -75.71494,
+  "town": "Bear",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "The largest freshwater pond in Delaware, circled by the 6.4-mile Swamp Forest Trail through hardwood wetland. Boat rentals, fishing and a campground; no swimming.",
+  "facts": {
+   "length_mi": 6.4,
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)",
+   "swim": "no"
+  },
+  "url": "https://en.wikipedia.org/wiki/Lums_Pond_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Michael Castle C&D Canal Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "waterfront",
+   "birding"
+  ],
+  "lat": 39.56119,
+  "lng": -75.59441,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Paved 12.4-mile trail along the north bank of the Chesapeake & Delaware Canal from Delaware City to the Maryland line, under several high bridges with ships passing beside you.",
+  "facts": {
+   "length_mi": 12.4,
+   "fee": "free"
+  },
+  "url": "https://delawaregreenways.org/trail/michael-n-castle-c-d-canal-trail/",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Fort Delaware State Park (Pea Patch Island)",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "waterfront",
+   "birding"
+  ],
+  "lat": 39.57807,
+  "lng": -75.5877,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Granite Civil War fortress and prison on an island in the Delaware River, reached only by a seasonal ferry from Delaware City. The island also holds a large heron and egret rookery.",
+  "facts": {
+   "fee": "Ferry and fort $12 adults; runs late April-September"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Delaware",
+  "coord_source": "other (OpenStreetMap: Delaware City ferry landing where the trip starts, via Overpass API; the fort is at 39.5894,-75.5674)"
+ },
+ {
+  "name": "Fort DuPont State Park",
+  "type": "park",
+  "tags": [
+   "historic",
+   "ruins",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 39.57139,
+  "lng": -75.58361,
+  "town": "Delaware City",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Former Army post beside the Delaware River and the canal mouth, with overgrown concrete gun batteries and a riverside trail that looks across to Fort Delaware.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Fort_DuPont_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Battery Park, New Castle",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "paved",
+   "running",
+   "historic",
+   "sunset"
+  ],
+  "lat": 39.65782,
+  "lng": -75.5646,
+  "town": "New Castle",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Riverfront green at the foot of colonial New Castle's cobbled streets, with a paved path running along the Delaware River and its marshes. Start of the Markell Trail.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jack_A._Markell_Trail",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Jack A. Markell Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "paved",
+   "birding",
+   "waterfront"
+  ],
+  "lat": 39.72912,
+  "lng": -75.56162,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Paved 5.5-mile trail from the Wilmington Riverfront to New Castle's Battery Park, starting on a long boardwalk over the Peterson wildlife refuge marsh and a bridge over the Christina.",
+  "facts": {
+   "length_mi": 5.5,
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Jack_A._Markell_Trail",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "DuPont Environmental Education Center",
+  "type": "park",
+  "tags": [
+   "birding",
+   "wildlife",
+   "nature",
+   "trail",
+   "viewpoint"
+  ],
+  "lat": 39.72309,
+  "lng": -75.5614,
+  "town": "Wilmington",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Four-story glass building and a quarter-mile boardwalk loop over a 212-acre tidal marsh at the edge of downtown Wilmington. Beavers, herons and eagles within sight of I-95.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delawarenaturesociety.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Augustine Beach and Port Penn Wetlands",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "birding",
+   "fishing",
+   "trail"
+  ],
+  "lat": 39.50634,
+  "lng": -75.57882,
+  "town": "Port Penn",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Sandy strip on the Delaware River with a boat ramp and big parking lot, a mile south of Port Penn's short boardwalk trail into the marsh. Wide river views across to New Jersey.",
+  "facts": {},
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/augustine-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Blackbird Creek Reserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "nature",
+   "birding",
+   "kayak",
+   "forest"
+  ],
+  "lat": 39.39069,
+  "lng": -75.6365,
+  "town": "Townsend",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "State estuarine research reserve with more than seven miles of mown and wooded trails along a winding tidal creek, plus a canoe launch. Little used.",
+  "facts": {
+   "length_mi": 7.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/blackbird-creek-reserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Bombay Hook National Wildlife Refuge",
+  "type": "park",
+  "tags": [
+   "wildlife",
+   "birding",
+   "nature",
+   "trail",
+   "sunset",
+   "viewpoint"
+  ],
+  "lat": 39.25947,
+  "lng": -75.47436,
+  "town": "Smyrna",
+  "state": "DE",
+  "tier": 1,
+  "blurb": "One of the largest tidal salt marshes in the Mid-Atlantic. A 12-mile gravel wildlife drive passes pools packed with snow geese, avocets and ducks, with five short trails and three towers.",
+  "facts": {
+   "length_mi": 12.0,
+   "fee": "$4 per vehicle"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bombay_Hook_National_Wildlife_Refuge",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Woodland Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "birding",
+   "historic"
+  ],
+  "lat": 39.33149,
+  "lng": -75.47093,
+  "town": "Smyrna",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Faded Victorian resort village at the end of a marsh causeway on Delaware Bay, with a small public beach and a long fishing pier.",
+  "facts": {},
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/woodland-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Aquatic Resources Education Center Boardwalk",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "birding",
+   "nature",
+   "fishing",
+   "wildlife"
+  ],
+  "lat": 39.33093,
+  "lng": -75.52165,
+  "town": "Smyrna",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "State fish-and-wildlife education site on the road to Woodland Beach with a three-quarter-mile boardwalk loop over the salt marsh and small fishing piers on the ponds.",
+  "facts": {
+   "length_mi": 0.75,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/aquatic-resources-education-center",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Port Mahon",
+  "type": "gem",
+  "tags": [
+   "weird",
+   "waterfront",
+   "birding",
+   "fishing",
+   "ruins",
+   "wildlife",
+   "sunset"
+  ],
+  "lat": 39.18146,
+  "lng": -75.40358,
+  "town": "Little Creek",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "A road that runs along the very edge of Delaware Bay to a fishing pier and the pilings of a vanished oyster port. In May horseshoe crabs and migrating shorebirds crowd the shoreline.",
+  "facts": {},
+  "url": "https://en.wikipedia.org/wiki/Port_Mahon_(Delaware)",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Little Creek Wildlife Area Observation Tower",
+  "type": "viewpoint",
+  "tags": [
+   "birding",
+   "wildlife",
+   "viewpoint",
+   "nature",
+   "trail"
+  ],
+  "lat": 39.1535,
+  "lng": -75.43132,
+  "town": "Little Creek",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Short boardwalk to a two-level observation deck over a broad impoundment of the Little Creek Wildlife Area. One of the easiest places on the bayshore to scan for waterfowl and shorebirds.",
+  "facts": {
+   "fee": "Delaware Conservation Access Pass or fishing/hunting license needed to park"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/little-creek-wildlife-area%3A-observation-tower",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Pickering Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "wildlife",
+   "birding"
+  ],
+  "lat": 39.13694,
+  "lng": -75.40972,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "One-street bay community east of Dover and a designated horseshoe crab sanctuary. Public access is a small path to the sand; come on a May or June high tide for the spawning.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Pickering_Beach,_Delaware",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Kitts Hummock",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "wildlife",
+   "birding"
+  ],
+  "lat": 39.1024,
+  "lng": -75.40133,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Tiny bayfront community with a public beach access at the end of the road: two parking spaces, no facilities, and horseshoe crabs along the tide line in late spring.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/kitts-hummock",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Ted Harvey Conservation Area - Logan Lane Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "birding",
+   "wildlife",
+   "nature"
+  ],
+  "lat": 39.0828,
+  "lng": -75.40256,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Secluded Delaware Bay beach reached by a 0.2-mile walk along a dike from the parking area in a state wildlife area south of Kitts Hummock. Usually empty.",
+  "facts": {
+   "fee": "Delaware Conservation Access Pass or fishing/hunting license needed to park"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/ted-harvey-wildlife-area-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "St. Jones Reserve",
+  "type": "hike",
+  "tags": [
+   "trail",
+   "hiking",
+   "birding",
+   "nature",
+   "wildlife"
+  ],
+  "lat": 39.08977,
+  "lng": -75.43946,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Estuarine research reserve with a one-mile trail that crosses the St. Jones River marsh on a long boardwalk and continues toward the Ted Harvey wildlife area.",
+  "facts": {
+   "length_mi": 2.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/st.-jones-reserve",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "John Dickinson Plantation",
+  "type": "gem",
+  "tags": [
+   "historic"
+  ],
+  "lat": 39.10212,
+  "lng": -75.44868,
+  "town": "Dover",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Boyhood home of John Dickinson, \"Penman of the Revolution\": a 1740 brick mansion and rebuilt farm buildings in open fields near the St. Jones River. Free state museum.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/John_Dickinson_House",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Bowers Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "swimming",
+   "birding"
+  ],
+  "lat": 39.05969,
+  "lng": -75.39581,
+  "town": "Bowers",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Small fishing town between the St. Jones and Murderkill rivers with a free public bay beach, large parking area, boat ramp and a little maritime museum.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/bowers-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Big Stone Beach",
+  "type": "gem",
+  "tags": [
+   "beach",
+   "waterfront",
+   "weird",
+   "historic",
+   "birding"
+  ],
+  "lat": 39.00066,
+  "lng": -75.32834,
+  "town": "Milford",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Remote bay beach at the end of a long road through the Milford Neck marshes, with room for two or three cars and a lone WWII fire-control tower standing back from the sand.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/big-stone-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Killens Pond State Park",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "running",
+   "forest",
+   "kayak",
+   "fishing",
+   "camping"
+  ],
+  "lat": 38.98151,
+  "lng": -75.53615,
+  "town": "Felton",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "A 66-acre millpond on the Murderkill River ringed by the 2.6-mile Pondside Trail through hardwood forest. Canoe rentals, campground and a summer water park.",
+  "facts": {
+   "length_mi": 2.6,
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Killens_Pond_State_Park",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Abbott's Mill Nature Center",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "historic",
+   "nature",
+   "forest",
+   "birding"
+  ],
+  "lat": 38.88657,
+  "lng": -75.4765,
+  "town": "Milford",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Working water-powered grist mill on a pond outside Milford, with more than three miles of trails and boardwalks through pine woods, stream bottom and Atlantic white cedar swamp.",
+  "facts": {
+   "length_mi": 3.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/abbott%27s-mill-nature-center",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "DuPont Nature Center at Mispillion Harbor",
+  "type": "gem",
+  "tags": [
+   "birding",
+   "wildlife",
+   "waterfront",
+   "nature",
+   "viewpoint"
+  ],
+  "lat": 38.94772,
+  "lng": -75.31495,
+  "town": "Milford",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Deck over the harbor mouth where, each May, thousands of red knots and other shorebirds feed on horseshoe crab eggs. Free state center with scopes and live cameras; open seasonally.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/post/the-delaware-bayshore-trails-beaches-and-boardwalks",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Slaughter Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "wildlife",
+   "birding",
+   "swimming",
+   "nature"
+  ],
+  "lat": 38.91278,
+  "lng": -75.30417,
+  "town": "Slaughter Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Quiet bay town and official horseshoe crab sanctuary with a public beach, pavilion and seasonal restrooms. The Marvel Saltmarsh Preserve boardwalk is at the north end of town.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://en.wikipedia.org/wiki/Slaughter_Beach,_Delaware",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Prime Hook National Wildlife Refuge",
+  "type": "park",
+  "tags": [
+   "wildlife",
+   "birding",
+   "trail",
+   "hiking",
+   "kayak",
+   "nature"
+  ],
+  "lat": 38.83042,
+  "lng": -75.24799,
+  "town": "Milton",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "10,000 acres of marsh and woods on the bay. Short trails start at the visitor center, including a half-mile marsh boardwalk and a dike walk; a canoe trail follows Prime Hook Creek.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.fws.gov/refuge/prime-hook/visit-us",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Fowler Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "birding",
+   "wildlife",
+   "nature"
+  ],
+  "lat": 38.88048,
+  "lng": -75.27029,
+  "town": "Milton",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Undeveloped bay beach at the end of a road across the Prime Hook marsh, rebuilt after storms breached it. No houses or facilities; parts close in spring and summer for nesting shorebirds.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/fowler-beach",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Broadkill Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "swimming",
+   "birding"
+  ],
+  "lat": 38.82806,
+  "lng": -75.21194,
+  "town": "Milton",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Low-key Delaware Bay beach town reached through the Prime Hook marshes. Calm, shallow water and a long strand; public access is small, with only a few parking spaces.",
+  "facts": {
+   "fee": "free",
+   "swim": "unofficial"
+  },
+  "url": "https://en.wikipedia.org/wiki/Broadkill_Beach,_Delaware",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Beach Plum Island Nature Preserve",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "waterfront",
+   "fishing",
+   "birding",
+   "nature"
+  ],
+  "lat": 38.80559,
+  "lng": -75.1899,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Undeveloped barrier spit between Delaware Bay and the Broadkill River, managed by Cape Henlopen State Park. Walk north on empty sand; surf-fishing vehicles also use the beach.",
+  "facts": {
+   "fee": "state park entrance fee"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/cape-henlopen-state-park%3A-beach-plum-island-nature-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Edward H. McCabe Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "kayak",
+   "birding"
+  ],
+  "lat": 38.77446,
+  "lng": -75.2838,
+  "town": "Milton",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Nature Conservancy preserve on the Broadkill River with two-plus miles of easy trails through upland forest to the river's edge and a stand of Atlantic white cedar.",
+  "facts": {
+   "length_mi": 2.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/edward-h.-mccabe-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Redden State Forest - Headquarters Tract",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "running",
+   "historic"
+  ],
+  "lat": 38.74006,
+  "lng": -75.41271,
+  "town": "Georgetown",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Loblolly pine forest north of Georgetown with more than seven miles of flat, sandy woods roads, starting near a rustic early-1900s railroad hunting lodge.",
+  "facts": {
+   "length_mi": 7.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/redden-state-forest-headquarters-tract",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Lewes Beach",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront"
+  ],
+  "lat": 38.78198,
+  "lng": -75.12792,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Town beach on Delaware Bay with small waves, lifeguards in summer and views of the ferry and the breakwater lighthouses. Metered parking in season.",
+  "facts": {
+   "fee": "beach free; paid parking in season",
+   "swim": "yes"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/lewes-beach",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Cape Henlopen State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "hiking",
+   "camping",
+   "birding",
+   "fishing",
+   "nature"
+  ],
+  "lat": 38.78678,
+  "lng": -75.08738,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 1,
+  "blurb": "Delaware's largest park, where the bay meets the Atlantic: a guarded ocean beach with bathhouse, pine forest and dunes, a nature center, a bay fishing pier and miles of bike paths.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cape_Henlopen_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Fort Miles and Observation Tower 7",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "weird",
+   "viewpoint"
+  ],
+  "lat": 38.77722,
+  "lng": -75.08694,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "WWII coastal defense fort inside Cape Henlopen: a gun battery buried in the Great Dune, big guns on display and a 75-foot concrete fire-control tower you can climb for a bay-and-ocean view.",
+  "facts": {
+   "height_ft": 75,
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fort_Miles",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "The Point at Cape Henlopen",
+  "type": "viewpoint",
+  "tags": [
+   "viewpoint",
+   "beach",
+   "waterfront",
+   "birding",
+   "lighthouse",
+   "sunset"
+  ],
+  "lat": 38.79516,
+  "lng": -75.09186,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "The sand spit where Delaware Bay meets the ocean, with two offshore lighthouses in view. The overlook lot is always open; the tip itself closes for much of the year for nesting birds.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Cape_Henlopen",
+  "coord_source": "other (OpenStreetMap: \"Point Parking\" lot, via Overpass API)"
+ },
+ {
+  "name": "Gordons Pond Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "birding",
+   "waterfront",
+   "beach",
+   "nature",
+   "historic"
+  ],
+  "lat": 38.74221,
+  "lng": -75.0821,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 1,
+  "blurb": "Crushed-stone trail, 3.2 miles one way, from the north edge of Rehoboth past a salt lagoon full of wading birds and over a raised boardwalk through the dunes. Two WWII towers stand on the beach.",
+  "facts": {
+   "length_mi": 6.4,
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/gordons-pond-trail",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Walking Dunes Trail",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "geology",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.77264,
+  "lng": -75.09977,
+  "town": "Lewes",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "A 2.6-mile route in Cape Henlopen linking Herring Point to the Great Dune, through pine forest that the slowly migrating \"walking dunes\" are burying, with a spur out to the salt marsh.",
+  "facts": {
+   "length_mi": 2.6,
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)"
+  },
+  "url": "https://www.traillink.com/trail/walking-dunes-trail",
+  "coord_source": "other (OpenStreetMap feature, via Overpass API)"
+ },
+ {
+  "name": "Junction & Breakwater Trail",
+  "type": "run",
+  "tags": [
+   "trail",
+   "running",
+   "forest",
+   "nature"
+  ],
+  "lat": 38.73389,
+  "lng": -75.11167,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Six-mile crushed-stone rail-trail between Lewes and Rehoboth Beach through woods, farm fields and over an old railroad bridge across the Holland Glade marsh.",
+  "facts": {
+   "length_mi": 6.0
+  },
+  "url": "https://en.wikipedia.org/wiki/Junction_and_Breakwater_Trail",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Rehoboth Beach Boardwalk",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "paved",
+   "running"
+  ],
+  "lat": 38.71776,
+  "lng": -75.0762,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Mile-long wooden boardwalk along a wide, guarded Atlantic beach. Best early in the morning or off season, when it is a quiet oceanfront walk or run.",
+  "facts": {
+   "fee": "beach free; paid parking in season",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Rehoboth_Beach,_Delaware",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Thompson Island Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "waterfront",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.7038,
+  "lng": -75.08974,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Flat woodland trail, 0.7 miles each way, out to the edge of the marsh on Rehoboth Bay at the back of Rehoboth Beach. A quiet contrast to the boardwalk a mile away.",
+  "facts": {
+   "length_mi": 1.4
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/delaware-seashore-state-park%3A-thompson-island-nature-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Delaware Seashore State Park - Tower Road",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "sunset",
+   "kayak",
+   "historic",
+   "fishing"
+  ],
+  "lat": 38.67826,
+  "lng": -75.0708,
+  "town": "Dewey Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Guarded ocean beach south of Dewey beside a WWII observation tower. Cross the highway to the bay side for calm, shallow water, kayak launching and sunset over Rehoboth Bay.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)",
+   "swim": "yes"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/delaware-seashore-state-park%3A-tower-road-oceanside",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Indian River Life-Saving Station",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront"
+  ],
+  "lat": 38.63377,
+  "lng": -75.06701,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Restored 1876 station of the U.S. Life-Saving Service, standing alone in the dunes beside Route 1 with its surfboat and breeches-buoy gear. Small museum; beach across the dune.",
+  "facts": {
+   "fee": "small admission"
+  },
+  "url": "https://destateparks.com",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Indian River Inlet",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "beach",
+   "viewpoint",
+   "swimming",
+   "paved"
+  ],
+  "lat": 38.60904,
+  "lng": -75.0645,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Rock jetties where Indian River Bay pours into the Atlantic under a cable-stayed bridge with a walkway. Surfers on the north side, anglers on the rocks, guarded beaches on both sides.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)",
+   "swim": "yes"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/delaware-seashore-state-park%3A-indian-river-inlet",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Burton Island Nature Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "waterfront",
+   "birding",
+   "nature",
+   "forest"
+  ],
+  "lat": 38.61608,
+  "lng": -75.07265,
+  "town": "Rehoboth Beach",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Loop trail on a wooded island behind the Indian River Marina, reached by a causeway. Sand, packed earth and boardwalk with constant views over salt marsh and the inland bays.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/delaware-seashore-state-park%3A-burton-island-nature-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Massey's Landing",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "sunset",
+   "kayak"
+  ],
+  "lat": 38.62545,
+  "lng": -75.09977,
+  "town": "Long Neck",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Public boat ramp and fishing pier at the tip of Long Neck, where Rehoboth Bay and Indian River Bay meet in a narrow channel. Water on three sides.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/beaches-piers/massey%27s-landing",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Fresh Pond (Delaware Seashore State Park)",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "forest",
+   "nature",
+   "birding",
+   "running"
+  ],
+  "lat": 38.55825,
+  "lng": -75.0645,
+  "town": "Bethany Beach",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Wooded tract north of Bethany with more than five miles of flat trails on crushed stone, boardwalk and packed earth around a freshwater pond.",
+  "facts": {
+   "length_mi": 5.0,
+   "fee": "state park entrance fee"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/delaware-seashore-state-park%3A-fresh-pond-tract",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Bethany Beach Boardwalk",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "paved"
+  ],
+  "lat": 38.53937,
+  "lng": -75.05431,
+  "town": "Bethany Beach",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Short, low-key boardwalk on a guarded ocean beach in the quietest of the Delaware resort towns.",
+  "facts": {
+   "fee": "beach free; paid parking in season",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Bethany_Beach,_Delaware",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Holts Landing State Park",
+  "type": "park",
+  "tags": [
+   "waterfront",
+   "fishing",
+   "kayak",
+   "trail",
+   "hiking",
+   "beach",
+   "sunset"
+  ],
+  "lat": 38.59183,
+  "lng": -75.12836,
+  "town": "Dagsboro",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Small, uncrowded park on the south shore of Indian River Bay with a crabbing pier, a bayshore beach, a boat ramp and the 1.3-mile Sea Hawk Trail through woods and meadow.",
+  "facts": {
+   "length_mi": 1.3,
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Holts_Landing_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "James Farm Ecological Preserve",
+  "type": "hike",
+  "tags": [
+   "hiking",
+   "trail",
+   "beach",
+   "waterfront",
+   "birding",
+   "nature",
+   "forest"
+  ],
+  "lat": 38.57491,
+  "lng": -75.07957,
+  "town": "Ocean View",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "County preserve on Indian River Bay run by the Center for the Inland Bays: two-plus miles of trails through forest, meadow and marsh to a sandy bay beach half a mile from the lot.",
+  "facts": {
+   "length_mi": 2.0,
+   "fee": "free"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/james-farm-ecological-preserve",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Assawoman Wildlife Area",
+  "type": "park",
+  "tags": [
+   "birding",
+   "wildlife",
+   "viewpoint",
+   "kayak",
+   "nature",
+   "fishing",
+   "forest"
+  ],
+  "lat": 38.49172,
+  "lng": -75.07968,
+  "town": "Frankford",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Pine woods, ponds and salt marsh on Little Assawoman Bay behind Fenwick Island, with an observation tower and small landings at Mulberry, Sassafras and Strawberry for paddling or sitting.",
+  "facts": {
+   "fee": "Delaware Conservation Access Pass may be required to park"
+  },
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/assawoman-wildlife-area%3A-observation-tower",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Fenwick Island State Park",
+  "type": "beach",
+  "tags": [
+   "beach",
+   "swimming",
+   "waterfront",
+   "fishing",
+   "kayak"
+  ],
+  "lat": 38.47088,
+  "lng": -75.0505,
+  "town": "Fenwick Island",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Three miles of undeveloped barrier beach between Bethany and Fenwick, with a guarded swimming area and bay-side access to Little Assawoman Bay for kayaks.",
+  "facts": {
+   "fee": "$10 Delaware vehicles, $20 out-of-state (Mar-Nov)",
+   "swim": "yes"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fenwick_Island_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Fenwick Island Lighthouse and Transpeninsular Marker",
+  "type": "gem",
+  "tags": [
+   "lighthouse",
+   "historic",
+   "weird"
+  ],
+  "lat": 38.45137,
+  "lng": -75.05496,
+  "town": "Fenwick Island",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "An 1859 lighthouse stranded among beach houses on the Maryland line. At its foot sits the 1751 stone that starts the Transpeninsular Line, carved with the Calvert and Penn arms.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://en.wikipedia.org/wiki/Fenwick_Island_Light",
+  "coord_source": "wikipedia"
+ },
+ {
+  "name": "Delaware Botanic Gardens at Pepper Creek",
+  "type": "garden",
+  "tags": [
+   "garden",
+   "forest",
+   "waterfront",
+   "trail"
+  ],
+  "lat": 38.56355,
+  "lng": -75.22178,
+  "town": "Dagsboro",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Young public garden on Pepper Creek with a two-acre meadow designed by Piet Oudolf, woodland paths down to the tidal creek and an inland-dune garden. Seasonal hours.",
+  "facts": {
+   "fee": "admission charged"
+  },
+  "url": "https://www.delawarebotanicgardens.org",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Trap Pond State Park",
+  "type": "park",
+  "tags": [
+   "kayak",
+   "forest",
+   "trail",
+   "hiking",
+   "camping",
+   "weird",
+   "birding",
+   "nature",
+   "fishing"
+  ],
+  "lat": 38.52515,
+  "lng": -75.47991,
+  "town": "Laurel",
+  "state": "DE",
+  "tier": 1,
+  "blurb": "The northernmost natural stand of bald cypress on the East Coast, rising out of a millpond. Paddle among the trees or walk the 4.5-mile Bob Trail around the pond.",
+  "facts": {
+   "length_mi": 4.5,
+   "fee": "$5 Delaware vehicles, $10 out-of-state (Mar-Nov)"
+  },
+  "url": "https://en.wikipedia.org/wiki/Trap_Pond_State_Park",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Trussum Pond",
+  "type": "gem",
+  "tags": [
+   "kayak",
+   "forest",
+   "weird",
+   "nature",
+   "birding"
+  ],
+  "lat": 38.52197,
+  "lng": -75.51191,
+  "town": "Laurel",
+  "state": "DE",
+  "tier": 2,
+  "blurb": "Small pond a few miles from Trap Pond where the bald cypress crowd right up to the launch, so you are paddling through a swamp within a minute. Roadside ramp only.",
+  "facts": {},
+  "url": "https://www.delmarvatrailsandwaterways.com/post/fall-paddling-at-trap-trussum-ponds",
+  "coord_source": "other (OpenStreetMap feature, via Photon geocoder)"
+ },
+ {
+  "name": "Phillips Landing (Nanticoke Wildlife Area)",
+  "type": "viewpoint",
+  "tags": [
+   "waterfront",
+   "kayak",
+   "fishing",
+   "historic",
+   "forest"
+  ],
+  "lat": 38.56432,
+  "lng": -75.67241,
+  "town": "Laurel",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Wooded point where Broad Creek meets the Nanticoke River, with a boat ramp, a short trail and a monument to Captain John Smith's 1608 exploration of the river.",
+  "facts": {},
+  "url": "https://www.delmarvatrailsandwaterways.com/hiking-nature-trails/nanticoke-wildlife-area",
+  "coord_source": "other (Google Maps pin linked from the delmarvatrailsandwaterways.com listing)"
+ },
+ {
+  "name": "Woodland Ferry",
+  "type": "gem",
+  "tags": [
+   "historic",
+   "waterfront",
+   "weird"
+  ],
+  "lat": 38.6,
+  "lng": -75.65694,
+  "town": "Seaford",
+  "state": "DE",
+  "tier": 3,
+  "blurb": "Free cable ferry carrying a few cars across the Nanticoke River at a crossing that dates to the 1740s. It runs limited weekday hours and is often out of service, so check before going.",
+  "facts": {
+   "fee": "free"
+  },
+  "url": "https://deldot.gov/Programs/woodland_ferry",
+  "coord_source": "wikipedia"
+ }
+]

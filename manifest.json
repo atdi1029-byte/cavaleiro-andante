@@ -1,23 +1,18 @@
 {
   "name": "Cavaleiro Andante",
   "short_name": "Cavaleiro",
-  "description": "Find trails, parks, waterfalls, and weird spots near you",
+  "description": "Hikes, beaches, waterfalls, views and odd corners near you",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0d1a0d",
-  "theme_color": "#142014",
+  "share_target": {
+    "action": "./",
+    "method": "GET",
+    "params": { "title": "title", "text": "text", "url": "url" }
+  },
+  "background_color": "#f2f8ea",
+  "theme_color": "#dff3d0",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
