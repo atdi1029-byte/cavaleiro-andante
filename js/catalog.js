@@ -130,8 +130,9 @@ export function savedFor(view) {
 // average: after a year of saving places most weights sit near the maximum,
 // and what matters is which kinds stand out from the rest.
 const MILE_COST = 0.3;
+const OWN_KIND = 12;   // head start for a waterfall in Waterfalls over a park that has one
 
-export function rank(list, sort) {
+export function rank(list, sort, types = []) {
   // (places without a location have an infinite distance and go last)
   if (sort === 'near') return [...list].sort((a, b) => (a.dist === b.dist ? 0 : a.dist - b.dist));
   const weights = store.tasteWeights();
@@ -139,14 +140,14 @@ export function rank(list, sort) {
   const usual = values.reduce((a, b) => a + b, 0) / values.length || 1;
   const scored = list.map(p => {
     const lean = Math.max(0.3, Math.min(2, tasteScore(p, weights) / usual));
-    return { p, s: (p.q || 30) * (0.8 + 0.2 * lean) - MILE_COST * Math.min(p.dist, 200) };
+    return { p, s: (p.q || 30) * (0.8 + 0.2 * lean) - MILE_COST * Math.min(p.dist, 200) + (types.includes(p.type) ? OWN_KIND : 0) };
   });
   scored.sort((a, b) => b.s - a.s);
   return scored.map(x => x.p);
 }
 
 // A random pick from the better half of what is on screen
-export function surprise(list) {
-  const pool = rank(list, 'best').slice(0, Math.max(5, Math.min(40, Math.ceil(list.length / 4))));
+export function surprise(list, types) {
+  const pool = rank(list, 'best', types).slice(0, Math.max(5, Math.min(40, Math.ceil(list.length / 4))));
   return pool[Math.floor(Math.random() * pool.length)];
 }

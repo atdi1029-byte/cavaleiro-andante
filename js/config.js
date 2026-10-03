@@ -43,8 +43,9 @@ export function typeOf(place) {
 }
 
 // ── Categories (the photo cards across the top) ─────────────
-// `match` decides whether a place belongs; `subs` are the optional chips that
-// narrow a category further.
+// `match` decides whether a place belongs; `types` are the kinds of place the
+// category is really about (they are listed ahead of places that merely have
+// a matching tag); `subs` are the optional chips that narrow it further.
 const has = (p, ...tags) => tags.some(t => p.tags.includes(t));
 const isType = (p, ...types) => types.includes(p.type);
 const photo = id => `https://images.unsplash.com/photo-${id}?w=300&h=180&q=75&auto=format&fit=crop`;
@@ -54,7 +55,7 @@ export const CATEGORIES = [
   { id: 'all', label: 'All', emoji: '🧭', photo: photo('1506905925346-21bda4d32df4'),
     match: p => p.type !== 'indoor' },
 
-  { id: 'hike', label: 'Hikes', emoji: '🥾', photo: photo('1551632811-561732d1e306'),
+  { id: 'hike', label: 'Hikes', emoji: '🥾', photo: photo('1551632811-561732d1e306'), types: ['hike', 'trail'],
     match: p => isType(p, 'hike', 'trail') || has(p, 'hiking'),
     subs: [
       { id: 'view',      label: 'With a view',      match: p => has(p, 'viewpoint', 'summit') },
@@ -62,7 +63,7 @@ export const CATEGORIES = [
       { id: 'ruins',     label: 'Past ruins',       match: p => has(p, 'ruins', 'abandoned', 'historic') },
     ] },
 
-  { id: 'water', label: 'Beaches', emoji: '🏖️', photo: photo('1507525428034-b723cf961d3e'),
+  { id: 'water', label: 'Beaches', emoji: '🏖️', photo: photo('1507525428034-b723cf961d3e'), types: ['beach', 'water'],
     match: p => isType(p, 'beach', 'water') || has(p, 'beach', 'waterfront'),
     subs: [
       { id: 'beach', label: 'Sandy beach',   match: p => isType(p, 'beach') || has(p, 'beach') },
@@ -70,17 +71,17 @@ export const CATEGORIES = [
       { id: 'fossil', label: 'Fossils',      match: p => has(p, 'fossils') },
     ] },
 
-  { id: 'waterfall', label: 'Waterfalls', emoji: '💧', photo: photo('1433086966358-54859d0ed716'),
+  { id: 'waterfall', label: 'Waterfalls', emoji: '💧', photo: photo('1433086966358-54859d0ed716'), types: ['waterfall'],
     match: p => isType(p, 'waterfall') || has(p, 'waterfall') },
 
-  { id: 'view', label: 'Views', emoji: '🌄', photo: photo('1503455637927-730bce8583c0'),
+  { id: 'view', label: 'Views', emoji: '🌄', photo: photo('1503455637927-730bce8583c0'), types: ['viewpoint'],
     match: p => isType(p, 'viewpoint', 'sunset') || has(p, 'viewpoint', 'sunset', 'summit'),
     subs: [
       { id: 'sunset', label: 'Sunset spots', match: p => has(p, 'sunset') },
       { id: 'summit', label: 'Summits',      match: p => has(p, 'summit') },
     ] },
 
-  { id: 'gems', label: 'Gems', emoji: '💎', photo: photo('1518709268805-4e9042af9f23'),
+  { id: 'gems', label: 'Gems', emoji: '💎', photo: photo('1518709268805-4e9042af9f23'), types: ['gems', 'caves', 'historic'],
     match: p => isType(p, 'gems', 'weird', 'caves', 'historic') || has(p, 'weird', 'abandoned', 'ghost-town', 'cave'),
     subs: [
       { id: 'abandoned', label: 'Abandoned & ruins', match: p => has(p, 'abandoned', 'ruins', 'ghost-town') },
@@ -103,20 +104,20 @@ export const CATEGORIES = [
       { id: 'free',    label: 'Free',                match: p => has(p, 'free') },
     ] },
 
-  { id: 'swim', label: 'Swim', emoji: '🏊', photo: photo('1530053969600-caed2596d242'),
+  { id: 'swim', label: 'Swim', emoji: '🏊', photo: photo('1530053969600-caed2596d242'), types: ['swim', 'beach'],
     match: p => isType(p, 'swim') || has(p, 'swimming') },
 
-  { id: 'park', label: 'Parks', emoji: '🌲', photo: photo('1448375240586-882707db888b'),
+  { id: 'park', label: 'Parks', emoji: '🌲', photo: photo('1448375240586-882707db888b'), types: ['park', 'garden'],
     match: p => isType(p, 'park', 'garden') || has(p, 'park'),
     subs: [
       { id: 'garden',   label: 'Gardens',  match: p => isType(p, 'garden') || has(p, 'garden') },
       { id: 'wildlife', label: 'Wildlife', match: p => has(p, 'wildlife', 'birding') },
     ] },
 
-  { id: 'run', label: 'Run', emoji: '🏃', photo: photo('1476480862126-209bfaa8edc8'),
+  { id: 'run', label: 'Run', emoji: '🏃', photo: photo('1476480862126-209bfaa8edc8'), types: ['run'],
     match: p => isType(p, 'run') || has(p, 'running') },
 
-  { id: 'camp', label: 'Camp', emoji: '⛺', photo: photo('1504280390367-361c6d9f38f4'),
+  { id: 'camp', label: 'Camp', emoji: '⛺', photo: photo('1504280390367-361c6d9f38f4'), types: ['camp'],
     match: p => isType(p, 'camp') || has(p, 'camping') },
 
   // My Places is special-cased in places.js: it lists what you saved

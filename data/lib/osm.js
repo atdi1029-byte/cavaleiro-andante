@@ -198,6 +198,8 @@ function classify(el) {
     if ((dir != null && dir >= 225 && dir <= 315) || /^(W|WSW|WNW|SW|NW)$/i.test(t.direction || '')) tags.push('sunset');
   } else if (t.natural === 'peak') {
     const ele = num(t.ele) || 0;
+    // A 90-metre rise in Arlington with a Civil War article is not a summit hike
+    if (ele < 250) return null;
     type = 'hike'; tags = ['summit', 'hiking', 'nature'];
     q = 18 + wiki(24) + (ele >= 900 ? 6 : 0) + (ele >= 1100 ? 8 : 0);
     if (ele) tags.push('viewpoint');
@@ -217,7 +219,9 @@ function classify(el) {
     needsHost = !(t.supervised === 'yes' || t.lifeguard === 'yes' || t.fee || t.operator || t.access === 'yes');
   } else if (t.man_made === 'tower' && t['tower:type'] === 'observation') {
     type = 'viewpoint'; tags = ['viewpoint', 'scenic']; q = 40 + wiki(12);
-  } else if (t.bridge === 'covered' || (t.bridge && t.covered === 'yes')) {
+  } else if ((t.bridge === 'covered' || (t.bridge && t.covered === 'yes')) &&
+             (/covered bridge/i.test(name) || ((t.historic || t.wikidata || t.heritage) && /bridge/i.test(name)))) {
+    // (the same tags are used for airport skywalks and roofed footbridges)
     type = 'gems'; tags = ['bridge', 'covered', 'historic', 'gems']; q = 44 + wiki(10);
   } else if (t.waterway === 'dam') {
     // Hundreds of farm-pond dams carry a Wikidata id; only the ones with an article are sights

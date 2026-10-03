@@ -376,7 +376,10 @@ async function main() {
     if (!p.tags.includes('rainy') && (
       (p.type === 'caves' && (p.curated || facts.fee)) ||
       (p.curated && p.tags.includes('tunnel') && !facts.access) ||
-      p.tags.includes('covered') || RAINY_NAME.test(p.name))) p.tags = [...p.tags, 'rainy'];
+      p.tags.includes('covered') || RAINY_NAME.test(p.name))) {
+      const kind = /museum/i.test(p.name) ? ['museum'] : /conservatory/i.test(p.name) ? ['conservatory'] : /aquarium/i.test(p.name) ? ['aquarium', 'museum'] : [];
+      p.tags = [...new Set([...p.tags, 'rainy', ...kind])];
+    }
     const desc = p.curated && p.desc ? p.desc : p.wikiExtract || p.osmDesc || p.desc || '';
     const q = Math.round(Math.min(99, p.q + (!p.curated && p.img ? 3 : 0)));
     const o = { id: p.id, name: p.name, type: p.type, tags: p.tags, lat: +p.lat.toFixed(5), lng: +p.lng.toFixed(5), where: p.where, q };

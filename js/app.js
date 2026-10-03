@@ -10,7 +10,7 @@
 //   addplace.js adding a place of your own (shared from Google Maps or typed)
 //   weather.js  is it raining? (offers the Rainy day list)
 
-import { HOME, COVERAGE_MILES, REGION_BOX, TASTE_STEP } from './config.js';
+import { HOME, COVERAGE_MILES, REGION_BOX, TASTE_STEP, CATEGORIES } from './config.js';
 import * as store from './store.js';
 import * as catalog from './catalog.js';
 import * as ui from './ui.js';
@@ -44,9 +44,12 @@ function countLabel() {
     : `${results.length.toLocaleString()} place${results.length === 1 ? '' : 's'}`;
 }
 
+// The kinds of place the current category is about (ranked ahead of the rest)
+const ownTypes = () => (view.text ? [] : CATEGORIES.find(c => c.id === view.category)?.types || []);
+
 function drawPins() {
   // The map always puts the best places on top, whatever the list is sorted by
-  const best = view.sort === 'best' ? results : catalog.rank(results, 'best');
+  const best = view.sort === 'best' ? results : catalog.rank(results, 'best', ownTypes());
   mapView.setPins(best, view.text ? [] : catalog.savedFor(view));
   if (peekId && !results.some(p => p.id === peekId) && !store.isSaved(peekId)) hidePeek();
 }
@@ -55,7 +58,7 @@ function drawPins() {
 // cards as were showing, so the page does not jump while you are scrolled down.
 function refresh(keepLength = false) {
   if (!ready) return;
-  results = catalog.rank(catalog.select(view), view.category === 'saved' ? 'near' : view.sort);
+  results = catalog.rank(catalog.select(view), view.category === 'saved' ? 'near' : view.sort, ownTypes());
   countLabel();
   if (view.mode === 'map') return drawPins();
   const n = Math.min(results.length, keepLength ? Math.max(shown, PAGE) : PAGE);
@@ -406,7 +409,7 @@ function wire() {
   });
 
   $('surprise-btn').addEventListener('click', () => {
-    const pick = catalog.surprise(results);
+    const pick = catalog.surprise(results, ownTypes());
     if (pick) openPlace(pick.id); else ui.toast('Nothing to pick from here');
   });
 
