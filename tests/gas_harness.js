@@ -52,7 +52,11 @@ function loadGas(file = path.join(__dirname, '..', 'gas_sync.js')) {
     SpreadsheetApp: { getActiveSpreadsheet: () => ss },
     LockService: { getScriptLock: () => ({ waitLock() {}, releaseLock() {} }) },
     Utilities: {
-      base64DecodeWebSafe: s => [...Buffer.from(s.replace(/-/g, '+').replace(/_/g, '/'), 'base64')],
+      // Like the real service, refuses base64 that is not padded to a multiple of 4
+      base64DecodeWebSafe: s => {
+        if (s.length % 4) throw new Error('Could not decode string.');
+        return [...Buffer.from(s.replace(/-/g, '+').replace(/_/g, '/'), 'base64')];
+      },
       newBlob: bytes => ({ getDataAsString: () => Buffer.from(bytes).toString('utf8') }),
     },
     ContentService: {
@@ -71,6 +75,8 @@ function loadGas(file = path.join(__dirname, '..', 'gas_sync.js')) {
       return JSON.parse(params.callback ? text.slice(text.indexOf('(') + 1, text.lastIndexOf(')')) : text);
     },
     rows(name) { const s = sheets.get(name); return s ? s.getRange(1, 1, s.getLastRow() || 1, 3).getValues().filter(r => r[0] !== '') : []; },
+    // Sets the script's clock (seconds), to test "changed since"
+    setNow(n) { ctx.nowSec = () => n; },
   };
 }
 

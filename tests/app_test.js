@@ -210,6 +210,21 @@ test('a heart on a duplicate entry the rebuild folded away moves to the entry th
   assert.deepStrictEqual(await a.names(), ['Downs Park']);
 });
 
+test('marks brought over from two old devices are combined, not overwritten', async rig => {
+  // The Android app had Kilgore Falls as been-there and Old Rag saved…
+  const phone = await rig.device({ android: JSON.stringify({ favorites: ['c:oldrag'], visited: ['c:kilgorefalls'], hidden: ['osm:n2'] }) });
+  await rig.until(() => rig.sheet()['c:oldrag'] === 1 && rig.sheet()['c:kilgorefalls'] === 2, 'the phone import');
+  // …the web app had Kilgore Falls saved, Old Rag as been-there, and the Greenway saved
+  const web = await rig.device({ ca_favorites: JSON.stringify(['c:kilgorefalls', 'osm:n2']), ca_visited: JSON.stringify(['c:oldrag']) });
+  await rig.until(() => rig.sheet()['c:kilgorefalls'] === 3 && rig.sheet()['c:oldrag'] === 3, 'both marks on both places');
+  assert.strictEqual(rig.sheet()['osm:n2'], 9, 'saved on one device, hidden on the other: both kept');
+  for (const d of [phone, web]) {
+    await d.open();
+    await d.category('saved');
+    await rig.until(async () => (await d.names()).sort().join() === 'Kilgore Falls,Magothy Greenway,Old Rag Mountain', 'the same saved list on each device');
+  }
+});
+
 test('a place added on another device shows up under My Places', async rig => {
   const place = { id: 'user:secret_cove', name: 'Secret Cove', type: 'water', tags: ['water'], lat: 39.05, lng: -76.45 };
   rig.gas.get({ action: 'put', d: `c~user:secret_cove~500~${b64(JSON.stringify(place))}!s~user:secret_cove~1~500` });

@@ -17,6 +17,11 @@ const KEY = {
 };
 
 const now = () => Math.floor(Date.now() / 1000);
+// Marks carried over from the first version of the app (web or Android) have
+// no real date. They get this stamp: any dated change beats them, and two
+// devices bringing over different old marks for one place are combined
+// rather than one replacing the other.
+const IMPORTED = 1;
 // A change must always be newer than the entry it replaces, even when both
 // happen within the same second or this device's clock runs behind.
 const after = previous => Math.max(now(), (previous || 0) + 1);
@@ -44,7 +49,7 @@ const V1_DEFAULT_TASTE = {
 
 if (state === null) {
   state = {};
-  const t = now();
+  const t = IMPORTED;
   const lists = { ca_favorites: FLAG.SAVED, ca_visited: FLAG.VISITED, ca_bad: FLAG.BAD, ca_hidden: FLAG.HIDDEN };
   for (const [key, bit] of Object.entries(lists)) {
     const v = read(key, []);
@@ -182,12 +187,12 @@ function importFromAndroid() {
   if (!native || localStorage.getItem('cavaleiro_android_imported')) return;
   let old;
   try { old = JSON.parse(native.legacyData()); } catch { return; }
-  const t = now();
+  const t = IMPORTED;
   const lists = { favorites: FLAG.SAVED, visited: FLAG.VISITED, bad: FLAG.BAD, hidden: FLAG.HIDDEN };
   for (const [key, bit] of Object.entries(lists)) {
     for (const id of old[key] || []) {
-      // Anything already known here (pulled from the cloud) is newer and wins
-      if (state[id] && state[id][1] !== t) continue;
+      // Anything with a real date (pulled from the cloud) wins
+      if (state[id] && state[id][1] > IMPORTED) continue;
       state[id] = [(state[id]?.[0] || 0) | bit, t];
       if (!dirty.s.includes(id)) dirty.s.push(id);
     }
@@ -206,7 +211,7 @@ function importFromAndroid() {
   write(KEY.taste, taste);
   write(KEY.custom, custom);
   write(KEY.dirty, dirty);
-  try { localStorage.setItem('cavaleiro_android_imported', String(t)); } catch { /* ignore */ }
+  try { localStorage.setItem('cavaleiro_android_imported', String(now())); } catch { /* ignore */ }
 }
 importFromAndroid();
 
@@ -238,7 +243,12 @@ export function since() { return Number(localStorage.getItem(KEY.since)) || 0; }
 export function mergeRemote(remote) {
   let any = false;
   for (const [id, f, t] of remote.s || []) {
-    if (!state[id] || t > state[id][1]) { state[id] = [f, t]; any = true; }
+    const mine = state[id];
+    if (!mine || t > mine[1]) { state[id] = [f, t]; any = true; }
+    else if (t <= IMPORTED && mine[1] <= IMPORTED && (mine[0] | f) !== mine[0]) {
+      // Old marks from two devices: keep both
+      state[id] = [mine[0] | f, IMPORTED]; any = true;
+    }
   }
   for (const [tag, w, t] of remote.t || []) {
     if (!taste[tag] || t > taste[tag][1]) { taste[tag] = [w, t]; any = true; }

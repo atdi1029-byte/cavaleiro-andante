@@ -322,8 +322,10 @@ async function main() {
   const legacy = JSON.parse(fs.readFileSync(path.join(__dirname, 'legacy', 'old_places.json'), 'utf8'));
   const legacyByOsm = new Map(), legacyNear = spatialIndex(legacy.map(r => ({ id: r[0], name: r[1], lat: r[3], lng: r[4] })));
   for (const r of legacy) if (r[5] && !legacyByOsm.has(r[5])) legacyByOsm.set(r[5], r[0]);
+  // Ids listed in aliases.json point at another entry, so no place may take them
+  const reserved = new Set(Object.keys(JSON.parse(fs.readFileSync(path.join(__dirname, 'legacy', 'aliases.json'), 'utf8'))));
   const used = new Set();
-  const claim = id => { if (!id || used.has(id)) return false; used.add(id); return true; };
+  const claim = id => { if (!id || used.has(id) || reserved.has(id)) return false; used.add(id); return true; };
 
   for (const p of places) if (p.id && !claim(p.id)) p.id = null;   // Alex's seed ids first
   for (const p of places) {
