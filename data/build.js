@@ -299,7 +299,7 @@ async function main() {
 
   // Which big park a spot sits in (only compact parks: a bounding box is a
   // fair stand-in for their outline, which it is not for a 180-mile canal)
-  const hosts = places.filter(p => FAMILY[p.type] === 'land' && p.q >= 55 && p.km >= 0.8 && p.km <= 16 && p.osm);
+  const hosts = places.filter(p => FAMILY[p.type] === 'land' && p.q >= 55 && p.km >= 0.8 && p.km <= 8 && p.osm);
   const boxes = new Map();
   for (const el of elements) if (el.bounds) boxes.set(el.key, el.bounds);
   for (const p of places) {

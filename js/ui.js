@@ -76,7 +76,7 @@ export function cardHtml(p) {
   </div>
   <div class="card-body">
     <h3 class="card-name">${esc(p.name)}</h3>
-    <p class="card-sub"><b>${t.label}</b>${p.in || p.where ? ' · ' + esc(p.in || p.where) : ''}</p>
+    <p class="card-sub"><b>${t.label}</b>${p.where ? ' · ' + esc(p.where) : ''}</p>
     ${p.desc ? `<p class="card-desc">${esc(p.desc)}</p>` : ''}
     <p class="card-foot">${tags}</p>
   </div>
